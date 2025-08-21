@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <title>Тапалка — Telegram WebApp</title>
+  <style>
+    :root{
+      --bg:#0f1217;
+      --card:#171b22;
+      --text:#e6edf3;
+      --muted:#a0aec0;
+      --accent:#6ee7ff;
+      --accent2:#6fff9e;
+      --danger:#ff6e6e;
+    }
+    *{box-sizing:border-box}
+    html,body{height:100%}
+    body{
+      margin:0; padding:16px; background:var(--bg); color:var(--text);
+      font:500 16px/1.4 system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, "Apple Color Emoji","Segoe UI Emoji";
+    }
+    .app{
+      max-width:720px; margin:0 auto; display:flex; flex-direction:column; gap:16px;
+    }
+    .card{
+      background:linear-gradient(180deg, rgba(255,255,255,0.03), transparent 80%), var(--card);
+      border:1px solid rgba(255,255,255,0.06);
+      border-radius:20px; padding:16px;
+      box-shadow:0 10px 30px rgba(0,0,0,.25), inset 0 1px 0 rgba(255,255,255,.03);
+    }
+    .row{display:flex; gap:12px; align-items:center; flex-wrap:wrap}
+    .grow{flex:1}
+    .stat{
+      display:flex; flex-direction:column; padding:10px 12px; border-radius:14px;
+      background:rgba(255,255,255,0.03); border:1px solid rgba(255,255,255,0.06);
+      min-width:120px;
+    }
+    .stat .label{font-size:12px; color:var(--muted)}
+    .stat .value{font-weight:800; font-size:20px; margin-top:2px}
+    .tap-wrap{display:grid; place-items:center; padding:4px 0 8px}
+    .tap-btn{
+      width:260px; height:260px; border-radius:50%;
+      border:none; outline:none; cursor:pointer;
+      color:#0a0f14; font-weight:900; font-size:28px;
+      letter-spacing:0.5px;
+      background:
+        radial-gradient(120px 120px at 30% 30%, rgba(255,255,255,0.55), rgba(255,255,255,0) 60%),
+        conic-gradient(from 0deg, #6ee7ff, #6fff9e, #ffe66e, #ff9e6e, #6ee7ff);
+      box-shadow:
+        0 10px 20px rgba(0,0,0,.35),
+        inset 0 6px 18px rgba(255,255,255,.35),
+        inset 0 -12px 24px rgba(0,0,0,.45);
+      position:relative;
+      transition: transform .06s ease, filter .2s ease;
+      user-select:none; -webkit-user-select:none; touch-action:manipulation;
+    }
+    .tap-btn::after{
+      content:"";
+      position:absolute; inset:10px;
+      border-radius:50%;
+      background: radial-gradient(120px 120px at 70% 30%, rgba(255,255,255,.3), rgba(255,255,255,0) 60%);
+      filter:blur(1px);
+      pointer-events:none;
+    }
+    .tap-btn:active{ transform: scale(0.97); filter:saturate(1.2) }
+    .tap-label{
+      position:absolute; inset:0; display:grid; place-items:center; text-align:center;
+      text-shadow: 0 2px 6px rgba(255,255,255,.35);
+      padding:0 10px;
+    }
+    .chips{display:flex; flex-wrap:wrap; gap:8px}
+    .chip{font-size:12px; color:var(--muted); padding:6px 10px; border-radius:999px; background:rgba(255,255,255,.06); border:1px solid rgba(255,255,255,.08)}
+    .shop{display:flex; flex-direction:column; gap:10px}
+    .item{
+      display:flex; gap:12px; align-items:center; padding:12px; border-radius:14px;
+      background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.06);
+    }
+    .item .icon{font-size:20px}
+    .item .title{font-weight:700}
+    .item .desc{font-size:12px; color:var(--muted)}
+    .item .price{font-weight:800}
+    .btn-buy{
+      margin-left:auto; padding:8px 12px; border-radius:10px; border:none; font-weight:800; cursor:pointer;
+      color:#0a0f14; background:linear-gradient(180deg, #9dffb7, #6fff9e 60%, #41e57b);
+      box-shadow: 0 6px 14px rgba(65,229,123,.35), inset 0 1px 0 rgba(255,255,255,.35);
+    }
+    .btn-buy:disabled{ filter:grayscale(1) brightness(.8); cursor:not-allowed }
+    .footer{display:flex; gap:10px; justify-content:space-between; align-items:center; color:var(--muted); font-size:12px}
+    .link{color:var(--accent); text-decoration:none}
+    .toast{
+      position:fixed; left:50%; bottom:18px; transform:translateX(-50%);
+      background:rgba(0,0,0,.7); color:#fff; padding:10px 14px; border-radius:12px; font-size:14px;
+      opacity:0; pointer-events:none; transition:opacity .2s ease, transform .2s ease;
+    }
+    .toast.show{opacity:1; transform:translateX(-50%) translateY(-4px)}
+    .pulse{
+      position:absolute; inset:-8px; border-radius:50%; border:2px solid rgba(255,255,255,.25);
+      animation:pulse 1.8s infinite ease-out;
+    }
+    @keyframes pulse {
+      0%   { opacity: .9; transform:scale(1) }
+      100% { opacity: 0; transform:scale(1.15) }
+    }
+  </style>
+</head>
+<body>
+  <div class="app">
+    <div class="card row">
+      <div class="stat"><div class="label">Баланс</div><div class="value" id="balance">0</div></div>
+      <div class="stat"><div class="label">За тап</div><div class="value" id="perTap">+1</div></div>
+      <div class="stat"><div class="label">AFK / сек</div><div class="value" id="cps">0</div></div>
+      <div class="grow"></div>
+      <button id="btnSave" class="btn-buy" title="Сохранить в боте">Сохранить</button>
+    </div>
+
+    <div class="card tap-wrap">
+      <button class="tap-btn" id="tapBtn">
+        <div class="pulse"></div>
+        <div class="tap-label"><div>Тапни!</div><div id="tapDelta" style="font-size:14px;opacity:.8;margin-top:6px">+1</div></div>
+      </button>
+      <div class="chips" style="margin-top:14px">
+        <div class="chip" id="owner"></div>
+        <div class="chip">Нет лимитов на клики</div>
+        <div class="chip">Офлайн доход</div>
+        <div class="chip">Магазин улучшений</div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="shop" id="shop"></div>
+    </div>
+
+    <div class="footer">
+      <div>Выйдешь — фарм продолжится офлайн. Данные хранятся локально на устройстве.</div>
+      <a class="link" href="#" id="btnReset">Сбросить</a>
+    </div>
+  </div>
+
+  <div class="toast" id="toast">Сохранено</div>
+
+  <script>
+    // --- Telegram WebApp bootstrap ---
+    const tg = window.Telegram ? window.Telegram.WebApp : null;
+    if (tg){
+      tg.expand();
+      tg.setHeaderColor("#0f1217");
+      tg.setBackgroundColor("#0f1217");
+    }
+
+    // --- Game state ---
+    const defaultState = () => ({
+      userId: (tg && tg.initDataUnsafe && tg.initDataUnsafe.user ? tg.initDataUnsafe.user.id : 0) || 0,
+      balance: 0,
+      perTap: 1,
+      cps: 0,
+      upgrades: {
+        tapPower: 0,
+        autoClick: 0,
+        multiplier: 0,
+        offlineBonus: 0
+      },
+      lastTs: Date.now()
+    });
+
+    const STATE_KEY = "tapper_state_v1";
+    let state = loadState();
+    applyOfflineIncome();
+
+    function loadState(){
+      try{
+        const raw = localStorage.getItem(STATE_KEY);
+        if (!raw) return defaultState();
+        const st = JSON.parse(raw);
+        // if user changed, separate save slots per user
+        const uid = tg && tg.initDataUnsafe && tg.initDataUnsafe.user ? tg.initDataUnsafe.user.id : 0;
+        if (uid && st.userId && st.userId !== uid){
+          return defaultState();
+        }
+        return st;
+      }catch(e){ return defaultState(); }
+    }
+
+    function saveState(){
+      state.lastTs = Date.now();
+      localStorage.setItem(STATE_KEY, JSON.stringify(state));
+      updateUI();
+    }
+
+    function applyOfflineIncome(){
+      const now = Date.now();
+      const dtSec = Math.max(0, (now - (state.lastTs || now)) / 1000);
+      const offlineBoost = 1 + state.upgrades.offlineBonus * 0.15; // +15% за уровень
+      const earned = state.cps * dtSec * offlineBoost;
+      if (earned > 0){
+        state.balance += Math.floor(earned);
+      }
+      state.lastTs = now;
+      saveState();
+    }
+
+    // --- Upgrades ---
+    const shopItems = [
+      {
+        id: "tapPower",
+        icon: "👆",
+        title: "Сила тапа",
+        desc: "Каждый тап даёт больше монет.",
+        base: 25,
+        price: lvl => Math.floor(25 * Math.pow(1.35, lvl)),
+        buy: () => { state.upgrades.tapPower++; state.perTap = 1 + state.upgrades.tapPower * 1; }
+      },
+      {
+        id: "autoClick",
+        icon: "🤖",
+        title: "Автокликер",
+        desc: "Пассивный доход в секунду.",
+        base: 100,
+        price: lvl => Math.floor(100 * Math.pow(1.4, lvl)),
+        buy: () => { state.upgrades.autoClick++; state.cps = baseCps(); }
+      },
+      {
+        id: "multiplier",
+        icon: "✨",
+        title: "Множитель",
+        desc: "Умножает доход от тапа.",
+        base: 250,
+        price: lvl => Math.floor(250 * Math.pow(1.55, lvl)),
+        buy: () => { state.upgrades.multiplier++; }
+      },
+      {
+        id: "offlineBonus",
+        icon: "🌙",
+        title: "Офлайн-фарм",
+        desc: "Повышает доход в офлайне.",
+        base: 300,
+        price: lvl => Math.floor(300 * Math.pow(1.5, lvl)),
+        buy: () => { state.upgrades.offlineBonus++; }
+      }
+    ];
+
+    function baseCps(){
+      // каждый уровень автокликера +1 cps, множитель влияет и на cps слегка
+      const m = 1 + state.upgrades.multiplier * 0.10;
+      return Math.floor(state.upgrades.autoClick * m);
+    }
+
+    function perTapWithMult(){
+      const m = 1 + state.upgrades.multiplier * 0.15;
+      return Math.max(1, Math.floor(state.perTap * m));
+    }
+
+    // --- UI ---
+    const elBalance = document.getElementById("balance");
+    const elPerTap  = document.getElementById("perTap");
+    const elCps     = document.getElementById("cps");
+    const elTapBtn  = document.getElementById("tapBtn");
+    const elTapDelta= document.getElementById("tapDelta");
+    const elShop    = document.getElementById("shop");
+    const elOwner   = document.getElementById("owner");
+    const elToast   = document.getElementById("toast");
+    const elSaveBtn = document.getElementById("btnSave");
+    const elReset   = document.getElementById("btnReset");
+
+    function updateUI(){
+      elBalance.textContent = format(state.balance);
+      elPerTap.textContent  = "+" + format(perTapWithMult());
+      elCps.textContent     = format(state.cps);
+      elTapDelta.textContent= "+" + format(perTapWithMult());
+      renderShop();
+      if (tg && tg.initDataUnsafe && tg.initDataUnsafe.user){
+        const u = tg.initDataUnsafe.user;
+        elOwner.textContent = `Игрок: ${u.first_name || ""} ${u.last_name || ""}`.trim();
+      }else{
+        elOwner.textContent = "Локальный игрок";
+      }
+    }
+
+    function renderShop(){
+      elShop.innerHTML = "";
+      shopItems.forEach(item => {
+        const lvl = state.upgrades[item.id] || 0;
+        const cost = item.price(lvl);
+        const can = state.balance >= cost;
+        const div = document.createElement("div");
+        div.className = "item";
+        div.innerHTML = `
+          <div class="icon">${item.icon}</div>
+          <div class="grow">
+            <div class="title">${item.title} <span style="color:var(--muted);font-weight:600">ур. ${lvl}</span></div>
+            <div class="desc">${item.desc}</div>
+          </div>
+          <div class="price" style="margin-right:8px">${format(cost)}</div>
+        `;
+        const btn = document.createElement("button");
+        btn.className = "btn-buy";
+        btn.textContent = "Купить";
+        btn.disabled = !can;
+        btn.onclick = () => {
+          if (state.balance >= cost){
+            state.balance -= cost;
+            item.buy();
+            state.cps = baseCps();
+            saveState();
+            toast(`Куплено: ${item.title} (ур. ${state.upgrades[item.id]})`);
+          }
+        };
+        div.appendChild(btn);
+        elShop.appendChild(div);
+      });
+    }
+
+    elTapBtn.addEventListener("click", () => {
+      const gain = perTapWithMult();
+      state.balance += gain;
+      // маленький всплеск анимации
+      elTapBtn.style.transform = "scale(0.97)";
+      setTimeout(()=> elTapBtn.style.transform = "", 60);
+      saveState();
+    });
+
+    // AFK loop
+    setInterval(() => {
+      if (state.cps > 0){
+        state.balance += state.cps;
+        saveState();
+      }
+    }, 1000);
+
+    function format(n){
+      if (n < 1000) return ""+n;
+      const units = ["","K","M","B","T","Q"];
+      let u = 0, num = n;
+      while (num >= 1000 && u < units.length-1){ num/=1000; u++; }
+      return num.toFixed(num<10?2:1) + units[u];
+    }
+
+    function toast(text){
+      elToast.textContent = text;
+      elToast.classList.add("show");
+      setTimeout(()=> elToast.classList.remove("show"), 1500);
+    }
+
+    elSaveBtn.addEventListener("click", () => {
+      try{
+        if (tg){
+          tg.sendData(JSON.stringify({type:"sync", state}));
+          toast("Отправлено боту");
+        }else{
+          toast("Нет Telegram WebApp контекста");
+        }
+      }catch(e){
+        toast("Ошибка отправки");
+      }
+    });
+
+    elReset.addEventListener("click", (e) => {
+      e.preventDefault();
+      if (confirm("Сбросить прогресс?")){
+        state = defaultState();
+        saveState();
+        toast("Сброшено");
+      }
+    });
+
+    updateUI();
+  </script>
+</body>
+</html>
