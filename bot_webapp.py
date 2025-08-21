@@ -26,7 +26,7 @@ TOKEN = "8380517379:AAF1pCJKN2uz2YL86yw_wKcFHGy_oFmvOjQ"
 # TOKEN = os.getenv("BOT_TOKEN", "").strip() or "ВАШ_ТОКЕН_ОТ_BotFather"
 
 # URL страницы index.html (должен быть HTTPS!)
-WEBAPP_URL = "https://voluble-rugelach-c8f17e.netlify.app"
+WEBAPP_URL = "https://sait-ama.github.io/eternal/"
 # или через переменную окружения:
 # WEBAPP_URL = os.getenv("WEBAPP_URL", "https://your-host.example.com/index.html").strip()
 
