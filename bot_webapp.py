@@ -1,17 +1,11 @@
 # bot_webapp.py
-# Пример интеграции Telegram WebApp для «тапалки» без лимитов кликов и с AFK.
-# Требования: python-telegram-bot >= 20
-# Установить: pip install python-telegram-bot==20.7
-#
-# 1) Залейте index.html на любой хостинг с HTTPS (например, GitHub Pages, Vercel, Netlify).
-# 2) Укажите URL в WEBAPP_URL ниже.
-# 3) Запустите бота. Команда /tap пришлёт кнопку «Открыть игру» (WebApp).
-# 4) Веб-страница хранит прогресс локально. Кнопка «Сохранить» шлёт state боту (опционально).
-# 5) Вы можете сохранять state на сервере/в файле и строить топы.
+# Пример интеграции Telegram WebApp для игры «тапалка»
 
 import json
 import logging
 import os
+import re
+import sys
 from datetime import datetime
 from pathlib import Path
 
@@ -24,11 +18,24 @@ from telegram.ext import (
     Application, CommandHandler, MessageHandler, ContextTypes, filters,
 )
 
-TOKEN = os.getenv("BOT_TOKEN", "PASTE_YOUR_TOKEN_HERE")
-WEBAPP_URL = os.getenv("WEBAPP_URL", "https://your-host.example.com/index.html")
+# ───────── НАСТРОЙКИ ─────────
+# Вариант 1: впиши токен прямо сюда (только твой реальный токен от @BotFather!)
+TOKEN = "8380517379:AAF1pCJKN2uz2YL86yw_wKcFHGy_oFmvOjQ"
 
-# Файл для опционального сервера сохранений
+# Вариант 2: через переменную окружения (безопаснее):
+# TOKEN = os.getenv("BOT_TOKEN", "").strip() or "ВАШ_ТОКЕН_ОТ_BotFather"
+
+# URL страницы index.html (должен быть HTTPS!)
+WEBAPP_URL = "https://voluble-rugelach-c8f17e.netlify.app"
+# или через переменную окружения:
+# WEBAPP_URL = os.getenv("WEBAPP_URL", "https://your-host.example.com/index.html").strip()
+
 SAVE_FILE = Path("tap_saves.json")
+
+# ───────── ПРОВЕРКА ТОКЕНА ─────────
+if not re.fullmatch(r"\d{6,}:[A-Za-z0-9_-]{30,}", TOKEN):
+    print("❌ Некорректный TOKEN. Укажи настоящий токен от @BotFather.")
+    sys.exit(1)
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 log = logging.getLogger("tapper")
@@ -47,34 +54,30 @@ def save_saves(data):
     except Exception as e:
         log.warning("Save failed: %s", e)
 
-@CommandHandler("start")
+# --- команды ---
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
-        "Привет! Это бот с WebApp-игрой «Тапалка». Используй /tap чтобы открыть игру в полноэкранном режиме внутри Telegram."
+        "Привет! Это бот с WebApp-игрой «Тапалка». Используй /tap чтобы открыть игру."
     )
 
-@CommandHandler("tap")
 async def tap(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    # 1) Вариант с инлайн-кнопкой
+    if not WEBAPP_URL.startswith("https://"):
+        await update.message.reply_text("⚠ WEBAPP_URL должен быть HTTPS. Сейчас: " + WEBAPP_URL)
     kb_inline = InlineKeyboardMarkup([
         [InlineKeyboardButton(text="🚀 Открыть игру", web_app=WebAppInfo(url=WEBAPP_URL))]
     ])
     await update.message.reply_text("Открой игру:", reply_markup=kb_inline)
 
-    # 2) Вариант с реплай-клавиатурой (на выбор)
     kb = ReplyKeyboardMarkup(
         [[KeyboardButton(text="🎮 Запустить игру", web_app=WebAppInfo(url=WEBAPP_URL))]],
         resize_keyboard=True
     )
     await update.message.reply_text("Или через меню:", reply_markup=kb)
 
-# Обработка данных, которые WebApp отправляет через tg.sendData(JSON.stringify(...))
-# В PTB v20 это обычное текстовое сообщение с полем web_app_data в API.
-@MessageHandler(filters.ALL)
+# --- приём данных от WebApp ---
 async def any_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     msg = update.effective_message
-    if msg and msg.web_app_data and msg.web_app_data.data:
-        # это данные от WebApp
+    if msg and getattr(msg, "web_app_data", None) and msg.web_app_data.data:
         raw = msg.web_app_data.data
         try:
             data = json.loads(raw)
@@ -93,21 +96,18 @@ async def any_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 "username": msg.from_user.username,
             }
             save_saves(saves)
-            await msg.reply_text("Состояние сохранено на сервере бота ✅")
+            await msg.reply_text("Состояние сохранено на сервере ✅")
             return
 
         await msg.reply_text("WebApp: данные получены.")
         return
 
-    # Прочее ваше поведение
-    # Можно оставить пустым или добавить ответы по умолчанию
-    # log.info("Non-webapp message: %s", msg.text if msg else None)
-
 def main():
     app = Application.builder().token(TOKEN).build()
-    app.add_handler(start)
-    app.add_handler(tap)
-    app.add_handler(any_message)
+    app.add_handler(CommandHandler("start", start))
+    app.add_handler(CommandHandler("tap", tap))
+    app.add_handler(MessageHandler(filters.ALL, any_message))
+
     log.info("Bot is running. /tap to open WebApp.")
     app.run_polling()
 
