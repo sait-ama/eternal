@@ -1,5 +1,5 @@
-# bot_webapp.py — WebApp-игра «тапалка» + регистрация ReManga
-# и чтение данных из нескольких JSON-файлов (history_ew.json, history_ed.json)
+# bot_webapp.py — WebApp «тапалка» + привязка ReManga (поиск в 2+ JSON)
+# Требования: python-telegram-bot==21.*
 
 import json
 import logging
@@ -8,27 +8,33 @@ import re
 import sys
 from datetime import datetime
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Optional
 
-from telegram import Update, KeyboardButton, ReplyKeyboardMarkup, WebAppInfo
-from telegram.ext import Application, CommandHandler, MessageHandler, ContextTypes, filters
+from telegram import (
+    Update,
+    WebAppInfo,
+    KeyboardButton,
+    ReplyKeyboardMarkup,
+    InlineKeyboardMarkup,
+    InlineKeyboardButton,
+    MenuButtonWebApp,
+)
+from telegram.ext import (
+    Application,
+    CommandHandler,
+    MessageHandler,
+    ContextTypes,
+    filters,
+)
 
 # ── НАСТРОЙКИ ───────────────────────────────────────────────────────────────
-# Токен: положи в переменную окружения BOT_TOKEN
 TOKEN = os.getenv("8380517379:AAF1pCJKN2uz2YL86yw_wKcFHGy_oFmvOjQ", "8380517379:AAF1pCJKN2uz2YL86yw_wKcFHGy_oFmvOjQ").strip()
+WEBAPP_URL = os.getenv("https://sait-ama.github.io/eternal/", "https://sait-ama.github.io/eternal/").strip() or "https://example.com/index.html"
 
-# URL твоего WebApp (HTTPS)
-WEBAPP_URL = os.getenv("https://sait-ama.github.io/eternal/", "https://sait-ama.github.io/eternal/").strip()
-
-# Список файлов с данными Remanga — через запятую.
-# По умолчанию ищем в двух файлах рядом со скриптом.
 REMANGA_DATA_FILES_ENV = os.getenv("REMANGA_DATA_FILES", "history_ew.json,history_ed.json")
 REMANGA_DATA_FILES: List[Path] = [Path(x.strip()) for x in REMANGA_DATA_FILES_ENV.split(",") if x.strip()]
 
-# Файл привязок user_id -> profile URL
 LINKS_FILE = Path("user_links.json")
-
-# Бэкап-сохранения игры на стороне бота (на случай)
 SAVE_FILE = Path("tap_saves.json")
 
 # ── ПРОВЕРКИ ────────────────────────────────────────────────────────────────
@@ -37,13 +43,12 @@ if not re.fullmatch(r"\d{6,}:[A-Za-z0-9_-]{30,}", TOKEN or ""):
     sys.exit(1)
 
 if not WEBAPP_URL.startswith("https://"):
-    print("⚠ WEBAPP_URL должен быть HTTPS. Сейчас:", WEBAPP_URL)
+    print(f"⚠ WEBAPP_URL должен быть HTTPS. Сейчас: {WEBAPP_URL}")
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 log = logging.getLogger("tapper")
 
 # ── УТИЛИТЫ JSON ───────────────────────────────────────────────────────────
-
 def read_json(path: Path, default: Any) -> Any:
     if path.exists():
         try:
@@ -58,12 +63,10 @@ def write_json(path: Path, data: Any) -> None:
     except Exception as e:
         log.warning("JSON write failed for %s: %s", path, e)
 
-# ── НОРМАЛИЗАЦИЯ ССЫЛОК REMANGA ────────────────────────────────────────────
-
+# ── НОРМАЛИЗАЦИЯ ССЫЛКИ REMANGA ────────────────────────────────────────────
 def normalize_profile_url(url: str) -> Optional[str]:
     """
-    Приводим к каноническому виду:
-    https://remanga.org/user/<digits>/about
+    Приводим к канону: https://remanga.org/user/<digits>/about
     """
     if not isinstance(url, str):
         return None
@@ -74,30 +77,22 @@ def normalize_profile_url(url: str) -> Optional[str]:
     user_id = m.group(1)
     return f"https://remanga.org/user/{user_id}/about"
 
-# ── ЗАГРУЗКА ДАННЫХ ИЗ НЕСКОЛЬКИХ ФАЙЛОВ ──────────────────────────────────
-
+# ── ЗАГРУЗКА И ПОИСК В НЕСКОЛЬКИХ ФАЙЛАХ ──────────────────────────────────
 def load_all_remanga_records() -> List[Dict[str, Any]]:
-    """
-    Склеивает списки из всех файлов REMANGA_DATA_FILES.
-    Сохраняем имя источника в поле _source_file для отладки.
-    """
-    records: List[Dict[str, Any]] = []
+    out: List[Dict[str, Any]] = []
     for p in REMANGA_DATA_FILES:
         data = read_json(p, default=[])
         if isinstance(data, list):
             for row in data:
                 if isinstance(row, dict):
-                    row = dict(row)
-                    row["_source_file"] = str(p)
-                    records.append(row)
+                    r = dict(row)
+                    r["_source_file"] = str(p)
+                    out.append(r)
         else:
-            log.warning("Ожидался список в %s, но получили %s", p, type(data).__name__)
-    return records
+            log.warning("Ожидался список в %s, получили %s", p, type(data).__name__)
+    return out
 
 def find_profile_in_all(profile_url: str) -> Optional[Dict[str, Any]]:
-    """
-    Ищем первую подходящую запись по полю profile в любой из файлов.
-    """
     norm = normalize_profile_url(profile_url)
     if not norm:
         return None
@@ -107,45 +102,52 @@ def find_profile_in_all(profile_url: str) -> Optional[Dict[str, Any]]:
             return row
     return None
 
-# ── ПРИВЯЗКИ ПОЛЬЗОВАТЕЛЕЙ ────────────────────────────────────────────────
-
+# ── ПРИВЯЗКИ user_id -> profile ───────────────────────────────────────────
 def load_links() -> Dict[str, str]:
     return read_json(LINKS_FILE, default={})
 
 def save_links(links: Dict[str, str]) -> None:
     write_json(LINKS_FILE, links)
 
-# ── WEBAPP-ИГРА ────────────────────────────────────────────────────────────
-
-async def send_webapp_keyboard(update: Update, context: ContextTypes.DEFAULT_TYPE, first: bool = True):
-    kb = ReplyKeyboardMarkup(
-        [[KeyboardButton(text="🎮 Запустить игру (WebApp)", web_app=WebAppInfo(url=WEBAPP_URL))]],
-        resize_keyboard=True,
-        one_time_keyboard=False,
+# ── ОТПРАВКА КНОПОК WEBAPP ────────────────────────────────────────────────
+async def send_inline_play(update: Update):
+    kb_inline = InlineKeyboardMarkup([
+        [InlineKeyboardButton(text="🚀 Играть", web_app=WebAppInfo(url=WEBAPP_URL))]
+    ])
+    await update.message.reply_text(
+        "Нажми «Играть», чтобы открыть мини-приложение:",
+        reply_markup=kb_inline,
     )
-    txt = (
-        "Привет! Нажми кнопку ниже, чтобы открыть игру с Telegram-контекстом.\n\n"
-        "Важно: запускать именно через ЭТУ кнопку (или Menu Button), иначе сохранения в облако не прилетят."
+
+# (опционально) альтернативная реплай-клавиатура — если пригодится:
+async def send_reply_keyboard(update: Update):
+    kb_reply = ReplyKeyboardMarkup(
+        [[KeyboardButton(text="🎮 Запустить игру", web_app=WebAppInfo(url=WEBAPP_URL))]],
+        resize_keyboard=True
     )
-    await update.message.reply_text(txt if first else "Открой игру ниже ⤵️", reply_markup=kb)
+    await update.message.reply_text("Можно и через меню ниже ⤵️", reply_markup=kb_reply)
 
-async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await send_webapp_keyboard(update, context, first=True)
+# ── ХЭНДЛЕРЫ WEBAPP /start /tap ───────────────────────────────────────────
+async def start_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    await send_inline_play(update)  # только по /start показываем кнопку
+    # если хочешь — раскомментируй вторую кнопку-меню
+    # await send_reply_keyboard(update)
 
-async def tap(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await send_webapp_keyboard(update, context, first=False)
+async def tap_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    await send_inline_play(update)
 
+# Приём tg.sendData из WebApp
 async def on_webapp_data(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    wad = update.message.web_app_data
+    wad = update.message.web_app_data if update.message else None
     raw = wad.data if wad else ""
     uid = update.effective_user.id if update.effective_user else "?"
     log.info("WEB_APP_DATA from %s: %s", uid, raw)
 
-    # Пытаемся распарсить синхронизацию состояния из WebApp
     try:
         data = json.loads(raw)
     except Exception:
-        await update.message.reply_text("Получены данные WebApp, но парсинг не удался.")
+        if update.message:
+            await update.message.reply_text("Получены данные WebApp, но парсинг не удался.")
         return
 
     if isinstance(data, dict) and data.get("type") == "sync":
@@ -158,18 +160,18 @@ async def on_webapp_data(update: Update, context: ContextTypes.DEFAULT_TYPE):
             "username": update.effective_user.username if update.effective_user else "",
         }
         write_json(SAVE_FILE, saves)
-        await update.message.reply_text("Состояние сохранено на сервере ✅")
+        if update.message:
+            await update.message.reply_text("Состояние сохранено на сервере ✅")
         return
 
-    await update.message.reply_text("WebApp: данные получены.")
+    if update.message:
+        await update.message.reply_text("WebApp: данные получены.")
 
-# ── КОМАНДЫ РЕГИСТРАЦИИ REMANGA ────────────────────────────────────────────
-
+# ── РЕГИСТРАЦИЯ / REMANGA ─────────────────────────────────────────────────
 HELP_REGISTER = (
     "Регистрация профиля ReManga:\n"
-    "Отправь в ЛС:\n"
     "/register https://remanga.org/user/123456/about\n\n"
-    "Потом команда /remanga покажет твои данные (diff и т.п.) из всех подключённых JSON."
+    "После привязки используй /remanga — бот найдёт запись в подключённых JSON и покажет diff и другие поля."
 )
 
 async def register_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -197,7 +199,6 @@ async def register_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
     links[uid] = norm
     save_links(links)
 
-    # Пробуем сразу найти в файлах
     row = find_profile_in_all(norm)
     if row:
         await reply_remanga_card(msg, row, prefix="✅ Профиль привязан.\n")
@@ -234,15 +235,13 @@ async def remanga_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
     row = find_profile_in_all(url)
     if not row:
         await update.effective_message.reply_text(
-            "В подключённых JSON не найден твой профиль. "
-            "Проверь, что поле profile совпадает с твоей ссылкой."
+            "В подключённых JSON не найден твой профиль. Проверь поле profile."
         )
         return
 
     await reply_remanga_card(update.effective_message, row)
 
 async def where_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    """Показывает, в каком именно файле нашлась запись для текущей привязки."""
     uid = str(update.effective_user.id)
     url = load_links().get(uid)
     if not url:
@@ -278,46 +277,50 @@ async def reply_remanga_card(target_message, row: Dict[str, Any], prefix: str = 
     )
     await target_message.reply_html(text, disable_web_page_preview=True)
 
-# ── ДЛЯ НЕПРИВАТНЫХ ЧАТОВ ──────────────────────────────────────────────────
+# ── НЕПРИВАТНЫЕ ЧАТЫ ───────────────────────────────────────────────────────
 async def not_private(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    msg = (
-        "Эта мини-игра и регистрация доступны только в ЛИЧНОМ чате с ботом.\n"
-        "Открой диалог с ботом и отправь /tap или /register."
-    )
     if update.effective_message:
-        await update.effective_message.reply_text(msg)
+        await update.effective_message.reply_text(
+            "Эта мини-игра и регистрация доступны только в ЛИЧНОМ чате с ботом. "
+            "Открой диалог с ботом и отправь /start."
+        )
+
+# ── POST_INIT: Menu Button WebApp ─────────────────────────────────────────
+async def post_init(app: Application):
+    try:
+        await app.bot.set_chat_menu_button(
+            menu_button=MenuButtonWebApp(text="🎮 Играть", web_app=WebAppInfo(url=WEBAPP_URL))
+        )
+    except Exception as e:
+        log.warning("Не удалось выставить Menu Button: %s", e)
 
 # ── MAIN ───────────────────────────────────────────────────────────────────
 def main():
-    app = Application.builder().token(TOKEN).build()
+    app = Application.builder().token(TOKEN).post_init(post_init).build()
     PRIVATE = filters.ChatType.PRIVATE
 
-    # --- Команды / WebApp ---
-    app.add_handler(CommandHandler("start", start, filters=PRIVATE))
-    app.add_handler(CommandHandler("tap", tap, filters=PRIVATE))
+    # Команды в ЛС
+    app.add_handler(CommandHandler("start", start_cmd, filters=PRIVATE))
+    app.add_handler(CommandHandler("tap", tap_cmd, filters=PRIVATE))
 
-    # Регистрация / привязка
+    # Регистрация / Remanga
     app.add_handler(CommandHandler(["register", "link", "registraciya"], register_cmd, filters=PRIVATE))
-    # (опционально: русские алиасы как текст)
-    app.add_handler(
-        MessageHandler(PRIVATE & filters.Regex(r"^/(?:регистрация|привязка)(?:@\w+)?(?:\s+.*)?$"), register_cmd)
-    )
+    # Русские алиасы как текстовые команды
+    app.add_handler(MessageHandler(PRIVATE & filters.Regex(r"^/(?:регистрация|привязка)(?:@\w+)?(?:\s+.*)?$"), register_cmd))
 
     app.add_handler(CommandHandler("mylink", mylink_cmd, filters=PRIVATE))
     app.add_handler(CommandHandler("unlink", unlink_cmd, filters=PRIVATE))
     app.add_handler(CommandHandler("remanga", remanga_cmd, filters=PRIVATE))
     app.add_handler(CommandHandler("where", where_cmd, filters=PRIVATE))
 
-    # Данные из WebApp (tg.sendData)
+    # Данные из WebApp
     app.add_handler(MessageHandler(filters.StatusUpdate.WEB_APP_DATA & PRIVATE, on_webapp_data))
 
-    # --- ЛОВУШКА ДОЛЖНА БЫТЬ ПОСЛЕДНЕЙ и НЕ ЛОВИТЬ КОМАНДЫ! ---
-    app.add_handler(
-        MessageHandler(PRIVATE & ~filters.StatusUpdate.WEB_APP_DATA & ~filters.COMMAND, tap)
-    )
-
+    # В ЛС — никаких «ловушек всего»: бот молчит, если это не команда.
+    # Во всех НЕ приватных чатах — подсказка перейти в ЛС:
     app.add_handler(MessageHandler(~PRIVATE, not_private))
 
+    log.info("Bot is running. Commands: /start /tap /register /mylink /unlink /remanga /where")
     app.run_polling()
 
 if __name__ == "__main__":
