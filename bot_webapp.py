@@ -15,7 +15,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, ContextTyp
 
 # ── НАСТРОЙКИ ───────────────────────────────────────────────────────────────
 # Токен: положи в переменную окружения BOT_TOKEN
-TOKEN = os.getenv("8380517379:AAF1pCJKN2uz2YL86yw_wKcFHGy_oFmvOjQ", "").strip()
+TOKEN = os.getenv("8380517379:AAF1pCJKN2uz2YL86yw_wKcFHGy_oFmvOjQ", "8380517379:AAF1pCJKN2uz2YL86yw_wKcFHGy_oFmvOjQ").strip()
 
 # URL твоего WebApp (HTTPS)
 WEBAPP_URL = os.getenv("https://sait-ama.github.io/eternal/", "https://sait-ama.github.io/eternal/").strip()
@@ -299,7 +299,7 @@ def main():
     app.add_handler(MessageHandler(PRIVATE & ~filters.StatusUpdate.WEB_APP_DATA, tap))
 
     # Регистрация и чтение Remanga
-    app.add_handler(CommandHandler(["register", "link", "регистрация"], register_cmd, filters=PRIVATE))
+    app.add_handler(CommandHandler(["register", "link", "registraciya"], register_cmd, filters=PRIVATE))
     app.add_handler(CommandHandler("mylink", mylink_cmd, filters=PRIVATE))
     app.add_handler(CommandHandler("unlink", unlink_cmd, filters=PRIVATE))
     app.add_handler(CommandHandler("remanga", remanga_cmd, filters=PRIVATE))
