@@ -34,7 +34,7 @@ from telegram.ext import (
 TOKEN = os.getenv("8380517379:AAF1pCJKN2uz2YL86yw_wKcFHGy_oFmvOjQ", "8380517379:AAF1pCJKN2uz2YL86yw_wKcFHGy_oFmvOjQ").strip()
 WEBAPP_URL = os.getenv("https://sait-ama.github.io/eternal/", "https://sait-ama.github.io/eternal/").strip() or "https://example.com/index.html"
 
-REMANGA_DATA_FILES_ENV = os.getenv("REMANGA_DATA_FILES", "history_ew.json,history_ed.json")
+REMANGA_DATA_FILES_ENV = os.getenv("REMANGA_DATA_FILES", "history_ew.json,history_ed.jsonhistory_e.json,")
 REMANGA_DATA_FILES: List[Path] = [Path(x.strip()) for x in REMANGA_DATA_FILES_ENV.split(",") if x.strip()]
 
 LINKS_FILE = Path("user_links.json")
