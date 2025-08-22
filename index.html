@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-  <title>Eternal Tap — Энергия (смена/отвязка профиля)</title>
+  <title>Eternal Tap — Энергия</title>
   <script src="https://telegram.org/js/telegram-web-app.js"></script>
   <style>
     :root{
@@ -14,41 +14,88 @@
     }
     *{box-sizing:border-box}
     html,body{height:100%}
-    body{ margin:0; background:radial-gradient(1200px 800px at 40% -100px, rgba(102,153,255,.08), transparent 60%), var(--bg);
-      color:var(--text); font:500 16px/1.45 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Arial; }
+    body{
+      margin:0; background:radial-gradient(1200px 800px at 40% -100px, rgba(102,153,255,.08), transparent 60%), var(--bg);
+      color:var(--text); font:500 16px/1.45 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Arial;
+      -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+    }
     a{color:inherit}
     .wrap{max-width:980px; margin:0 auto; padding:18px; display:flex; flex-direction:column; gap:14px}
     .top{display:flex; gap:14px; align-items:stretch; flex-wrap:wrap}
-    .kpi{ min-width:160px; flex:1; background:linear-gradient(180deg, rgba(255,255,255,.03), transparent 80%), var(--card);
-      border:1px solid var(--stroke); border-radius:16px; padding:12px 14px; box-shadow:var(--shadow); display:flex; flex-direction:column; justify-content:center; gap:6px;}
+    .kpi{
+      min-width:160px; flex:1; background:linear-gradient(180deg, rgba(255,255,255,.03), transparent 80%), var(--card);
+      border:1px solid var(--stroke); border-radius:16px; padding:12px 14px; box-shadow:var(--shadow);
+      display:flex; flex-direction:column; justify-content:center; gap:6px;
+    }
     .kpi .label{font-size:12px; color:var(--muted)}
     .kpi .value{font-weight:900; font-size:22px}
-    .btn{ padding:0 16px; min-height:52px; border-radius:14px; border:none; font-weight:900; font-size:16px; cursor:pointer;
+    .btn{
+      padding:0 16px; min-height:52px; border-radius:14px; border:none; font-weight:900; font-size:16px; cursor:pointer;
       color:#06120b; background:linear-gradient(180deg, var(--green), var(--green-2) 60%, #26c068);
-      box-shadow: 0 12px 30px rgba(111,255,158,.25), inset 0 2px 0 rgba(255,255,255,.45); transition: transform .06s ease, filter .2s ease;}
-    .btn:active{ transform: translateY(1px) scale(.99) } .btn:disabled{ filter:grayscale(.5) brightness(.9); cursor:not-allowed }
+      box-shadow: 0 12px 30px rgba(111,255,158,.25), inset 0 2px 0 rgba(255,255,255,.45);
+      transition: transform .06s ease, filter .2s ease;
+    }
+    .btn:active{ transform: translateY(1px) scale(.99) }
+    .btn:disabled{ filter:grayscale(.5) brightness(.9); cursor:not-allowed }
     .panel{background:linear-gradient(180deg, rgba(255,255,255,.02), transparent 80%), var(--surface);
-      border:1px solid var(--stroke); border-radius:18px; padding:16px; box-shadow:var(--shadow);} .panel-inner{display:grid; place-items:center; padding:6px 4px 12px}
-    .tap{ width:320px; height:320px; border-radius:50%; border:none; cursor:pointer; color:#071013; position:relative; font-weight:900; font-size:40px; letter-spacing:.4px;
-      background: radial-gradient(150px 150px at 30% 25%, rgba(255,255,255,.45), rgba(255,255,255,0) 60%), conic-gradient(from 0deg, #6ee7ff, #6fff9e, #ffe66e, #ff996e, #6ee7ff);
-      box-shadow: 0 24px 36px rgba(0,0,0,.35), inset 0 14px 32px rgba(255,255,255,.35), inset 0 -18px 36px rgba(0,0,0,.50); transition: transform .06s ease; user-select:none; touch-action:manipulation;}
-    .tap:active{ transform: scale(.985) } .tap .sub{ position:absolute; left:0; right:0; bottom:34%; text-align:center; font-size:18px; opacity:.9 }
+      border:1px solid var(--stroke); border-radius:18px; padding:16px; box-shadow:var(--shadow);}
+    .panel-inner{display:grid; place-items:center; padding:6px 4px 12px}
+    .tap{
+      width:320px; height:320px; border-radius:50%; border:none; cursor:pointer;
+      color:#071013; position:relative; font-weight:900; font-size:40px; letter-spacing:.4px;
+      background:
+        radial-gradient(150px 150px at 30% 25%, rgba(255,255,255,.45), rgba(255,255,255,0) 60%),
+        conic-gradient(from 0deg, #6ee7ff, #6fff9e, #ffe66e, #ff996e, #6ee7ff);
+      box-shadow:
+        0 24px 36px rgba(0,0,0,.35),
+        inset 0 14px 32px rgba(255,255,255,.35),
+        inset 0 -18px 36px rgba(0,0,0,.50);
+      transition: transform .06s ease; user-select:none; -webkit-user-select:none; touch-action:manipulation;
+    }
+    .tap:active{ transform: scale(.985) }
+    .tap .sub{ position:absolute; left:0; right:0; bottom:34%; text-align:center; font-size:18px; opacity:.9 }
     .chips{display:flex; gap:10px; flex-wrap:wrap; justify-content:center; padding:12px 4px 4px}
-    .chip{ font-size:12px; color:var(--muted); padding:8px 12px; border-radius:999px; background:#151a23; border:1px solid var(--stroke); box-shadow: inset 0 1px 0 rgba(255,255,255,.04); }
+    .chip{
+      font-size:12px; color:var(--muted); padding:8px 12px; border-radius:999px;
+      background:#151a23; border:1px solid var(--stroke); box-shadow: inset 0 1px 0 rgba(255,255,255,.04);
+    }
     .shop{background:linear-gradient(180deg, rgba(255,255,255,.02), transparent 80%), var(--surface);
-      border:1px solid var(--stroke); border-radius:18px; padding:14px; box-shadow:var(--shadow);} .shop-title{font-weight:900; font-size:18px; margin:6px 4px 10px; color:#dce4ea}
-    .toast{ position:fixed; left:50%; bottom:18px; transform:translateX(-50%); background:rgba(0,0,0,.78); color:#fff; padding:10px 14px; border-radius:12px; font-size:14px;
-      opacity:0; pointer-events:none; transition:opacity .2s ease, transform .2s ease; } .toast.show{opacity:1; transform:translateX(-50%) translateY(-4px)}
+      border:1px solid var(--stroke); border-radius:18px; padding:14px; box-shadow:var(--shadow);}
+    .shop-title{font-weight:900; font-size:18px; margin:6px 4px 10px; color:#dce4ea}
+    .item{display:flex; gap:14px; align-items:center; padding:14px; margin:8px 0;
+      border-radius:16px; background:linear-gradient(180deg, rgba(255,255,255,.03), transparent 80%), var(--card);
+      border:1px solid var(--stroke2); box-shadow: inset 0 1px 0 rgba(255,255,255,.03);
+    }
+    .icon{font-size:22px}
+    .grow{flex:1}
+    .title{font-weight:800}
+    .desc{font-size:12px; color:var(--muted); margin-top:3px}
+    .price{font-weight:900; min-width:92px; text-align:right; color:#d8dee6}
+    .buy{
+      min-width:120px; padding:10px 14px; border-radius:12px; border:none; font-weight:900; cursor:pointer; color:#101419;
+      background:linear-gradient(180deg, #cdd1d6, #b8bdc4 55%, #a3abb4);
+      box-shadow:inset 0 1px 0 rgba(255,255,255,.65), 0 6px 14px rgba(0,0,0,.25);
+    }
+    .buy:disabled{ filter:grayscale(.8) brightness(.9); cursor:not-allowed }
+    .toast{ position:fixed; left:50%; bottom:18px; transform:translateX(-50%);
+      background:rgba(0,0,0,.78); color:#fff; padding:10px 14px; border-radius:12px; font-size:14px;
+      opacity:0; pointer-events:none; transition:opacity .2s ease, transform .2s ease; }
+    .toast.show{opacity:1; transform:translateX(-50%) translateY(-4px)}
+    .float{ position:fixed; left:0; top:0; transform:translate(-50%,-50%); color:#fff; font-weight:900;
+      text-shadow:0 2px 6px rgba(0,0,0,.6); pointer-events:none; opacity:0; transition:transform .6s ease, opacity .6s ease; }
+    .float.show{ opacity:1; transform:translate(-50%,-120%) }
     .row{display:flex; gap:12px; flex-wrap:wrap; align-items:center}
-    input[type="url"], input[type="text"]{ width:100%; background:#0f141c; color:var(--text); border:1px solid var(--stroke); border-radius:12px; padding:10px 12px; outline:none; }
+    input[type="url"], input[type="text"]{
+      width:100%; background:#0f141c; color:var(--text); border:1px solid var(--stroke);
+      border-radius:12px; padding:10px 12px; outline:none;
+    }
     .mini{font-size:12px; color:var(--muted)}
-    .inline-actions{display:flex; gap:8px; flex-wrap:wrap; justify-content:center}
-    .secondary{ background:linear-gradient(180deg, #cdd1d6, #b8bdc4 55%, #a3abb4); color:#0c1116; min-height:40px; padding:0 12px; border-radius:12px; border:none; font-weight:800; cursor:pointer;}
     @media (max-width:560px){ .tap{ width:260px; height:260px; font-size:34px } }
   </style>
 </head>
 <body>
   <div class="wrap">
+    <!-- Top bar -->
     <div class="top">
       <div class="kpi"><div class="label">Баланс</div><div class="value" id="balance">0</div></div>
       <div class="kpi"><div class="label">За тап</div><div class="value" id="perTap">+1</div></div>
@@ -57,6 +104,7 @@
       <button class="btn" id="btnSync">⚡ Синхр. энергию</button>
     </div>
 
+    <!-- Big circle -->
     <div class="panel">
       <div class="panel-inner">
         <button class="tap" id="tapBtn">Тапни!<div class="sub" id="tapDelta">+1</div></button>
@@ -66,13 +114,10 @@
           <div class="chip" id="profileChip">Профиль: не привязан</div>
           <div class="chip"><a href="#shop" style="text-decoration:none;color:inherit">Магазин улучшений</a></div>
         </div>
-        <div class="inline-actions">
-          <button class="secondary" id="btnChangeProfile">✏️ Сменить профиль</button>
-          <button class="secondary" id="btnUnlink">🗑 Отвязать</button>
-        </div>
       </div>
     </div>
 
+    <!-- Profile input (shown when missing) -->
     <div class="panel" id="profilePanel" style="display:none">
       <div class="row">
         <div style="flex:1">
@@ -81,9 +126,10 @@
         </div>
         <button class="btn" id="btnSaveProfile">Привязать</button>
       </div>
-      <div class="mini">Можно открыть игру по кнопке «Играть с привязкой» из бота — профиль подставится сам.</div>
+      <div class="mini">Если делал /register в боте и нажмёшь «Играть с привязкой», профиль подставится сам.</div>
     </div>
 
+    <!-- Shop -->
     <div class="shop" id="shop">
       <div class="shop-title">Улучшения (покупаются за ⚡ Энергию)</div>
       <div id="shopList"></div>
@@ -93,12 +139,19 @@
   <div class="toast" id="toast">Сохранено</div>
 
 <script>
-const ENERGY_SOURCES = ["./history_ew.json","./history_ed.json"];
+// ====== КОНФИГ ======
+const ENERGY_SOURCES = [
+  "./history_ew.json",
+  "./history_ew.json",
+  "./history_e.json",
+];
+
 const tg = window.Telegram?.WebApp; tg?.ready(); tg?.expand();
 const cloud = tg?.CloudStorage;
 const CLOUD_KEY = "tapper_state_energy_v1";
 const STATE_KEY = "tapper_state_energy_v1";
 
+// Состояние
 const def = () => ({
   userId: tg?.initDataUnsafe?.user?.id || 0,
   balance: 0,
@@ -111,6 +164,7 @@ const def = () => ({
 });
 let S = def();
 
+// Элементы
 const $ = s=>document.querySelector(s);
 const elBal=$("#balance"), elPerTap=$("#perTap"), elEnergy=$("#energy");
 const elTap=$("#tapBtn"), elDelta=$("#tapDelta"), elToast=$("#toast");
@@ -118,12 +172,15 @@ const elSave=$("#btnSave"), elSync=$("#btnSync");
 const elUser=$("#userChip"), elUname=$("#unameChip"), elProfChip=$("#profileChip");
 const elProfPanel=$("#profilePanel"), elProfInput=$("#profileInput"), elProfSave=$("#btnSaveProfile");
 const elShop=$("#shopList");
-const elChange=$("#btnChangeProfile"), elUnlink=$("#btnUnlink");
 
+// Формат
 const fmt = n => (n<1000? n.toString() : (n<1e6? (n/1e3).toFixed(1)+'K' : (n/1e6).toFixed(2)+'M'));
+
+// Параметры
 const perTap = () => Math.max(1, Math.floor((S.baseTap + S.upgrades.tapPower) * (1 + 0.15*S.upgrades.mult)));
 const cps = () => Math.floor((S.upgrades.autoClick) * (1 + 0.10*S.upgrades.mult));
 
+// ====== ЭНЕРГИЯ из diff ======
 function normalizeProfile(url){
   try{
     const m = String(url||"").trim().match(/^https?:\/\/(?:www\.)?remanga\.org\/user\/(\d+)\/(?:about\/?)?$/i);
@@ -131,6 +188,14 @@ function normalizeProfile(url){
     return `https://remanga.org/user/${m[1]}/about`;
   }catch(e){return null;}
 }
+
+// подхватываем ?profile=... из URL
+try {
+  const u = new URL(location.href);
+  const p = u.searchParams.get("profile");
+  const n = normalizeProfile(p);
+  if (n) S.profile = n;
+} catch(e){}
 
 // Фетч с таймаутом
 async function fetchJson(url, timeoutMs=8000){
@@ -152,10 +217,15 @@ async function syncEnergy(){
   }
   elSync.disabled = true;
   try{
+    // Скачиваем все источники
     let all = [];
     for (const src of ENERGY_SOURCES){
-      try{ const part = await fetchJson(src); if (Array.isArray(part)) all = all.concat(part); }catch(e){}
+      try{
+        const part = await fetchJson(src);
+        if (Array.isArray(part)) all = all.concat(part);
+      }catch(e){ /* пропускаем */ }
     }
+    // Ищем запись по profile
     const norm = normalizeProfile(S.profile);
     let found = null;
     for (const row of all){
@@ -163,17 +233,25 @@ async function syncEnergy(){
       if (pr && pr === norm){ found = row; break; }
     }
     if (!found){ toast("Профиль не найден в данных"); return; }
+
     const diff = Number(found.diff||0) || 0;
     const total = Math.floor(diff / 300);
     const delta = Math.max(0, total - (S.claimedEnergy||0));
     if (delta>0){
-      S.energy += delta; S.claimedEnergy += delta;
+      S.energy += delta;
+      S.claimedEnergy += delta;
       toast(`Начислено ⚡${delta} (из diff ${diff})`);
-      persistSoon(); updateUI();
-    } else { toast(`Нет новой энергии (diff ${diff})`); }
-  } finally { elSync.disabled = false; }
+      persistSoon();
+      updateUI();
+    } else {
+      toast(`Нет новой энергии (diff ${diff})`);
+    }
+  } finally {
+    elSync.disabled = false;
+  }
 }
 
+// ====== ИГРА ======
 function updateUI(){
   elBal.textContent = fmt(S.balance);
   elPerTap.textContent = "+" + fmt(perTap());
@@ -181,18 +259,29 @@ function updateUI(){
   elDelta.textContent = "+" + fmt(perTap());
 
   const u = tg?.initDataUnsafe?.user;
-  if (u){ elUser.textContent = `${u.first_name||''} ${u.last_name||''}`.trim() || ("user#"+u.id);
-    elUname.textContent = u.username? "@"+u.username : `user#${u.id}`; } else { elUser.textContent = "Локальный игрок"; elUname.textContent = ""; }
+  if (u){
+    elUser.textContent = `${u.first_name||''} ${u.last_name||''}`.trim() || ("user#"+u.id);
+    elUname.textContent = u.username? "@"+u.username : `user#${u.id}`;
+  } else {
+    elUser.textContent = "Локальный игрок";
+    elUname.textContent = "";
+  }
   elProfChip.textContent = S.profile? ("Профиль: " + S.profile) : "Профиль: не привязан";
-  elProfPanel.style.display = "none";
+  elProfPanel.style.display = S.profile? "none" : "";
+
   renderShop();
 }
 
+// Магазин (цены в Энергии)
 const ITEMS = [
-  { id:"tapPower", icon:"👆", title:"Сила тапа", desc:"Каждый тап даёт больше монет.", eprice:l=>1 + l, buy:()=>{ S.upgrades.tapPower++; } },
-  { id:"autoClick", icon:"🤖", title:"Автокликер", desc:"Пассивный доход в секунду.", eprice:l=>2 + l, buy:()=>{ S.upgrades.autoClick++; } },
-  { id:"mult", icon:"✨", title:"Множитель", desc:"Множит доходы от тапа и AFK.", eprice:l=>3 + 2*l, buy:()=>{ S.upgrades.mult++; } },
-  { id:"offline", icon:"🌙", title:"Офлайн-фарм", desc:"Повышает доход в офлайне.", eprice:l=>3 + l, buy:()=>{ S.upgrades.offline++; } },
+  { id:"tapPower", icon:"👆", title:"Сила тапа", desc:"Каждый тап даёт больше монет.",
+    eprice:l=>1 + l, buy:()=>{ S.upgrades.tapPower++; } },
+  { id:"autoClick", icon:"🤖", title:"Автокликер", desc:"Пассивный доход в секунду.",
+    eprice:l=>2 + l, buy:()=>{ S.upgrades.autoClick++; } },
+  { id:"mult", icon:"✨", title:"Множитель", desc:"Множит доходы от тапа и AFK.",
+    eprice:l=>3 + 2*l, buy:()=>{ S.upgrades.mult++; } },
+  { id:"offline", icon:"🌙", title:"Офлайн-фарм", desc:"Повышает доход в офлайне.",
+    eprice:l=>3 + l, buy:()=>{ S.upgrades.offline++; } },
 ];
 
 function renderShop(){
@@ -201,95 +290,103 @@ function renderShop(){
     const lvl = S.upgrades[it.id]||0;
     const cost = it.eprice(lvl);
     const can = S.energy >= cost;
+
     const row = document.createElement("div");
-    row.className = "shop item";
-    row.style.display="flex"; row.style.gap="14px"; row.style.alignItems="center"; row.style.padding="14px"; row.style.margin="8px 0";
-    row.style.borderRadius="16px"; row.style.background="linear-gradient(180deg, rgba(255,255,255,.03), transparent 80%), var(--card)";
-    row.style.border="1px solid var(--stroke2)"; row.style.boxShadow="inset 0 1px 0 rgba(255,255,255,.03)";
-    row.innerHTML = `<div class="icon">${it.icon}</div>
-      <div class="grow"><div class="title" style="font-weight:800">${it.title} <span style="color:var(--muted);font-weight:600">ур. ${lvl}</span></div>
-      <div class="desc" style="font-size:12px;color:var(--muted);margin-top:3px">${it.desc}</div></div>
-      <div class="price" style="font-weight:900;min-width:92px;text-align:right;color:#d8dee6">⚡ ${cost}</div>`;
+    row.className = "item";
+    row.innerHTML = `
+      <div class="icon">${it.icon}</div>
+      <div class="grow">
+        <div class="title">${it.title} <span style="color:var(--muted);font-weight:600">ур. ${lvl}</span></div>
+        <div class="desc">${it.desc}</div>
+      </div>
+      <div class="price">⚡ ${cost}</div>
+    `;
     const btn = document.createElement("button");
-    btn.className = "secondary"; btn.textContent = can ? "Купить" : "Не хватает"; btn.disabled = !can;
+    btn.className = "buy";
+    btn.textContent = can ? "Купить" : "Не хватает";
+    btn.disabled = !can;
     btn.onclick = () => {
       const lvlNow = S.upgrades[it.id]||0;
       const priceNow = it.eprice(lvlNow);
-      if (S.energy >= priceNow){ S.energy -= priceNow; it.buy(); persistSoon(); toast(`Куплено: ${it.title} (ур. ${S.upgrades[it.id]})`); updateUI(); }
+      if (S.energy >= priceNow){
+        S.energy -= priceNow;
+        it.buy();
+        persistSoon();
+        toast(`Куплено: ${it.title} (ур. ${S.upgrades[it.id]})`);
+        updateUI();
+      }
     };
-    row.appendChild(btn); elShop.appendChild(row);
+    row.appendChild(btn);
+    elShop.appendChild(row);
   }
 }
 
+// Всплывающие +N
 function floatText(text, x, y){
   const el = document.createElement("div");
-  el.style.position="fixed"; el.style.left=x+"px"; el.style.top=y+"px"; el.style.transform="translate(-50%,-50%)";
-  el.style.color="#fff"; el.style.fontWeight="900"; el.style.pointerEvents="none"; el.style.textShadow="0 2px 6px rgba(0,0,0,.6)"; el.style.transition="transform .6s ease, opacity .6s ease";
-  el.style.opacity="0"; el.textContent = text; document.body.appendChild(el);
-  requestAnimationFrame(()=>{ el.style.opacity="1"; el.style.transform="translate(-50%,-120%)"; }); setTimeout(()=> el.remove(), 650);
+  el.className = "float"; el.textContent = text;
+  el.style.left = x+"px"; el.style.top = y+"px";
+  document.body.appendChild(el);
+  requestAnimationFrame(()=> el.classList.add("show"));
+  setTimeout(()=> el.remove(), 650);
 }
 
+// Офлайн доход
 function applyOffline(){
   const now = Date.now();
   const dt = Math.max(0, (now - (S.lastTs||now))/1000);
   const earn = Math.floor(cps()*dt* (1 + 0.15*S.upgrades.offline));
-  if (earn>0) S.balance += earn; S.lastTs = now;
+  if (earn>0) S.balance += earn;
+  S.lastTs = now;
 }
 
+// Сохранение
 function saveLocal(){ try{ localStorage.setItem(STATE_KEY, JSON.stringify(S)); }catch(e){} }
 async function cloudSet(key,val){ return new Promise(r=>{ if(!cloud) return r(false); cloud.setItem(key,val, (err)=> r(!err)); }); }
 async function cloudGet(key){ return new Promise(r=>{ if(!cloud) return r(null); cloud.getItem(key, (err,v)=> r(err?null:v||null)); }); }
-async function cloudDel(key){ return new Promise(r=>{ if(!cloud) return r(false); cloud.removeItem(key, (err)=> r(!err)); }); }
-let saveTimer=null; function persistSoon(){ clearTimeout(saveTimer); saveTimer=setTimeout(()=>persist(),400); }
+let saveTimer=null;
+function persistSoon(){ clearTimeout(saveTimer); saveTimer=setTimeout(()=>persist(),400); }
 async function persist(){ S.lastTs=Date.now(); saveLocal(); if (cloud) await cloudSet(CLOUD_KEY, JSON.stringify(S)); }
 function toast(t){ elToast.textContent=t; elToast.classList.add("show"); setTimeout(()=> elToast.classList.remove("show"), 1400); }
 
+// События
 elTap.addEventListener("pointerdown", (ev)=>{
-  const gain = perTap(); S.balance += gain;
-  floatText("+"+gain, ev.clientX||innerWidth/2, ev.clientY||innerHeight/2);
+  const gain = perTap();
+  S.balance += gain;
+  floatText("+"+fmt(gain), ev.clientX||innerWidth/2, ev.clientY||innerHeight/2);
   persistSoon(); updateUI();
 });
 setInterval(()=>{ const inc = cps(); if (inc>0){ S.balance+=inc; persistSoon(); updateUI(); } }, 1000);
 document.getElementById('btnSave').addEventListener('click', async()=>{
-  await persist(); try{ if (tg && typeof tg.sendData==="function"){ tg.sendData(JSON.stringify({type:"sync", state:S})); } }catch(e){}
+  await persist();
+  try{ if (tg && typeof tg.sendData==="function"){ tg.sendData(JSON.stringify({type:"sync", state:S})); } }catch(e){}
   toast("Сохранено");
 });
-elSync.addEventListener('click', syncEnergy);
 
+elSync.addEventListener('click', syncEnergy);
 elProfSave.addEventListener('click', ()=>{
   const n = normalizeProfile(elProfInput.value);
   if (!n){ toast("Некорректная ссылка"); return; }
   S.profile = n; persistSoon(); updateUI(); toast("Профиль привязан");
 });
-elChange.addEventListener('click', ()=>{
-  elProfPanel.style.display = "";
-  elProfInput.value = S.profile || "";
-  elProfInput.focus();
-});
-elUnlink.addEventListener('click', async ()=>{
-  S.profile = ""; // отвязка
-  await cloudDel(CLOUD_KEY); // чистим облако, чтобы не подтянулось заново
-  saveLocal(); // и локально обнулим
-  toast("Профиль отвязан");
-  updateUI();
-});
 
 // Инициализация
 (async ()=>{
-  // 1) Загружаем сохранённое
-  let loaded=null; const raw = await cloudGet(CLOUD_KEY); if (raw){ try{ loaded=JSON.parse(raw);}catch{} }
+  let loaded=null;
+  const raw = await cloudGet(CLOUD_KEY);
+  if (raw){ try{ loaded=JSON.parse(raw);}catch{} }
   if (!loaded){ try{ const r=localStorage.getItem(STATE_KEY); loaded=r?JSON.parse(r):null; }catch{} }
   S = Object.assign(def(), loaded||{});
-
-  // 2) URL-параметр profile ВСЕГДА имеет приоритет
-  try{ const u=new URL(location.href); const p=u.searchParams.get("profile"); const n=normalizeProfile(p);
-    if(n){ S.profile=n; } }catch(e){}
-
-  applyOffline(); saveLocal(); if (cloud) await cloudSet(CLOUD_KEY, JSON.stringify(S));
+  applyOffline();
+  saveLocal(); if (cloud) await cloudSet(CLOUD_KEY, JSON.stringify(S));
+  // Авто-отображение профиля из URL
+  if (!S.profile){
+    try{ const u=new URL(location.href); const p=u.searchParams.get("profile"); const n=normalizeProfile(p); if(n){ S.profile=n; } }catch(e){}
+  }
   updateUI();
 })();
 
-// Имя пользователя
+// Имя пользователя в чипы
 const u = tg?.initDataUnsafe?.user;
 if (u){
   document.getElementById('userChip').textContent = `${u.first_name||''} ${u.last_name||''}`.trim() || ("user#"+u.id);
