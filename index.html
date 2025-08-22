@@ -3,161 +3,323 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-  <title>Тапалка — Cloud Save (v2)</title>
+  <title>Еternal Tap — Mini App</title>
   <script src="https://telegram.org/js/telegram-web-app.js"></script>
   <style>
-    :root{--bg:#0f1217;--card:#171b22;--text:#e6edf3;--muted:#a0aec0;--accent:#6ee7ff;--accent2:#6fff9e}
-    *{box-sizing:border-box} html,body{height:100%}
-    body{margin:0;padding:16px;background:var(--bg);color:var(--text);font:500 16px/1.4 system-ui,-apple-system,Segoe UI,Roboto}
-    .app{max-width:720px;margin:0 auto;display:flex;flex-direction:column;gap:16px}
-    .card{background:linear-gradient(180deg, rgba(255,255,255,.03), transparent 80%), var(--card);border:1px solid rgba(255,255,255,.06);border-radius:20px;padding:16px}
-    .row{display:flex;gap:12px;align-items:center;flex-wrap:wrap}.grow{flex:1}
-    .stat{display:flex;flex-direction:column;padding:10px 12px;border-radius:14px;background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.06);min-width:120px}
-    .label{font-size:12px;color:var(--muted)} .value{font-weight:800;font-size:20px;margin-top:2px}
-    .btn{margin-left:auto;padding:8px 12px;border-radius:10px;border:none;font-weight:800;cursor:pointer;color:#0a0f14;background:linear-gradient(180deg,#9dffb7,#6fff9e 60%,#41e57b);box-shadow:0 6px 14px rgba(65,229,123,.35),inset 0 1px 0 rgba(255,255,255,.35)}
-    .tap-wrap{display:grid;place-items:center;padding:4px 0 8px}
-    .tap{width:260px;height:260px;border-radius:50%;border:none;cursor:pointer;font-weight:900;font-size:28px;color:#0a0f14;background:
-      radial-gradient(120px 120px at 30% 30%, rgba(255,255,255,.55), rgba(255,255,255,0) 60%),
-      conic-gradient(from 0deg, #6ee7ff, #6fff9e, #ffe66e, #ff9e6e, #6ee7ff);
-      box-shadow:0 10px 20px rgba(0,0,0,.35),inset 0 6px 18px rgba(255,255,255,.35),inset 0 -12px 24px rgba(0,0,0,.45);
-      transition:transform .06s ease}
-    .tap:active{transform:scale(.97)}
-    .chips{display:flex;flex-wrap:wrap;gap:8px}.chip{font-size:12px;color:var(--muted);padding:6px 10px;border-radius:999px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.08)}
-    .toast{position:fixed;left:50%;bottom:18px;transform:translateX(-50%);background:rgba(0,0,0,.7);color:#fff;padding:10px 14px;border-radius:12px;font-size:14px;opacity:0;pointer-events:none;transition:opacity .2s ease, transform .2s ease}
-    .toast.show{opacity:1;transform:translateX(-50%) translateY(-4px)}
-    .small{font-size:12px;color:var(--muted)}
+    :root{
+      --bg:#0d1116; --surface:#121720; --card:#151a23; --ghost:#0a0f16;
+      --text:#e6edf3; --muted:#9aa6b2;
+      --stroke:#232a36; --stroke2:#1d2430;
+      --green:#6fff9e; --green-2:#44e784;
+      --grey-btn-top:#c7c9cd; --grey-btn-mid:#b7bac0; --grey-btn-btm:#a0a6ae;
+      --shadow: 0 12px 30px rgba(0,0,0,.35), inset 0 1px 0 rgba(255,255,255,.04);
+    }
+    *{box-sizing:border-box}
+    html,body{height:100%}
+    body{
+      margin:0; background:radial-gradient(1200px 800px at 40% -100px, rgba(102,153,255,.08), transparent 60%), var(--bg);
+      color:var(--text); font:500 16px/1.45 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Arial;
+      -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+    }
+    .wrap{max-width:980px; margin:0 auto; padding:18px; display:flex; flex-direction:column; gap:14px}
+    /* Top Stats */
+    .top{display:flex; gap:14px; align-items:stretch; flex-wrap:wrap}
+    .kpi{
+      min-width:160px; flex:1; background:linear-gradient(180deg, rgba(255,255,255,.03), transparent 80%), var(--card);
+      border:1px solid var(--stroke); border-radius:16px; padding:12px 14px; box-shadow:var(--shadow);
+      display:flex; flex-direction:column; justify-content:center; gap:6px;
+    }
+    .kpi .label{font-size:12px; color:var(--muted)}
+    .kpi .value{font-weight:900; font-size:22px}
+    .save{
+      padding:0 18px; background:radial-gradient(80% 120% at 20% 20%, rgba(255,255,255,.28), transparent 40%),
+                  linear-gradient(180deg, var(--green), var(--green-2) 60%, #26c068);
+      color:#06120b; border:none; border-radius:14px; font-weight:900; font-size:16px; cursor:pointer;
+      box-shadow: 0 12px 30px rgba(111,255,158,.25), inset 0 2px 0 rgba(255,255,255,.45);
+      transition: transform .06s ease, filter .2s ease;
+      min-height:56px;
+    }
+    .save:active{ transform: translateY(1px) scale(.99); filter:saturate(1.05) }
+    .save:disabled{ filter:grayscale(.5) brightness(.9); cursor:not-allowed }
+
+    /* Panel with big circle */
+    .panel{background:linear-gradient(180deg, rgba(255,255,255,.02), transparent 80%), var(--surface);
+      border:1px solid var(--stroke); border-radius:18px; padding:16px; box-shadow:var(--shadow);}
+    .panel-inner{display:grid; place-items:center; padding:6px 4px 12px}
+    .tap{
+      width:340px; height:340px; border-radius:50%; border:none; cursor:pointer;
+      color:#071013; position:relative; font-weight:900; font-size:42px; letter-spacing:.4px;
+      background:
+        radial-gradient(150px 150px at 30% 25%, rgba(255,255,255,.45), rgba(255,255,255,0) 60%),
+        conic-gradient(from 0deg, #6ee7ff, #6fff9e, #ffe66e, #ff996e, #6ee7ff);
+      box-shadow:
+        0 24px 36px rgba(0,0,0,.35),
+        inset 0 14px 32px rgba(255,255,255,.35),
+        inset 0 -18px 36px rgba(0,0,0,.50);
+      transition: transform .06s ease;
+      user-select:none; -webkit-user-select:none; touch-action:manipulation;
+    }
+    .tap:active{ transform: scale(.985) }
+    .tap .sub{ position:absolute; left:0; right:0; bottom:34%; text-align:center; font-size:18px; opacity:.9 }
+    .chips{display:flex; gap:10px; flex-wrap:wrap; justify-content:center; padding:12px 4px 4px}
+    .chip{
+      font-size:12px; color:var(--muted); padding:8px 12px; border-radius:999px;
+      background:#151a23; border:1px solid var(--stroke);
+      box-shadow: inset 0 1px 0 rgba(255,255,255,.04);
+    }
+    /* Shop */
+    .shop{background:linear-gradient(180deg, rgba(255,255,255,.02), transparent 80%), var(--surface);
+      border:1px solid var(--stroke); border-radius:18px; padding:14px; box-shadow:var(--shadow);}
+    .shop-title{font-weight:900; font-size:18px; margin:6px 4px 10px; color:#dce4ea}
+    .item{display:flex; gap:14px; align-items:center; padding:14px; margin:8px 0;
+      border-radius:16px; background:linear-gradient(180deg, rgba(255,255,255,.03), transparent 80%), var(--card);
+      border:1px solid var(--stroke2); box-shadow: inset 0 1px 0 rgba(255,255,255,.03);
+    }
+    .icon{font-size:22px}
+    .grow{flex:1}
+    .title{font-weight:800}
+    .desc{font-size:12px; color:var(--muted); margin-top:3px}
+    .price{font-weight:900; min-width:72px; text-align:right; color:#d8dee6}
+    .buy{
+      min-width:120px; padding:10px 14px; border-radius:12px; border:none; font-weight:900; cursor:pointer; color:#101419;
+      background:linear-gradient(180deg, var(--grey-btn-top), var(--grey-btn-mid) 55%, var(--grey-btn-btm));
+      box-shadow:inset 0 1px 0 rgba(255,255,255,.65), 0 6px 14px rgba(0,0,0,.25);
+    }
+    .buy:disabled{ filter:grayscale(.8) brightness(.9); cursor:not-allowed }
+    /* Toast */
+    .toast{
+      position:fixed; left:50%; bottom:18px; transform:translateX(-50%);
+      background:rgba(0,0,0,.75); color:#fff; padding:10px 14px; border-radius:12px; font-size:14px;
+      opacity:0; pointer-events:none; transition:opacity .2s ease, transform .2s ease;
+    }
+    .toast.show{opacity:1; transform:translateX(-50%) translateY(-4px)}
+    /* Floating +N */
+    .float{
+      position:fixed; left:0; top:0; transform:translate(-50%,-50%);
+      color:#fff; font-weight:900; text-shadow:0 2px 6px rgba(0,0,0,.6);
+      pointer-events:none; opacity:0; transition:transform .6s ease, opacity .6s ease;
+    }
+    .float.show{ opacity:1; transform:translate(-50%,-120%) }
+    @media (max-width:560px){
+      .tap{ width:280px; height:280px; font-size:36px }
+    }
   </style>
 </head>
 <body>
-  <div class="app">
-    <div class="card row">
-      <div class="stat"><div class="label">Баланс</div><div class="value" id="balance">0</div></div>
-      <div class="stat"><div class="label">За тап</div><div class="value" id="perTap">+1</div></div>
-      <div class="stat"><div class="label">Cloud</div><div class="value" id="cloud">—</div></div>
-      <div class="grow"></div>
-      <button id="btnSave" class="btn">Сохранить</button>
+  <div class="wrap">
+    <!-- Top bar -->
+    <div class="top">
+      <div class="kpi"><div class="label">Баланс</div><div class="value" id="balance">0</div></div>
+      <div class="kpi"><div class="label">За тап</div><div class="value" id="perTap">+1</div></div>
+      <div class="kpi"><div class="label">AFK / сек</div><div class="value" id="cps">0</div></div>
+      <button class="save" id="btnSave">Сохранить</button>
     </div>
 
-    <div class="card tap-wrap">
-      <button class="tap" id="tap">Тапни!</button>
-      <div class="chips" style="margin-top:14px">
-        <div class="chip" id="owner">Загружаю…</div>
-        <div class="chip small" id="lastSave">нет сохранений</div>
+    <!-- Big circle -->
+    <div class="panel">
+      <div class="panel-inner">
+        <button class="tap" id="tapBtn">Тапни!<div class="sub" id="tapDelta">+1</div></button>
+        <div class="chips">
+          <div class="chip" id="userChip">Локальный игрок</div>
+          <div class="chip" id="unameChip"></div>
+          <div class="chip">Офлайн доход</div>
+          <div class="chip"><a href="#shop" style="text-decoration:none;color:inherit">Магазин улучшений</a></div>
+        </div>
       </div>
     </div>
 
-    <div class="card small" id="debug"></div>
+    <!-- Shop -->
+    <div class="shop" id="shop">
+      <div class="shop-title">Улучшения</div>
+      <div id="shopList"></div>
+    </div>
   </div>
 
   <div class="toast" id="toast">Сохранено</div>
 
   <script>
-    const tg = window.Telegram && window.Telegram.WebApp ? window.Telegram.WebApp : null;
-    if (tg){ try{ tg.ready(); tg.expand(); }catch(_){} }
-    const cloud = tg && tg.CloudStorage ? tg.CloudStorage : null;
-    const CLOUD_KEY = "tapper_state_v2";
-    const STATE_KEY = "tapper_state_v2";
+    // Telegram context
+    const tg = window.Telegram?.WebApp;
+    if (tg){ try{ tg.ready(); tg.expand(); tg.setBackgroundColor('#0d1116'); tg.setHeaderColor('#0d1116'); }catch(e){} }
 
-    const elBal=document.getElementById('balance'), elPerTap=document.getElementById('perTap'), elTap=document.getElementById('tap');
-    const elSave=document.getElementById('btnSave'), elOwner=document.getElementById('owner'), elCloud=document.getElementById('cloud');
-    const elLast=document.getElementById('lastSave'), elDbg=document.getElementById('debug'), elToast=document.getElementById('toast');
+    // CloudStorage (may be unsupported in some clients)
+    const cloud = tg?.CloudStorage;
+    const CLOUD_KEY = "tapper_state_v3";
+    const STATE_KEY = "tapper_state_v3";
 
-    const defaultState = () => ({
-      userId: (tg && tg.initDataUnsafe && tg.initDataUnsafe.user ? tg.initDataUnsafe.user.id : 0) || 0,
-      balance: 0, perTap: 1, lastTs: Date.now()
+    // State
+    const def = () => ({
+      userId: tg?.initDataUnsafe?.user?.id || 0,
+      balance: 0,
+      upgrades: { tapPower:0, autoClick:0, mult:0, offline:0 },
+      baseTap: 1,
+      lastTs: Date.now()
     });
-    let state = defaultState();
-    let autosaveTimer = null;
+    let S = def();
 
-    function log(o){ try{ elDbg.textContent = JSON.stringify(o,null,2); }catch{ elDbg.textContent = String(o); } }
-    function toast(t){ elToast.textContent=t; elToast.classList.add('show'); setTimeout(()=>elToast.classList.remove('show'),1500); }
-    function fmtTs(t){ const d=new Date(t); return isNaN(d)?'—':d.toLocaleString(); }
+    // Elements
+    const $ = s => document.querySelector(s);
+    const elBal = $("#balance"), elPerTap=$("#perTap"), elCps=$("#cps"),
+          elTap=$("#tapBtn"), elDelta=$("#tapDelta"), elToast=$("#toast"),
+          elSave=$("#btnSave"), elShop=$("#shopList"), elUser=$("#userChip"), elUname=$("#unameChip");
 
-    function saveLocal(){
-      try{ localStorage.setItem(STATE_KEY, JSON.stringify(state)); }catch{}
-    }
-    function loadLocal(){
-      try{ const r=localStorage.getItem(STATE_KEY); return r? JSON.parse(r):null; }catch{ return null; }
-    }
-    function cloudGet(key){
-      return new Promise(res=>{
-        if(!cloud) return res(null);
-        cloud.getItem(key,(err,val)=>{ if(err){log({cloudGetErr:String(err)}); res(null);} else res(val||null); });
-      });
-    }
-    function cloudSet(key,val){
-      return new Promise(res=>{
-        if(!cloud) return res(false);
-        cloud.setItem(key,val,(err)=>{ if(err){log({cloudSetErr:String(err)}); res(false);} else res(true); });
-      });
-    }
+    // Numbers
+    const fmt = n => (n<1000? n.toString() : (n<1e6? (n/1e3).toFixed(1)+'K' : (n/1e6).toFixed(2)+'M'));
 
+    // Derived
+    const perTap = () => Math.max(1, Math.floor((S.baseTap + S.upgrades.tapPower) * (1 + 0.15*S.upgrades.mult)));
+    const cps = () => Math.floor((S.upgrades.autoClick) * (1 + 0.10*S.upgrades.mult));
+    const offlineBoost = () => 1 + 0.15*S.upgrades.offline;
+
+    // UI
     function updateUI(){
-      elBal.textContent = state.balance;
-      elPerTap.textContent = "+" + state.perTap;
-      elOwner.textContent = tg && tg.initDataUnsafe && tg.initDataUnsafe.user
-        ? `user#${tg.initDataUnsafe.user.id} · WebApp v${tg.version} · ${tg.platform}`
-        : "Нет WebApp контекста";
-      elCloud.textContent = cloud ? "✔" : "✖";
-      elLast.textContent = "Последнее сохранение: " + fmtTs(state.lastTs);
+      elBal.textContent = fmt(S.balance);
+      elPerTap.textContent = "+" + fmt(perTap());
+      elCps.textContent = fmt(cps());
+      elDelta.textContent = "+" + fmt(perTap());
+
+      const u = tg?.initDataUnsafe?.user;
+      if (u){
+        elUser.textContent = `${u.first_name||''} ${u.last_name||''}`.trim() || ("user#" + u.id);
+        elUname.textContent = u.username? "@"+u.username : `user#${u.id}`;
+      } else {
+        elUser.textContent = "Локальный игрок";
+        elUname.textContent = "";
+      }
+
+      renderShop();
     }
 
-    async function persistImmediate(){
-      state.lastTs = Date.now();
+    // Shop
+    const ITEMS = [
+      { id:"tapPower", icon:"👆", title:"Сила тапа", desc:"Каждый тап даёт больше монет.",
+        price:l=>Math.floor(25*Math.pow(1.35,l)), buy:()=>{ S.upgrades.tapPower++; } },
+      { id:"autoClick", icon:"🤖", title:"Автокликер", desc:"Пассивный доход в секунду.",
+        price:l=>Math.floor(100*Math.pow(1.40,l)), buy:()=>{ S.upgrades.autoClick++; } },
+      { id:"mult", icon:"✨", title:"Множитель", desc:"Умножает доход от тапа и AFK.",
+        price:l=>Math.floor(250*Math.pow(1.55,l)), buy:()=>{ S.upgrades.mult++; } },
+      { id:"offline", icon:"🌙", title:"Офлайн-фарм", desc:"Повышает доход в офлайне.",
+        price:l=>Math.floor(300*Math.pow(1.50,l)), buy:()=>{ S.upgrades.offline++; } },
+    ];
+
+    function renderShop(){
+      elShop.innerHTML = "";
+      for (const it of ITEMS){
+        const lvl = S.upgrades[it.id]||0;
+        const cost = it.price(lvl);
+        const can = S.balance >= cost;
+
+        const row = document.createElement("div");
+        row.className = "item";
+        row.innerHTML = `
+          <div class="icon">${it.icon}</div>
+          <div class="grow">
+            <div class="title">${it.title} <span style="color:var(--muted);font-weight:600">ур. ${lvl}</span></div>
+            <div class="desc">${it.desc}</div>
+          </div>
+          <div class="price">${fmt(cost)}</div>
+        `;
+        const btn = document.createElement("button");
+        btn.className = "buy";
+        btn.textContent = "Купить";
+        btn.disabled = !can;
+        btn.onclick = () => {
+          const lv = S.upgrades[it.id]||0;
+          const priceNow = it.price(lv);
+          if (S.balance >= priceNow){
+            S.balance -= priceNow;
+            it.buy();
+            saveSoon();
+            toast(`Куплено: ${it.title} (ур. ${S.upgrades[it.id]})`);
+            updateUI();
+          }
+        };
+        row.appendChild(btn);
+        elShop.appendChild(row);
+      }
+    }
+
+    // Float +N
+    function floatText(text, x, y){
+      const el = document.createElement("div");
+      el.className = "float";
+      el.textContent = text;
+      el.style.left = x+"px"; el.style.top = y+"px";
+      document.body.appendChild(el);
+      requestAnimationFrame(()=> el.classList.add("show"));
+      setTimeout(()=> el.remove(), 650);
+    }
+
+    // Offline income
+    function applyOffline(){
+      const now = Date.now();
+      const dt = Math.max(0, (now - (S.lastTs||now))/1000);
+      const earn = Math.floor(cps()*dt*offlineBoost());
+      if (earn>0) S.balance += earn;
+      S.lastTs = now;
+    }
+
+    // Save logic
+    function saveLocal(){ try{ localStorage.setItem(STATE_KEY, JSON.stringify(S)); }catch(e){} }
+    async function cloudSet(key,val){ return new Promise(r=>{ if(!cloud) return r(false); cloud.setItem(key,val, (err)=> r(!err)); }); }
+    async function cloudGet(key){ return new Promise(r=>{ if(!cloud) return r(null); cloud.getItem(key, (err,v)=> r(err?null:v||null)); }); }
+
+    let saveTimer=null;
+    function saveSoon(){
+      clearTimeout(saveTimer);
+      saveTimer = setTimeout(()=> { persist(); }, 400);
+    }
+    async function persist(){
+      S.lastTs = Date.now();
       saveLocal();
-      let cloudOk = false;
-      if (cloud){
-        cloudOk = await cloudSet(CLOUD_KEY, JSON.stringify(state));
-      }
-      updateUI();
-      return cloudOk;
+      if (cloud) await cloudSet(CLOUD_KEY, JSON.stringify(S));
     }
 
-    function scheduleAutosave(){
-      clearTimeout(autosaveTimer);
-      autosaveTimer = setTimeout(()=>{ persistImmediate(); }, 2500);
-    }
-
-    elTap.addEventListener('click', ()=>{
-      state.balance += state.perTap;
+    // Tap
+    elTap.addEventListener("pointerdown", (ev)=>{
+      const gain = perTap();
+      S.balance += gain;
+      floatText("+"+fmt(gain), ev.clientX || innerWidth/2, ev.clientY || innerHeight/2);
+      saveSoon();
       updateUI();
-      scheduleAutosave();
     });
 
-    elSave.addEventListener('click', async ()=>{
-      const cloudOk = await persistImmediate(); // сохраняем СРАЗУ, без задержек
-      // Доп. бэкап боту (если доступен контекст)
-      try{
-        if (tg && typeof tg.sendData === 'function'){
-          tg.sendData(JSON.stringify({type:'sync', state}));
-        }
-      }catch{}
-      toast(cloudOk ? 'Сохранено (Cloud + локально)' : 'Сохранено локально');
+    // AFK tick
+    setInterval(()=>{
+      const inc = cps();
+      if (inc>0){ S.balance += inc; saveSoon(); updateUI(); }
+    }, 1000);
+
+    // Save button: cloud + backup to bot
+    elSave.addEventListener("click", async ()=>{
+      await persist();
+      try{ if (tg && typeof tg.sendData==="function"){ tg.sendData(JSON.stringify({type:"sync", state:S})); } }catch(e){}
+      toast("Сохранено");
     });
 
-    document.addEventListener('visibilitychange', ()=>{
-      if (document.visibilityState === 'hidden'){
-        persistImmediate(); // сохраняем перед уходом
-      }
-    });
+    // Toast helper
+    function toast(t){ elToast.textContent = t; elToast.classList.add("show"); setTimeout(()=> elToast.classList.remove("show"), 1400); }
 
+    // Init
     (async ()=>{
-      // 1) Cloud
-      let loaded = null, from='default';
-      const cloudRaw = await cloudGet(CLOUD_KEY);
-      if (cloudRaw){
-        try{ loaded = JSON.parse(cloudRaw); from='cloud'; }catch{ loaded=null; }
-      }
-      // 2) local
-      if (!loaded){
-        const local = loadLocal();
-        if (local){ loaded = local; from='local'; }
-      }
-      // 3) default
-      state = Object.assign(defaultState(), loaded||{});
-      log({startFrom:from, hasCloud:!!cloud, href:location.href});
+      // Cloud -> Local -> Default
+      let loaded=null;
+      const raw = await cloudGet(CLOUD_KEY);
+      if (raw){ try{ loaded=JSON.parse(raw); }catch{} }
+      if (!loaded){ try{ const r=localStorage.getItem(STATE_KEY); loaded=r?JSON.parse(r):null; }catch{} }
+      S = Object.assign(def(), loaded||{});
+      applyOffline();
+      saveLocal();
+      if (cloud) await cloudSet(CLOUD_KEY, JSON.stringify(S));
       updateUI();
     })();
+
+    // Update chips with user
+    const u = tg?.initDataUnsafe?.user;
+    if (u){
+      elUser.textContent = `${u.first_name||''} ${u.last_name||''}`.trim() || ("user#"+u.id);
+      elUname.textContent = u.username? "@"+u.username : `user#${u.id}`;
+    }
   </script>
 </body>
 </html>
