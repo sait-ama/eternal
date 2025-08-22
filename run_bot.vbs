@@ -21,7 +21,7 @@ env("TOP10_FILE")       = "C:\Users\User\Desktop\Remanga\EW\top10.json"
 
 ' прочие переменные
 env("BOT_TOKEN")   = "8380517379:AAF1pCJKN2uz2YL86yw_wKcFHGy_oFmvOjQ"
-env("WEBAPP_URL")  = "https://sait-ama.github.io/eternal/index1.html"
+env("WEBAPP_URL")  = "https://sait-ama.github.io/eternal/index.html"
 env("GITHUB_TOKEN") = "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"
 env("GITHUB_REPO")  = "sait-ama/eternal"
 env("GITHUB_BRANCH") = "main"
