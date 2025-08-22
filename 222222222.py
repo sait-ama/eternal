@@ -48,9 +48,9 @@ REMANGA_DATA_DIR_ENV = os.getenv("REMANGA_DATA_DIR", r"C:\Users\User\Desktop\Rem
 DATA_DIR = Path(REMANGA_DATA_DIR_ENV) if REMANGA_DATA_DIR_ENV else BASE_DIR
 
 # Или задать ТРИ/ОДИН отдельный путь(я) (каждый может быть абсолютным или относительным)
-HISTORY_EW_FILE_ENV = os.getenv("HISTORY_EW_FILE", r"C:\Users\User\Desktop\Remanga\EW").strip()
-HISTORY_ED_FILE_ENV = os.getenv("HISTORY_ED_FILE", r"C:\Users\User\Desktop\Remanga\EW").strip()
-TOP10_FILE_ENV       = os.getenv("TOP10_FILE", r"C:\Users\User\Desktop\Remanga\EW").strip()
+HISTORY_EW_FILE_ENV = os.getenv("HISTORY_EW_FILE", "history_ew.json").strip()
+HISTORY_ED_FILE_ENV = os.getenv("HISTORY_ED_FILE", "history_ed.json").strip()
+TOP10_FILE_ENV       = os.getenv("TOP10_FILE", "top10.json").strip()
 
 def _resolve_path(p: str | Path) -> Path:
     """Абсолютные пути оставляем как есть; относительные — считаем относительно DATA_DIR."""
@@ -70,9 +70,6 @@ if REMANGA_DATA_FILES_ENV:
         q = chunk.strip()
         if q:
             REMANGA_DATA_FILES.append(_resolve_path(q))
-else:
-    # дефолтный набор
-    REMANGA_DATA_FILES = [HISTORY_EW_FILE, HISTORY_ED_FILE, DATA_DIR / "history_e.json"]
 
 LINKS_FILE = DATA_DIR / "user_links.json"   # можно тоже вынести в ту же папку
 SAVE_FILE  = DATA_DIR / "tap_saves.json"
