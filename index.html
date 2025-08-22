@@ -3,101 +3,161 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-  <title>TG WebApp — tapper (with context debug)</title>
-  <!-- ВАЖНО: официальный скрипт Telegram Web Apps -->
+  <title>Тапалка — Cloud Save (v2)</title>
   <script src="https://telegram.org/js/telegram-web-app.js"></script>
   <style>
-    body{margin:0;background:#0f1217;color:#e6edf3;font:500 16px/1.4 system-ui,-apple-system,Segoe UI,Roboto}
-    .app{max-width:720px;margin:0 auto;padding:16px;display:flex;gap:12px;flex-direction:column}
-    .card{background:#171b22;border:1px solid rgba(255,255,255,.06);border-radius:16px;padding:16px}
-    .row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
-    .stat{background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08);border-radius:12px;padding:10px 12px;min-width:120px}
-    .label{font-size:12px;color:#a0aec0}
-    .value{font-weight:800;font-size:20px}
-    .btn{border:none;border-radius:12px;padding:10px 14px;font-weight:800;cursor:pointer;color:#0a0f14;background:#6fff9e}
-    .tap{width:240px;height:240px;border-radius:50%;border:none;cursor:pointer;font-weight:900;font-size:28px;background:conic-gradient(#6ee7ff,#6fff9e,#ffe66e,#ff9e6e,#6ee7ff)}
-    .muted{color:#a0aec0;font-size:12px}
-    code{font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;font-size:12px;background:#0b0e13;padding:10px;border-radius:10px;display:block;white-space:pre-wrap}
+    :root{--bg:#0f1217;--card:#171b22;--text:#e6edf3;--muted:#a0aec0;--accent:#6ee7ff;--accent2:#6fff9e}
+    *{box-sizing:border-box} html,body{height:100%}
+    body{margin:0;padding:16px;background:var(--bg);color:var(--text);font:500 16px/1.4 system-ui,-apple-system,Segoe UI,Roboto}
+    .app{max-width:720px;margin:0 auto;display:flex;flex-direction:column;gap:16px}
+    .card{background:linear-gradient(180deg, rgba(255,255,255,.03), transparent 80%), var(--card);border:1px solid rgba(255,255,255,.06);border-radius:20px;padding:16px}
+    .row{display:flex;gap:12px;align-items:center;flex-wrap:wrap}.grow{flex:1}
+    .stat{display:flex;flex-direction:column;padding:10px 12px;border-radius:14px;background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.06);min-width:120px}
+    .label{font-size:12px;color:var(--muted)} .value{font-weight:800;font-size:20px;margin-top:2px}
+    .btn{margin-left:auto;padding:8px 12px;border-radius:10px;border:none;font-weight:800;cursor:pointer;color:#0a0f14;background:linear-gradient(180deg,#9dffb7,#6fff9e 60%,#41e57b);box-shadow:0 6px 14px rgba(65,229,123,.35),inset 0 1px 0 rgba(255,255,255,.35)}
+    .tap-wrap{display:grid;place-items:center;padding:4px 0 8px}
+    .tap{width:260px;height:260px;border-radius:50%;border:none;cursor:pointer;font-weight:900;font-size:28px;color:#0a0f14;background:
+      radial-gradient(120px 120px at 30% 30%, rgba(255,255,255,.55), rgba(255,255,255,0) 60%),
+      conic-gradient(from 0deg, #6ee7ff, #6fff9e, #ffe66e, #ff9e6e, #6ee7ff);
+      box-shadow:0 10px 20px rgba(0,0,0,.35),inset 0 6px 18px rgba(255,255,255,.35),inset 0 -12px 24px rgba(0,0,0,.45);
+      transition:transform .06s ease}
+    .tap:active{transform:scale(.97)}
+    .chips{display:flex;flex-wrap:wrap;gap:8px}.chip{font-size:12px;color:var(--muted);padding:6px 10px;border-radius:999px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.08)}
+    .toast{position:fixed;left:50%;bottom:18px;transform:translateX(-50%);background:rgba(0,0,0,.7);color:#fff;padding:10px 14px;border-radius:12px;font-size:14px;opacity:0;pointer-events:none;transition:opacity .2s ease, transform .2s ease}
+    .toast.show{opacity:1;transform:translateX(-50%) translateY(-4px)}
+    .small{font-size:12px;color:var(--muted)}
   </style>
 </head>
 <body>
   <div class="app">
-    <div class="card">
-      <div class="row">
-        <div class="stat"><div class="label">Баланс</div><div class="value" id="balance">0</div></div>
-        <div class="stat"><div class="label">За тап</div><div class="value" id="perTap">+1</div></div>
-        <div style="margin-left:auto"></div>
-        <button class="btn" id="save">Сохранить</button>
+    <div class="card row">
+      <div class="stat"><div class="label">Баланс</div><div class="value" id="balance">0</div></div>
+      <div class="stat"><div class="label">За тап</div><div class="value" id="perTap">+1</div></div>
+      <div class="stat"><div class="label">Cloud</div><div class="value" id="cloud">—</div></div>
+      <div class="grow"></div>
+      <button id="btnSave" class="btn">Сохранить</button>
+    </div>
+
+    <div class="card tap-wrap">
+      <button class="tap" id="tap">Тапни!</button>
+      <div class="chips" style="margin-top:14px">
+        <div class="chip" id="owner">Загружаю…</div>
+        <div class="chip small" id="lastSave">нет сохранений</div>
       </div>
     </div>
 
-    <div class="card" style="display:grid;place-items:center">
-      <button class="tap" id="tap">Тапни!</button>
-      <div class="muted" id="owner" style="margin-top:10px"></div>
-    </div>
-
-    <div class="card">
-      <div class="label">Статус Telegram WebApp контекста:</div>
-      <code id="ctx">—</code>
-    </div>
+    <div class="card small" id="debug"></div>
   </div>
 
+  <div class="toast" id="toast">Сохранено</div>
+
   <script>
-    // ЯВНО ждём готовности Telegram.WebApp
     const tg = window.Telegram && window.Telegram.WebApp ? window.Telegram.WebApp : null;
-    if (tg) {
-      try { tg.ready(); tg.expand(); } catch(e) {}
+    if (tg){ try{ tg.ready(); tg.expand(); }catch(_){} }
+    const cloud = tg && tg.CloudStorage ? tg.CloudStorage : null;
+    const CLOUD_KEY = "tapper_state_v2";
+    const STATE_KEY = "tapper_state_v2";
+
+    const elBal=document.getElementById('balance'), elPerTap=document.getElementById('perTap'), elTap=document.getElementById('tap');
+    const elSave=document.getElementById('btnSave'), elOwner=document.getElementById('owner'), elCloud=document.getElementById('cloud');
+    const elLast=document.getElementById('lastSave'), elDbg=document.getElementById('debug'), elToast=document.getElementById('toast');
+
+    const defaultState = () => ({
+      userId: (tg && tg.initDataUnsafe && tg.initDataUnsafe.user ? tg.initDataUnsafe.user.id : 0) || 0,
+      balance: 0, perTap: 1, lastTs: Date.now()
+    });
+    let state = defaultState();
+    let autosaveTimer = null;
+
+    function log(o){ try{ elDbg.textContent = JSON.stringify(o,null,2); }catch{ elDbg.textContent = String(o); } }
+    function toast(t){ elToast.textContent=t; elToast.classList.add('show'); setTimeout(()=>elToast.classList.remove('show'),1500); }
+    function fmtTs(t){ const d=new Date(t); return isNaN(d)?'—':d.toLocaleString(); }
+
+    function saveLocal(){
+      try{ localStorage.setItem(STATE_KEY, JSON.stringify(state)); }catch{}
     }
-
-    const elBal = document.getElementById('balance');
-    const elTap = document.getElementById('tap');
-    const elSave = document.getElementById('save');
-    const elCtx = document.getElementById('ctx');
-    const elOwner = document.getElementById('owner');
-
-    let balance = 0;
-
-    function stringify(obj) {
-      try { return JSON.stringify(obj, null, 2); } catch(e) { return String(obj); }
+    function loadLocal(){
+      try{ const r=localStorage.getItem(STATE_KEY); return r? JSON.parse(r):null; }catch{ return null; }
     }
-
-    function updateStatus(){
-      const hasSend = !!(tg && typeof tg.sendData === 'function');
-      const user = tg && tg.initDataUnsafe ? tg.initDataUnsafe.user : null;
-      elOwner.textContent = hasSend
-        ? `WebApp v${tg.version} · ${tg.platform} · user#${user ? user.id : "?"}`
-        : "Нет WebApp контекста";
-      elCtx.textContent = stringify({
-        hasTelegramObject: !!window.Telegram,
-        hasWebApp: !!tg,
-        hasSendData: hasSend,
-        version: tg ? tg.version : null,
-        platform: tg ? tg.platform : null,
-        initData: tg ? (tg.initData ? "[present]" : null) : null,
-        initDataUnsafe: tg ? (tg.initDataUnsafe ? { user_id: tg.initDataUnsafe.user && tg.initDataUnsafe.user.id } : null) : null,
-        locationHref: location.href
+    function cloudGet(key){
+      return new Promise(res=>{
+        if(!cloud) return res(null);
+        cloud.getItem(key,(err,val)=>{ if(err){log({cloudGetErr:String(err)}); res(null);} else res(val||null); });
       });
     }
-    updateStatus();
+    function cloudSet(key,val){
+      return new Promise(res=>{
+        if(!cloud) return res(false);
+        cloud.setItem(key,val,(err)=>{ if(err){log({cloudSetErr:String(err)}); res(false);} else res(true); });
+      });
+    }
 
-    elTap.addEventListener('click', () => {
-      balance += 1;
-      elBal.textContent = balance;
+    function updateUI(){
+      elBal.textContent = state.balance;
+      elPerTap.textContent = "+" + state.perTap;
+      elOwner.textContent = tg && tg.initDataUnsafe && tg.initDataUnsafe.user
+        ? `user#${tg.initDataUnsafe.user.id} · WebApp v${tg.version} · ${tg.platform}`
+        : "Нет WebApp контекста";
+      elCloud.textContent = cloud ? "✔" : "✖";
+      elLast.textContent = "Последнее сохранение: " + fmtTs(state.lastTs);
+    }
+
+    async function persistImmediate(){
+      state.lastTs = Date.now();
+      saveLocal();
+      let cloudOk = false;
+      if (cloud){
+        cloudOk = await cloudSet(CLOUD_KEY, JSON.stringify(state));
+      }
+      updateUI();
+      return cloudOk;
+    }
+
+    function scheduleAutosave(){
+      clearTimeout(autosaveTimer);
+      autosaveTimer = setTimeout(()=>{ persistImmediate(); }, 2500);
+    }
+
+    elTap.addEventListener('click', ()=>{
+      state.balance += state.perTap;
+      updateUI();
+      scheduleAutosave();
     });
 
-    elSave.addEventListener('click', () => {
-      updateStatus();
-      if (!(tg && typeof tg.sendData === 'function')) {
-        alert('Нет Telegram WebApp контекста — открой через кнопку WebApp в ЛИЧНОМ чате.');
-        return;
-      }
-      try {
-        tg.sendData(JSON.stringify({ type: 'sync', state: { balance } }));
-        alert('Отправлено боту');
-      } catch (e) {
-        alert('Ошибка tg.sendData: ' + e);
+    elSave.addEventListener('click', async ()=>{
+      const cloudOk = await persistImmediate(); // сохраняем СРАЗУ, без задержек
+      // Доп. бэкап боту (если доступен контекст)
+      try{
+        if (tg && typeof tg.sendData === 'function'){
+          tg.sendData(JSON.stringify({type:'sync', state}));
+        }
+      }catch{}
+      toast(cloudOk ? 'Сохранено (Cloud + локально)' : 'Сохранено локально');
+    });
+
+    document.addEventListener('visibilitychange', ()=>{
+      if (document.visibilityState === 'hidden'){
+        persistImmediate(); // сохраняем перед уходом
       }
     });
+
+    (async ()=>{
+      // 1) Cloud
+      let loaded = null, from='default';
+      const cloudRaw = await cloudGet(CLOUD_KEY);
+      if (cloudRaw){
+        try{ loaded = JSON.parse(cloudRaw); from='cloud'; }catch{ loaded=null; }
+      }
+      // 2) local
+      if (!loaded){
+        const local = loadLocal();
+        if (local){ loaded = local; from='local'; }
+      }
+      // 3) default
+      state = Object.assign(defaultState(), loaded||{});
+      log({startFrom:from, hasCloud:!!cloud, href:location.href});
+      updateUI();
+    })();
   </script>
 </body>
 </html>
