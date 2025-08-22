@@ -9,6 +9,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 from typing import Any, Dict, List, Optional
+from urllib.parse import quote  # ⬅ для ?profile=
 
 from telegram import (
     Update,
@@ -28,6 +29,8 @@ from telegram.ext import (
 )
 
 # ── НАСТРОЙКИ ───────────────────────────────────────────────────────────────
+# ВАЖНО: здесь у вас используется прямой токен; оставляю, как вы прислали.
+# Обычно лучше брать из переменной окружения: os.getenv("BOT_TOKEN")
 TOKEN = os.getenv("8380517379:AAF1pCJKN2uz2YL86yw_wKcFHGy_oFmvOjQ", "8380517379:AAF1pCJKN2uz2YL86yw_wKcFHGy_oFmvOjQ").strip()
 WEBAPP_URL = os.getenv("https://sait-ama.github.io/eternal/", "https://sait-ama.github.io/eternal/").strip() or "https://example.com/index.html"
 
@@ -130,7 +133,7 @@ async def send_reply_keyboard(update: Update):
 # ── ХЭНДЛЕРЫ WEBAPP /start /tap ───────────────────────────────────────────
 async def start_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await send_inline_play(update)  # только по /start показываем кнопку
-    # если хочешь — раскомментируй вторую кнопку-меню
+    # при желании можно показать и реплай-клавиатуру:
     # await send_reply_keyboard(update)
 
 async def tap_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -199,14 +202,27 @@ async def register_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
     links[uid] = norm
     save_links(links)
 
+    # 🔽 Добавляем кнопку «Играть с привязкой» (WebApp подхватит ?profile=)
+    play_url = f"{WEBAPP_URL}?profile={quote(norm)}"
+    play_kb = InlineKeyboardMarkup([[
+        InlineKeyboardButton(
+            text="🚀 Играть с привязкой",
+            web_app=WebAppInfo(url=play_url)
+        )
+    ]])
+
     row = find_profile_in_all(norm)
     if row:
         await reply_remanga_card(msg, row, prefix="✅ Профиль привязан.\n")
+        await msg.reply_text("Открой игру с привязанным профилем:", reply_markup=play_kb)
     else:
         missing = ", ".join(str(p) for p in REMANGA_DATA_FILES if not p.exists())
         add = f"\n\n⚠ Отсутствуют файлы: {missing}" if missing else ""
-        await msg.reply_text(f"✅ Профиль привязан: {norm}\n"
-                             f"Пока записи в JSON не найдено. Обнови данные и используй /remanga.{add}")
+        await msg.reply_text(
+            f"✅ Профиль привязан: {norm}\n"
+            f"Пока записи в JSON не найдено. Обнови данные и используй /remanga.{add}",
+            reply_markup=play_kb
+        )
 
 async def mylink_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
     uid = str(update.effective_user.id)
