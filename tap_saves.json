@@ -2,7 +2,7 @@
   "1515127053": {
     "state": {
       "userId": 1515127053,
-      "balance": 5354,
+      "balance": 9169,
       "baseTap": 1,
       "upgrades": {
         "tapPower": 4,
@@ -10,12 +10,12 @@
         "mult": 3,
         "offline": 6
       },
-      "lastTs": 1755855341224,
+      "lastTs": 1755856946962,
       "energy": 1,
       "claimedEnergy": 61,
       "profile": "https://remanga.org/user/2384260/about"
     },
-    "updated_at": "2025-08-22T09:35:41.474609Z",
+    "updated_at": "2025-08-22T10:02:27.315275Z",
     "name": "Сайтама",
     "username": "saitama01010"
   }
