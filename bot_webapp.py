@@ -292,21 +292,15 @@ def main():
     app = Application.builder().token(TOKEN).build()
     PRIVATE = filters.ChatType.PRIVATE
 
-    # WebApp / игра
+    # --- Команды / WebApp ---
     app.add_handler(CommandHandler("start", start, filters=PRIVATE))
     app.add_handler(CommandHandler("tap", tap, filters=PRIVATE))
-    app.add_handler(MessageHandler(filters.StatusUpdate.WEB_APP_DATA & PRIVATE, on_webapp_data))
-    app.add_handler(MessageHandler(PRIVATE & ~filters.StatusUpdate.WEB_APP_DATA, tap))
 
-    # Регистрация и чтение Remanga
+    # Регистрация / привязка
     app.add_handler(CommandHandler(["register", "link", "registraciya"], register_cmd, filters=PRIVATE))
-
-    # …и отдельный Regex-хэндлер, чтобы понимать /регистрация и /привязка
+    # (опционально: русские алиасы как текст)
     app.add_handler(
-        MessageHandler(
-            PRIVATE & filters.Regex(r"^/(?:регистрация|привязка)(?:@\w+)?(?:\s+.*)?$"),
-            register_cmd
-        )
+        MessageHandler(PRIVATE & filters.Regex(r"^/(?:регистрация|привязка)(?:@\w+)?(?:\s+.*)?$"), register_cmd)
     )
 
     app.add_handler(CommandHandler("mylink", mylink_cmd, filters=PRIVATE))
@@ -314,10 +308,16 @@ def main():
     app.add_handler(CommandHandler("remanga", remanga_cmd, filters=PRIVATE))
     app.add_handler(CommandHandler("where", where_cmd, filters=PRIVATE))
 
-    # Всё прочее (группы и т.п.)
+    # Данные из WebApp (tg.sendData)
+    app.add_handler(MessageHandler(filters.StatusUpdate.WEB_APP_DATA & PRIVATE, on_webapp_data))
+
+    # --- ЛОВУШКА ДОЛЖНА БЫТЬ ПОСЛЕДНЕЙ и НЕ ЛОВИТЬ КОМАНДЫ! ---
+    app.add_handler(
+        MessageHandler(PRIVATE & ~filters.StatusUpdate.WEB_APP_DATA & ~filters.COMMAND, tap)
+    )
+
     app.add_handler(MessageHandler(~PRIVATE, not_private))
 
-    log.info("Bot is running. Use /tap and /register in PRIVATE chat.")
     app.run_polling()
 
 if __name__ == "__main__":
