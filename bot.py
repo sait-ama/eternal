@@ -40,7 +40,7 @@ from telegram.ext import (
 
 # ───────────────────────── НАСТРОЙКИ ─────────────────────────
 BOT_TOKEN = os.getenv("BOT_TOKEN", "8380517379:AAF1pCJKN2uz2YL86yw_wKcFHGy_oFmvOjQ").strip()
-WEBAPP_URL = os.getenv("WEBAPP_URL", "https://sait-ama.github.io/eternal/index1.html").strip() or "https://example.com/index1.html"
+WEBAPP_URL = os.getenv("WEBAPP_URL", "https://sait-ama.github.io/eternal/index.html").strip() or "https://example.com/index.html"
 
 # где лежат локальные JSON (бот ЧИТАЕТ отсюда)
 BASE_DIR = Path(__file__).resolve().parent
