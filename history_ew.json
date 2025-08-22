@@ -696,6 +696,18 @@
     "last_active_human": "5 дн. назад"
   },
   {
+    "norm": "misikira",
+    "display": "Misikira",
+    "initial": 16300,
+    "current": 19300,
+    "diff": 3000,
+    "avatar": "avatars/misikira.jpg",
+    "profile": "https://remanga.org/user/2350456/about",
+    "guild": "Eternal Watchers",
+    "is_afk": true,
+    "last_active_human": "8 дн. назад"
+  },
+  {
     "norm": "bloodborrn",
     "display": "Bloodborrn",
     "initial": 13540,
@@ -778,18 +790,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "misikira",
-    "display": "Misikira",
-    "initial": 16300,
-    "current": 18300,
-    "diff": 2000,
-    "avatar": "avatars/misikira.jpg",
-    "profile": "https://remanga.org/user/2350456/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "8 дн. назад"
   },
   {
     "norm": "chirusan",
