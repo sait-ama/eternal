@@ -1,18 +1,21 @@
 {
   "1515127053": {
     "state": {
-      "userId": 0,
-      "balance": 37,
-      "upgrades": {
-        "tapPower": 8,
-        "autoClick": 2,
-        "mult": 3,
-        "offline": 3
-      },
+      "userId": 1515127053,
+      "balance": 5354,
       "baseTap": 1,
-      "lastTs": 1755847494792
+      "upgrades": {
+        "tapPower": 4,
+        "autoClick": 1,
+        "mult": 3,
+        "offline": 6
+      },
+      "lastTs": 1755855341224,
+      "energy": 1,
+      "claimedEnergy": 61,
+      "profile": "https://remanga.org/user/2384260/about"
     },
-    "updated_at": "2025-08-22T07:24:55.021248Z",
+    "updated_at": "2025-08-22T09:35:41.474609Z",
     "name": "Сайтама",
     "username": "saitama01010"
   }
