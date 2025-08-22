@@ -63,7 +63,7 @@ TOP10_FILE      = _resolve_path(TOP10_FILE_ENV)      if TOP10_FILE_ENV      else
 
 # Список JSON для поиска профиля ReManga.
 # Можно задать REMANGA_DATA_FILES="C:\a\ew.json, D:\b\ed.json, history_e.json"
-REMANGA_DATA_FILES_ENV = os.getenv("REMANGA_DATA_FILES", "").strip()
+REMANGA_DATA_FILES_ENV = os.getenv("REMANGA_DATA_FILES", r"C:\Users\User\Desktop\Remanga\EW\history_ew.json, C:\Users\User\Desktop\Remanga\EW\history_ed.json").strip()
 if REMANGA_DATA_FILES_ENV:
     REMANGA_DATA_FILES: List[Path] = []
     for chunk in REMANGA_DATA_FILES_ENV.split(","):
