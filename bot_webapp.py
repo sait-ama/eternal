@@ -300,6 +300,15 @@ def main():
 
     # Регистрация и чтение Remanga
     app.add_handler(CommandHandler(["register", "link", "registraciya"], register_cmd, filters=PRIVATE))
+
+    # …и отдельный Regex-хэндлер, чтобы понимать /регистрация и /привязка
+    app.add_handler(
+        MessageHandler(
+            PRIVATE & filters.Regex(r"^/(?:регистрация|привязка)(?:@\w+)?(?:\s+.*)?$"),
+            register_cmd
+        )
+    )
+
     app.add_handler(CommandHandler("mylink", mylink_cmd, filters=PRIVATE))
     app.add_handler(CommandHandler("unlink", unlink_cmd, filters=PRIVATE))
     app.add_handler(CommandHandler("remanga", remanga_cmd, filters=PRIVATE))
