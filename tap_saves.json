@@ -2,18 +2,17 @@
   "1515127053": {
     "state": {
       "userId": 0,
-      "balance": 3693,
-      "perTap": 20,
-      "lastTs": 1755846885454,
-      "cps": 22,
+      "balance": 37,
       "upgrades": {
-        "tapPower": 19,
-        "autoClick": 9,
-        "multiplier": 15,
-        "offlineBonus": 15
-      }
+        "tapPower": 8,
+        "autoClick": 2,
+        "mult": 3,
+        "offline": 3
+      },
+      "baseTap": 1,
+      "lastTs": 1755847494792
     },
-    "updated_at": "2025-08-22T07:14:45.692289Z",
+    "updated_at": "2025-08-22T07:24:55.021248Z",
     "name": "Сайтама",
     "username": "saitama01010"
   }
