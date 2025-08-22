@@ -25,7 +25,6 @@ from telegram import (
     ReplyKeyboardMarkup,
     InlineKeyboardMarkup,
     InlineKeyboardButton,
-    MenuButtonWebApp,
     InputMediaPhoto,
     InputFile,
 )
@@ -39,33 +38,18 @@ from telegram.ext import (
 )
 
 # ────────────────────────────── НАСТРОЙКИ ─────────────────────────────────────────
-# Токен и адрес WebApp можно задать через переменные окружения BOT_TOKEN / WEBAPP_URL.
-# Если переменные не заданы — используются значения по умолчанию ниже.
-BOT_TOKEN = os.getenv(
-    "BOT_TOKEN",
-    "8380517379:AAF1pCJKN2uz2YL86yw_wKcFHGy_oFmvOjQ"
-).strip()
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8380517379:AAF1pCJKN2uz2YL86yw_wKcFHGy_oFmvOjQ").strip()
+WEBAPP_URL = os.getenv("WEBAPP_URL", "https://sait-ama.github.io/eternal/").strip() or "https://example.com/index1.html"
 
-WEBAPP_URL = os.getenv(
-    "WEBAPP_URL",
-    "https://sait-ama.github.io/eternal/"
-).strip() or "https://example.com/index1.html"
-
-# Список JSON с данными ReManga (через запятую или как есть)
-REMANGA_DATA_FILES_ENV = os.getenv(
-    "REMANGA_DATA_FILES",
-    "history_ew.json,history_ed.json,history_e.json"
-)
-REMANGA_DATA_FILES: List[Path] = [
-    Path(x.strip()) for x in REMANGA_DATA_FILES_ENV.split(",") if x.strip()
-]
+REMANGA_DATA_FILES_ENV = os.getenv("REMANGA_DATA_FILES", "history_ew.json,history_ed.json,history_e.json")
+REMANGA_DATA_FILES: List[Path] = [Path(x.strip()) for x in REMANGA_DATA_FILES_ENV.split(",") if x.strip()]
 
 LINKS_FILE = Path("user_links.json")
 SAVE_FILE = Path("tap_saves.json")
 
 # Настройки блока «пагинации/фото»
-LONG_DELETE_DELAY = 300      # 5 минут (удаление информационных сообщений)
-SHORT_DELETE_DELAY = 1       # 1 секунда (быстрое удаление старых сообщений навигации)
+LONG_DELETE_DELAY = 300
+SHORT_DELETE_DELAY = 1
 ITEMS_PER_PAGE = 4
 PLACEHOLDER = "no_avatar.jpg"
 LOG_FILE = "bot.log"
@@ -108,7 +92,6 @@ def write_json(path: Path, data: Any) -> None:
     except Exception as e:
         log.warning("JSON write failed for %s: %s", path, e)
 
-# Упрощённая загрузка массива (для блока с пагинацией)
 def load_json_array(path: str) -> List[dict]:
     try:
         with open(path, "r", encoding="utf-8") as f:
@@ -120,9 +103,6 @@ def load_json_array(path: str) -> List[dict]:
 
 # ────────────────────────────── NORMALIZE ReManga ────────────────────────────────
 def normalize_profile_url(url: str) -> Optional[str]:
-    """
-    Приводим к канону: https://remanga.org/user/<digits>/about
-    """
     if not isinstance(url, str):
         return None
     url = url.strip()
@@ -165,27 +145,30 @@ def save_links(links: Dict[str, str]) -> None:
 
 # ────────────────────────────── КНОПКИ WEBAPP ────────────────────────────────────
 async def send_inline_play(update: Update):
+    # если захочешь оставить инлайн-кнопку — она теперь тоже с текстом «Запустить игру (WebApp)»
     kb_inline = InlineKeyboardMarkup([
-        [InlineKeyboardButton(text="🚀 Играть", web_app=WebAppInfo(url=WEBAPP_URL))]
+        [InlineKeyboardButton(text="Запустить игру (WebApp)", web_app=WebAppInfo(url=WEBAPP_URL))]
     ])
     await update.message.reply_text(
-        "Нажми «Играть», чтобы открыть мини-приложение:",
+        "Нажми «Запустить игру (WebApp)», чтобы открыть мини-приложение:",
         reply_markup=kb_inline,
     )
 
 async def send_reply_keyboard(update: Update):
     kb_reply = ReplyKeyboardMarkup(
-        [[KeyboardButton(text="🎮 Запустить игру", web_app=WebAppInfo(url=WEBAPP_URL))]],
+        [[KeyboardButton(text="Запустить игру (WebApp)", web_app=WebAppInfo(url=WEBAPP_URL))]],
         resize_keyboard=True
     )
-    await update.message.reply_text("Можно и через меню ниже ⤵️", reply_markup=kb_reply)
+    await update.message.reply_text("Открой игру кнопкой ниже ⤵️", reply_markup=kb_reply)
 
 # ────────────────────────────── ХЭНДЛЕРЫ ТАПАЛКИ ─────────────────────────────────
 async def start_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await send_inline_play(update)
+    # показываем ТОЛЬКО реплай-клавиатуру с WebApp
+    await send_reply_keyboard(update)
 
 async def tap_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await send_inline_play(update)
+    # по /tap тоже реплай-клавиатура
+    await send_reply_keyboard(update)
 
 # Приём tg.sendData из WebApp
 async def on_webapp_data(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -249,9 +232,11 @@ async def register_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
     links[uid] = norm
     save_links(links)
 
-    # Кнопка «Играть с привязкой»
+    # Кнопка «Запустить игру (WebApp)» с привязкой
     play_url = f"{WEBAPP_URL}?profile={quote(norm)}"
-    play_kb = InlineKeyboardMarkup([[InlineKeyboardButton(text="🚀 Играть с привязкой", web_app=WebAppInfo(url=play_url))]])
+    play_kb = InlineKeyboardMarkup([[
+        InlineKeyboardButton(text="Запустить игру (WebApp)", web_app=WebAppInfo(url=play_url))
+    ]])
 
     row = find_profile_in_all(norm)
     if row:
@@ -334,7 +319,6 @@ async def reply_remanga_card(target_message, row: Dict[str, Any], prefix: str = 
     await target_message.reply_html(text, disable_web_page_preview=True)
 
 # ─────────────────────── ОГРАНИЧИТЕЛЬ ДЛЯ НЕПРИВАТНЫХ ЧАТОВ ─────────────────────
-# В группах вежливо просим перейти в ЛС ТОЛЬКО если вызывают команды «тапалки».
 async def not_private(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if update.effective_message:
         await update.effective_message.reply_text(
@@ -361,34 +345,20 @@ def ensure_placeholder():
         log.exception("Failed to create placeholder: %s", e)
 
 def sanitize_to_jpeg_bytes(img_path: str) -> bytes:
-    """
-    Любую картинку -> «обычный» baseline RGB-JPEG без EXIF/ICC/альфы/прогрессива.
-    """
     with open(img_path, "rb") as f:
         raw = f.read()
-
     im = Image.open(BytesIO(raw))
     try:
         im.load()
     except Exception:
         pass
-
     if im.mode != "RGB":
         im = im.convert("RGB")
-
     w, h = im.size
     if w > MAX_W or h > MAX_H:
         im.thumbnail((MAX_W, MAX_H), Image.LANCZOS)
-
     out = BytesIO()
-    im.save(
-        out,
-        format="JPEG",
-        quality=JPEG_QUALITY,
-        optimize=True,
-        progressive=False,
-        subsampling="4:2:0",
-    )
+    im.save(out, format="JPEG", quality=JPEG_QUALITY, optimize=True, progressive=False, subsampling="4:2:0")
     return out.getvalue()
 
 # ───────────────────────── Хранилище последних сообщений ─────────────────────────
@@ -501,7 +471,6 @@ async def send_page(origin, guild_key: str, page: int, context: ContextTypes.DEF
         chat_id = chat.id
         thread_id = getattr(origin.message, "message_thread_id", None)
     else:
-        # callback_query
         chat_id = origin.message.chat.id
         thread_id = getattr(origin.message, "message_thread_id", None)
 
@@ -613,7 +582,6 @@ async def handle_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await send_page(update, guild_key, 0, context, from_callback=False)
         return
 
-    # фразы-ответы
     if text == "ИДИ НАХУЙ":
         msg = await update.message.reply_text("Сам иди нахуй")
         asyncio.create_task(schedule_delete(context.bot, update.message.chat.id,
@@ -632,7 +600,6 @@ async def handle_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
                                             [update.message.message_id, msg.message_id], LONG_DELETE_DELAY))
         return
 
-    # БЕНЯ
     if text == "БЕНЯ":
         if not BENYA_PHOTOS:
             msg = await update.message.reply_text("Папка 33 пуста или картинки не найдены.")
@@ -646,7 +613,6 @@ async def handle_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
                                             [update.message.message_id, msg.message_id], LONG_DELETE_DELAY))
         return
 
-    # КРЯ
     if text == "КРЯ":
         if not KRYA_PHOTOS:
             msg = await update.message.reply_text("Папка 44 пуста или картинки не найдены.")
@@ -660,7 +626,6 @@ async def handle_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
                                             [update.message.message_id, msg.message_id], LONG_DELETE_DELAY))
         return
 
-    # ASCII
     if text in ascii_art:
         msg = await update.message.reply_text(ascii_art[text])
         asyncio.create_task(schedule_delete(context.bot, update.message.chat.id,
@@ -688,6 +653,7 @@ async def page_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
 def main():
     ensure_placeholder()
 
+    # ВНИМАНИЕ: post_init НЕ используем → не будет кнопки меню «Играть» у бота
     app = Application.builder().token(BOT_TOKEN).build()
 
     PRIVATE = filters.ChatType.PRIVATE
