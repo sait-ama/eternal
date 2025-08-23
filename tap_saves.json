@@ -2,7 +2,7 @@
   "1515127053": {
     "state": {
       "userId": 1515127053,
-      "balance": 295308,
+      "balance": 298698,
       "baseTap": 1,
       "upgrades": {
         "tapPower": 4,
@@ -10,12 +10,12 @@
         "mult": 3,
         "offline": 6
       },
-      "lastTs": 1755942278229,
+      "lastTs": 1755943987188,
       "energy": 1,
       "claimedEnergy": 61,
       "profile": "https://remanga.org/user/12762/about"
     },
-    "updated_at": "2025-08-23T09:44:38.558960+00:00",
+    "updated_at": "2025-08-23T10:13:07.489855+00:00",
     "name": "Сайтама",
     "username": "saitama01010"
   },
@@ -62,7 +62,7 @@
   "320921832": {
     "state": {
       "userId": 0,
-      "balance": 134,
+      "balance": 7064,
       "baseTap": 1,
       "upgrades": {
         "tapPower": 5,
@@ -70,33 +70,93 @@
         "mult": 0,
         "offline": 0
       },
-      "lastTs": 1755942973079,
+      "lastTs": 1755943273523,
       "energy": 1,
       "claimedEnergy": 16,
       "profile": "https://remanga.org/user/133044/about"
     },
-    "updated_at": "2025-08-23T09:56:10.721143+00:00",
+    "updated_at": "2025-08-23T10:01:11.261883+00:00",
     "name": "Shardex",
     "username": "shardexO"
   },
   "6280413836": {
     "state": {
       "userId": 0,
-      "balance": 212,
+      "balance": 2978,
       "baseTap": 1,
       "upgrades": {
-        "tapPower": 1,
-        "autoClick": 1,
-        "mult": 1,
-        "offline": 0
+        "tapPower": 2,
+        "autoClick": 2,
+        "mult": 2,
+        "offline": 1
       },
-      "lastTs": 1755942899987,
-      "energy": 15,
+      "lastTs": 1755943881336,
+      "energy": 2,
       "claimedEnergy": 21,
       "profile": "https://remanga.org/user/2874672/about"
     },
-    "updated_at": "2025-08-23T09:54:58.846531+00:00",
+    "updated_at": "2025-08-23T10:11:20.162818+00:00",
     "name": "ali",
     "username": "elistard"
+  },
+  "787054332": {
+    "state": {
+      "userId": 0,
+      "balance": 23701,
+      "baseTap": 1,
+      "upgrades": {
+        "tapPower": 5,
+        "autoClick": 5,
+        "mult": 4,
+        "offline": 3
+      },
+      "lastTs": 1755944171538,
+      "energy": 4,
+      "claimedEnergy": 75,
+      "profile": "https://remanga.org/user/46754/about"
+    },
+    "updated_at": "2025-08-23T10:16:11.335289+00:00",
+    "name": "Nix",
+    "username": "the_duskborn"
+  },
+  "1967870876": {
+    "state": {
+      "userId": 0,
+      "balance": 8459,
+      "baseTap": 1,
+      "upgrades": {
+        "tapPower": 9,
+        "autoClick": 5,
+        "mult": 0,
+        "offline": 1
+      },
+      "lastTs": 1755944384808,
+      "energy": 0,
+      "claimedEnergy": 68,
+      "profile": "https://remanga.org/user/199911/about"
+    },
+    "updated_at": "2025-08-23T10:19:43.891082+00:00",
+    "name": "festashka",
+    "username": null
+  },
+  "788027623": {
+    "state": {
+      "userId": 788027623,
+      "balance": 150491,
+      "baseTap": 1,
+      "upgrades": {
+        "tapPower": 3,
+        "autoClick": 4,
+        "mult": 2,
+        "offline": 4
+      },
+      "lastTs": 1755945304133,
+      "energy": 3,
+      "claimedEnergy": 49,
+      "profile": "https://remanga.org/user/3307870/about"
+    },
+    "updated_at": "2025-08-23T10:35:03.354076+00:00",
+    "name": "Aki Ram",
+    "username": "aki_ram"
   }
 }
