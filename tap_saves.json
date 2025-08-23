@@ -102,7 +102,7 @@
   "787054332": {
     "state": {
       "userId": 0,
-      "balance": 110030,
+      "balance": 198058,
       "baseTap": 1,
       "upgrades": {
         "tapPower": 5,
@@ -110,19 +110,19 @@
         "mult": 4,
         "offline": 3
       },
-      "lastTs": 1755950066623,
+      "lastTs": 1755958741885,
       "energy": 4,
       "claimedEnergy": 75,
       "profile": "https://remanga.org/user/46754/about"
     },
-    "updated_at": "2025-08-23T11:54:26.378352+00:00",
+    "updated_at": "2025-08-23T14:19:01.543789+00:00",
     "name": "Nix",
     "username": "the_duskborn"
   },
   "1967870876": {
     "state": {
       "userId": 0,
-      "balance": 8459,
+      "balance": 566805,
       "baseTap": 1,
       "upgrades": {
         "tapPower": 9,
@@ -130,19 +130,19 @@
         "mult": 0,
         "offline": 1
       },
-      "lastTs": 1755944384808,
+      "lastTs": 1755959963030,
       "energy": 0,
       "claimedEnergy": 68,
       "profile": "https://remanga.org/user/199911/about"
     },
-    "updated_at": "2025-08-23T10:19:43.891082+00:00",
+    "updated_at": "2025-08-23T14:39:50.508357+00:00",
     "name": "festashka",
     "username": null
   },
   "788027623": {
     "state": {
       "userId": 788027623,
-      "balance": 1418080,
+      "balance": 2542447,
       "baseTap": 1,
       "upgrades": {
         "tapPower": 7,
@@ -150,12 +150,12 @@
         "mult": 2,
         "offline": 4
       },
-      "lastTs": 1755951870428,
+      "lastTs": 1755958397358,
       "energy": 5,
       "claimedEnergy": 73,
       "profile": "https://remanga.org/user/3307870/about"
     },
-    "updated_at": "2025-08-23T12:24:29.732407+00:00",
+    "updated_at": "2025-08-23T14:13:17.044578+00:00",
     "name": "Aki Ram",
     "username": "aki_ram"
   },
@@ -202,20 +202,20 @@
   "1630259453": {
     "state": {
       "userId": 1630259453,
-      "balance": 367,
+      "balance": 981,
       "baseTap": 1,
       "upgrades": {
         "tapPower": 0,
-        "autoClick": 0,
+        "autoClick": 1,
         "mult": 0,
         "offline": 0
       },
-      "lastTs": 1755957183703,
+      "lastTs": 1755957654726,
       "energy": 0,
-      "claimedEnergy": 0,
+      "claimedEnergy": 2,
       "profile": "https://remanga.org/user/108546/about"
     },
-    "updated_at": "2025-08-23T13:53:03.223367+00:00",
+    "updated_at": "2025-08-23T14:00:54.369878+00:00",
     "name": "Hentoki",
     "username": "Nurdaulet_69"
   }
