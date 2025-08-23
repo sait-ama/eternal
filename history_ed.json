@@ -45,7 +45,7 @@
     "profile": "https://remanga.org/user/1650325/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "motherofdragons",
@@ -63,8 +63,8 @@
     "norm": "@toxic",
     "display": "@𝑻𝑶𝑿𝑰𝑪",
     "initial": 11880,
-    "current": 22660,
-    "diff": 10780,
+    "current": 23200,
+    "diff": 11320,
     "avatar": "avatars/@toxic.jpg",
     "profile": "https://remanga.org/user/3204383/about",
     "guild": "Eternal Demonic",
@@ -333,7 +333,19 @@
     "profile": "https://remanga.org/user/2044615/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
+  },
+  {
+    "norm": "samurai",
+    "display": "S.a.m.u.r.a.i.",
+    "initial": 8000,
+    "current": 11000,
+    "diff": 3000,
+    "avatar": "avatars/samurai.jpg",
+    "profile": "https://remanga.org/user/396925/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "sckatman",
@@ -405,7 +417,7 @@
     "profile": "https://remanga.org/user/453647/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "5 дн. назад"
+    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "woodss",
@@ -451,18 +463,6 @@
     "diff": 2000,
     "avatar": "avatars/takahikoo.jpg",
     "profile": "https://remanga.org/user/3225144/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
-  },
-  {
-    "norm": "samurai",
-    "display": "S.a.m.u.r.a.i.",
-    "initial": 8000,
-    "current": 10000,
-    "diff": 2000,
-    "avatar": "avatars/samurai.jpg",
-    "profile": "https://remanga.org/user/396925/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "6 дн. назад"
@@ -537,7 +537,7 @@
     "profile": "https://remanga.org/user/220375/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "drrи",

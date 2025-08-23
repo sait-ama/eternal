@@ -22,7 +22,7 @@
   "2038024329": {
     "state": {
       "userId": 2038024329,
-      "balance": 461,
+      "balance": 474,
       "baseTap": 1,
       "upgrades": {
         "tapPower": 0,
@@ -30,12 +30,12 @@
         "mult": 0,
         "offline": 1
       },
-      "lastTs": 1755879668769,
+      "lastTs": 1755947500165,
       "energy": 0,
       "claimedEnergy": 3,
       "profile": "https://remanga.org/user/1602594/about"
     },
-    "updated_at": "2025-08-22T16:21:08.066186+00:00",
+    "updated_at": "2025-08-23T11:11:39.192637+00:00",
     "name": "Subaru",
     "username": null
   },
@@ -102,7 +102,7 @@
   "787054332": {
     "state": {
       "userId": 0,
-      "balance": 23701,
+      "balance": 110030,
       "baseTap": 1,
       "upgrades": {
         "tapPower": 5,
@@ -110,12 +110,12 @@
         "mult": 4,
         "offline": 3
       },
-      "lastTs": 1755944171538,
+      "lastTs": 1755950066623,
       "energy": 4,
       "claimedEnergy": 75,
       "profile": "https://remanga.org/user/46754/about"
     },
-    "updated_at": "2025-08-23T10:16:11.335289+00:00",
+    "updated_at": "2025-08-23T11:54:26.378352+00:00",
     "name": "Nix",
     "username": "the_duskborn"
   },
@@ -142,21 +142,41 @@
   "788027623": {
     "state": {
       "userId": 788027623,
-      "balance": 150491,
+      "balance": 1033658,
       "baseTap": 1,
       "upgrades": {
-        "tapPower": 3,
+        "tapPower": 7,
         "autoClick": 4,
         "mult": 2,
         "offline": 4
       },
-      "lastTs": 1755945304133,
-      "energy": 3,
-      "claimedEnergy": 49,
+      "lastTs": 1755949288798,
+      "energy": 5,
+      "claimedEnergy": 73,
       "profile": "https://remanga.org/user/3307870/about"
     },
-    "updated_at": "2025-08-23T10:35:03.354076+00:00",
+    "updated_at": "2025-08-23T11:41:28.017890+00:00",
     "name": "Aki Ram",
     "username": "aki_ram"
+  },
+  "5640156589": {
+    "state": {
+      "userId": 0,
+      "balance": 13264,
+      "baseTap": 1,
+      "upgrades": {
+        "tapPower": 14,
+        "autoClick": 2,
+        "mult": 0,
+        "offline": 0
+      },
+      "lastTs": 1755948757013,
+      "energy": 1,
+      "claimedEnergy": 111,
+      "profile": "https://remanga.org/user/27168/about"
+    },
+    "updated_at": "2025-08-23T11:32:35.692359+00:00",
+    "name": "0_0\\Zayka/0_0",
+    "username": "Pepegaronni"
   }
 }

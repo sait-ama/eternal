@@ -15,13 +15,13 @@
     "norm": "pepegaronni",
     "display": "Pepegaronni",
     "initial": -20864,
-    "current": 12700,
-    "diff": 33564,
+    "current": 13870,
+    "diff": 34734,
     "avatar": "avatars/pepegaronni.jpg",
     "profile": "https://remanga.org/user/27168/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "desport",
@@ -63,8 +63,8 @@
     "norm": "zurichka",
     "display": "Zurichka",
     "initial": 36000,
-    "current": 61000,
-    "diff": 25000,
+    "current": 61500,
+    "diff": 25500,
     "avatar": "avatars/zurichka.jpg",
     "profile": "https://remanga.org/user/189990/about",
     "guild": "Eternal Watchers",
