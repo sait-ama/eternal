@@ -2,7 +2,7 @@
   "1515127053": {
     "state": {
       "userId": 1515127053,
-      "balance": 265140,
+      "balance": 295308,
       "baseTap": 1,
       "upgrades": {
         "tapPower": 4,
@@ -10,12 +10,12 @@
         "mult": 3,
         "offline": 6
       },
-      "lastTs": 1755926925944,
+      "lastTs": 1755942278229,
       "energy": 1,
       "claimedEnergy": 61,
       "profile": "https://remanga.org/user/12762/about"
     },
-    "updated_at": "2025-08-23T05:28:46.152887+00:00",
+    "updated_at": "2025-08-23T09:44:38.558960+00:00",
     "name": "Сайтама",
     "username": "saitama01010"
   },
@@ -38,5 +38,65 @@
     "updated_at": "2025-08-22T16:21:08.066186+00:00",
     "name": "Subaru",
     "username": null
+  },
+  "1276573175": {
+    "state": {
+      "userId": 1276573175,
+      "balance": 306,
+      "baseTap": 1,
+      "upgrades": {
+        "tapPower": 0,
+        "autoClick": 0,
+        "mult": 0,
+        "offline": 0
+      },
+      "lastTs": 1755940657505,
+      "energy": 0,
+      "claimedEnergy": 0,
+      "profile": "https://remanga.org/user/415473/about"
+    },
+    "updated_at": "2025-08-23T09:17:37.079590+00:00",
+    "name": "Вовка",
+    "username": "Geterotrof666"
+  },
+  "320921832": {
+    "state": {
+      "userId": 0,
+      "balance": 134,
+      "baseTap": 1,
+      "upgrades": {
+        "tapPower": 5,
+        "autoClick": 0,
+        "mult": 0,
+        "offline": 0
+      },
+      "lastTs": 1755942973079,
+      "energy": 1,
+      "claimedEnergy": 16,
+      "profile": "https://remanga.org/user/133044/about"
+    },
+    "updated_at": "2025-08-23T09:56:10.721143+00:00",
+    "name": "Shardex",
+    "username": "shardexO"
+  },
+  "6280413836": {
+    "state": {
+      "userId": 0,
+      "balance": 212,
+      "baseTap": 1,
+      "upgrades": {
+        "tapPower": 1,
+        "autoClick": 1,
+        "mult": 1,
+        "offline": 0
+      },
+      "lastTs": 1755942899987,
+      "energy": 15,
+      "claimedEnergy": 21,
+      "profile": "https://remanga.org/user/2874672/about"
+    },
+    "updated_at": "2025-08-23T09:54:58.846531+00:00",
+    "name": "ali",
+    "username": "elistard"
   }
 }
