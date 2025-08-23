@@ -142,7 +142,7 @@
   "788027623": {
     "state": {
       "userId": 788027623,
-      "balance": 1033658,
+      "balance": 1418080,
       "baseTap": 1,
       "upgrades": {
         "tapPower": 7,
@@ -150,12 +150,12 @@
         "mult": 2,
         "offline": 4
       },
-      "lastTs": 1755949288798,
+      "lastTs": 1755951870428,
       "energy": 5,
       "claimedEnergy": 73,
       "profile": "https://remanga.org/user/3307870/about"
     },
-    "updated_at": "2025-08-23T11:41:28.017890+00:00",
+    "updated_at": "2025-08-23T12:24:29.732407+00:00",
     "name": "Aki Ram",
     "username": "aki_ram"
   },
@@ -178,5 +178,45 @@
     "updated_at": "2025-08-23T11:32:35.692359+00:00",
     "name": "0_0\\Zayka/0_0",
     "username": "Pepegaronni"
+  },
+  "1652148424": {
+    "state": {
+      "userId": 0,
+      "balance": 300,
+      "baseTap": 1,
+      "upgrades": {
+        "tapPower": 0,
+        "autoClick": 0,
+        "mult": 0,
+        "offline": 0
+      },
+      "lastTs": 1755957025537,
+      "energy": 0,
+      "claimedEnergy": 0,
+      "profile": "https://remanga.org/user/3204383/about"
+    },
+    "updated_at": "2025-08-23T13:50:25.130796+00:00",
+    "name": "𝚃𝙾𝚇𝙸𝙲",
+    "username": null
+  },
+  "1630259453": {
+    "state": {
+      "userId": 1630259453,
+      "balance": 367,
+      "baseTap": 1,
+      "upgrades": {
+        "tapPower": 0,
+        "autoClick": 0,
+        "mult": 0,
+        "offline": 0
+      },
+      "lastTs": 1755957183703,
+      "energy": 0,
+      "claimedEnergy": 0,
+      "profile": "https://remanga.org/user/108546/about"
+    },
+    "updated_at": "2025-08-23T13:53:03.223367+00:00",
+    "name": "Hentoki",
+    "username": "Nurdaulet_69"
   }
 }
