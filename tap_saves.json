@@ -2,7 +2,7 @@
   "1515127053": {
     "state": {
       "userId": 1515127053,
-      "balance": 166775,
+      "balance": 265140,
       "baseTap": 1,
       "upgrades": {
         "tapPower": 4,
@@ -10,13 +10,33 @@
         "mult": 3,
         "offline": 6
       },
-      "lastTs": 1755876423969,
+      "lastTs": 1755926925944,
       "energy": 1,
       "claimedEnergy": 61,
       "profile": "https://remanga.org/user/12762/about"
     },
-    "updated_at": "2025-08-22T15:27:03.731973+00:00",
+    "updated_at": "2025-08-23T05:28:46.152887+00:00",
     "name": "Сайтама",
     "username": "saitama01010"
+  },
+  "2038024329": {
+    "state": {
+      "userId": 2038024329,
+      "balance": 461,
+      "baseTap": 1,
+      "upgrades": {
+        "tapPower": 0,
+        "autoClick": 0,
+        "mult": 0,
+        "offline": 1
+      },
+      "lastTs": 1755879668769,
+      "energy": 0,
+      "claimedEnergy": 3,
+      "profile": "https://remanga.org/user/1602594/about"
+    },
+    "updated_at": "2025-08-22T16:21:08.066186+00:00",
+    "name": "Subaru",
+    "username": null
   }
 }
