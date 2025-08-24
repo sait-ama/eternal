@@ -15,8 +15,8 @@
     "norm": "kodokunayurei",
     "display": "KodokunaYurei",
     "initial": 54990,
-    "current": 99990,
-    "diff": 45000,
+    "current": 104390,
+    "diff": 49400,
     "avatar": "avatars/kodokunayurei.jpg",
     "profile": "https://remanga.org/user/108546/about",
     "guild": "Eternal Watchers",
@@ -825,7 +825,7 @@
     "profile": "https://remanga.org/user/12762/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "admiralsengoku",
