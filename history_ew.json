@@ -27,8 +27,8 @@
     "norm": "belashik",
     "display": "Belashik",
     "initial": 104070,
-    "current": 144490,
-    "diff": 40420,
+    "current": 146710,
+    "diff": 42640,
     "avatar": "avatars/belashik.jpg",
     "profile": "https://remanga.org/user/175047/about",
     "guild": "Eternal Watchers",
@@ -992,8 +992,8 @@
     "avatar": "avatars/hellsait.jpg",
     "profile": "https://remanga.org/user/2906080/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "nxita9",
