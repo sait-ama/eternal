@@ -36,6 +36,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "zurichka",
+    "display": "Zurichka",
+    "initial": 36000,
+    "current": 74500,
+    "diff": 38500,
+    "avatar": "avatars/zurichka.jpg",
+    "profile": "https://remanga.org/user/189990/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "harutsu",
     "display": "Harutsu",
     "initial": 31280,
@@ -91,18 +103,6 @@
     "diff": 28010,
     "avatar": "avatars/rezordaye.jpg",
     "profile": "https://remanga.org/user/210114/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "zurichka",
-    "display": "Zurichka",
-    "initial": 36000,
-    "current": 62500,
-    "diff": 26500,
-    "avatar": "avatars/zurichka.jpg",
-    "profile": "https://remanga.org/user/189990/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
