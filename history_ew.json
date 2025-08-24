@@ -228,6 +228,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "ewtaya",
+    "display": "EW_Taya_",
+    "initial": 36440,
+    "current": 48130,
+    "diff": 11690,
+    "avatar": "avatars/ewtaya.jpg",
+    "profile": "https://remanga.org/user/2325061/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "feelwhatlifeis",
     "display": "Feel_what_life_is",
     "initial": 26710,
@@ -372,18 +384,6 @@
     "last_active_human": "5 дн. назад"
   },
   {
-    "norm": "ewtaya",
-    "display": "EW_Taya_",
-    "initial": 36440,
-    "current": 44960,
-    "diff": 8520,
-    "avatar": "avatars/ewtaya.jpg",
-    "profile": "https://remanga.org/user/2325061/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
-  },
-  {
     "norm": "allentina",
     "display": "allentina",
     "initial": -6400,
@@ -429,7 +429,7 @@
     "profile": "https://remanga.org/user/201921/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "strayker5421",
