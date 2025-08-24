@@ -924,18 +924,6 @@
     "last_active_human": "10 дн. назад"
   },
   {
-    "norm": "역사관",
-    "display": "역사관",
-    "initial": 16480,
-    "current": 17050,
-    "diff": 570,
-    "avatar": "avatars/역사관.jpg",
-    "profile": "https://remanga.org/user/2448467/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
     "norm": "elduck",
     "display": "El_Duck",
     "initial": 109123,
@@ -1114,6 +1102,18 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
+  },
+  {
+    "norm": "역사관",
+    "display": "역사관",
+    "initial": 16480,
+    "current": 16480,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "volcopik",
