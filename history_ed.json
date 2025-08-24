@@ -348,6 +348,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "aмeн",
+    "display": "Амен",
+    "initial": 8000,
+    "current": 11000,
+    "diff": 3000,
+    "avatar": "avatars/aмeн.jpg",
+    "profile": "https://remanga.org/user/993301/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "acediaqq",
     "display": "Acediaqq",
     "initial": 6000,
@@ -502,18 +514,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
-  },
-  {
-    "norm": "aмeн",
-    "display": "Амен",
-    "initial": 8000,
-    "current": 10000,
-    "diff": 2000,
-    "avatar": "avatars/aмeн.jpg",
-    "profile": "https://remanga.org/user/993301/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "vallynor",
