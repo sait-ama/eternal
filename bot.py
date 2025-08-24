@@ -54,7 +54,7 @@ TOP10_FILE      = Path(os.getenv("TOP10_FILE",      str(DATA_DIR / "top10.json")
 REMANGA_DATA_FILES = [
     HISTORY_EW_FILE,
     HISTORY_ED_FILE,
-    DATA_DIR / "history_e.json",  # если есть
+    DATA_DIR / "history_ew.json,history_ed.json",  # если есть
 ]
 
 LINKS_FILE = DATA_DIR / "user_links.json"
@@ -73,7 +73,7 @@ BENYA_PHOTOS = sorted(BENYA_DIR.glob("*.jpg"))
 KRYA_PHOTOS  = sorted(KRYA_DIR.glob("*.jpg"))
 
 # ── GitHub выгрузка ──────────────────────────────────────────
-GITHUB_TOKEN        = os.getenv("GITHUB_TOKEN", "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").strip()         # REQUIRED
+GITHUB_TOKEN        = os.getenv("GITHUB_TOKEN", "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").strip()         # REQUIRED
 GITHUB_REPO         = os.getenv("GITHUB_REPO",  "sait-ama/eternal").strip()
 GITHUB_BRANCH       = os.getenv("GITHUB_BRANCH", "main").strip()
 GITHUB_PATH_PREFIX  = os.getenv("GITHUB_PATH_PREFIX", "").strip()   # например "data"
@@ -612,17 +612,34 @@ async def page_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
         page = int(parts[1]) if len(parts) > 1 else 0
         await send_page(query, guild_key, page, context, from_callback=True)
 
-# ───────────────────────── GitHub helper'ы ───────────────────
+# ───────────────────────── GitHub helper'ы (исправленные) ───────────────────
+
+GITHUB_UA = os.getenv("GITHUB_UA", "remanga-tapper-bot/1.0").strip()
+
 def _dst_path(name: str) -> str:
     if GITHUB_PATH_PREFIX:
         prefix = GITHUB_PATH_PREFIX.strip().strip("/").replace("\\", "/")
         return f"{prefix}/{name}"
     return name
 
-async def _gh_get_sha(session: aiohttp.ClientSession, repo: str, path: str, branch: str) -> Optional[str]:
+def _gh_headers(token: str) -> dict:
+    return {
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github+json",
+        "User-Agent": GITHUB_UA,
+    }
+
+async def _gh_get_sha(
+    session: aiohttp.ClientSession,
+    repo: str,
+    path: str,
+    branch: str,
+    token: str,
+) -> Optional[str]:
     url = f"https://api.github.com/repos/{repo}/contents/{path}"
     params = {"ref": branch}
-    async with session.get(url, params=params) as resp:
+    headers = _gh_headers(token)
+    async with session.get(url, params=params, headers=headers) as resp:
         if resp.status == 200:
             data = await resp.json()
             return data.get("sha")
@@ -633,7 +650,16 @@ async def _gh_get_sha(session: aiohttp.ClientSession, repo: str, path: str, bran
             log.warning("GET sha %s -> %s %s", path, resp.status, text)
             return None
 
-async def _gh_put_file(session: aiohttp.ClientSession, repo: str, path: str, branch: str, token: str, content_bytes: bytes, message: str, sha: Optional[str]) -> bool:
+async def _gh_put_file(
+    session: aiohttp.ClientSession,
+    repo: str,
+    path: str,
+    branch: str,
+    token: str,
+    content_bytes: bytes,
+    message: str,
+    sha: Optional[str],
+) -> bool:
     url = f"https://api.github.com/repos/{repo}/contents/{path}"
     payload = {
         "message": message,
@@ -642,10 +668,7 @@ async def _gh_put_file(session: aiohttp.ClientSession, repo: str, path: str, bra
     }
     if sha:
         payload["sha"] = sha
-    headers = {
-        "Authorization": f"Bearer {token}",
-        "Accept": "application/vnd.github+json",
-    }
+    headers = _gh_headers(token)
     async with session.put(url, headers=headers, json=payload) as resp:
         ok = resp.status in (200, 201)
         if not ok:
@@ -685,7 +708,10 @@ async def push_to_github(reply_chat_id: Optional[int], bot) -> None:
             if data is None:
                 results.append(f"❌ {name}: не прочитан {local_path}")
                 continue
-            sha = await _gh_get_sha(session, GITHUB_REPO, dst, GITHUB_BRANCH)
+
+            # ← теперь GET с токеном и User-Agent
+            sha = await _gh_get_sha(session, GITHUB_REPO, dst, GITHUB_BRANCH, GITHUB_TOKEN)
+
             msg = f"auto: update {name} at {datetime.now(timezone.utc).isoformat()}"
             ok = await _gh_put_file(session, GITHUB_REPO, dst, GITHUB_BRANCH, GITHUB_TOKEN, data, msg, sha)
             results.append(("✅" if ok else "❌") + f" {name} -> {GITHUB_REPO}:{GITHUB_BRANCH}/{dst}")
