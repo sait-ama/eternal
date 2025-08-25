@@ -60,6 +60,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "pepegaronni",
+    "display": "Pepegaronni",
+    "initial": -20864,
+    "current": 15550,
+    "diff": 36414,
+    "avatar": "avatars/pepegaronni.jpg",
+    "profile": "https://remanga.org/user/27168/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "desport",
     "display": "desport",
     "initial": 24730,
@@ -67,18 +79,6 @@
     "diff": 35910,
     "avatar": "avatars/desport.jpg",
     "profile": "https://remanga.org/user/216019/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "pepegaronni",
-    "display": "Pepegaronni",
-    "initial": -20864,
-    "current": 14470,
-    "diff": 35334,
-    "avatar": "avatars/pepegaronni.jpg",
-    "profile": "https://remanga.org/user/27168/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -321,7 +321,7 @@
     "profile": "https://remanga.org/user/1262251/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "satisfied",
