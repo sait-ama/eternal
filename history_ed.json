@@ -420,6 +420,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "hazenberg",
+    "display": "Hazenberg",
+    "initial": 6000,
+    "current": 9000,
+    "diff": 3000,
+    "avatar": "avatars/hazenberg.jpg",
+    "profile": "https://remanga.org/user/612259/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "acediaqq",
     "display": "Acediaqq",
     "initial": 6000,
@@ -464,8 +476,8 @@
     "avatar": "avatars/trillo.jpg",
     "profile": "https://remanga.org/user/207200/about",
     "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "dmitryflow",
@@ -694,18 +706,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
-  },
-  {
-    "norm": "hazenberg",
-    "display": "Hazenberg",
-    "initial": 6000,
-    "current": 7000,
-    "diff": 1000,
-    "avatar": "avatars/hazenberg.jpg",
-    "profile": "https://remanga.org/user/612259/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "11 дн. назад"
   },
   {
     "norm": "alafex",
