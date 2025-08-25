@@ -408,6 +408,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "ミュージシャン",
+    "display": "ミュージシャン",
+    "initial": 105000,
+    "current": 113000,
+    "diff": 8000,
+    "avatar": "avatars/ミュージシャン.jpg",
+    "profile": "https://remanga.org/user/938359/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "talent",
     "display": "Talent",
     "initial": 7510,
@@ -586,18 +598,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "9 дн. назад"
-  },
-  {
-    "norm": "ミュージシャン",
-    "display": "ミュージシャン",
-    "initial": 105000,
-    "current": 110000,
-    "diff": 5000,
-    "avatar": "avatars/ミュージシャン.jpg",
-    "profile": "https://remanga.org/user/938359/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "11 дн. назад"
   },
   {
     "norm": "spidvrassrochku",
