@@ -93,7 +93,7 @@
     "profile": "https://remanga.org/user/40277/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "beast",
@@ -300,6 +300,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "hatin",
+    "display": "Hatin",
+    "initial": 9720,
+    "current": 12900,
+    "diff": 3180,
+    "avatar": "avatars/hatin.jpg",
+    "profile": "https://remanga.org/user/2797890/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "stas211242",
     "display": "stas211242",
     "initial": 9130,
@@ -487,18 +499,6 @@
     "diff": 2220,
     "avatar": "avatars/sckatman.jpg",
     "profile": "https://remanga.org/user/136935/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
-  },
-  {
-    "norm": "hatin",
-    "display": "Hatin",
-    "initial": 9720,
-    "current": 11900,
-    "diff": 2180,
-    "avatar": "avatars/hatin.jpg",
-    "profile": "https://remanga.org/user/2797890/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "6 дн. назад"
