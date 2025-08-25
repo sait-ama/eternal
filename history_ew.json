@@ -888,6 +888,18 @@
     "last_active_human": "11 дн. назад"
   },
   {
+    "norm": "elduck",
+    "display": "El_Duck",
+    "initial": 109123,
+    "current": 109790,
+    "diff": 667,
+    "avatar": "avatars/elduck.jpg",
+    "profile": "https://remanga.org/user/1125410/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "meeqq",
     "display": "MeeQ_Q",
     "initial": 39750,
@@ -922,18 +934,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "11 дн. назад"
-  },
-  {
-    "norm": "elduck",
-    "display": "El_Duck",
-    "initial": 109123,
-    "current": 109600,
-    "diff": 477,
-    "avatar": "avatars/elduck.jpg",
-    "profile": "https://remanga.org/user/1125410/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "чмoшкaмoшкa",
