@@ -296,8 +296,8 @@
     "avatar": "avatars/llikojioma.jpg",
     "profile": "https://remanga.org/user/938430/about",
     "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "stas211242",
@@ -334,6 +334,18 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
+  },
+  {
+    "norm": "sw1ty",
+    "display": "Sw1ty",
+    "initial": 8000,
+    "current": 11000,
+    "diff": 3000,
+    "avatar": "avatars/sw1ty.jpg",
+    "profile": "https://remanga.org/user/3154400/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "sas47",
@@ -478,18 +490,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "6 дн. назад"
-  },
-  {
-    "norm": "sw1ty",
-    "display": "Sw1ty",
-    "initial": 8000,
-    "current": 10000,
-    "diff": 2000,
-    "avatar": "avatars/sw1ty.jpg",
-    "profile": "https://remanga.org/user/3154400/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "leyley",
