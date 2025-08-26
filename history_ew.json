@@ -891,13 +891,13 @@
     "norm": "elduck",
     "display": "El_Duck",
     "initial": 109123,
-    "current": 109790,
-    "diff": 667,
+    "current": 110000,
+    "diff": 877,
     "avatar": "avatars/elduck.jpg",
     "profile": "https://remanga.org/user/1125410/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "meeqq",
