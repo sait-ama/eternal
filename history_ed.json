@@ -588,6 +588,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "mefisto51",
+    "display": "Mefisto51",
+    "initial": 26000,
+    "current": 28000,
+    "diff": 2000,
+    "avatar": "avatars/mefisto51.jpg",
+    "profile": "https://remanga.org/user/335099/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "so1omoon",
     "display": "So1oMooN",
     "initial": 7000,
@@ -787,18 +799,6 @@
     "diff": 0,
     "avatar": "avatars/vaenkh.jpg",
     "profile": "https://remanga.org/user/410162/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "mefisto51",
-    "display": "Mefisto51",
-    "initial": 26000,
-    "current": 26000,
-    "diff": 0,
-    "avatar": "avatars/mefisto51.jpg",
-    "profile": "https://remanga.org/user/335099/about",
     "guild": "Eternal Demonic",
     "is_afk": true,
     "last_active_human": "нет данных"
