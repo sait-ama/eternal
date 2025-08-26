@@ -180,6 +180,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "feelwhatlifeis",
+    "display": "Feel_what_life_is",
+    "initial": 26710,
+    "current": 45880,
+    "diff": 19170,
+    "avatar": "avatars/feelwhatlifeis.jpg",
+    "profile": "https://remanga.org/user/2105597/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "dergauss",
     "display": "Dergauss",
     "initial": -2500,
@@ -259,18 +271,6 @@
     "diff": 11690,
     "avatar": "avatars/ewtaya.jpg",
     "profile": "https://remanga.org/user/2325061/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "feelwhatlifeis",
-    "display": "Feel_what_life_is",
-    "initial": 26710,
-    "current": 38370,
-    "diff": 11660,
-    "avatar": "avatars/feelwhatlifeis.jpg",
-    "profile": "https://remanga.org/user/2105597/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
@@ -720,6 +720,18 @@
     "last_active_human": "8 дн. назад"
   },
   {
+    "norm": "xmmxmm",
+    "display": "Xmmxmm",
+    "initial": 10000,
+    "current": 13300,
+    "diff": 3300,
+    "avatar": "avatars/xmmxmm.jpg",
+    "profile": "https://remanga.org/user/2724307/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "osmodeuss",
     "display": "osmodeuss",
     "initial": 10050,
@@ -790,18 +802,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "xmmxmm",
-    "display": "Xmmxmm",
-    "initial": 10000,
-    "current": 12940,
-    "diff": 2940,
-    "avatar": "avatars/xmmxmm.jpg",
-    "profile": "https://remanga.org/user/2724307/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "cкpыtыйинtpигaн",
