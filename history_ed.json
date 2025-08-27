@@ -1,5 +1,17 @@
 [
   {
+    "norm": "дoлинapeкиcetyнь",
+    "display": "ДолинаРекиСетунь",
+    "initial": 21750,
+    "current": 22600,
+    "diff": 850,
+    "avatar": "avatars/дoлинapeкиcetyнь.jpg",
+    "profile": "https://remanga.org/user/24432/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "rwbylove",
     "display": "RWBYLOVE",
     "initial": 20450,
@@ -703,18 +715,6 @@
     "diff": 0,
     "avatar": "avatars/alanhui.jpg",
     "profile": "https://remanga.org/user/2336976/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "дoлинapeкиcetyнь",
-    "display": "ДолинаРекиСетунь",
-    "initial": 21750,
-    "current": 21750,
-    "diff": 0,
-    "avatar": "avatars/дoлинapeкиcetyнь.jpg",
-    "profile": "https://remanga.org/user/24432/about",
     "guild": "Eternal Demonic",
     "is_afk": true,
     "last_active_human": "нет данных"
