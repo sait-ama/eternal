@@ -564,6 +564,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "nebulousvortex",
+    "display": "NebulousVortex",
+    "initial": 0,
+    "current": 5010,
+    "diff": 5010,
+    "avatar": "avatars/nebulousvortex.jpg",
+    "profile": "https://remanga.org/user/1003671/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "милыйкoхaй",
     "display": "МилыйКохай",
     "initial": 109320,
@@ -610,6 +622,18 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "6 дн. назад"
+  },
+  {
+    "norm": "shirochan",
+    "display": "Shiro_Chan",
+    "initial": 0,
+    "current": 5000,
+    "diff": 5000,
+    "avatar": "avatars/shirochan.jpg",
+    "profile": "https://remanga.org/user/9766/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "bagas",
