@@ -375,7 +375,7 @@ elProfSave.addEventListener('click', ()=>{
   let loaded=null;
   const raw = await cloudGet(CLOUD_KEY);
   if (raw){ try{ loaded=JSON.parse(raw);}catch{} }
-  if (!loaded){ try{ const r=localStorage.getItem(STATE_KEY); loaded=r?JSON.parse(r):null; }catch{} }
+  if (!loaded){ try{ const r=localStorage.getItem(eternal_state); loaded=r?JSON.parse(r):null; }catch{} }
   S = Object.assign(def(), loaded||{});
   applyOffline();
   saveLocal(); if (cloud) await cloudSet(CLOUD_KEY, JSON.stringify(S));
