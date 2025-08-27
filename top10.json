@@ -36,6 +36,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "pepegaronni",
+    "display": "Pepegaronni",
+    "initial": -20864,
+    "current": 20930,
+    "diff": 41794,
+    "avatar": "avatars/pepegaronni.jpg",
+    "profile": "https://remanga.org/user/27168/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "zurichka",
     "display": "Zurichka",
     "initial": 36000,
@@ -46,18 +58,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "pepegaronni",
-    "display": "Pepegaronni",
-    "initial": -20864,
-    "current": 16680,
-    "diff": 37544,
-    "avatar": "avatars/pepegaronni.jpg",
-    "profile": "https://remanga.org/user/27168/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "harutsu",
