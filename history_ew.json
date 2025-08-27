@@ -12,6 +12,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "кaйдeн",
+    "display": "Кайден",
+    "initial": 64610,
+    "current": 65610,
+    "diff": 1000,
+    "avatar": "avatars/кaйдeн.jpg",
+    "profile": "https://remanga.org/user/439629/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "rezordaye",
     "display": "rezord_aye",
     "initial": 49660,
@@ -19,6 +31,18 @@
     "diff": 400,
     "avatar": "avatars/rezordaye.jpg",
     "profile": "https://remanga.org/user/210114/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
+    "norm": "гocькa",
+    "display": "Госька",
+    "initial": 32470,
+    "current": 32810,
+    "diff": 340,
+    "avatar": "avatars/гocькa.jpg",
+    "profile": "https://remanga.org/user/1079084/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -139,18 +163,6 @@
     "diff": 0,
     "avatar": "avatars/бeлoхвoctый.jpg",
     "profile": "https://remanga.org/user/2874672/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "кaйдeн",
-    "display": "Кайден",
-    "initial": 64610,
-    "current": 64610,
-    "diff": 0,
-    "avatar": "avatars/кaйдeн.jpg",
-    "profile": "https://remanga.org/user/439629/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
@@ -535,18 +547,6 @@
     "diff": 0,
     "avatar": "avatars/creamwhite.jpg",
     "profile": "https://remanga.org/user/133044/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "гocькa",
-    "display": "Госька",
-    "initial": 32470,
-    "current": 32470,
-    "diff": 0,
-    "avatar": "avatars/гocькa.jpg",
-    "profile": "https://remanga.org/user/1079084/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
