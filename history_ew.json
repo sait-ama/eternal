@@ -717,7 +717,7 @@
     "profile": "https://remanga.org/user/732690/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "9 дн. назад"
+    "last_active_human": "10 дн. назад"
   },
   {
     "norm": "ялyчшийвмиpe",
@@ -1140,16 +1140,16 @@
     "last_active_human": "нет данных"
   },
   {
-    "norm": "역사관",
-    "display": "역사관",
-    "initial": 16480,
-    "current": 16480,
+    "norm": "독부바",
+    "display": "독부바",
+    "initial": 1280,
+    "current": 1280,
     "diff": 0,
     "avatar": "avatars/placeholder.jpg",
-    "profile": "https://remanga.org",
+    "profile": "https://remanga.org/user/3181995/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "is_afk": true,
+    "last_active_human": "нет данных"
   },
   {
     "norm": "volcopik",
