@@ -117,7 +117,7 @@
     "profile": "https://remanga.org/user/46754/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "бeлoхвoctый",
@@ -1210,5 +1210,17 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
+  },
+  {
+    "norm": "souzerend",
+    "display": "SouZeRenD",
+    "initial": 0,
+    "current": 0,
+    "diff": 0,
+    "avatar": "avatars/souzerend.jpg",
+    "profile": "https://remanga.org/user/2230415/about",
+    "guild": "Eternal Watchers",
+    "is_afk": true,
+    "last_active_human": "нет данных"
   }
 ]
