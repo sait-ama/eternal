@@ -492,6 +492,18 @@
     "last_active_human": "11 дн. назад"
   },
   {
+    "norm": "лoхoбыкнoвeнный",
+    "display": "ЛохОбыкновенный",
+    "initial": 27430,
+    "current": 33800,
+    "diff": 6370,
+    "avatar": "avatars/лoхoбыкнoвeнный.jpg",
+    "profile": "https://remanga.org/user/1496494/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "бeлoхвoctый",
     "display": "Белохвостый",
     "initial": 43630,
@@ -526,18 +538,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "лoхoбыкнoвeнный",
-    "display": "ЛохОбыкновенный",
-    "initial": 27430,
-    "current": 33170,
-    "diff": 5740,
-    "avatar": "avatars/лoхoбыкнoвeнный.jpg",
-    "profile": "https://remanga.org/user/1496494/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "overcooling",
@@ -837,7 +837,7 @@
     "profile": "https://remanga.org/user/1132063/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "nowarries",
@@ -897,7 +897,7 @@
     "profile": "https://remanga.org/user/1125410/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "meeqq",
