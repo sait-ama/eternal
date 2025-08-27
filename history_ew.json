@@ -468,6 +468,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "sinfullife",
+    "display": "SinfulLife",
+    "initial": 0,
+    "current": 8000,
+    "diff": 8000,
+    "avatar": "avatars/sinfullife.jpg",
+    "profile": "https://remanga.org/user/1632223/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "talent",
     "display": "Talent",
     "initial": 7510,
