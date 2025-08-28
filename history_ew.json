@@ -248,8 +248,8 @@
     "avatar": "avatars/darqee.jpg",
     "profile": "https://remanga.org/user/2234201/about",
     "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "festashka",
@@ -464,8 +464,8 @@
     "avatar": "avatars/Strayker5421.jpg",
     "profile": "https://remanga.org/user/434820/about",
     "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "clf",
@@ -644,8 +644,8 @@
     "avatar": "avatars/милыйкoхaй.jpg",
     "profile": "https://remanga.org/user/45081/about",
     "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "healot",
@@ -824,8 +824,8 @@
     "avatar": "avatars/misikira.jpg",
     "profile": "https://remanga.org/user/2350456/about",
     "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "bloodborrn",
