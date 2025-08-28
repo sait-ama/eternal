@@ -1,5 +1,17 @@
 [
   {
+    "norm": "bloodborrn",
+    "display": "Bloodborrn",
+    "initial": 16540,
+    "current": 20540,
+    "diff": 4000,
+    "avatar": "avatars/bloodborrn.jpg",
+    "profile": "https://remanga.org/user/832683/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "arbogastr",
     "display": "Arbogastr",
     "initial": 45500,
@@ -60,6 +72,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "thostriel",
+    "display": "Thostriel",
+    "initial": 43030,
+    "current": 44030,
+    "diff": 1000,
+    "avatar": "avatars/thostriel.jpg",
+    "profile": "https://remanga.org/user/1405392/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "belashik",
     "display": "Belashik",
     "initial": 149100,
@@ -67,6 +91,18 @@
     "diff": 900,
     "avatar": "avatars/belashik.jpg",
     "profile": "https://remanga.org/user/175047/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
+    "norm": "гocькa",
+    "display": "Госька",
+    "initial": 32470,
+    "current": 33020,
+    "diff": 550,
+    "avatar": "avatars/гocькa.jpg",
+    "profile": "https://remanga.org/user/1079084/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -91,18 +127,6 @@
     "diff": 350,
     "avatar": "avatars/xmmxmm.jpg",
     "profile": "https://remanga.org/user/2724307/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "гocькa",
-    "display": "Госька",
-    "initial": 32470,
-    "current": 32810,
-    "diff": 340,
-    "avatar": "avatars/гocькa.jpg",
-    "profile": "https://remanga.org/user/1079084/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -612,18 +636,6 @@
     "last_active_human": "нет данных"
   },
   {
-    "norm": "thostriel",
-    "display": "Thostriel",
-    "initial": 43030,
-    "current": 43030,
-    "diff": 0,
-    "avatar": "avatars/thostriel.jpg",
-    "profile": "https://remanga.org/user/1405392/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
     "norm": "nebulousvortex",
     "display": "NebulousVortex",
     "initial": 5010,
@@ -756,18 +768,6 @@
     "last_active_human": "нет данных"
   },
   {
-    "norm": "vladosrat",
-    "display": "vladosrat",
-    "initial": 47610,
-    "current": 47610,
-    "diff": 0,
-    "avatar": "avatars/vladosrat.jpg",
-    "profile": "https://remanga.org/user/1037182/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
     "norm": "asura",
     "display": "__ASURA__",
     "initial": 13600,
@@ -826,18 +826,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "bloodborrn",
-    "display": "Bloodborrn",
-    "initial": 16540,
-    "current": 16540,
-    "diff": 0,
-    "avatar": "avatars/bloodborrn.jpg",
-    "profile": "https://remanga.org/user/832683/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
   },
   {
     "norm": "temƥeຮt",
