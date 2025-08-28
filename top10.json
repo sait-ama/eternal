@@ -48,6 +48,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "pepegaronni",
+    "display": "Pepegaronni",
+    "initial": 28630,
+    "current": 30980,
+    "diff": 2350,
+    "avatar": "avatars/pepegaronni.jpg",
+    "profile": "https://remanga.org/user/27168/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "arbogastr",
     "display": "Arbogastr",
     "initial": 45500,
@@ -103,18 +115,6 @@
     "diff": 1000,
     "avatar": "avatars/darkangei.jpg",
     "profile": "https://remanga.org/user/458815/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "thostriel",
-    "display": "Thostriel",
-    "initial": 43030,
-    "current": 44030,
-    "diff": 1000,
-    "avatar": "avatars/thostriel.jpg",
-    "profile": "https://remanga.org/user/1405392/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
