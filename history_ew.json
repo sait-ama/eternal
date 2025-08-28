@@ -1,5 +1,17 @@
 [
   {
+    "norm": "darqee",
+    "display": "DarQee",
+    "initial": 23570,
+    "current": 28730,
+    "diff": 5160,
+    "avatar": "avatars/darqee.jpg",
+    "profile": "https://remanga.org/user/2234201/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "vladosrat",
     "display": "vladosrat",
     "initial": 47610,
@@ -358,18 +370,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
-  },
-  {
-    "norm": "darqee",
-    "display": "DarQee",
-    "initial": 23570,
-    "current": 23570,
-    "diff": 0,
-    "avatar": "avatars/darqee.jpg",
-    "profile": "https://remanga.org/user/2234201/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "festashka",
