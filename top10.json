@@ -60,6 +60,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "banshei",
+    "display": "BanShei",
+    "initial": 11000,
+    "current": 12000,
+    "diff": 1000,
+    "avatar": "avatars/banshei.jpg",
+    "profile": "https://remanga.org/user/204988/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "beast",
     "display": "Beast_",
     "initial": 47130,
@@ -103,18 +115,6 @@
     "diff": 400,
     "avatar": "avatars/rezordaye.jpg",
     "profile": "https://remanga.org/user/210114/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "xmmxmm",
-    "display": "Xmmxmm",
-    "initial": 13650,
-    "current": 14000,
-    "diff": 350,
-    "avatar": "avatars/xmmxmm.jpg",
-    "profile": "https://remanga.org/user/2724307/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
