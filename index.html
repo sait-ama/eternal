@@ -277,11 +277,11 @@ const ITEMS = [
   { id:"tapPower", icon:"👆", title:"Сила тапа", desc:"Каждый тап даёт больше монет.",
     eprice:l=>1 + l, buy:()=>{ S.upgrades.tapPower++; } },
   { id:"autoClick", icon:"🤖", title:"Автокликер", desc:"Пассивный доход в секунду.",
-    eprice:l=>2 + l, buy:()=>{ S.upgrades.autoClick++; } },
+    eprice:l=>1 + l, buy:()=>{ S.upgrades.autoClick++; } },
   { id:"mult", icon:"✨", title:"Множитель", desc:"Множит доходы от тапа и AFK.",
-    eprice:l=>3 + 2*l, buy:()=>{ S.upgrades.mult++; } },
+    eprice:l=>2 + 2*l, buy:()=>{ S.upgrades.mult++; } },
   { id:"offline", icon:"🌙", title:"Офлайн-фарм", desc:"Повышает доход в офлайне.",
-    eprice:l=>3 + l, buy:()=>{ S.upgrades.offline++; } },
+    eprice:l=>2 + l, buy:()=>{ S.upgrades.offline++; } },
 ];
 
 function renderShop(){
