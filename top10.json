@@ -48,6 +48,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "nikesnt",
+    "display": "NikesNt",
+    "initial": 10040,
+    "current": 13200,
+    "diff": 3160,
+    "avatar": "avatars/nikesnt.jpg",
+    "profile": "https://remanga.org/user/1227659/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "abyss",
     "display": "_Abyss_",
     "initial": 19840,
@@ -106,17 +118,5 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "monalize",
-    "display": "MonaLize",
-    "initial": 36700,
-    "current": 38700,
-    "diff": 2000,
-    "avatar": "avatars/monalize.jpg",
-    "profile": "https://remanga.org/user/809195/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   }
 ]
