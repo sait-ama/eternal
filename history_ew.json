@@ -192,6 +192,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "osmodeuss",
+    "display": "osmodeuss",
+    "initial": 13110,
+    "current": 15110,
+    "diff": 2000,
+    "avatar": "avatars/osmodeuss.jpg",
+    "profile": "https://remanga.org/user/928524/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "okiarya",
     "display": "Okiarya",
     "initial": 64120,
@@ -907,18 +919,6 @@
     "diff": 0,
     "avatar": "avatars/asura.jpg",
     "profile": "https://remanga.org/user/1365587/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "osmodeuss",
-    "display": "osmodeuss",
-    "initial": 13110,
-    "current": 13110,
-    "diff": 0,
-    "avatar": "avatars/osmodeuss.jpg",
-    "profile": "https://remanga.org/user/928524/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
