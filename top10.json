@@ -72,6 +72,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "laytee",
+    "display": "Laytee",
+    "initial": 10330,
+    "current": 13460,
+    "diff": 3130,
+    "avatar": "avatars/laytee.jpg",
+    "profile": "https://remanga.org/user/2488048/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "abyss",
     "display": "_Abyss_",
     "initial": 19840,
@@ -103,18 +115,6 @@
     "diff": 2500,
     "avatar": "avatars/tavik.jpg",
     "profile": "https://remanga.org/user/72974/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "pepegaronni",
-    "display": "Pepegaronni",
-    "initial": 28630,
-    "current": 30980,
-    "diff": 2350,
-    "avatar": "avatars/pepegaronni.jpg",
-    "profile": "https://remanga.org/user/27168/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
