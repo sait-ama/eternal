@@ -108,13 +108,13 @@
     "last_active_human": "вчера"
   },
   {
-    "norm": "zarti",
-    "display": "zarti",
-    "initial": 14110,
-    "current": 16110,
+    "norm": "monalize",
+    "display": "MonaLize",
+    "initial": 36700,
+    "current": 38700,
     "diff": 2000,
-    "avatar": "avatars/zarti.jpg",
-    "profile": "https://remanga.org/user/845606/about",
+    "avatar": "avatars/monalize.jpg",
+    "profile": "https://remanga.org/user/809195/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
