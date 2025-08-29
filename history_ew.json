@@ -12,6 +12,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "кaпиtaнзaнyдa",
+    "display": "Капитан-зануда",
+    "initial": 12000,
+    "current": 17500,
+    "diff": 5500,
+    "avatar": "avatars/кaпиtaнзaнyдa.jpg",
+    "profile": "https://remanga.org/user/1323051/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "vladosrat",
     "display": "vladosrat",
     "initial": 47610,
@@ -1087,18 +1099,6 @@
     "diff": 0,
     "avatar": "avatars/greein.jpg",
     "profile": "https://remanga.org/user/1089770/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "кaпиtaнзaнyдa",
-    "display": "Капитан-зануда",
-    "initial": 12000,
-    "current": 12000,
-    "diff": 0,
-    "avatar": "avatars/кaпиtaнзaнyдa.jpg",
-    "profile": "https://remanga.org/user/1323051/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
