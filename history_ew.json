@@ -108,6 +108,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "zarti",
+    "display": "zarti",
+    "initial": 14110,
+    "current": 16110,
+    "diff": 2000,
+    "avatar": "avatars/zarti.jpg",
+    "profile": "https://remanga.org/user/845606/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "okiarya",
     "display": "Okiarya",
     "initial": 64120,
@@ -751,18 +763,6 @@
     "diff": 0,
     "avatar": "avatars/ctapeйшинaчy.jpg",
     "profile": "https://remanga.org/user/69640/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "zarti",
-    "display": "zarti",
-    "initial": 14110,
-    "current": 14110,
-    "diff": 0,
-    "avatar": "avatars/zarti.jpg",
-    "profile": "https://remanga.org/user/845606/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
