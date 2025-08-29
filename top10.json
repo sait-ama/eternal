@@ -108,15 +108,15 @@
     "last_active_human": "вчера"
   },
   {
-    "norm": "okiarya",
-    "display": "Okiarya",
-    "initial": 64120,
-    "current": 66020,
-    "diff": 1900,
-    "avatar": "avatars/okiarya.jpg",
-    "profile": "https://remanga.org/user/2391629/about",
+    "norm": "zarti",
+    "display": "zarti",
+    "initial": 14110,
+    "current": 16110,
+    "diff": 2000,
+    "avatar": "avatars/zarti.jpg",
+    "profile": "https://remanga.org/user/845606/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   }
 ]
