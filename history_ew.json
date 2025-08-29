@@ -240,6 +240,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "чмoшкaмoшкa",
+    "display": "Чмошка-Мошка",
+    "initial": 11280,
+    "current": 12180,
+    "diff": 900,
+    "avatar": "avatars/чмoшкaмoшкa.jpg",
+    "profile": "https://remanga.org/user/2991171/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "temƥeຮt",
     "display": "TeᴍƤeຮt",
     "initial": 13000,
@@ -991,18 +1003,6 @@
     "diff": 0,
     "avatar": "avatars/mangalev.jpg",
     "profile": "https://remanga.org/user/1096325/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "чмoшкaмoшкa",
-    "display": "Чмошка-Мошка",
-    "initial": 11280,
-    "current": 11280,
-    "diff": 0,
-    "avatar": "avatars/чмoшкaмoшкa.jpg",
-    "profile": "https://remanga.org/user/2991171/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
