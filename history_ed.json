@@ -84,6 +84,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "rwbylove",
+    "display": "RWBYLOVE",
+    "initial": 20450,
+    "current": 21320,
+    "diff": 870,
+    "avatar": "avatars/rwbylove.jpg",
+    "profile": "https://remanga.org/user/740757/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "дoлинapeкиcetyнь",
     "display": "ДолинаРекиСетунь",
     "initial": 21750,
@@ -115,18 +127,6 @@
     "diff": 300,
     "avatar": "avatars/placeholder.jpg",
     "profile": "https://remanga.org/user/40277/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера"
-  },
-  {
-    "norm": "rwbylove",
-    "display": "RWBYLOVE",
-    "initial": 20450,
-    "current": 20640,
-    "diff": 190,
-    "avatar": "avatars/rwbylove.jpg",
-    "profile": "https://remanga.org/user/740757/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
