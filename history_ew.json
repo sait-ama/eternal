@@ -156,6 +156,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "elduck",
+    "display": "El_Duck",
+    "initial": 110000,
+    "current": 111000,
+    "diff": 1000,
+    "avatar": "avatars/elduck.jpg",
+    "profile": "https://remanga.org/user/1125410/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "belashik",
     "display": "Belashik",
     "initial": 149100,
@@ -931,18 +943,6 @@
     "diff": 0,
     "avatar": "avatars/frozenjfx.jpg",
     "profile": "https://remanga.org/user/594356/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "elduck",
-    "display": "El_Duck",
-    "initial": 110000,
-    "current": 110000,
-    "diff": 0,
-    "avatar": "avatars/elduck.jpg",
-    "profile": "https://remanga.org/user/1125410/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
