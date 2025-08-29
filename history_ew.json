@@ -432,6 +432,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "akiragame",
+    "display": "AkiraGame",
+    "initial": 61970,
+    "current": 62160,
+    "diff": 190,
+    "avatar": "avatars/akiragame.jpg",
+    "profile": "https://remanga.org/user/1714962/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "sunshi",
     "display": "Sunshi",
     "initial": 7660,
@@ -439,18 +451,6 @@
     "diff": 140,
     "avatar": "avatars/sunshi.jpg",
     "profile": "https://remanga.org/user/2317545/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
-  },
-  {
-    "norm": "akiragame",
-    "display": "AkiraGame",
-    "initial": 61970,
-    "current": 62050,
-    "diff": 80,
-    "avatar": "avatars/akiragame.jpg",
-    "profile": "https://remanga.org/user/1714962/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
