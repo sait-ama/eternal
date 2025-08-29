@@ -324,6 +324,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "talent",
+    "display": "Talent",
+    "initial": 15460,
+    "current": 16550,
+    "diff": 1090,
+    "avatar": "avatars/talent.jpg",
+    "profile": "https://remanga.org/user/926473/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ewtaya",
     "display": "EW_Taya_",
     "initial": 48130,
@@ -823,18 +835,6 @@
     "diff": 0,
     "avatar": "avatars/sinfullife.jpg",
     "profile": "https://remanga.org/user/1632223/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "talent",
-    "display": "Talent",
-    "initial": 15460,
-    "current": 15460,
-    "diff": 0,
-    "avatar": "avatars/talent.jpg",
-    "profile": "https://remanga.org/user/926473/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
