@@ -576,6 +576,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "йopм",
+    "display": "Йорм",
+    "initial": 23340,
+    "current": 23850,
+    "diff": 510,
+    "avatar": "avatars/йopм.jpg",
+    "profile": "https://remanga.org/user/208257/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "chirusan",
     "display": "Chiru-san",
     "initial": 11850,
@@ -811,18 +823,6 @@
     "diff": 0,
     "avatar": "avatars/satisfied.jpg",
     "profile": "https://remanga.org/user/876190/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "йopм",
-    "display": "Йорм",
-    "initial": 23340,
-    "current": 23340,
-    "diff": 0,
-    "avatar": "avatars/йopм.jpg",
-    "profile": "https://remanga.org/user/208257/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
