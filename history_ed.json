@@ -264,6 +264,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "sanctuary",
+    "display": "Sanctuary_",
+    "initial": 10000,
+    "current": 11000,
+    "diff": 1000,
+    "avatar": "avatars/sanctuary.jpg",
+    "profile": "https://remanga.org/user/1511313/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "beast",
     "display": "Beast_",
     "initial": 47130,
@@ -823,18 +835,6 @@
     "diff": 0,
     "avatar": "avatars/feazxch.jpg",
     "profile": "https://remanga.org/user/227543/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "sanctuary",
-    "display": "Sanctuary_",
-    "initial": 10000,
-    "current": 10000,
-    "diff": 0,
-    "avatar": "avatars/sanctuary.jpg",
-    "profile": "https://remanga.org/user/1511313/about",
     "guild": "Eternal Demonic",
     "is_afk": true,
     "last_active_human": "нет данных"
