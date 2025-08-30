@@ -252,6 +252,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "tokkebi11",
+    "display": "ToKKeBi11",
+    "initial": 11350,
+    "current": 13480,
+    "diff": 2130,
+    "avatar": "avatars/tokkebi11.jpg",
+    "profile": "https://remanga.org/user/1132063/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ፚꮼꮢꭵ૮ꮒꮶꮧ",
     "display": "ፚᏬᏒᎥ૮ᏂᏦᏗ",
     "initial": 80000,
@@ -1027,18 +1039,6 @@
     "diff": 0,
     "avatar": "avatars/cкpыtыйинtpигaн.jpg",
     "profile": "https://remanga.org/user/410852/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "tokkebi11",
-    "display": "ToKKeBi11",
-    "initial": 11350,
-    "current": 11350,
-    "diff": 0,
-    "avatar": "avatars/tokkebi11.jpg",
-    "profile": "https://remanga.org/user/1132063/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
