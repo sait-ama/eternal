@@ -1,5 +1,17 @@
 [
   {
+    "norm": "sunburst",
+    "display": "Sunburst",
+    "initial": 9000,
+    "current": 14000,
+    "diff": 5000,
+    "avatar": "avatars/sunburst.jpg",
+    "profile": "https://remanga.org/user/34154/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "hatin",
     "display": "Hatin",
     "initial": 12900,
@@ -823,18 +835,6 @@
     "diff": 0,
     "avatar": "avatars/sanctuary.jpg",
     "profile": "https://remanga.org/user/1511313/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "sunburst",
-    "display": "Sunburst",
-    "initial": 9000,
-    "current": 9000,
-    "diff": 0,
-    "avatar": "avatars/sunburst.jpg",
-    "profile": "https://remanga.org/user/34154/about",
     "guild": "Eternal Demonic",
     "is_afk": true,
     "last_active_human": "нет данных"
