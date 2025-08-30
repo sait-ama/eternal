@@ -360,6 +360,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "chitandael",
+    "display": "Chitandael",
+    "initial": 39780,
+    "current": 40830,
+    "diff": 1050,
+    "avatar": "avatars/chitandael.jpg",
+    "profile": "https://remanga.org/user/372102/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ewtaya",
     "display": "EW_Taya_",
     "initial": 48130,
@@ -751,18 +763,6 @@
     "diff": 0,
     "avatar": "avatars/satisfied.jpg",
     "profile": "https://remanga.org/user/876190/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "chitandael",
-    "display": "Chitandael",
-    "initial": 39780,
-    "current": 39780,
-    "diff": 0,
-    "avatar": "avatars/chitandael.jpg",
-    "profile": "https://remanga.org/user/372102/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
