@@ -1,5 +1,17 @@
 [
   {
+    "norm": "hatin",
+    "display": "Hatin",
+    "initial": 12900,
+    "current": 14940,
+    "diff": 2040,
+    "avatar": "avatars/hatin.jpg",
+    "profile": "https://remanga.org/user/2797890/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "rwbylove",
     "display": "RWBYLOVE",
     "initial": 20450,
@@ -46,18 +58,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "hatin",
-    "display": "Hatin",
-    "initial": 12900,
-    "current": 13900,
-    "diff": 1000,
-    "avatar": "avatars/hatin.jpg",
-    "profile": "https://remanga.org/user/2797890/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "kim5+",
