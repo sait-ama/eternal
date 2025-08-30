@@ -576,6 +576,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "독부바",
+    "display": "독부바",
+    "initial": 1280,
+    "current": 1760,
+    "diff": 480,
+    "avatar": "avatars/독부바.jpg",
+    "profile": "https://remanga.org/user/3181995/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "rezordaye",
     "display": "rezord_aye",
     "initial": 49660,
@@ -1135,18 +1147,6 @@
     "diff": 0,
     "avatar": "avatars/techal.jpg",
     "profile": "https://remanga.org/user/1681839/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "독부바",
-    "display": "독부바",
-    "initial": 1280,
-    "current": 1280,
-    "diff": 0,
-    "avatar": "avatars/독부바.jpg",
-    "profile": "https://remanga.org/user/3181995/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
