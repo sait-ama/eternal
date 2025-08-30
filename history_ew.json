@@ -588,6 +588,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "nowarries",
+    "display": "No_warries",
+    "initial": 16490,
+    "current": 16760,
+    "diff": 270,
+    "avatar": "avatars/nowarries.jpg",
+    "profile": "https://remanga.org/user/1160253/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "sunshi",
     "display": "Sunshi",
     "initial": 7660,
@@ -1027,18 +1039,6 @@
     "diff": 0,
     "avatar": "avatars/tokkebi11.jpg",
     "profile": "https://remanga.org/user/1132063/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "nowarries",
-    "display": "No_warries",
-    "initial": 16490,
-    "current": 16490,
-    "diff": 0,
-    "avatar": "avatars/nowarries.jpg",
-    "profile": "https://remanga.org/user/1160253/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
