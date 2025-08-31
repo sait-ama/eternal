@@ -1,5 +1,17 @@
 [
   {
+    "norm": "pepegaronni",
+    "display": "Pepegaronni",
+    "initial": 28630,
+    "current": 41180,
+    "diff": 12550,
+    "avatar": "avatars/pepegaronni.jpg",
+    "profile": "https://remanga.org/user/27168/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "darqee",
     "display": "DarQee",
     "initial": 23570,
@@ -10,18 +22,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "pepegaronni",
-    "display": "Pepegaronni",
-    "initial": 28630,
-    "current": 37630,
-    "diff": 9000,
-    "avatar": "avatars/pepegaronni.jpg",
-    "profile": "https://remanga.org/user/27168/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "shirochan",
