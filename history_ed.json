@@ -36,6 +36,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "banshei",
+    "display": "BanShei",
+    "initial": 11000,
+    "current": 13000,
+    "diff": 2000,
+    "avatar": "avatars/banshei.jpg",
+    "profile": "https://remanga.org/user/204988/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "alanhui",
     "display": "alan-hui",
     "initial": 8660,
@@ -130,18 +142,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "banshei",
-    "display": "BanShei",
-    "initial": 11000,
-    "current": 12000,
-    "diff": 1000,
-    "avatar": "avatars/banshei.jpg",
-    "profile": "https://remanga.org/user/204988/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "издateль",
