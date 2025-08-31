@@ -312,6 +312,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "talent",
+    "display": "Talent",
+    "initial": 15460,
+    "current": 17780,
+    "diff": 2320,
+    "avatar": "avatars/talent.jpg",
+    "profile": "https://remanga.org/user/926473/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "лoхoбыкнoвeнный",
     "display": "ЛохОбыкновенный",
     "initial": 33800,
@@ -406,18 +418,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "talent",
-    "display": "Talent",
-    "initial": 15460,
-    "current": 17060,
-    "diff": 1600,
-    "avatar": "avatars/talent.jpg",
-    "profile": "https://remanga.org/user/926473/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "andrefalkonen",
