@@ -132,6 +132,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "cracker7",
+    "display": "Cracker_7",
+    "initial": 12000,
+    "current": 13000,
+    "diff": 1000,
+    "avatar": "avatars/cracker7.jpg",
+    "profile": "https://remanga.org/user/197380/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "kim5+",
     "display": "Kim_5+",
     "initial": 10000,
@@ -559,18 +571,6 @@
     "diff": 0,
     "avatar": "avatars/издateль.jpg",
     "profile": "https://remanga.org/user/2439923/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "cracker7",
-    "display": "Cracker_7",
-    "initial": 12000,
-    "current": 12000,
-    "diff": 0,
-    "avatar": "avatars/cracker7.jpg",
-    "profile": "https://remanga.org/user/197380/about",
     "guild": "Eternal Demonic",
     "is_afk": true,
     "last_active_human": "нет данных"
