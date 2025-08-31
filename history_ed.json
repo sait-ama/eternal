@@ -48,6 +48,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "rwbylove",
+    "display": "RWBYLOVE",
+    "initial": 20450,
+    "current": 22160,
+    "diff": 1710,
+    "avatar": "avatars/rwbylove.jpg",
+    "profile": "https://remanga.org/user/740757/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "alanhui",
     "display": "alan-hui",
     "initial": 8660,
@@ -55,18 +67,6 @@
     "diff": 1600,
     "avatar": "avatars/alanhui.jpg",
     "profile": "https://remanga.org/user/2336976/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера"
-  },
-  {
-    "norm": "rwbylove",
-    "display": "RWBYLOVE",
-    "initial": 20450,
-    "current": 21880,
-    "diff": 1430,
-    "avatar": "avatars/rwbylove.jpg",
-    "profile": "https://remanga.org/user/740757/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
