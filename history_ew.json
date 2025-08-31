@@ -600,6 +600,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "독부바",
+    "display": "독부바",
+    "initial": 1280,
+    "current": 1890,
+    "diff": 610,
+    "avatar": "avatars/독부바.jpg",
+    "profile": "https://remanga.org/user/3181995/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "misikira",
     "display": "Misikira",
     "initial": 19300,
@@ -646,18 +658,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "독부바",
-    "display": "독부바",
-    "initial": 1280,
-    "current": 1760,
-    "diff": 480,
-    "avatar": "avatars/독부바.jpg",
-    "profile": "https://remanga.org/user/3181995/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "rezordaye",
