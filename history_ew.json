@@ -492,6 +492,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "healot",
+    "display": "healot",
+    "initial": 21500,
+    "current": 22500,
+    "diff": 1000,
+    "avatar": "avatars/healot.jpg",
+    "profile": "https://remanga.org/user/2505495/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "elduck",
     "display": "El_Duck",
     "initial": 110000,
@@ -982,18 +994,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
-  },
-  {
-    "norm": "healot",
-    "display": "healot",
-    "initial": 21500,
-    "current": 21500,
-    "diff": 0,
-    "avatar": "avatars/healot.jpg",
-    "profile": "https://remanga.org/user/2505495/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
   },
   {
     "norm": "spidvrassrochku",
