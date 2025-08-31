@@ -240,6 +240,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "nebulousvortex",
+    "display": "NebulousVortex",
+    "initial": 5010,
+    "current": 8010,
+    "diff": 3000,
+    "avatar": "avatars/nebulousvortex.jpg",
+    "profile": "https://remanga.org/user/1003671/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "к4йдэн",
     "display": "К4йдэн",
     "initial": 12840,
@@ -967,18 +979,6 @@
     "diff": 0,
     "avatar": "avatars/overcooling.jpg",
     "profile": "https://remanga.org/user/52079/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "nebulousvortex",
-    "display": "NebulousVortex",
-    "initial": 5010,
-    "current": 5010,
-    "diff": 0,
-    "avatar": "avatars/nebulousvortex.jpg",
-    "profile": "https://remanga.org/user/1003671/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
