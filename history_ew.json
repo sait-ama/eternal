@@ -252,6 +252,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "abigor",
+    "display": "Abigor.",
+    "initial": 19870,
+    "current": 22390,
+    "diff": 2520,
+    "avatar": "avatars/abigor.jpg",
+    "profile": "https://remanga.org/user/2093362/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "calistotzy",
     "display": "CalistoTzy",
     "initial": 117000,
@@ -943,18 +955,6 @@
     "diff": 0,
     "avatar": "avatars/creamwhite.jpg",
     "profile": "https://remanga.org/user/133044/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "abigor",
-    "display": "Abigor.",
-    "initial": 19870,
-    "current": 19870,
-    "diff": 0,
-    "avatar": "avatars/abigor.jpg",
-    "profile": "https://remanga.org/user/2093362/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
