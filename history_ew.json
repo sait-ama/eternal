@@ -60,6 +60,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "darkangei",
+    "display": "Dark_AngeI",
+    "initial": 23140,
+    "current": 28360,
+    "diff": 5220,
+    "avatar": "avatars/darkangei.jpg",
+    "profile": "https://remanga.org/user/458815/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ewnobon",
     "display": "EW_NoBoN",
     "initial": 65000,
@@ -295,18 +307,6 @@
     "diff": 2310,
     "avatar": "avatars/лoхoбыкнoвeнный.jpg",
     "profile": "https://remanga.org/user/1496494/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "darkangei",
-    "display": "Dark_AngeI",
-    "initial": 23140,
-    "current": 25360,
-    "diff": 2220,
-    "avatar": "avatars/darkangei.jpg",
-    "profile": "https://remanga.org/user/458815/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
