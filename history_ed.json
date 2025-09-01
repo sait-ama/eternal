@@ -516,6 +516,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "pилcyчк@",
+    "display": "Рил_сучк@.",
+    "initial": 10780,
+    "current": 11780,
+    "diff": 1000,
+    "avatar": "avatars/pилcyчк@.jpg",
+    "profile": "https://remanga.org/user/1245568/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "sanctuary",
     "display": "Sanctuary_",
     "initial": 10000,
@@ -763,18 +775,6 @@
     "diff": 0,
     "avatar": "avatars/saytoriya.jpg",
     "profile": "https://remanga.org/user/126709/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "pилcyчк@",
-    "display": "Рил_сучк@.",
-    "initial": 10780,
-    "current": 10780,
-    "diff": 0,
-    "avatar": "avatars/pилcyчк@.jpg",
-    "profile": "https://remanga.org/user/1245568/about",
     "guild": "Eternal Demonic",
     "is_afk": true,
     "last_active_human": "нет данных"
