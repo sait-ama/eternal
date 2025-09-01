@@ -48,6 +48,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "souzerend",
+    "display": "SouZeRenD",
+    "initial": 0,
+    "current": 8000,
+    "diff": 8000,
+    "avatar": "avatars/souzerend.jpg",
+    "profile": "https://remanga.org/user/2230415/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "яшtyг",
     "display": "Яштуг",
     "initial": 128780,
@@ -106,17 +118,5 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "ewnobon",
-    "display": "EW_NoBoN",
-    "initial": 65000,
-    "current": 70000,
-    "diff": 5000,
-    "avatar": "avatars/ewnobon.jpg",
-    "profile": "https://remanga.org/user/155090/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   }
 ]
