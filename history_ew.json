@@ -528,6 +528,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "rayze",
+    "display": "RayZe",
+    "initial": 15730,
+    "current": 17510,
+    "diff": 1780,
+    "avatar": "avatars/rayze.jpg",
+    "profile": "https://remanga.org/user/108995/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "rezordaye",
     "display": "rezord_aye",
     "initial": 49660,
@@ -586,18 +598,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "rayze",
-    "display": "RayZe",
-    "initial": 15730,
-    "current": 16920,
-    "diff": 1190,
-    "avatar": "avatars/rayze.jpg",
-    "profile": "https://remanga.org/user/108995/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "asura",
@@ -828,6 +828,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "akiragame",
+    "display": "AkiraGame",
+    "initial": 61970,
+    "current": 62370,
+    "diff": 400,
+    "avatar": "avatars/akiragame.jpg",
+    "profile": "https://remanga.org/user/1714962/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ctapeйшинaчy",
     "display": "Старейшина-Чу",
     "initial": 20700,
@@ -850,18 +862,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "akiragame",
-    "display": "AkiraGame",
-    "initial": 61970,
-    "current": 62290,
-    "diff": 320,
-    "avatar": "avatars/akiragame.jpg",
-    "profile": "https://remanga.org/user/1714962/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "nowarries",
