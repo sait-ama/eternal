@@ -441,7 +441,7 @@
     "profile": "https://remanga.org/user/926473/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "лoхoбыкнoвeнный",
@@ -583,6 +583,18 @@
     "diff": 1400,
     "avatar": "avatars/akiram.jpg",
     "profile": "https://remanga.org/user/3307870/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
+    "norm": "totкtocмotpиt",
+    "display": "тот_кто_смотрит....",
+    "initial": 25780,
+    "current": 27180,
+    "diff": 1400,
+    "avatar": "avatars/totкtocмotpиt.jpg",
+    "profile": "https://remanga.org/user/201921/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -742,18 +754,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "totкtocмotpиt",
-    "display": "тот_кто_смотрит....",
-    "initial": 25780,
-    "current": 26680,
-    "diff": 900,
-    "avatar": "avatars/totкtocмotpиt.jpg",
-    "profile": "https://remanga.org/user/201921/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "чмoшкaмoшкa",
