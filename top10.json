@@ -60,6 +60,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "efiliyens",
+    "display": "Efiliyens",
+    "initial": 21000,
+    "current": 26500,
+    "diff": 5500,
+    "avatar": "avatars/efiliyens.jpg",
+    "profile": "https://remanga.org/user/169153/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "4 дн. назад"
+  },
+  {
     "norm": "кaпиtaнзaнyдa",
     "display": "Капитан-зануда",
     "initial": 12000,
@@ -106,17 +118,5 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "vladosrat",
-    "display": "vladosrat",
-    "initial": 47610,
-    "current": 52010,
-    "diff": 4400,
-    "avatar": "avatars/vladosrat.jpg",
-    "profile": "https://remanga.org/user/1037182/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад"
   }
 ]
