@@ -408,6 +408,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "sinfullife",
+    "display": "SinfulLife",
+    "initial": 8000,
+    "current": 10000,
+    "diff": 2000,
+    "avatar": "avatars/sinfullife.jpg",
+    "profile": "https://remanga.org/user/1632223/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "zarti",
     "display": "zarti",
     "initial": 14110,
@@ -943,18 +955,6 @@
     "diff": 0,
     "avatar": "avatars/ミュージシャン.jpg",
     "profile": "https://remanga.org/user/938359/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "sinfullife",
-    "display": "SinfulLife",
-    "initial": 8000,
-    "current": 8000,
-    "diff": 0,
-    "avatar": "avatars/sinfullife.jpg",
-    "profile": "https://remanga.org/user/1632223/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
