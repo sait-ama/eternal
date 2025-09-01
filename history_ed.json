@@ -9,7 +9,7 @@
     "profile": "https://remanga.org/user/34154/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "aggressive",
@@ -91,6 +91,18 @@
     "diff": 1710,
     "avatar": "avatars/rwbylove.jpg",
     "profile": "https://remanga.org/user/740757/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
+    "norm": "moonsh1ne",
+    "display": "moonsh1ne",
+    "initial": 14890,
+    "current": 16510,
+    "diff": 1620,
+    "avatar": "avatars/moonsh1ne.jpg",
+    "profile": "https://remanga.org/user/128587/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -562,18 +574,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "moonsh1ne",
-    "display": "moonsh1ne",
-    "initial": 14890,
-    "current": 15510,
-    "diff": 620,
-    "avatar": "avatars/moonsh1ne.jpg",
-    "profile": "https://remanga.org/user/128587/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "meimei",
