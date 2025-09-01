@@ -288,6 +288,18 @@
     "last_active_human": "4 дн. назад"
   },
   {
+    "norm": "sinfullife",
+    "display": "SinfulLife",
+    "initial": 8000,
+    "current": 11000,
+    "diff": 3000,
+    "avatar": "avatars/sinfullife.jpg",
+    "profile": "https://remanga.org/user/1632223/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "nebulousvortex",
     "display": "NebulousVortex",
     "initial": 5010,
@@ -502,18 +514,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "sinfullife",
-    "display": "SinfulLife",
-    "initial": 8000,
-    "current": 10000,
-    "diff": 2000,
-    "avatar": "avatars/sinfullife.jpg",
-    "profile": "https://remanga.org/user/1632223/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "overcooling",
