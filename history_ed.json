@@ -324,6 +324,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "woodss",
+    "display": "Woods_s",
+    "initial": 26100,
+    "current": 27100,
+    "diff": 1000,
+    "avatar": "avatars/woodss.jpg",
+    "profile": "https://remanga.org/user/1450372/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "sw1ty",
     "display": "Sw1ty",
     "initial": 11000,
@@ -751,18 +763,6 @@
     "diff": 0,
     "avatar": "avatars/谢怜.jpg",
     "profile": "https://remanga.org/user/164257/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "woodss",
-    "display": "Woods_s",
-    "initial": 26100,
-    "current": 26100,
-    "diff": 0,
-    "avatar": "avatars/woodss.jpg",
-    "profile": "https://remanga.org/user/1450372/about",
     "guild": "Eternal Demonic",
     "is_afk": true,
     "last_active_human": "нет данных"
