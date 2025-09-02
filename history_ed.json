@@ -1,5 +1,17 @@
 [
   {
+    "norm": "tenofmoses",
+    "display": "tenofmoses",
+    "initial": 9000,
+    "current": 21000,
+    "diff": 12000,
+    "avatar": "avatars/tenofmoses.jpg",
+    "profile": "https://remanga.org/user/3176212/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "sunburst",
     "display": "Sunburst",
     "initial": 9000,
@@ -156,18 +168,6 @@
     "last_active_human": "сегодня"
   },
   {
-    "norm": "tenofmoses",
-    "display": "tenofmoses",
-    "initial": 9000,
-    "current": 11000,
-    "diff": 2000,
-    "avatar": "avatars/tenofmoses.jpg",
-    "profile": "https://remanga.org/user/3176212/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
     "norm": "saytoriya",
     "display": "Saytoriya",
     "initial": 11000,
@@ -259,6 +259,18 @@
     "diff": 1400,
     "avatar": "avatars/ronin74.jpg",
     "profile": "https://remanga.org/user/76998/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
+    "norm": "destructiongod𒉭",
+    "display": "DestructionGod𒉭",
+    "initial": 60000,
+    "current": 61300,
+    "diff": 1300,
+    "avatar": "avatars/destructiongod𒉭.jpg",
+    "profile": "https://remanga.org/user/1650325/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -552,6 +564,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "mefisto51",
+    "display": "Mefisto51",
+    "initial": 28000,
+    "current": 29000,
+    "diff": 1000,
+    "avatar": "avatars/mefisto51.jpg",
+    "profile": "https://remanga.org/user/335099/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "so1omoon",
     "display": "So1oMooN",
     "initial": 9000,
@@ -696,18 +720,6 @@
     "last_active_human": "2 дн. назад"
   },
   {
-    "norm": "destructiongod𒉭",
-    "display": "DestructionGod𒉭",
-    "initial": 60000,
-    "current": 60000,
-    "diff": 0,
-    "avatar": "avatars/destructiongod𒉭.jpg",
-    "profile": "https://remanga.org/user/1650325/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
     "norm": "ham021",
     "display": "Ham021",
     "initial": 30500,
@@ -763,18 +775,6 @@
     "diff": 0,
     "avatar": "avatars/谢怜.jpg",
     "profile": "https://remanga.org/user/164257/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "mefisto51",
-    "display": "Mefisto51",
-    "initial": 28000,
-    "current": 28000,
-    "diff": 0,
-    "avatar": "avatars/mefisto51.jpg",
-    "profile": "https://remanga.org/user/335099/about",
     "guild": "Eternal Demonic",
     "is_afk": true,
     "last_active_human": "нет данных"
