@@ -39,8 +39,8 @@
     "norm": "rwbylove",
     "display": "RWBYLOVE",
     "initial": 20450,
-    "current": 24080,
-    "diff": 3630,
+    "current": 24220,
+    "diff": 3770,
     "avatar": "avatars/rwbylove.jpg",
     "profile": "https://remanga.org/user/740757/about",
     "guild": "Eternal Demonic",
@@ -79,6 +79,18 @@
     "diff": 2200,
     "avatar": "avatars/trillo.jpg",
     "profile": "https://remanga.org/user/207200/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
+    "norm": "издateль",
+    "display": "Издатель",
+    "initial": 14780,
+    "current": 16910,
+    "diff": 2130,
+    "avatar": "avatars/издateль.jpg",
+    "profile": "https://remanga.org/user/2439923/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -283,18 +295,6 @@
     "diff": 1590,
     "avatar": "avatars/beast.jpg",
     "profile": "https://remanga.org/user/1935045/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "издateль",
-    "display": "Издатель",
-    "initial": 14780,
-    "current": 16300,
-    "diff": 1520,
-    "avatar": "avatars/издateль.jpg",
-    "profile": "https://remanga.org/user/2439923/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
