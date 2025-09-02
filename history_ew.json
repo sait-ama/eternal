@@ -3,8 +3,8 @@
     "norm": "darqee",
     "display": "DarQee",
     "initial": 23570,
-    "current": 45480,
-    "diff": 21910,
+    "current": 46650,
+    "diff": 23080,
     "avatar": "avatars/darqee.jpg",
     "profile": "https://remanga.org/user/2234201/about",
     "guild": "Eternal Watchers",
@@ -21,7 +21,7 @@
     "profile": "https://remanga.org/user/27168/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "caйtaмa",
@@ -96,6 +96,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "strayker5421",
+    "display": "Strayker5421",
+    "initial": 8790,
+    "current": 14390,
+    "diff": 5600,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org/user/434820/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "5 дн. назад"
+  },
+  {
     "norm": "efiliyens",
     "display": "Efiliyens",
     "initial": 21000,
@@ -118,18 +130,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
-  },
-  {
-    "norm": "strayker5421",
-    "display": "Strayker5421",
-    "initial": 8790,
-    "current": 14280,
-    "diff": 5490,
-    "avatar": "avatars/placeholder.jpg",
-    "profile": "https://remanga.org/user/434820/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "darkangei",
