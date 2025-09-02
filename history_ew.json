@@ -252,6 +252,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "sinfullife",
+    "display": "SinfulLife",
+    "initial": 8000,
+    "current": 12000,
+    "diff": 4000,
+    "avatar": "avatars/sinfullife.jpg",
+    "profile": "https://remanga.org/user/1632223/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "bloodborrn",
     "display": "Bloodborrn",
     "initial": 16540,
@@ -322,18 +334,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "sinfullife",
-    "display": "SinfulLife",
-    "initial": 8000,
-    "current": 11000,
-    "diff": 3000,
-    "avatar": "avatars/sinfullife.jpg",
-    "profile": "https://remanga.org/user/1632223/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "nebulousvortex",
