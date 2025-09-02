@@ -108,15 +108,15 @@
     "last_active_human": "вчера"
   },
   {
-    "norm": "efiliyens",
-    "display": "Efiliyens",
-    "initial": 21000,
-    "current": 26500,
-    "diff": 5500,
-    "avatar": "avatars/efiliyens.jpg",
-    "profile": "https://remanga.org/user/169153/about",
+    "norm": "belashik",
+    "display": "Belashik",
+    "initial": 149100,
+    "current": 155000,
+    "diff": 5900,
+    "avatar": "avatars/belashik.jpg",
+    "profile": "https://remanga.org/user/175047/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "5 дн. назад"
+    "last_active_human": "сегодня"
   }
 ]
