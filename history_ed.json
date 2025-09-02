@@ -48,6 +48,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "zatex",
+    "display": "Zatex",
+    "initial": 14390,
+    "current": 16500,
+    "diff": 2110,
+    "avatar": "avatars/zatex.jpg",
+    "profile": "https://remanga.org/user/246605/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "@toxic",
     "display": "@𝑻𝑶𝑿𝑰𝑪",
     "initial": 23200,
@@ -598,18 +610,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
-  },
-  {
-    "norm": "zatex",
-    "display": "Zatex",
-    "initial": 14390,
-    "current": 15160,
-    "diff": 770,
-    "avatar": "avatars/zatex.jpg",
-    "profile": "https://remanga.org/user/246605/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "fox94",
