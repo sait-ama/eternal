@@ -213,7 +213,7 @@
     "profile": "https://remanga.org/user/1037182/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "festashka",
@@ -454,6 +454,18 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
+  },
+  {
+    "norm": "techal",
+    "display": "TeChal",
+    "initial": 10180,
+    "current": 12680,
+    "diff": 2500,
+    "avatar": "avatars/techal.jpg",
+    "profile": "https://remanga.org/user/1681839/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "wertyservyt",
@@ -1159,18 +1171,6 @@
     "diff": 0,
     "avatar": "avatars/jedı.jpg",
     "profile": "https://remanga.org/user/239346/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "techal",
-    "display": "TeChal",
-    "initial": 10180,
-    "current": 10180,
-    "diff": 0,
-    "avatar": "avatars/techal.jpg",
-    "profile": "https://remanga.org/user/1681839/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
