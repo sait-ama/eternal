@@ -60,6 +60,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "trillo",
+    "display": "Trillo",
+    "initial": 9320,
+    "current": 11520,
+    "diff": 2200,
+    "avatar": "avatars/trillo.jpg",
+    "profile": "https://remanga.org/user/207200/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "zatex",
     "display": "Zatex",
     "initial": 14390,
@@ -163,6 +175,18 @@
     "diff": 2000,
     "avatar": "avatars/sas47.jpg",
     "profile": "https://remanga.org/user/2044615/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
+    "norm": "vallynor",
+    "display": "Vallynor",
+    "initial": 12000,
+    "current": 14000,
+    "diff": 2000,
+    "avatar": "avatars/vallynor.jpg",
+    "profile": "https://remanga.org/user/876246/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -444,18 +468,6 @@
     "last_active_human": "2 дн. назад"
   },
   {
-    "norm": "vallynor",
-    "display": "Vallynor",
-    "initial": 12000,
-    "current": 13000,
-    "diff": 1000,
-    "avatar": "avatars/vallynor.jpg",
-    "profile": "https://remanga.org/user/876246/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад"
-  },
-  {
     "norm": "kost9n",
     "display": "KOST9N",
     "initial": 11000,
@@ -526,18 +538,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "trillo",
-    "display": "Trillo",
-    "initial": 9320,
-    "current": 10320,
-    "diff": 1000,
-    "avatar": "avatars/trillo.jpg",
-    "profile": "https://remanga.org/user/207200/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "dmitryflow",
