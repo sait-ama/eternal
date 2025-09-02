@@ -120,6 +120,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "saytoriya",
+    "display": "Saytoriya",
+    "initial": 11000,
+    "current": 13000,
+    "diff": 2000,
+    "avatar": "avatars/saytoriya.jpg",
+    "profile": "https://remanga.org/user/126709/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "pилcyчк@",
     "display": "Рил_сучк@.",
     "initial": 10780,
@@ -141,7 +153,7 @@
     "profile": "https://remanga.org/user/128587/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "stas211242",
@@ -369,7 +381,7 @@
     "profile": "https://remanga.org/user/876246/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "kost9n",
@@ -492,18 +504,6 @@
     "last_active_human": "3 дн. назад"
   },
   {
-    "norm": "saytoriya",
-    "display": "Saytoriya",
-    "initial": 11000,
-    "current": 12000,
-    "diff": 1000,
-    "avatar": "avatars/saytoriya.jpg",
-    "profile": "https://remanga.org/user/126709/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
     "norm": "velialsalivan",
     "display": "Velial_Salivan",
     "initial": 10000,
@@ -585,7 +585,7 @@
     "profile": "https://remanga.org/user/52975/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "дoлинapeкиcetyнь",
