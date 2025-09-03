@@ -72,6 +72,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "cracker7",
+    "display": "Cracker_7",
+    "initial": 12000,
+    "current": 14300,
+    "diff": 2300,
+    "avatar": "avatars/cracker7.jpg",
+    "profile": "https://remanga.org/user/197380/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "trillo",
     "display": "Trillo",
     "initial": 9320,
@@ -321,7 +333,7 @@
     "profile": "https://remanga.org/user/938430/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "ronin74",
@@ -396,18 +408,6 @@
     "last_active_human": "2 дн. назад"
   },
   {
-    "norm": "cracker7",
-    "display": "Cracker_7",
-    "initial": 12000,
-    "current": 13000,
-    "diff": 1000,
-    "avatar": "avatars/cracker7.jpg",
-    "profile": "https://remanga.org/user/197380/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
-  },
-  {
     "norm": "kim5+",
     "display": "Kim_5+",
     "initial": 10000,
@@ -429,7 +429,7 @@
     "profile": "https://remanga.org/user/453647/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "woodss",
