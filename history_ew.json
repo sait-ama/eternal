@@ -744,6 +744,18 @@
     "last_active_human": "5 дн. назад"
   },
   {
+    "norm": "bagas",
+    "display": "Bagas",
+    "initial": 27110,
+    "current": 28360,
+    "diff": 1250,
+    "avatar": "avatars/bagas.jpg",
+    "profile": "https://remanga.org/user/79904/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ялyчшийвмиpe",
     "display": "Я_лучший_в_мире",
     "initial": 22080,
@@ -1051,18 +1063,6 @@
     "diff": 0,
     "avatar": "avatars/spidvrassrochku.jpg",
     "profile": "https://remanga.org/user/10999/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "bagas",
-    "display": "Bagas",
-    "initial": 27110,
-    "current": 27110,
-    "diff": 0,
-    "avatar": "avatars/bagas.jpg",
-    "profile": "https://remanga.org/user/79904/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
