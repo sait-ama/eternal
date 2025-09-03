@@ -72,6 +72,18 @@
     "last_active_human": "4 дн. назад"
   },
   {
+    "norm": "cracker7",
+    "display": "Cracker_7",
+    "initial": 12000,
+    "current": 14800,
+    "diff": 2800,
+    "avatar": "avatars/cracker7.jpg",
+    "profile": "https://remanga.org/user/197380/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "haisan",
     "display": "HaiSan",
     "initial": 22500,
@@ -96,13 +108,13 @@
     "last_active_human": "сегодня"
   },
   {
-    "norm": "cracker7",
-    "display": "Cracker_7",
-    "initial": 12000,
-    "current": 14300,
+    "norm": "alanhui",
+    "display": "alan-hui",
+    "initial": 8660,
+    "current": 10960,
     "diff": 2300,
-    "avatar": "avatars/cracker7.jpg",
-    "profile": "https://remanga.org/user/197380/about",
+    "avatar": "avatars/alanhui.jpg",
+    "profile": "https://remanga.org/user/2336976/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -298,18 +310,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "alanhui",
-    "display": "alan-hui",
-    "initial": 8660,
-    "current": 10260,
-    "diff": 1600,
-    "avatar": "avatars/alanhui.jpg",
-    "profile": "https://remanga.org/user/2336976/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "beast",
@@ -645,7 +645,7 @@
     "profile": "https://remanga.org/user/106279/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "jdhdbx",
