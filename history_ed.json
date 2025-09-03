@@ -216,6 +216,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "acediaqq",
+    "display": "Acediaqq",
+    "initial": 9000,
+    "current": 11000,
+    "diff": 2000,
+    "avatar": "avatars/acediaqq.jpg",
+    "profile": "https://remanga.org/user/102335/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "so1omoon",
     "display": "So1oMooN",
     "initial": 9000,
@@ -547,18 +559,6 @@
     "diff": 1000,
     "avatar": "avatars/ckckck.jpg",
     "profile": "https://remanga.org/user/172319/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "acediaqq",
-    "display": "Acediaqq",
-    "initial": 9000,
-    "current": 10000,
-    "diff": 1000,
-    "avatar": "avatars/acediaqq.jpg",
-    "profile": "https://remanga.org/user/102335/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
