@@ -297,7 +297,7 @@
     "profile": "https://remanga.org/user/128587/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "alanhui",
@@ -370,6 +370,18 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
+  },
+  {
+    "norm": "meimei",
+    "display": "mei_mei",
+    "initial": 15450,
+    "current": 16520,
+    "diff": 1070,
+    "avatar": "avatars/meimei.jpg",
+    "profile": "https://remanga.org/user/52975/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "riverfreedom",
@@ -658,18 +670,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
-  },
-  {
-    "norm": "meimei",
-    "display": "mei_mei",
-    "initial": 15450,
-    "current": 16320,
-    "diff": 870,
-    "avatar": "avatars/meimei.jpg",
-    "profile": "https://remanga.org/user/52975/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "дoлинapeкиcetyнь",
