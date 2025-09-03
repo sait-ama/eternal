@@ -3,8 +3,8 @@
     "norm": "darqee",
     "display": "DarQee",
     "initial": 23570,
-    "current": 50500,
-    "diff": 26930,
+    "current": 51000,
+    "diff": 27430,
     "avatar": "avatars/darqee.jpg",
     "profile": "https://remanga.org/user/2234201/about",
     "guild": "Eternal Watchers",
@@ -99,8 +99,8 @@
     "norm": "strayker5421",
     "display": "Strayker5421",
     "initial": 8790,
-    "current": 16750,
-    "diff": 7960,
+    "current": 17200,
+    "diff": 8410,
     "avatar": "avatars/placeholder.jpg",
     "profile": "https://remanga.org/user/434820/about",
     "guild": "Eternal Watchers",
@@ -477,7 +477,7 @@
     "profile": "https://remanga.org/user/1602594/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "к4йдэн",
@@ -1231,6 +1231,30 @@
     "diff": 0,
     "avatar": "avatars/wladzer.jpg",
     "profile": "https://remanga.org/user/920777/about",
+    "guild": "Eternal Watchers",
+    "is_afk": true,
+    "last_active_human": "нет данных"
+  },
+  {
+    "norm": "katsuusa",
+    "display": "katsu_usa",
+    "initial": 5000,
+    "current": 5000,
+    "diff": 0,
+    "avatar": "avatars/katsuusa.jpg",
+    "profile": "https://remanga.org/user/3332888/about",
+    "guild": "Eternal Watchers",
+    "is_afk": true,
+    "last_active_human": "нет данных"
+  },
+  {
+    "norm": "sergeysh",
+    "display": "Sergey-Sh",
+    "initial": 5000,
+    "current": 5000,
+    "diff": 0,
+    "avatar": "avatars/sergeysh.jpg",
+    "profile": "https://remanga.org/user/605765/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
