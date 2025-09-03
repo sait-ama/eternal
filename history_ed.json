@@ -45,7 +45,7 @@
     "profile": "https://remanga.org/user/1727226/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "rwbylove",
@@ -91,6 +91,18 @@
     "diff": 3100,
     "avatar": "avatars/cracker7.jpg",
     "profile": "https://remanga.org/user/197380/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
+    "norm": "beast",
+    "display": "Beast_",
+    "initial": 47130,
+    "current": 49900,
+    "diff": 2770,
+    "avatar": "avatars/beast.jpg",
+    "profile": "https://remanga.org/user/1935045/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -322,18 +334,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "beast",
-    "display": "Beast_",
-    "initial": 47130,
-    "current": 48720,
-    "diff": 1590,
-    "avatar": "avatars/beast.jpg",
-    "profile": "https://remanga.org/user/1935045/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "llikojioma",
