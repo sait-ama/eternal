@@ -180,6 +180,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "andrefalkonen",
+    "display": "Andre_Falkonen",
+    "initial": 45580,
+    "current": 51170,
+    "diff": 5590,
+    "avatar": "avatars/andrefalkonen.jpg",
+    "profile": "https://remanga.org/user/35664/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "urus",
     "display": "URUS",
     "initial": 12000,
@@ -286,18 +298,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "andrefalkonen",
-    "display": "Andre_Falkonen",
-    "initial": 45580,
-    "current": 50170,
-    "diff": 4590,
-    "avatar": "avatars/andrefalkonen.jpg",
-    "profile": "https://remanga.org/user/35664/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "thostriel",
@@ -600,6 +600,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "chirusan",
+    "display": "Chiru-san",
+    "initial": 11850,
+    "current": 14350,
+    "diff": 2500,
+    "avatar": "avatars/chirusan.jpg",
+    "profile": "https://remanga.org/user/243053/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "tavik",
     "display": "Tavik",
     "initial": 48880,
@@ -633,7 +645,7 @@
     "profile": "https://remanga.org/user/364625/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "talent",
@@ -718,18 +730,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
-  },
-  {
-    "norm": "chirusan",
-    "display": "Chiru-san",
-    "initial": 11850,
-    "current": 13850,
-    "diff": 2000,
-    "avatar": "avatars/chirusan.jpg",
-    "profile": "https://remanga.org/user/243053/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "ctapeйшинaчy",
