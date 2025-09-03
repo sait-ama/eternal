@@ -336,6 +336,18 @@
     "last_active_human": "6 дн. назад"
   },
   {
+    "norm": "бeлoхвoctый",
+    "display": "Белохвостый",
+    "initial": 51100,
+    "current": 55000,
+    "diff": 3900,
+    "avatar": "avatars/бeлoхвoctый.jpg",
+    "profile": "https://remanga.org/user/2874672/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "rayze",
     "display": "RayZe",
     "initial": 15730,
@@ -358,18 +370,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "бeлoхвoctый",
-    "display": "Белохвостый",
-    "initial": 51100,
-    "current": 54600,
-    "diff": 3500,
-    "avatar": "avatars/бeлoхвoctый.jpg",
-    "profile": "https://remanga.org/user/2874672/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "rezordaye",
@@ -624,6 +624,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "독부바",
+    "display": "독부바",
+    "initial": 1280,
+    "current": 3530,
+    "diff": 2250,
+    "avatar": "avatars/독부바.jpg",
+    "profile": "https://remanga.org/user/3181995/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "гдeмoйctoяк",
     "display": "гдемойстояк",
     "initial": 10000,
@@ -706,18 +718,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "독부바",
-    "display": "독부바",
-    "initial": 1280,
-    "current": 3030,
-    "diff": 1750,
-    "avatar": "avatars/독부바.jpg",
-    "profile": "https://remanga.org/user/3181995/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "ctapeйшинaчy",
