@@ -12,6 +12,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "pepegaronni",
+    "display": "Pepegaronni",
+    "initial": 28630,
+    "current": 45330,
+    "diff": 16700,
+    "avatar": "avatars/pepegaronni.jpg",
+    "profile": "https://remanga.org/user/27168/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "belashik",
     "display": "Belashik",
     "initial": 149100,
@@ -24,18 +36,6 @@
     "last_active_human": "сегодня"
   },
   {
-    "norm": "pepegaronni",
-    "display": "Pepegaronni",
-    "initial": 28630,
-    "current": 41180,
-    "diff": 12550,
-    "avatar": "avatars/pepegaronni.jpg",
-    "profile": "https://remanga.org/user/27168/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад"
-  },
-  {
     "norm": "caйtaмa",
     "display": "Сайтама",
     "initial": 128060,
@@ -43,6 +43,18 @@
     "diff": 12130,
     "avatar": "avatars/caйtaмa.jpg",
     "profile": "https://remanga.org/user/12762/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
+    "norm": "ミュージシャン",
+    "display": "ミュージシャン",
+    "initial": 113000,
+    "current": 125000,
+    "diff": 12000,
+    "avatar": "avatars/ミュージシャン.jpg",
+    "profile": "https://remanga.org/user/938359/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -130,18 +142,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "6 дн. назад"
-  },
-  {
-    "norm": "ミュージシャン",
-    "display": "ミュージシャン",
-    "initial": 113000,
-    "current": 120000,
-    "diff": 7000,
-    "avatar": "avatars/ミュージシャン.jpg",
-    "profile": "https://remanga.org/user/938359/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "독부바",
@@ -537,7 +537,7 @@
     "profile": "https://remanga.org/user/732690/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "лoхoбыкнoвeнный",
