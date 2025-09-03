@@ -132,6 +132,18 @@
     "last_active_human": "6 дн. назад"
   },
   {
+    "norm": "ミュージシャン",
+    "display": "ミュージシャン",
+    "initial": 113000,
+    "current": 120000,
+    "diff": 7000,
+    "avatar": "avatars/ミュージシャン.jpg",
+    "profile": "https://remanga.org/user/938359/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "독부바",
     "display": "독부바",
     "initial": 1280,
@@ -237,7 +249,7 @@
     "profile": "https://remanga.org/user/993371/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "loli69228",
@@ -399,8 +411,8 @@
     "norm": "nikesnt",
     "display": "NikesNt",
     "initial": 10040,
-    "current": 13240,
-    "diff": 3200,
+    "current": 13420,
+    "diff": 3380,
     "avatar": "avatars/nikesnt.jpg",
     "profile": "https://remanga.org/user/1227659/about",
     "guild": "Eternal Watchers",
@@ -1027,18 +1039,6 @@
     "diff": 0,
     "avatar": "avatars/payk.jpg",
     "profile": "https://remanga.org/user/155452/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "ミュージシャン",
-    "display": "ミュージシャン",
-    "initial": 113000,
-    "current": 113000,
-    "diff": 0,
-    "avatar": "avatars/ミュージシャン.jpg",
-    "profile": "https://remanga.org/user/938359/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
