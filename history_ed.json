@@ -3,13 +3,13 @@
     "norm": "tenofmoses",
     "display": "tenofmoses",
     "initial": 9000,
-    "current": 21000,
-    "diff": 12000,
+    "current": 25300,
+    "diff": 16300,
     "avatar": "avatars/tenofmoses.jpg",
     "profile": "https://remanga.org/user/3176212/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "sunburst",
@@ -57,7 +57,7 @@
     "profile": "https://remanga.org/user/740757/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "aggressive",
