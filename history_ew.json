@@ -3,8 +3,8 @@
     "norm": "darqee",
     "display": "DarQee",
     "initial": 23570,
-    "current": 51000,
-    "diff": 27430,
+    "current": 55520,
+    "diff": 31950,
     "avatar": "avatars/darqee.jpg",
     "profile": "https://remanga.org/user/2234201/about",
     "guild": "Eternal Watchers",
@@ -696,6 +696,18 @@
     "last_active_human": "5 дн. назад"
   },
   {
+    "norm": "гocькa",
+    "display": "Госька",
+    "initial": 32470,
+    "current": 34540,
+    "diff": 2070,
+    "avatar": "avatars/гocькa.jpg",
+    "profile": "https://remanga.org/user/1079084/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "totкtocмotpиt",
     "display": "тот_кто_смотрит....",
     "initial": 25780,
@@ -775,18 +787,6 @@
     "diff": 1830,
     "avatar": "avatars/chitandael.jpg",
     "profile": "https://remanga.org/user/372102/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "гocькa",
-    "display": "Госька",
-    "initial": 32470,
-    "current": 34230,
-    "diff": 1760,
-    "avatar": "avatars/гocькa.jpg",
-    "profile": "https://remanga.org/user/1079084/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
