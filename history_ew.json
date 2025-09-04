@@ -708,6 +708,18 @@
     "last_active_human": "5 дн. назад"
   },
   {
+    "norm": "creamwhite",
+    "display": "CreamWhite",
+    "initial": 28000,
+    "current": 30000,
+    "diff": 2000,
+    "avatar": "avatars/creamwhite.jpg",
+    "profile": "https://remanga.org/user/133044/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "healot",
     "display": "healot",
     "initial": 21500,
@@ -1039,18 +1051,6 @@
     "diff": 0,
     "avatar": "avatars/payk.jpg",
     "profile": "https://remanga.org/user/155452/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "creamwhite",
-    "display": "CreamWhite",
-    "initial": 28000,
-    "current": 28000,
-    "diff": 0,
-    "avatar": "avatars/creamwhite.jpg",
-    "profile": "https://remanga.org/user/133044/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
