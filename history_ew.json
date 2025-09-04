@@ -368,8 +368,8 @@
     "avatar": "avatars/vladosrat.jpg",
     "profile": "https://remanga.org/user/1037182/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "suba7u",
@@ -876,6 +876,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "spidvrassrochku",
+    "display": "spidvrassrochku",
+    "initial": 15860,
+    "current": 16860,
+    "diff": 1000,
+    "avatar": "avatars/spidvrassrochku.jpg",
+    "profile": "https://remanga.org/user/10999/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "admiralsengoku",
     "display": "ADMIRAL_SENGOKU",
     "initial": 31000,
@@ -1066,18 +1078,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "7 дн. назад"
-  },
-  {
-    "norm": "spidvrassrochku",
-    "display": "spidvrassrochku",
-    "initial": 15860,
-    "current": 15860,
-    "diff": 0,
-    "avatar": "avatars/spidvrassrochku.jpg",
-    "profile": "https://remanga.org/user/10999/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
   },
   {
     "norm": "cкpыtыйинtpигaн",
