@@ -48,6 +48,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "haisan",
+    "display": "HaiSan",
+    "initial": 22500,
+    "current": 26500,
+    "diff": 4000,
+    "avatar": "avatars/haisan.jpg",
+    "profile": "https://remanga.org/user/2577043/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "rwbylove",
     "display": "RWBYLOVE",
     "initial": 20450,
@@ -144,18 +156,6 @@
     "last_active_human": "сегодня"
   },
   {
-    "norm": "haisan",
-    "display": "HaiSan",
-    "initial": 22500,
-    "current": 25200,
-    "diff": 2700,
-    "avatar": "avatars/haisan.jpg",
-    "profile": "https://remanga.org/user/2577043/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
     "norm": "stas211242",
     "display": "stas211242",
     "initial": 12780,
@@ -225,7 +225,7 @@
     "profile": "https://remanga.org/user/2797890/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "motherofdragons",
