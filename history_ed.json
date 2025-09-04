@@ -132,6 +132,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "jdhdbx",
+    "display": "Jdhdbx",
+    "initial": 12840,
+    "current": 15550,
+    "diff": 2710,
+    "avatar": "avatars/jdhdbx.jpg",
+    "profile": "https://remanga.org/user/1911610/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "haisan",
     "display": "HaiSan",
     "initial": 22500,
@@ -682,18 +694,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "jdhdbx",
-    "display": "Jdhdbx",
-    "initial": 12840,
-    "current": 13840,
-    "diff": 1000,
-    "avatar": "avatars/jdhdbx.jpg",
-    "profile": "https://remanga.org/user/1911610/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "sanctuary",
