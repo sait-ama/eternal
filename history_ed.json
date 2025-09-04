@@ -24,6 +24,18 @@
     "last_active_human": "4 дн. назад"
   },
   {
+    "norm": "rwbylove",
+    "display": "RWBYLOVE",
+    "initial": 20450,
+    "current": 24370,
+    "diff": 3920,
+    "avatar": "avatars/rwbylove.jpg",
+    "profile": "https://remanga.org/user/740757/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "leyley",
     "display": "Ley-Ley",
     "initial": 10100,
@@ -43,18 +55,6 @@
     "diff": 3850,
     "avatar": "avatars/webru.jpg",
     "profile": "https://remanga.org/user/1727226/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера"
-  },
-  {
-    "norm": "rwbylove",
-    "display": "RWBYLOVE",
-    "initial": 20450,
-    "current": 24220,
-    "diff": 3770,
-    "avatar": "avatars/rwbylove.jpg",
-    "profile": "https://remanga.org/user/740757/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
