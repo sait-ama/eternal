@@ -111,13 +111,13 @@
     "norm": "издateль",
     "display": "Издатель",
     "initial": 14780,
-    "current": 17910,
-    "diff": 3130,
+    "current": 18000,
+    "diff": 3220,
     "avatar": "avatars/издateль.jpg",
     "profile": "https://remanga.org/user/2439923/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "cracker7",
@@ -177,7 +177,7 @@
     "profile": "https://remanga.org/user/2336976/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "trillo",
@@ -693,7 +693,7 @@
     "profile": "https://remanga.org/user/106279/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "sanctuary",
