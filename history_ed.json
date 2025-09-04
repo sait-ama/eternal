@@ -132,6 +132,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "destructiongod𒉭",
+    "display": "DestructionGod𒉭",
+    "initial": 60000,
+    "current": 63000,
+    "diff": 3000,
+    "avatar": "avatars/destructiongod𒉭.jpg",
+    "profile": "https://remanga.org/user/1650325/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "beast",
     "display": "Beast_",
     "initial": 47130,
@@ -406,18 +418,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "destructiongod𒉭",
-    "display": "DestructionGod𒉭",
-    "initial": 60000,
-    "current": 61300,
-    "diff": 1300,
-    "avatar": "avatars/destructiongod𒉭.jpg",
-    "profile": "https://remanga.org/user/1650325/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "kaizaki",
