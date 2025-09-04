@@ -1258,5 +1258,17 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
+  },
+  {
+    "norm": "magnavanitas",
+    "display": "Magna_vanitas",
+    "initial": 0,
+    "current": 0,
+    "diff": 0,
+    "avatar": "avatars/magnavanitas.jpg",
+    "profile": "https://remanga.org/user/2041779/about",
+    "guild": "Eternal Watchers",
+    "is_afk": true,
+    "last_active_human": "нет данных"
   }
 ]
