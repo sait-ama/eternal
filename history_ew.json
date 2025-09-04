@@ -168,6 +168,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "독부바",
+    "display": "독부바",
+    "initial": 1280,
+    "current": 8350,
+    "diff": 7070,
+    "avatar": "avatars/독부바.jpg",
+    "profile": "https://remanga.org/user/3181995/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "bloodborrn",
     "display": "Bloodborrn",
     "initial": 16540,
@@ -175,18 +187,6 @@
     "diff": 7000,
     "avatar": "avatars/bloodborrn.jpg",
     "profile": "https://remanga.org/user/832683/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "독부바",
-    "display": "독부바",
-    "initial": 1280,
-    "current": 8070,
-    "diff": 6790,
-    "avatar": "avatars/독부바.jpg",
-    "profile": "https://remanga.org/user/3181995/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -981,7 +981,7 @@
     "profile": "https://remanga.org/user/1714962/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "nowarries",
