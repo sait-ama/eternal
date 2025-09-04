@@ -39,8 +39,8 @@
     "norm": "belashik",
     "display": "Belashik",
     "initial": 149100,
-    "current": 161800,
-    "diff": 12700,
+    "current": 163660,
+    "diff": 14560,
     "avatar": "avatars/belashik.jpg",
     "profile": "https://remanga.org/user/175047/about",
     "guild": "Eternal Watchers",
@@ -144,6 +144,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "thostriel",
+    "display": "Thostriel",
+    "initial": 43030,
+    "current": 50500,
+    "diff": 7470,
+    "avatar": "avatars/thostriel.jpg",
+    "profile": "https://remanga.org/user/1405392/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "кaйдeн",
     "display": "Кайден",
     "initial": 64610,
@@ -175,18 +187,6 @@
     "diff": 6790,
     "avatar": "avatars/독부바.jpg",
     "profile": "https://remanga.org/user/3181995/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "thostriel",
-    "display": "Thostriel",
-    "initial": 43030,
-    "current": 49080,
-    "diff": 6050,
-    "avatar": "avatars/thostriel.jpg",
-    "profile": "https://remanga.org/user/1405392/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -548,8 +548,8 @@
     "avatar": "avatars/temha9l.jpg",
     "profile": "https://remanga.org/user/1262251/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "nebulousvortex",
