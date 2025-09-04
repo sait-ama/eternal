@@ -3,8 +3,8 @@
     "norm": "tenofmoses",
     "display": "tenofmoses",
     "initial": 9000,
-    "current": 25300,
-    "diff": 16300,
+    "current": 27300,
+    "diff": 18300,
     "avatar": "avatars/tenofmoses.jpg",
     "profile": "https://remanga.org/user/3176212/about",
     "guild": "Eternal Demonic",
@@ -108,6 +108,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "@toxic",
+    "display": "@𝑻𝑶𝑿𝑰𝑪",
+    "initial": 23200,
+    "current": 26870,
+    "diff": 3670,
+    "avatar": "avatars/@toxic.jpg",
+    "profile": "https://remanga.org/user/3204383/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "издateль",
     "display": "Издатель",
     "initial": 14780,
@@ -177,7 +189,7 @@
     "profile": "https://remanga.org/user/269608/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "alanhui",
@@ -211,18 +223,6 @@
     "diff": 2110,
     "avatar": "avatars/zatex.jpg",
     "profile": "https://remanga.org/user/246605/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "@toxic",
-    "display": "@𝑻𝑶𝑿𝑰𝑪",
-    "initial": 23200,
-    "current": 25270,
-    "diff": 2070,
-    "avatar": "avatars/@toxic.jpg",
-    "profile": "https://remanga.org/user/3204383/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
@@ -286,6 +286,18 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
+  },
+  {
+    "norm": "alld995",
+    "display": "AllD-995",
+    "initial": 17000,
+    "current": 19000,
+    "diff": 2000,
+    "avatar": "avatars/alld995.jpg",
+    "profile": "https://remanga.org/user/453647/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "sas47",
@@ -429,7 +441,7 @@
     "profile": "https://remanga.org/user/40277/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "akihiko",
@@ -502,18 +514,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "6 дн. назад"
-  },
-  {
-    "norm": "alld995",
-    "display": "AllD-995",
-    "initial": 17000,
-    "current": 18000,
-    "diff": 1000,
-    "avatar": "avatars/alld995.jpg",
-    "profile": "https://remanga.org/user/453647/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "woodss",
@@ -732,6 +732,18 @@
     "last_active_human": "7 дн. назад"
   },
   {
+    "norm": "necromant",
+    "display": "necromant",
+    "initial": 6020,
+    "current": 6750,
+    "diff": 730,
+    "avatar": "avatars/necromant.jpg",
+    "profile": "https://remanga.org/user/1523481/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "tiltexist",
     "display": "TIltExist",
     "initial": 28330,
@@ -847,18 +859,6 @@
     "diff": 0,
     "avatar": "avatars/feazxch.jpg",
     "profile": "https://remanga.org/user/227543/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "necromant",
-    "display": "necromant",
-    "initial": 6020,
-    "current": 6020,
-    "diff": 0,
-    "avatar": "avatars/necromant.jpg",
-    "profile": "https://remanga.org/user/1523481/about",
     "guild": "Eternal Demonic",
     "is_afk": true,
     "last_active_human": "нет данных"
