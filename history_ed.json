@@ -36,6 +36,18 @@
     "last_active_human": "4 дн. назад"
   },
   {
+    "norm": "ronin74",
+    "display": "Ronin74",
+    "initial": 54200,
+    "current": 58200,
+    "diff": 4000,
+    "avatar": "avatars/ronin74.jpg",
+    "profile": "https://remanga.org/user/76998/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "rwbylove",
     "display": "RWBYLOVE",
     "initial": 20450,
@@ -370,18 +382,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
-  },
-  {
-    "norm": "ronin74",
-    "display": "Ronin74",
-    "initial": 54200,
-    "current": 55600,
-    "diff": 1400,
-    "avatar": "avatars/ronin74.jpg",
-    "profile": "https://remanga.org/user/76998/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "destructiongod𒉭",
