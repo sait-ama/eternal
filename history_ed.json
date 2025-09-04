@@ -12,6 +12,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "ham021",
+    "display": "Ham021",
+    "initial": 30500,
+    "current": 36000,
+    "diff": 5500,
+    "avatar": "avatars/ham021.jpg",
+    "profile": "https://remanga.org/user/27288/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "sunburst",
     "display": "Sunburst",
     "initial": 9000,
@@ -357,7 +369,7 @@
     "profile": "https://remanga.org/user/938430/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "ronin74",
@@ -465,7 +477,7 @@
     "profile": "https://remanga.org/user/453647/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "woodss",
@@ -730,18 +742,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "ham021",
-    "display": "Ham021",
-    "initial": 30500,
-    "current": 30500,
-    "diff": 0,
-    "avatar": "avatars/ham021.jpg",
-    "profile": "https://remanga.org/user/27288/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "нет данных"
   },
   {
     "norm": "samurafs",
