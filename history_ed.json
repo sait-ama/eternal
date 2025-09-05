@@ -36,6 +36,18 @@
     "last_active_human": "6 дн. назад"
   },
   {
+    "norm": "destructiongod𒉭",
+    "display": "DestructionGod𒉭",
+    "initial": 60000,
+    "current": 64000,
+    "diff": 4000,
+    "avatar": "avatars/destructiongod𒉭.jpg",
+    "profile": "https://remanga.org/user/1650325/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ronin74",
     "display": "Ronin74",
     "initial": 54200,
@@ -168,18 +180,6 @@
     "last_active_human": "вчера"
   },
   {
-    "norm": "destructiongod𒉭",
-    "display": "DestructionGod𒉭",
-    "initial": 60000,
-    "current": 63000,
-    "diff": 3000,
-    "avatar": "avatars/destructiongod𒉭.jpg",
-    "profile": "https://remanga.org/user/1650325/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
     "norm": "sas47",
     "display": "Sas47",
     "initial": 14010,
@@ -214,6 +214,18 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
+  },
+  {
+    "norm": "meimei",
+    "display": "mei_mei",
+    "initial": 15450,
+    "current": 17860,
+    "diff": 2410,
+    "avatar": "avatars/meimei.jpg",
+    "profile": "https://remanga.org/user/52975/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "alanhui",
@@ -381,7 +393,7 @@
     "profile": "https://remanga.org/user/126709/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "oporlew",
@@ -475,18 +487,6 @@
     "diff": 1100,
     "avatar": "avatars/akihiko.jpg",
     "profile": "https://remanga.org/user/183282/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера"
-  },
-  {
-    "norm": "meimei",
-    "display": "mei_mei",
-    "initial": 15450,
-    "current": 16520,
-    "diff": 1070,
-    "avatar": "avatars/meimei.jpg",
-    "profile": "https://remanga.org/user/52975/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
