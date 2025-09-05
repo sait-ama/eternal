@@ -300,6 +300,18 @@
     "last_active_human": "4 дн. назад"
   },
   {
+    "norm": "kim5+",
+    "display": "Kim_5+",
+    "initial": 10000,
+    "current": 12000,
+    "diff": 2000,
+    "avatar": "avatars/kim5+.jpg",
+    "profile": "https://remanga.org/user/880531/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "alld995",
     "display": "AllD-995",
     "initial": 17000,
@@ -514,18 +526,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "kim5+",
-    "display": "Kim_5+",
-    "initial": 10000,
-    "current": 11000,
-    "diff": 1000,
-    "avatar": "avatars/kim5+.jpg",
-    "profile": "https://remanga.org/user/880531/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "woodss",
