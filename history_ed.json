@@ -771,13 +771,13 @@
     "norm": "flammenoire",
     "display": "FlammeNoire",
     "initial": 42130,
-    "current": 42210,
-    "diff": 80,
+    "current": 42300,
+    "diff": 170,
     "avatar": "avatars/flammenoire.jpg",
     "profile": "https://remanga.org/user/2384260/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "5 дн. назад"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "overtime",
