@@ -336,6 +336,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "kost9n",
+    "display": "KOST9N",
+    "initial": 11000,
+    "current": 13000,
+    "diff": 2000,
+    "avatar": "avatars/kost9n.jpg",
+    "profile": "https://remanga.org/user/48794/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "acediaqq",
     "display": "Acediaqq",
     "initial": 9000,
@@ -561,7 +573,7 @@
     "profile": "https://remanga.org/user/3225144/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "samurai",
@@ -598,18 +610,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "kost9n",
-    "display": "KOST9N",
-    "initial": 11000,
-    "current": 12000,
-    "diff": 1000,
-    "avatar": "avatars/kost9n.jpg",
-    "profile": "https://remanga.org/user/48794/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "drrи",
