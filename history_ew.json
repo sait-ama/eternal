@@ -117,7 +117,7 @@
     "profile": "https://remanga.org/user/1317566/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "ewnobon",
@@ -468,6 +468,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "midwey",
+    "display": "Midwey",
+    "initial": 13000,
+    "current": 16510,
+    "diff": 3510,
+    "avatar": "avatars/midwey.jpg",
+    "profile": "https://remanga.org/user/349055/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "nikesnt",
     "display": "NikesNt",
     "initial": 10040,
@@ -600,18 +612,6 @@
     "last_active_human": "сегодня"
   },
   {
-    "norm": "midwey",
-    "display": "Midwey",
-    "initial": 13000,
-    "current": 15800,
-    "diff": 2800,
-    "avatar": "avatars/midwey.jpg",
-    "profile": "https://remanga.org/user/349055/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
-  },
-  {
     "norm": "tokkebi11",
     "display": "ToKKeBi11",
     "initial": 11350,
@@ -740,8 +740,8 @@
     "avatar": "avatars/monalize.jpg",
     "profile": "https://remanga.org/user/809195/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "creamwhite",
@@ -776,8 +776,8 @@
     "avatar": "avatars/zarti.jpg",
     "profile": "https://remanga.org/user/845606/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "osmodeuss",
@@ -956,8 +956,8 @@
     "avatar": "avatars/frozenjfx.jpg",
     "profile": "https://remanga.org/user/594356/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "pupstv",
