@@ -492,6 +492,18 @@
     "last_active_human": "5 дн. назад"
   },
   {
+    "norm": "overtime",
+    "display": "over-time",
+    "initial": 13190,
+    "current": 14690,
+    "diff": 1500,
+    "avatar": "avatars/overtime.jpg",
+    "profile": "https://remanga.org/user/899302/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "fox94",
     "display": "Fox94",
     "initial": 10750,
@@ -778,18 +790,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "overtime",
-    "display": "over-time",
-    "initial": 13190,
-    "current": 13190,
-    "diff": 0,
-    "avatar": "avatars/overtime.jpg",
-    "profile": "https://remanga.org/user/899302/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "нет данных"
   },
   {
     "norm": "sckatman",
