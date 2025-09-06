@@ -312,6 +312,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "oblakatt",
+    "display": "OblakaT_T",
+    "initial": 13000,
+    "current": 15000,
+    "diff": 2000,
+    "avatar": "avatars/oblakatt.jpg",
+    "profile": "https://remanga.org/user/474087/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "banshei",
     "display": "BanShei",
     "initial": 11000,
@@ -586,18 +598,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "oblakatt",
-    "display": "OblakaT_T",
-    "initial": 13000,
-    "current": 14000,
-    "diff": 1000,
-    "avatar": "avatars/oblakatt.jpg",
-    "profile": "https://remanga.org/user/474087/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "谢怜",
