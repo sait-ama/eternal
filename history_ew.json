@@ -27,13 +27,13 @@
     "norm": "darqee",
     "display": "DarQee",
     "initial": 23570,
-    "current": 56790,
-    "diff": 33220,
+    "current": 57310,
+    "diff": 33740,
     "avatar": "avatars/darqee.jpg",
     "profile": "https://remanga.org/user/2234201/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "caйtaмa",
@@ -168,6 +168,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "suba7u",
+    "display": "Suba7u",
+    "initial": 51790,
+    "current": 59270,
+    "diff": 7480,
+    "avatar": "avatars/suba7u.jpg",
+    "profile": "https://remanga.org/user/1602594/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "thostriel",
     "display": "Thostriel",
     "initial": 43030,
@@ -297,7 +309,7 @@
     "profile": "https://remanga.org/user/1323051/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "7 дн. назад"
+    "last_active_human": "8 дн. назад"
   },
   {
     "norm": "darkangei",
@@ -358,18 +370,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "suba7u",
-    "display": "Suba7u",
-    "initial": 51790,
-    "current": 56520,
-    "diff": 4730,
-    "avatar": "avatars/suba7u.jpg",
-    "profile": "https://remanga.org/user/1602594/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "harlequ1n",
