@@ -336,6 +336,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "takahikoo",
+    "display": "Takahikoo",
+    "initial": 11000,
+    "current": 13000,
+    "diff": 2000,
+    "avatar": "avatars/takahikoo.jpg",
+    "profile": "https://remanga.org/user/3225144/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "vallynor",
     "display": "Vallynor",
     "initial": 12000,
@@ -586,18 +598,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "takahikoo",
-    "display": "Takahikoo",
-    "initial": 11000,
-    "current": 12000,
-    "diff": 1000,
-    "avatar": "avatars/takahikoo.jpg",
-    "profile": "https://remanga.org/user/3225144/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "samurai",
