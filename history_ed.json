@@ -117,7 +117,7 @@
     "profile": "https://remanga.org/user/1935045/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "webru",
@@ -153,7 +153,7 @@
     "profile": "https://remanga.org/user/3204383/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "hatin",
@@ -369,7 +369,7 @@
     "profile": "https://remanga.org/user/453647/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "takahikoo",
@@ -740,8 +740,8 @@
     "avatar": "avatars/velialsalivan.jpg",
     "profile": "https://remanga.org/user/220375/about",
     "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "alafex",
