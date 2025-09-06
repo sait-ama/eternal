@@ -204,6 +204,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "necromant",
+    "display": "necromant",
+    "initial": 6020,
+    "current": 8810,
+    "diff": 2790,
+    "avatar": "avatars/necromant.jpg",
+    "profile": "https://remanga.org/user/1523481/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "jdhdbx",
     "display": "Jdhdbx",
     "initial": 12840,
@@ -768,18 +780,6 @@
     "last_active_human": "9 дн. назад"
   },
   {
-    "norm": "necromant",
-    "display": "necromant",
-    "initial": 6020,
-    "current": 6750,
-    "diff": 730,
-    "avatar": "avatars/necromant.jpg",
-    "profile": "https://remanga.org/user/1523481/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера"
-  },
-  {
     "norm": "tiltexist",
     "display": "TIltExist",
     "initial": 28330,
@@ -835,18 +835,6 @@
     "diff": 0,
     "avatar": "avatars/kintownskiy.jpg",
     "profile": "https://remanga.org/user/3983/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "vaenkh",
-    "display": "Vaenkh",
-    "initial": 8500,
-    "current": 8500,
-    "diff": 0,
-    "avatar": "avatars/placeholder.jpg",
-    "profile": "https://remanga.org",
     "guild": "Eternal Demonic",
     "is_afk": true,
     "last_active_human": "нет данных"
