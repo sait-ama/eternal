@@ -384,6 +384,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "loly2810",
+    "display": "Loly2810",
+    "initial": 18650,
+    "current": 23060,
+    "diff": 4410,
+    "avatar": "avatars/loly2810.jpg",
+    "profile": "https://remanga.org/user/732690/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "vladosrat",
     "display": "vladosrat",
     "initial": 47610,
@@ -648,18 +660,6 @@
     "last_active_human": "сегодня"
   },
   {
-    "norm": "loly2810",
-    "display": "Loly2810",
-    "initial": 18650,
-    "current": 21560,
-    "diff": 2910,
-    "avatar": "avatars/loly2810.jpg",
-    "profile": "https://remanga.org/user/732690/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
-  },
-  {
     "norm": "tokkebi11",
     "display": "ToKKeBi11",
     "initial": 11350,
@@ -669,7 +669,7 @@
     "profile": "https://remanga.org/user/1132063/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "йopм",
