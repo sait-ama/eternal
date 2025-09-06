@@ -444,6 +444,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "rezordaye",
+    "display": "rezord_aye",
+    "initial": 49660,
+    "current": 53760,
+    "diff": 4100,
+    "avatar": "avatars/rezordaye.jpg",
+    "profile": "https://remanga.org/user/210114/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "sinfullife",
     "display": "SinfulLife",
     "initial": 8000,
@@ -475,18 +487,6 @@
     "diff": 3880,
     "avatar": "avatars/rayze.jpg",
     "profile": "https://remanga.org/user/108995/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
-  },
-  {
-    "norm": "rezordaye",
-    "display": "rezord_aye",
-    "initial": 49660,
-    "current": 53510,
-    "diff": 3850,
-    "avatar": "avatars/rezordaye.jpg",
-    "profile": "https://remanga.org/user/210114/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
