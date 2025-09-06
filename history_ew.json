@@ -36,6 +36,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "caйtaмa",
+    "display": "Сайтама",
+    "initial": 128060,
+    "current": 144210,
+    "diff": 16150,
+    "avatar": "avatars/caйtaмa.jpg",
+    "profile": "https://remanga.org/user/12762/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "belashik",
     "display": "Belashik",
     "initial": 149100,
@@ -48,28 +60,16 @@
     "last_active_human": "вчера"
   },
   {
-    "norm": "caйtaмa",
-    "display": "Сайтама",
-    "initial": 128060,
-    "current": 142570,
-    "diff": 14510,
-    "avatar": "avatars/caйtaмa.jpg",
-    "profile": "https://remanga.org/user/12762/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
-  },
-  {
     "norm": "яшtyг",
     "display": "Яштуг",
     "initial": 128780,
-    "current": 141370,
-    "diff": 12590,
+    "current": 143000,
+    "diff": 14220,
     "avatar": "avatars/яшtyг.jpg",
     "profile": "https://remanga.org/user/1317566/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "ミュージシャン",
