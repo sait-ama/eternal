@@ -621,7 +621,7 @@
     "profile": "https://remanga.org/user/90646/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "5 дн. назад"
+    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "aмeн",
@@ -645,7 +645,7 @@
     "profile": "https://remanga.org/user/486583/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "hazenberg",
@@ -771,8 +771,8 @@
     "norm": "flammenoire",
     "display": "FlammeNoire",
     "initial": 42130,
-    "current": 42300,
-    "diff": 170,
+    "current": 42420,
+    "diff": 290,
     "avatar": "avatars/flammenoire.jpg",
     "profile": "https://remanga.org/user/2384260/about",
     "guild": "Eternal Demonic",
