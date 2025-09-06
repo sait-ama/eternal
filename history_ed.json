@@ -360,6 +360,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "drrи",
+    "display": "Dr.Rи",
+    "initial": 11000,
+    "current": 13000,
+    "diff": 2000,
+    "avatar": "avatars/drrи.jpg",
+    "profile": "https://remanga.org/user/823934/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "acediaqq",
     "display": "Acediaqq",
     "initial": 9000,
@@ -622,18 +634,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
-  },
-  {
-    "norm": "drrи",
-    "display": "Dr.Rи",
-    "initial": 11000,
-    "current": 12000,
-    "diff": 1000,
-    "avatar": "avatars/drrи.jpg",
-    "profile": "https://remanga.org/user/823934/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "bigmen07",
