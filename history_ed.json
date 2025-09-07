@@ -228,6 +228,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "lucifiel",
+    "display": "--Lucifiel--",
+    "initial": 12500,
+    "current": 15100,
+    "diff": 2600,
+    "avatar": "avatars/lucifiel.jpg",
+    "profile": "https://remanga.org/user/1207689/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "alanhui",
     "display": "alan-hui",
     "initial": 8660,
@@ -238,18 +250,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "lucifiel",
-    "display": "--Lucifiel--",
-    "initial": 12500,
-    "current": 15000,
-    "diff": 2500,
-    "avatar": "avatars/lucifiel.jpg",
-    "profile": "https://remanga.org/user/1207689/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "meimei",
