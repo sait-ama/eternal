@@ -81,7 +81,7 @@
     "profile": "https://remanga.org/user/199911/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "кaйдeн",
@@ -381,7 +381,7 @@
     "profile": "https://remanga.org/user/1227659/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "harlequ1n",
@@ -394,6 +394,18 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
+  },
+  {
+    "norm": "abigor",
+    "display": "Abigor.",
+    "initial": 19870,
+    "current": 24390,
+    "diff": 4520,
+    "avatar": "avatars/abigor.jpg",
+    "profile": "https://remanga.org/user/2093362/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "okiarya",
@@ -732,18 +744,6 @@
     "last_active_human": "вчера"
   },
   {
-    "norm": "abigor",
-    "display": "Abigor.",
-    "initial": 19870,
-    "current": 22390,
-    "diff": 2520,
-    "avatar": "avatars/abigor.jpg",
-    "profile": "https://remanga.org/user/2093362/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
-  },
-  {
     "norm": "chirusan",
     "display": "Chiru-san",
     "initial": 11850,
@@ -946,6 +946,18 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "7 дн. назад"
+  },
+  {
+    "norm": "gaynese",
+    "display": "Gaynese",
+    "initial": 0,
+    "current": 1110,
+    "diff": 1110,
+    "avatar": "avatars/gaynese.jpg",
+    "profile": "https://remanga.org/user/2253672/about",
+    "guild": "Eternal Watchers",
+    "is_afk": true,
+    "last_active_human": "нет данных"
   },
   {
     "norm": "allentina",
@@ -1303,18 +1315,6 @@
     "diff": 0,
     "avatar": "avatars/b@rmaley.jpg",
     "profile": "https://remanga.org/user/727624/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "gaynese",
-    "display": "Gaynese",
-    "initial": 0,
-    "current": 0,
-    "diff": 0,
-    "avatar": "avatars/gaynese.jpg",
-    "profile": "https://remanga.org/user/2253672/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
