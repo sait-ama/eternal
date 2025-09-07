@@ -33,6 +33,18 @@
     "profile": "https://remanga.org/user/2234201/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
+    "last_active_human": "вчера"
+  },
+  {
+    "norm": "belashik",
+    "display": "Belashik",
+    "initial": 149100,
+    "current": 168090,
+    "diff": 18990,
+    "avatar": "avatars/belashik.jpg",
+    "profile": "https://remanga.org/user/175047/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
     "last_active_human": "сегодня"
   },
   {
@@ -58,18 +70,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "belashik",
-    "display": "Belashik",
-    "initial": 149100,
-    "current": 163660,
-    "diff": 14560,
-    "avatar": "avatars/belashik.jpg",
-    "profile": "https://remanga.org/user/175047/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "festashka",
@@ -225,7 +225,7 @@
     "profile": "https://remanga.org/user/1602594/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "독부바",
