@@ -48,6 +48,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "яшtyг",
+    "display": "Яштуг",
+    "initial": 128780,
+    "current": 144120,
+    "diff": 15340,
+    "avatar": "avatars/яшtyг.jpg",
+    "profile": "https://remanga.org/user/1317566/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "belashik",
     "display": "Belashik",
     "initial": 149100,
@@ -58,18 +70,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "яшtyг",
-    "display": "Яштуг",
-    "initial": 128780,
-    "current": 143000,
-    "diff": 14220,
-    "avatar": "avatars/яшtyг.jpg",
-    "profile": "https://remanga.org/user/1317566/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "festashka",
@@ -171,8 +171,8 @@
     "norm": "thostriel",
     "display": "Thostriel",
     "initial": 43030,
-    "current": 51540,
-    "diff": 8510,
+    "current": 52040,
+    "diff": 9010,
     "avatar": "avatars/thostriel.jpg",
     "profile": "https://remanga.org/user/1405392/about",
     "guild": "Eternal Watchers",
@@ -549,7 +549,7 @@
     "profile": "https://remanga.org/user/349055/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "гocькa",
@@ -933,7 +933,7 @@
     "profile": "https://remanga.org/user/890414/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "5 дн. назад"
+    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "spidvrassrochku",
