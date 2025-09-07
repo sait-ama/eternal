@@ -708,6 +708,18 @@
     "last_active_human": "5 дн. назад"
   },
   {
+    "norm": "ronin74",
+    "display": "Ronin74",
+    "initial": 6250,
+    "current": 8780,
+    "diff": 2530,
+    "avatar": "avatars/ronin74.jpg",
+    "profile": "https://remanga.org/user/76998/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "вчера"
+  },
+  {
     "norm": "abigor",
     "display": "Abigor.",
     "initial": 19870,
@@ -789,7 +801,7 @@
     "profile": "https://remanga.org/user/191280/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "8 дн. назад"
+    "last_active_human": "9 дн. назад"
   },
   {
     "norm": "chitandael",
@@ -900,16 +912,16 @@
     "last_active_human": "4 дн. назад"
   },
   {
-    "norm": "ronin74",
-    "display": "Ronin74",
-    "initial": 6250,
-    "current": 7530,
-    "diff": 1280,
-    "avatar": "avatars/ronin74.jpg",
-    "profile": "https://remanga.org/user/76998/about",
+    "norm": "satisfied",
+    "display": "Satisfied",
+    "initial": 48630,
+    "current": 49920,
+    "diff": 1290,
+    "avatar": "avatars/satisfied.jpg",
+    "profile": "https://remanga.org/user/876190/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "bagas",
@@ -1053,7 +1065,7 @@
     "profile": "https://remanga.org/user/1160253/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "7 дн. назад"
+    "last_active_human": "8 дн. назад"
   },
   {
     "norm": "sunshi",
@@ -1099,18 +1111,6 @@
     "diff": 0,
     "avatar": "avatars/markutts.jpg",
     "profile": "https://remanga.org/user/660145/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "satisfied",
-    "display": "Satisfied",
-    "initial": 48630,
-    "current": 48630,
-    "diff": 0,
-    "avatar": "avatars/satisfied.jpg",
-    "profile": "https://remanga.org/user/876190/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
