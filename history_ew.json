@@ -27,13 +27,13 @@
     "norm": "darqee",
     "display": "DarQee",
     "initial": 23570,
-    "current": 57310,
-    "diff": 33740,
+    "current": 58000,
+    "diff": 34430,
     "avatar": "avatars/darqee.jpg",
     "profile": "https://remanga.org/user/2234201/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "belashik",
@@ -441,7 +441,7 @@
     "profile": "https://remanga.org/user/1037182/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "9 дн. назад"
+    "last_active_human": "10 дн. назад"
   },
   {
     "norm": "rezordaye",
@@ -696,6 +696,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "bagas",
+    "display": "Bagas",
+    "initial": 27110,
+    "current": 30060,
+    "diff": 2950,
+    "avatar": "avatars/bagas.jpg",
+    "profile": "https://remanga.org/user/79904/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "tokkebi11",
     "display": "ToKKeBi11",
     "initial": 11350,
@@ -765,7 +777,7 @@
     "profile": "https://remanga.org/user/1681839/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "wertyservyt",
@@ -924,18 +936,6 @@
     "last_active_human": "сегодня"
   },
   {
-    "norm": "bagas",
-    "display": "Bagas",
-    "initial": 27110,
-    "current": 28360,
-    "diff": 1250,
-    "avatar": "avatars/bagas.jpg",
-    "profile": "https://remanga.org/user/79904/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
-  },
-  {
     "norm": "ялyчшийвмиpe",
     "display": "Я_лучший_в_мире",
     "initial": 22080,
@@ -969,7 +969,7 @@
     "profile": "https://remanga.org/user/10999/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "admiralsengoku",
