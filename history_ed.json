@@ -84,6 +84,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "sas47",
+    "display": "Sas47",
+    "initial": 14010,
+    "current": 18010,
+    "diff": 4000,
+    "avatar": "avatars/sas47.jpg",
+    "profile": "https://remanga.org/user/2044615/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "rwbylove",
     "display": "RWBYLOVE",
     "initial": 20450,
@@ -178,18 +190,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
-  },
-  {
-    "norm": "sas47",
-    "display": "Sas47",
-    "initial": 14010,
-    "current": 17010,
-    "diff": 3000,
-    "avatar": "avatars/sas47.jpg",
-    "profile": "https://remanga.org/user/2044615/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "stas211242",
@@ -477,7 +477,7 @@
     "profile": "https://remanga.org/user/126709/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "oporlew",
@@ -795,13 +795,13 @@
     "norm": "flammenoire",
     "display": "FlammeNoire",
     "initial": 42130,
-    "current": 42420,
-    "diff": 290,
+    "current": 42510,
+    "diff": 380,
     "avatar": "avatars/flammenoire.jpg",
     "profile": "https://remanga.org/user/2384260/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "silenthill",
