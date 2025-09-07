@@ -84,6 +84,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "кaйдeн",
+    "display": "Кайден",
+    "initial": 64610,
+    "current": 76610,
+    "diff": 12000,
+    "avatar": "avatars/кaйдeн.jpg",
+    "profile": "https://remanga.org/user/439629/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ミュージシャン",
     "display": "ミュージシャン",
     "initial": 113000,
@@ -106,18 +118,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "кaйдeн",
-    "display": "Кайден",
-    "initial": 64610,
-    "current": 75610,
-    "diff": 11000,
-    "avatar": "avatars/кaйдeн.jpg",
-    "profile": "https://remanga.org/user/439629/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "souzerend",
@@ -175,6 +175,18 @@
     "diff": 9010,
     "avatar": "avatars/thostriel.jpg",
     "profile": "https://remanga.org/user/1405392/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
+    "norm": "urus",
+    "display": "URUS",
+    "initial": 12000,
+    "current": 20300,
+    "diff": 8300,
+    "avatar": "avatars/urus.jpg",
+    "profile": "https://remanga.org/user/46754/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -271,18 +283,6 @@
     "diff": 6560,
     "avatar": "avatars/лoхoбыкнoвeнный.jpg",
     "profile": "https://remanga.org/user/1496494/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "urus",
-    "display": "URUS",
-    "initial": 12000,
-    "current": 18550,
-    "diff": 6550,
-    "avatar": "avatars/urus.jpg",
-    "profile": "https://remanga.org/user/46754/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
