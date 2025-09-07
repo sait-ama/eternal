@@ -468,6 +468,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "akiram",
+    "display": "Aki_Ram",
+    "initial": 28600,
+    "current": 32720,
+    "diff": 4120,
+    "avatar": "avatars/akiram.jpg",
+    "profile": "https://remanga.org/user/3307870/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "dergauss",
     "display": "Dergauss",
     "initial": 14000,
@@ -684,18 +696,6 @@
     "last_active_human": "вчера"
   },
   {
-    "norm": "akiram",
-    "display": "Aki_Ram",
-    "initial": 28600,
-    "current": 31220,
-    "diff": 2620,
-    "avatar": "avatars/akiram.jpg",
-    "profile": "https://remanga.org/user/3307870/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
     "norm": "tokkebi11",
     "display": "ToKKeBi11",
     "initial": 11350,
@@ -898,6 +898,18 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
+  },
+  {
+    "norm": "ronin74",
+    "display": "Ronin74",
+    "initial": 6250,
+    "current": 7530,
+    "diff": 1280,
+    "avatar": "avatars/ronin74.jpg",
+    "profile": "https://remanga.org/user/76998/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "вчера"
   },
   {
     "norm": "bagas",
@@ -1306,18 +1318,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
-  },
-  {
-    "norm": "ronin74",
-    "display": "Ronin74",
-    "initial": 6250,
-    "current": 6250,
-    "diff": 0,
-    "avatar": "avatars/ronin74.jpg",
-    "profile": "https://remanga.org/user/76998/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "popugay",
