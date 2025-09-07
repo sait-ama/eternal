@@ -384,6 +384,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "samurai",
+    "display": "S.a.m.u.r.a.i.",
+    "initial": 11000,
+    "current": 13000,
+    "diff": 2000,
+    "avatar": "avatars/samurai.jpg",
+    "profile": "https://remanga.org/user/396925/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "vallynor",
     "display": "Vallynor",
     "initial": 12000,
@@ -636,18 +648,6 @@
     "last_active_human": "5 дн. назад"
   },
   {
-    "norm": "samurai",
-    "display": "S.a.m.u.r.a.i.",
-    "initial": 11000,
-    "current": 12000,
-    "diff": 1000,
-    "avatar": "avatars/samurai.jpg",
-    "profile": "https://remanga.org/user/396925/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад"
-  },
-  {
     "norm": "etoromantic",
     "display": "etoRomantic",
     "initial": 11000,
@@ -656,8 +656,8 @@
     "avatar": "avatars/etoromantic.jpg",
     "profile": "https://remanga.org/user/90646/about",
     "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "aмeн",
@@ -801,7 +801,7 @@
     "profile": "https://remanga.org/user/2384260/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "silenthill",
