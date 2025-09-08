@@ -276,6 +276,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "llikojioma",
+    "display": "LLIKoJIoma",
+    "initial": 10500,
+    "current": 13000,
+    "diff": 2500,
+    "avatar": "avatars/llikojioma.jpg",
+    "profile": "https://remanga.org/user/938430/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "meimei",
     "display": "mei_mei",
     "initial": 15450,
@@ -574,18 +586,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "6 дн. назад"
-  },
-  {
-    "norm": "llikojioma",
-    "display": "LLIKoJIoma",
-    "initial": 10500,
-    "current": 12000,
-    "diff": 1500,
-    "avatar": "avatars/llikojioma.jpg",
-    "profile": "https://remanga.org/user/938430/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "overtime",
