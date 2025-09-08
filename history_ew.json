@@ -168,6 +168,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "ፚꮼꮢꭵ૮ꮒꮶꮧ",
+    "display": "ፚᏬᏒᎥ૮ᏂᏦᏗ",
+    "initial": 80000,
+    "current": 90100,
+    "diff": 10100,
+    "avatar": "avatars/ፚꮼꮢꭵ૮ꮒꮶꮧ.jpg",
+    "profile": "https://remanga.org/user/189990/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ewtaya",
     "display": "EW_Taya_",
     "initial": 48130,
@@ -178,18 +190,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "ፚꮼꮢꭵ૮ꮒꮶꮧ",
-    "display": "ፚᏬᏒᎥ૮ᏂᏦᏗ",
-    "initial": 80000,
-    "current": 89000,
-    "diff": 9000,
-    "avatar": "avatars/ፚꮼꮢꭵ૮ꮒꮶꮧ.jpg",
-    "profile": "https://remanga.org/user/189990/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "urus",
@@ -480,6 +480,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "healot",
+    "display": "healot",
+    "initial": 21500,
+    "current": 26000,
+    "diff": 4500,
+    "avatar": "avatars/healot.jpg",
+    "profile": "https://remanga.org/user/2505495/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ronin74",
     "display": "Ronin74",
     "initial": 6250,
@@ -562,6 +574,18 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
+  },
+  {
+    "norm": "гocькa",
+    "display": "Госька",
+    "initial": 32470,
+    "current": 36540,
+    "diff": 4070,
+    "avatar": "avatars/гocькa.jpg",
+    "profile": "https://remanga.org/user/1079084/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "dergauss",
@@ -648,18 +672,6 @@
     "last_active_human": "3 дн. назад"
   },
   {
-    "norm": "гocькa",
-    "display": "Госька",
-    "initial": 32470,
-    "current": 35780,
-    "diff": 3310,
-    "avatar": "avatars/гocькa.jpg",
-    "profile": "https://remanga.org/user/1079084/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад"
-  },
-  {
     "norm": "tokkebi11",
     "display": "ToKKeBi11",
     "initial": 11350,
@@ -694,18 +706,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "10 дн. назад"
-  },
-  {
-    "norm": "healot",
-    "display": "healot",
-    "initial": 21500,
-    "current": 24500,
-    "diff": 3000,
-    "avatar": "avatars/healot.jpg",
-    "profile": "https://remanga.org/user/2505495/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "к4йдэн",
