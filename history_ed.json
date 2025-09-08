@@ -252,6 +252,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "oblakatt",
+    "display": "OblakaT_T",
+    "initial": 13000,
+    "current": 16000,
+    "diff": 3000,
+    "avatar": "avatars/oblakatt.jpg",
+    "profile": "https://remanga.org/user/474087/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "kost9n",
     "display": "KOST9N",
     "initial": 11000,
@@ -288,6 +300,18 @@
     "last_active_human": "4 дн. назад"
   },
   {
+    "norm": "alanhui",
+    "display": "alan-hui",
+    "initial": 8660,
+    "current": 11300,
+    "diff": 2640,
+    "avatar": "avatars/alanhui.jpg",
+    "profile": "https://remanga.org/user/2336976/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "lucifiel",
     "display": "--Lucifiel--",
     "initial": 12500,
@@ -298,18 +322,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "alanhui",
-    "display": "alan-hui",
-    "initial": 8660,
-    "current": 11190,
-    "diff": 2530,
-    "avatar": "avatars/alanhui.jpg",
-    "profile": "https://remanga.org/user/2336976/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "llikojioma",
@@ -382,18 +394,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
-  },
-  {
-    "norm": "oblakatt",
-    "display": "OblakaT_T",
-    "initial": 13000,
-    "current": 15000,
-    "diff": 2000,
-    "avatar": "avatars/oblakatt.jpg",
-    "profile": "https://remanga.org/user/474087/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "banshei",
