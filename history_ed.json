@@ -192,6 +192,18 @@
     "last_active_human": "4 дн. назад"
   },
   {
+    "norm": "mmarti",
+    "display": "mmarti",
+    "initial": 13000,
+    "current": 16000,
+    "diff": 3000,
+    "avatar": "avatars/mmarti.jpg",
+    "profile": "https://remanga.org/user/184784/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "akashi550",
     "display": "Akashi550",
     "initial": 12000,
@@ -336,18 +348,6 @@
     "last_active_human": "5 дн. назад"
   },
   {
-    "norm": "mmarti",
-    "display": "mmarti",
-    "initial": 13000,
-    "current": 15000,
-    "diff": 2000,
-    "avatar": "avatars/mmarti.jpg",
-    "profile": "https://remanga.org/user/184784/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
-  },
-  {
     "norm": "oblakatt",
     "display": "OblakaT_T",
     "initial": 13000,
@@ -441,7 +441,7 @@
     "profile": "https://remanga.org/user/48794/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "drrи",
