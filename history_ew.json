@@ -312,6 +312,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "bluefish",
+    "display": "Blue__fish",
+    "initial": 9000,
+    "current": 15500,
+    "diff": 6500,
+    "avatar": "avatars/bluefish.jpg",
+    "profile": "https://remanga.org/user/264468/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "frostik4",
     "display": "Frostik4",
     "initial": 39450,
@@ -1354,17 +1366,5 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "7 дн. назад"
-  },
-  {
-    "norm": "bluefish",
-    "display": "Blue__fish",
-    "initial": 9000,
-    "current": 9000,
-    "diff": 0,
-    "avatar": "avatars/bluefish.jpg",
-    "profile": "https://remanga.org/user/264468/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
   }
 ]
