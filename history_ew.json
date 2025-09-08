@@ -528,6 +528,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "chirusan",
+    "display": "Chiru-san",
+    "initial": 11850,
+    "current": 16350,
+    "diff": 4500,
+    "avatar": "avatars/chirusan.jpg",
+    "profile": "https://remanga.org/user/243053/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ronin74",
     "display": "Ronin74",
     "initial": 6250,
@@ -802,18 +814,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "chirusan",
-    "display": "Chiru-san",
-    "initial": 11850,
-    "current": 14350,
-    "diff": 2500,
-    "avatar": "avatars/chirusan.jpg",
-    "profile": "https://remanga.org/user/243053/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "tavik",
