@@ -36,6 +36,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "издateль",
+    "display": "Издатель",
+    "initial": 14780,
+    "current": 20320,
+    "diff": 5540,
+    "avatar": "avatars/издateль.jpg",
+    "profile": "https://remanga.org/user/2439923/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ham021",
     "display": "Ham021",
     "initial": 30500,
@@ -46,18 +58,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "издateль",
-    "display": "Издатель",
-    "initial": 14780,
-    "current": 19900,
-    "diff": 5120,
-    "avatar": "avatars/издateль.jpg",
-    "profile": "https://remanga.org/user/2439923/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "sunburst",
@@ -168,6 +168,18 @@
     "last_active_human": "4 дн. назад"
   },
   {
+    "norm": "stas211242",
+    "display": "stas211242",
+    "initial": 12780,
+    "current": 16329,
+    "diff": 3549,
+    "avatar": "avatars/stas211242.jpg",
+    "profile": "https://remanga.org/user/269608/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "hatin",
     "display": "Hatin",
     "initial": 12900,
@@ -214,18 +226,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "stas211242",
-    "display": "stas211242",
-    "initial": 12780,
-    "current": 15760,
-    "diff": 2980,
-    "avatar": "avatars/stas211242.jpg",
-    "profile": "https://remanga.org/user/269608/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "necromant",
