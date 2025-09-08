@@ -984,6 +984,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "casepona",
+    "display": "Casepona",
+    "initial": 158000,
+    "current": 159450,
+    "diff": 1450,
+    "avatar": "avatars/casepona.jpg",
+    "profile": "https://remanga.org/user/574245/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "asura",
     "display": "__ASURA__",
     "initial": 13600,
@@ -1195,18 +1207,6 @@
     "diff": 0,
     "avatar": "avatars/meeqq.jpg",
     "profile": "https://remanga.org/user/2360369/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "casepona",
-    "display": "Casepona",
-    "initial": 158000,
-    "current": 158000,
-    "diff": 0,
-    "avatar": "avatars/casepona.jpg",
-    "profile": "https://remanga.org/user/574245/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
