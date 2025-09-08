@@ -264,6 +264,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "vallynor",
+    "display": "Vallynor",
+    "initial": 12000,
+    "current": 15000,
+    "diff": 3000,
+    "avatar": "avatars/vallynor.jpg",
+    "profile": "https://remanga.org/user/876246/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "kost9n",
     "display": "KOST9N",
     "initial": 11000,
@@ -466,18 +478,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "vallynor",
-    "display": "Vallynor",
-    "initial": 12000,
-    "current": 14000,
-    "diff": 2000,
-    "avatar": "avatars/vallynor.jpg",
-    "profile": "https://remanga.org/user/876246/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "drrи",
