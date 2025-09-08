@@ -192,6 +192,18 @@
     "last_active_human": "4 дн. назад"
   },
   {
+    "norm": "akashi550",
+    "display": "Akashi550",
+    "initial": 12000,
+    "current": 15000,
+    "diff": 3000,
+    "avatar": "avatars/akashi550.jpg",
+    "profile": "https://remanga.org/user/617426/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "stas211242",
     "display": "stas211242",
     "initial": 12780,
@@ -322,18 +334,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "6 дн. назад"
-  },
-  {
-    "norm": "akashi550",
-    "display": "Akashi550",
-    "initial": 12000,
-    "current": 14000,
-    "diff": 2000,
-    "avatar": "avatars/akashi550.jpg",
-    "profile": "https://remanga.org/user/617426/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "oblakatt",
