@@ -372,6 +372,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "dergauss",
+    "display": "Dergauss",
+    "initial": 14000,
+    "current": 20000,
+    "diff": 6000,
+    "avatar": "avatars/dergauss.jpg",
+    "profile": "https://remanga.org/user/57091/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "frostik4",
     "display": "Frostik4",
     "initial": 39450,
@@ -475,18 +487,6 @@
     "diff": 5120,
     "avatar": "avatars/гocькa.jpg",
     "profile": "https://remanga.org/user/1079084/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "dergauss",
-    "display": "Dergauss",
-    "initial": 14000,
-    "current": 19000,
-    "diff": 5000,
-    "avatar": "avatars/dergauss.jpg",
-    "profile": "https://remanga.org/user/57091/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -658,6 +658,18 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
+  },
+  {
+    "norm": "asura",
+    "display": "__ASURA__",
+    "initial": 13600,
+    "current": 17760,
+    "diff": 4160,
+    "avatar": "avatars/asura.jpg",
+    "profile": "https://remanga.org/user/1365587/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "allentina",
@@ -898,18 +910,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
-  },
-  {
-    "norm": "asura",
-    "display": "__ASURA__",
-    "initial": 13600,
-    "current": 15750,
-    "diff": 2150,
-    "avatar": "avatars/asura.jpg",
-    "profile": "https://remanga.org/user/1365587/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "misikira",
