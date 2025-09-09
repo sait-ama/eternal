@@ -396,6 +396,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "clf",
+    "display": "Clf",
+    "initial": 32890,
+    "current": 38500,
+    "diff": 5610,
+    "avatar": "avatars/clf.jpg",
+    "profile": "https://remanga.org/user/942689/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "efiliyens",
     "display": "Efiliyens",
     "initial": 21000,
@@ -670,18 +682,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "clf",
-    "display": "Clf",
-    "initial": 32890,
-    "current": 36500,
-    "diff": 3610,
-    "avatar": "avatars/clf.jpg",
-    "profile": "https://remanga.org/user/942689/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "laytee",
