@@ -660,6 +660,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "tiltexist",
+    "display": "TIltExist",
+    "initial": 28330,
+    "current": 29450,
+    "diff": 1120,
+    "avatar": "avatars/tiltexist.jpg",
+    "profile": "https://remanga.org/user/98565/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "akihiko",
     "display": "Akihiko",
     "initial": 9000,
@@ -778,18 +790,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "tiltexist",
-    "display": "TIltExist",
-    "initial": 28330,
-    "current": 28770,
-    "diff": 440,
-    "avatar": "avatars/tiltexist.jpg",
-    "profile": "https://remanga.org/user/98565/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "silenthill",
