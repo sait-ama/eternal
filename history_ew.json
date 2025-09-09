@@ -573,7 +573,19 @@
     "profile": "https://remanga.org/user/959231/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "5 дн. назад"
+    "last_active_human": "6 дн. назад"
+  },
+  {
+    "norm": "mangalev",
+    "display": "mangalev",
+    "initial": 12340,
+    "current": 16970,
+    "diff": 4630,
+    "avatar": "avatars/mangalev.jpg",
+    "profile": "https://remanga.org/user/1096325/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "abigor",
@@ -646,18 +658,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "12 дн. назад"
-  },
-  {
-    "norm": "mangalev",
-    "display": "mangalev",
-    "initial": 12340,
-    "current": 16630,
-    "diff": 4290,
-    "avatar": "avatars/mangalev.jpg",
-    "profile": "https://remanga.org/user/1096325/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "asura",
@@ -765,7 +765,7 @@
     "profile": "https://remanga.org/user/1488259/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "10 дн. назад"
+    "last_active_human": "11 дн. назад"
   },
   {
     "norm": "greein",
