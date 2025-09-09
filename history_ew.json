@@ -33,7 +33,7 @@
     "profile": "https://remanga.org/user/2234201/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "belashik",
@@ -813,7 +813,7 @@
     "profile": "https://remanga.org/user/79904/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "tavik",
@@ -836,8 +836,8 @@
     "avatar": "avatars/techal.jpg",
     "profile": "https://remanga.org/user/1681839/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "wertyservyt",
