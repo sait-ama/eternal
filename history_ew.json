@@ -288,6 +288,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "andrefalkonen",
+    "display": "Andre_Falkonen",
+    "initial": 45580,
+    "current": 54270,
+    "diff": 8690,
+    "avatar": "avatars/andrefalkonen.jpg",
+    "profile": "https://remanga.org/user/35664/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "urus",
     "display": "URUS",
     "initial": 12000,
@@ -336,13 +348,13 @@
     "last_active_human": "6 дн. назад"
   },
   {
-    "norm": "andrefalkonen",
-    "display": "Andre_Falkonen",
-    "initial": 45580,
-    "current": 52570,
-    "diff": 6990,
-    "avatar": "avatars/andrefalkonen.jpg",
-    "profile": "https://remanga.org/user/35664/about",
+    "norm": "ronin74",
+    "display": "Ronin74",
+    "initial": 6250,
+    "current": 12960,
+    "diff": 6710,
+    "avatar": "avatars/ronin74.jpg",
+    "profile": "https://remanga.org/user/76998/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
@@ -670,18 +682,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "ronin74",
-    "display": "Ronin74",
-    "initial": 6250,
-    "current": 10680,
-    "diff": 4430,
-    "avatar": "avatars/ronin74.jpg",
-    "profile": "https://remanga.org/user/76998/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "loly2810",
