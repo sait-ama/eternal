@@ -81,7 +81,7 @@
     "profile": "https://remanga.org/user/3307870/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "яшtyг",
@@ -200,8 +200,8 @@
     "avatar": "avatars/ミュージシャン.jpg",
     "profile": "https://remanga.org/user/938359/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "harutsu",
