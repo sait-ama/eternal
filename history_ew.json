@@ -147,13 +147,13 @@
     "norm": "ewnobon",
     "display": "EW_NoBoN",
     "initial": 65000,
-    "current": 79000,
-    "diff": 14000,
+    "current": 79550,
+    "diff": 14550,
     "avatar": "avatars/ewnobon.jpg",
     "profile": "https://remanga.org/user/155090/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "souzerend",
@@ -681,7 +681,7 @@
     "profile": "https://remanga.org/user/243053/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "loly2810",
