@@ -1,5 +1,17 @@
 [
   {
+    "norm": "wertyservyt",
+    "display": "Werty-Servyt",
+    "initial": 212290,
+    "current": 309940,
+    "diff": 97650,
+    "avatar": "avatars/wertyservyt.jpg",
+    "profile": "https://remanga.org/user/364625/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "бeлoхвoctый",
     "display": "Белохвостый",
     "initial": 51100,
@@ -9,7 +21,7 @@
     "profile": "https://remanga.org/user/2874672/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "pepegaronni",
@@ -33,7 +45,7 @@
     "profile": "https://remanga.org/user/2234201/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "belashik",
@@ -106,17 +118,5 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "яшtyг",
-    "display": "Яштуг",
-    "initial": 128780,
-    "current": 144120,
-    "diff": 15340,
-    "avatar": "avatars/яшtyг.jpg",
-    "profile": "https://remanga.org/user/1317566/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   }
 ]
