@@ -621,7 +621,7 @@
     "profile": "https://remanga.org/user/1227659/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "totкtocмotpиt",
@@ -681,7 +681,7 @@
     "profile": "https://remanga.org/user/2093362/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "healot",
@@ -744,6 +744,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "tokkebi11",
+    "display": "ToKKeBi11",
+    "initial": 11350,
+    "current": 15060,
+    "diff": 3710,
+    "avatar": "avatars/tokkebi11.jpg",
+    "profile": "https://remanga.org/user/1132063/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "laytee",
     "display": "Laytee",
     "initial": 10330,
@@ -766,18 +778,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
-  },
-  {
-    "norm": "tokkebi11",
-    "display": "ToKKeBi11",
-    "initial": 11350,
-    "current": 14570,
-    "diff": 3220,
-    "avatar": "avatars/tokkebi11.jpg",
-    "profile": "https://remanga.org/user/1132063/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "abyss",
