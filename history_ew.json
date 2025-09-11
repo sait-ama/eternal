@@ -732,6 +732,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "tokkebi11",
+    "display": "ToKKeBi11",
+    "initial": 11350,
+    "current": 15450,
+    "diff": 4100,
+    "avatar": "avatars/tokkebi11.jpg",
+    "profile": "https://remanga.org/user/1132063/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "chitandael",
     "display": "Chitandael",
     "initial": 39780,
@@ -763,18 +775,6 @@
     "diff": 3850,
     "avatar": "avatars/payk.jpg",
     "profile": "https://remanga.org/user/155452/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "tokkebi11",
-    "display": "ToKKeBi11",
-    "initial": 11350,
-    "current": 15060,
-    "diff": 3710,
-    "avatar": "avatars/tokkebi11.jpg",
-    "profile": "https://remanga.org/user/1132063/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -957,7 +957,7 @@
     "profile": "https://remanga.org/user/191280/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "12 дн. назад"
+    "last_active_human": "13 дн. назад"
   },
   {
     "norm": "monalize",
@@ -1041,7 +1041,7 @@
     "profile": "https://remanga.org/user/876190/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "ялyчшийвмиpe",
@@ -1149,7 +1149,7 @@
     "profile": "https://remanga.org/user/1160253/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "11 дн. назад"
+    "last_active_human": "12 дн. назад"
   },
   {
     "norm": "sunshi",
