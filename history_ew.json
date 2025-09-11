@@ -600,6 +600,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "tokkebi11",
+    "display": "ToKKeBi11",
+    "initial": 11350,
+    "current": 16190,
+    "diff": 4840,
+    "avatar": "avatars/tokkebi11.jpg",
+    "profile": "https://remanga.org/user/1132063/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "magnavanitas",
     "display": "Magna_vanitas",
     "initial": 0,
@@ -730,18 +742,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "tokkebi11",
-    "display": "ToKKeBi11",
-    "initial": 11350,
-    "current": 15450,
-    "diff": 4100,
-    "avatar": "avatars/tokkebi11.jpg",
-    "profile": "https://remanga.org/user/1132063/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "chitandael",
