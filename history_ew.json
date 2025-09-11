@@ -84,6 +84,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "ፚꮼꮢꭵ૮ꮒꮶꮧ",
+    "display": "ፚᏬᏒᎥ૮ᏂᏦᏗ",
+    "initial": 80000,
+    "current": 101000,
+    "diff": 21000,
+    "avatar": "avatars/ፚꮼꮢꭵ૮ꮒꮶꮧ.jpg",
+    "profile": "https://remanga.org/user/189990/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "яшtyг",
     "display": "Яштуг",
     "initial": 128780,
@@ -91,18 +103,6 @@
     "diff": 17550,
     "avatar": "avatars/яшtyг.jpg",
     "profile": "https://remanga.org/user/1317566/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "ፚꮼꮢꭵ૮ꮒꮶꮧ",
-    "display": "ፚᏬᏒᎥ૮ᏂᏦᏗ",
-    "initial": 80000,
-    "current": 96000,
-    "diff": 16000,
-    "avatar": "avatars/ፚꮼꮢꭵ૮ꮒꮶꮧ.jpg",
-    "profile": "https://remanga.org/user/189990/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -285,7 +285,7 @@
     "profile": "https://remanga.org/user/46754/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "독부바",
@@ -813,7 +813,7 @@
     "profile": "https://remanga.org/user/170917/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "13 дн. назад"
+    "last_active_human": "14 дн. назад"
   },
   {
     "norm": "misikira",
@@ -1029,7 +1029,7 @@
     "profile": "https://remanga.org/user/574245/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "satisfied",
