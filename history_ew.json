@@ -1056,6 +1056,18 @@
     "last_active_human": "12 дн. назад"
   },
   {
+    "norm": "pupstv",
+    "display": "PupsTv",
+    "initial": 12000,
+    "current": 13200,
+    "diff": 1200,
+    "avatar": "avatars/pupstv.jpg",
+    "profile": "https://remanga.org/user/117177/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "gaynese",
     "display": "Gaynese",
     "initial": 0,
@@ -1066,18 +1078,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
-  },
-  {
-    "norm": "pupstv",
-    "display": "PupsTv",
-    "initial": 12000,
-    "current": 13100,
-    "diff": 1100,
-    "avatar": "avatars/pupstv.jpg",
-    "profile": "https://remanga.org/user/117177/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "cкpыtыйинtpигaн",
