@@ -480,6 +480,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "calistotzy",
+    "display": "CalistoTzy",
+    "initial": 117000,
+    "current": 122900,
+    "diff": 5900,
+    "avatar": "avatars/calistotzy.jpg",
+    "profile": "https://remanga.org/user/75644/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "totкtocмotpиt",
     "display": "тот_кто_смотрит....",
     "initial": 25780,
@@ -526,18 +538,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "14 дн. назад"
-  },
-  {
-    "norm": "calistotzy",
-    "display": "CalistoTzy",
-    "initial": 117000,
-    "current": 122500,
-    "diff": 5500,
-    "avatar": "avatars/calistotzy.jpg",
-    "profile": "https://remanga.org/user/75644/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "кaпиtaнзaнyдa",
@@ -753,7 +753,7 @@
     "profile": "https://remanga.org/user/372102/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "allentina",
