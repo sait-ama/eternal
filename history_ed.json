@@ -285,7 +285,7 @@
     "profile": "https://remanga.org/user/184784/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "akashi550",
@@ -310,6 +310,18 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
+  },
+  {
+    "norm": "sckatman",
+    "display": "Sckat_Man",
+    "initial": 7220,
+    "current": 10220,
+    "diff": 3000,
+    "avatar": "avatars/sckatman.jpg",
+    "profile": "https://remanga.org/user/136935/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "kim5+",
@@ -691,18 +703,6 @@
     "diff": 1500,
     "avatar": "avatars/overtime.jpg",
     "profile": "https://remanga.org/user/899302/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад"
-  },
-  {
-    "norm": "sckatman",
-    "display": "Sckat_Man",
-    "initial": 7220,
-    "current": 8720,
-    "diff": 1500,
-    "avatar": "avatars/sckatman.jpg",
-    "profile": "https://remanga.org/user/136935/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
