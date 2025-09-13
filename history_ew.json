@@ -27,8 +27,8 @@
     "norm": "pepegaronni",
     "display": "Pepegaronni",
     "initial": 28630,
-    "current": 83530,
-    "diff": 54900,
+    "current": 84230,
+    "diff": 55600,
     "avatar": "avatars/pepegaronni.jpg",
     "profile": "https://remanga.org/user/27168/about",
     "guild": "Eternal Watchers",
@@ -108,6 +108,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "яшtyг",
+    "display": "Яштуг",
+    "initial": 128780,
+    "current": 148080,
+    "diff": 19300,
+    "avatar": "avatars/яшtyг.jpg",
+    "profile": "https://remanga.org/user/1317566/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "desport",
     "display": "desport",
     "initial": 60640,
@@ -120,18 +132,6 @@
     "last_active_human": "сегодня"
   },
   {
-    "norm": "яшtyг",
-    "display": "Яштуг",
-    "initial": 128780,
-    "current": 147580,
-    "diff": 18800,
-    "avatar": "avatars/яшtyг.jpg",
-    "profile": "https://remanga.org/user/1317566/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
-  },
-  {
     "norm": "ewnobon",
     "display": "EW_NoBoN",
     "initial": 65000,
@@ -139,6 +139,18 @@
     "diff": 18700,
     "avatar": "avatars/ewnobon.jpg",
     "profile": "https://remanga.org/user/155090/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
+    "norm": "festashka",
+    "display": "_festashka_",
+    "initial": 77750,
+    "current": 96400,
+    "diff": 18650,
+    "avatar": "avatars/festashka.jpg",
+    "profile": "https://remanga.org/user/199911/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -166,18 +178,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
-  },
-  {
-    "norm": "festashka",
-    "display": "_festashka_",
-    "initial": 77750,
-    "current": 92300,
-    "diff": 14550,
-    "avatar": "avatars/festashka.jpg",
-    "profile": "https://remanga.org/user/199911/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "thostriel",
@@ -681,7 +681,7 @@
     "profile": "https://remanga.org/user/2041779/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "mangalev",
@@ -981,7 +981,7 @@
     "profile": "https://remanga.org/user/191280/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "14 дн. назад"
+    "last_active_human": "15 дн. назад"
   },
   {
     "norm": "monalize",
@@ -1173,7 +1173,7 @@
     "profile": "https://remanga.org/user/1160253/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "13 дн. назад"
+    "last_active_human": "14 дн. назад"
   },
   {
     "norm": "sunshi",
