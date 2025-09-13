@@ -120,6 +120,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "ewnobon",
+    "display": "EW_NoBoN",
+    "initial": 65000,
+    "current": 83700,
+    "diff": 18700,
+    "avatar": "avatars/ewnobon.jpg",
+    "profile": "https://remanga.org/user/155090/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "кaйдeн",
     "display": "Кайден",
     "initial": 64610,
@@ -130,18 +142,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "ewnobon",
-    "display": "EW_NoBoN",
-    "initial": 65000,
-    "current": 80000,
-    "diff": 15000,
-    "avatar": "avatars/ewnobon.jpg",
-    "profile": "https://remanga.org/user/155090/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "shirochan",
@@ -945,7 +945,7 @@
     "profile": "https://remanga.org/user/69640/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "гдeмoйctoяк",
