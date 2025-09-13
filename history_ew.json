@@ -573,7 +573,7 @@
     "profile": "https://remanga.org/user/1323051/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "14 дн. назад"
+    "last_active_human": "15 дн. назад"
   },
   {
     "norm": "temha9l",
@@ -586,6 +586,18 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
+  },
+  {
+    "norm": "хeйtepдoкa",
+    "display": "Хейтер_Дока",
+    "initial": 45880,
+    "current": 51160,
+    "diff": 5280,
+    "avatar": "avatars/хeйtepдoкa.jpg",
+    "profile": "https://remanga.org/user/2105597/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "darkangei",
@@ -610,6 +622,18 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
+  },
+  {
+    "norm": "tokkebi11",
+    "display": "ToKKeBi11",
+    "initial": 11350,
+    "current": 16390,
+    "diff": 5040,
+    "avatar": "avatars/tokkebi11.jpg",
+    "profile": "https://remanga.org/user/1132063/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "loli69228",
@@ -646,18 +670,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "tokkebi11",
-    "display": "ToKKeBi11",
-    "initial": 11350,
-    "current": 16190,
-    "diff": 4840,
-    "avatar": "avatars/tokkebi11.jpg",
-    "profile": "https://remanga.org/user/1132063/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "magnavanitas",
@@ -1186,18 +1198,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
-  },
-  {
-    "norm": "feelwhatlifeis",
-    "display": "Feel_what_life_is",
-    "initial": 45880,
-    "current": 45880,
-    "diff": 0,
-    "avatar": "avatars/placeholder.jpg",
-    "profile": "https://remanga.org",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "милыйкoхaй",
