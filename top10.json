@@ -84,6 +84,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "tenofmoses",
+    "display": "tenofmoses",
+    "initial": 9000,
+    "current": 34550,
+    "diff": 25550,
+    "avatar": "avatars/tenofmoses.jpg",
+    "profile": "https://remanga.org/user/3176212/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "caйtaмa",
     "display": "Сайтама",
     "initial": 128060,
@@ -92,18 +104,6 @@
     "avatar": "avatars/caйtaмa.jpg",
     "profile": "https://remanga.org/user/12762/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "tenofmoses",
-    "display": "tenofmoses",
-    "initial": 9000,
-    "current": 32299,
-    "diff": 23299,
-    "avatar": "avatars/tenofmoses.jpg",
-    "profile": "https://remanga.org/user/3176212/about",
-    "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
   },
