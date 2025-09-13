@@ -117,7 +117,7 @@
     "profile": "https://remanga.org/user/1317566/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "ewnobon",
@@ -135,13 +135,13 @@
     "norm": "кaйдeн",
     "display": "Кайден",
     "initial": 64610,
-    "current": 81610,
-    "diff": 17000,
+    "current": 82610,
+    "diff": 18000,
     "avatar": "avatars/кaйдeн.jpg",
     "profile": "https://remanga.org/user/439629/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "shirochan",
@@ -168,6 +168,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "thostriel",
+    "display": "Thostriel",
+    "initial": 43030,
+    "current": 57070,
+    "diff": 14040,
+    "avatar": "avatars/thostriel.jpg",
+    "profile": "https://remanga.org/user/1405392/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "souzerend",
     "display": "SouZeRenD",
     "initial": 0,
@@ -189,7 +201,7 @@
     "profile": "https://remanga.org/user/434820/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "лoхoбыкнoвeнный",
@@ -202,18 +214,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "thostriel",
-    "display": "Thostriel",
-    "initial": 43030,
-    "current": 55570,
-    "diff": 12540,
-    "avatar": "avatars/thostriel.jpg",
-    "profile": "https://remanga.org/user/1405392/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "ミュージシャン",
