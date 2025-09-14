@@ -36,11 +36,23 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "издateль",
+    "display": "Издатель",
+    "initial": 14780,
+    "current": 24020,
+    "diff": 9240,
+    "avatar": "avatars/издateль.jpg",
+    "profile": "https://remanga.org/user/2439923/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ronin74",
     "display": "Ronin74",
     "initial": 54200,
-    "current": 61820,
-    "diff": 7620,
+    "current": 62820,
+    "diff": 8620,
     "avatar": "avatars/ronin74.jpg",
     "profile": "https://remanga.org/user/76998/about",
     "guild": "Eternal Demonic",
@@ -55,18 +67,6 @@
     "diff": 7590,
     "avatar": "avatars/haisan.jpg",
     "profile": "https://remanga.org/user/2577043/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера"
-  },
-  {
-    "norm": "издateль",
-    "display": "Издатель",
-    "initial": 14780,
-    "current": 21880,
-    "diff": 7100,
-    "avatar": "avatars/издateль.jpg",
-    "profile": "https://remanga.org/user/2439923/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
