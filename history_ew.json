@@ -360,6 +360,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "nebulousvortex",
+    "display": "NebulousVortex",
+    "initial": 5010,
+    "current": 14010,
+    "diff": 9000,
+    "avatar": "avatars/nebulousvortex.jpg",
+    "profile": "https://remanga.org/user/1003671/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "독부바",
     "display": "독부바",
     "initial": 1280,
@@ -489,7 +501,7 @@
     "profile": "https://remanga.org/user/210114/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "loly2810",
@@ -516,18 +528,6 @@
     "last_active_human": "13 дн. назад"
   },
   {
-    "norm": "nebulousvortex",
-    "display": "NebulousVortex",
-    "initial": 5010,
-    "current": 11010,
-    "diff": 6000,
-    "avatar": "avatars/nebulousvortex.jpg",
-    "profile": "https://remanga.org/user/1003671/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
-  },
-  {
     "norm": "katsuusa",
     "display": "katsu_usa",
     "initial": 5000,
@@ -538,6 +538,18 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
+  },
+  {
+    "norm": "nebulousvortex",
+    "display": "NebulousVortex",
+    "initial": 8010,
+    "current": 14010,
+    "diff": 6000,
+    "avatar": "avatars/nebulousvortex.jpg",
+    "profile": "https://remanga.org/user/1003671/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "calistotzy",
@@ -934,18 +946,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "nebulousvortex",
-    "display": "NebulousVortex",
-    "initial": 8010,
-    "current": 11010,
-    "diff": 3000,
-    "avatar": "avatars/nebulousvortex.jpg",
-    "profile": "https://remanga.org/user/1003671/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "techal",
