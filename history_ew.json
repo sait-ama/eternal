@@ -396,6 +396,18 @@
     "last_active_human": "5 дн. назад"
   },
   {
+    "norm": "akiragame",
+    "display": "AkiraGame",
+    "initial": 61970,
+    "current": 70320,
+    "diff": 8350,
+    "avatar": "avatars/akiragame.jpg",
+    "profile": "https://remanga.org/user/1714962/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "bluefish",
     "display": "Blue__fish",
     "initial": 9000,
@@ -585,7 +597,7 @@
     "profile": "https://remanga.org/user/243053/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "efiliyens",
@@ -838,6 +850,18 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "6 дн. назад"
+  },
+  {
+    "norm": "meeqq",
+    "display": "MeeQ_Q",
+    "initial": 40410,
+    "current": 44310,
+    "diff": 3900,
+    "avatar": "avatars/meeqq.jpg",
+    "profile": "https://remanga.org/user/2360369/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "payk",
@@ -1164,18 +1188,6 @@
     "last_active_human": "16 дн. назад"
   },
   {
-    "norm": "akiragame",
-    "display": "AkiraGame",
-    "initial": 61970,
-    "current": 62720,
-    "diff": 750,
-    "avatar": "avatars/akiragame.jpg",
-    "profile": "https://remanga.org/user/1714962/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
     "norm": "frozenjfx",
     "display": "FrozenJFX",
     "initial": 23770,
@@ -1210,18 +1222,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "17 дн. назад"
-  },
-  {
-    "norm": "meeqq",
-    "display": "MeeQ_Q",
-    "initial": 40410,
-    "current": 40410,
-    "diff": 0,
-    "avatar": "avatars/meeqq.jpg",
-    "profile": "https://remanga.org/user/2360369/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
   },
   {
     "norm": "hellsait",
