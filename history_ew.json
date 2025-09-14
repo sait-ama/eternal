@@ -168,6 +168,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "strayker5421",
+    "display": "Strayker5421",
+    "initial": 8790,
+    "current": 23800,
+    "diff": 15010,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org/user/434820/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "6 дн. назад"
+  },
+  {
     "norm": "markutts",
     "display": "MARKUTTs",
     "initial": 69500,
@@ -202,18 +214,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "strayker5421",
-    "display": "Strayker5421",
-    "initial": 8790,
-    "current": 23290,
-    "diff": 14500,
-    "avatar": "avatars/placeholder.jpg",
-    "profile": "https://remanga.org/user/434820/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "souzerend",
@@ -573,7 +573,7 @@
     "profile": "https://remanga.org/user/201921/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "chirusan",
