@@ -864,6 +864,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "techal",
+    "display": "TeChal",
+    "initial": 10180,
+    "current": 14050,
+    "diff": 3870,
+    "avatar": "avatars/techal.jpg",
+    "profile": "https://remanga.org/user/1681839/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "payk",
     "display": "Payk_",
     "initial": 33630,
@@ -984,18 +996,6 @@
     "last_active_human": "сегодня"
   },
   {
-    "norm": "techal",
-    "display": "TeChal",
-    "initial": 10180,
-    "current": 12800,
-    "diff": 2620,
-    "avatar": "avatars/techal.jpg",
-    "profile": "https://remanga.org/user/1681839/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад"
-  },
-  {
     "norm": "tavik",
     "display": "Tavik",
     "initial": 48880,
@@ -1107,8 +1107,8 @@
     "norm": "pupstv",
     "display": "PupsTv",
     "initial": 12000,
-    "current": 13600,
-    "diff": 1600,
+    "current": 13900,
+    "diff": 1900,
     "avatar": "avatars/pupstv.jpg",
     "profile": "https://remanga.org/user/117177/about",
     "guild": "Eternal Watchers",
