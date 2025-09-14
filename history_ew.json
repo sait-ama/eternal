@@ -417,7 +417,7 @@
     "profile": "https://remanga.org/user/264468/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "гocькa",
@@ -741,7 +741,7 @@
     "profile": "https://remanga.org/user/108995/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "magnavanitas",
@@ -1017,7 +1017,7 @@
     "profile": "https://remanga.org/user/876190/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "talent",
@@ -1042,6 +1042,18 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "16 дн. назад"
+  },
+  {
+    "norm": "gaynese",
+    "display": "Gaynese",
+    "initial": 0,
+    "current": 2110,
+    "diff": 2110,
+    "avatar": "avatars/gaynese.jpg",
+    "profile": "https://remanga.org/user/2253672/about",
+    "guild": "Eternal Watchers",
+    "is_afk": true,
+    "last_active_human": "нет данных"
   },
   {
     "norm": "monalize",
@@ -1138,18 +1150,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "14 дн. назад"
-  },
-  {
-    "norm": "gaynese",
-    "display": "Gaynese",
-    "initial": 0,
-    "current": 1110,
-    "diff": 1110,
-    "avatar": "avatars/gaynese.jpg",
-    "profile": "https://remanga.org/user/2253672/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
   },
   {
     "norm": "cкpыtыйинtpигaн",
