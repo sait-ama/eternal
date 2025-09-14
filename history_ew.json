@@ -476,8 +476,20 @@
     "avatar": "avatars/sinfullife.jpg",
     "profile": "https://remanga.org/user/1632223/about",
     "guild": "Eternal Watchers",
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
+  },
+  {
+    "norm": "abigor",
+    "display": "Abigor.",
+    "initial": 19870,
+    "current": 26870,
+    "diff": 7000,
+    "avatar": "avatars/abigor.jpg",
+    "profile": "https://remanga.org/user/2093362/about",
+    "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "bloodborrn",
@@ -792,18 +804,6 @@
     "last_active_human": "вчера"
   },
   {
-    "norm": "abigor",
-    "display": "Abigor.",
-    "initial": 19870,
-    "current": 24390,
-    "diff": 4520,
-    "avatar": "avatars/abigor.jpg",
-    "profile": "https://remanga.org/user/2093362/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад"
-  },
-  {
     "norm": "vladosrat",
     "display": "vladosrat",
     "initial": 47610,
@@ -873,7 +873,7 @@
     "profile": "https://remanga.org/user/155452/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "laytee",
@@ -1029,7 +1029,7 @@
     "profile": "https://remanga.org/user/926473/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "13 дн. назад"
+    "last_active_human": "14 дн. назад"
   },
   {
     "norm": "гдeмoйctoяк",
