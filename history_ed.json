@@ -9,7 +9,7 @@
     "profile": "https://remanga.org/user/3176212/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "destructiongod𒉭",
@@ -240,6 +240,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "dmitryflow",
+    "display": "DmitryFlow",
+    "initial": 24000,
+    "current": 28000,
+    "diff": 4000,
+    "avatar": "avatars/dmitryflow.jpg",
+    "profile": "https://remanga.org/user/742164/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "@toxic",
     "display": "@𝑻𝑶𝑿𝑰𝑪",
     "initial": 23200,
@@ -444,18 +456,6 @@
     "last_active_human": "3 дн. назад"
   },
   {
-    "norm": "dmitryflow",
-    "display": "DmitryFlow",
-    "initial": 24000,
-    "current": 27000,
-    "diff": 3000,
-    "avatar": "avatars/dmitryflow.jpg",
-    "profile": "https://remanga.org/user/742164/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера"
-  },
-  {
     "norm": "so1omoon",
     "display": "So1oMooN",
     "initial": 9000,
@@ -644,8 +644,8 @@
     "avatar": "avatars/hazenberg.jpg",
     "profile": "https://remanga.org/user/612259/about",
     "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "ckckck",
