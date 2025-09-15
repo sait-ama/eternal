@@ -72,6 +72,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "stas211242",
+    "display": "stas211242",
+    "initial": 12780,
+    "current": 19470,
+    "diff": 6690,
+    "avatar": "avatars/stas211242.jpg",
+    "profile": "https://remanga.org/user/269608/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "sas47",
     "display": "Sas47",
     "initial": 14010,
@@ -79,18 +91,6 @@
     "diff": 6000,
     "avatar": "avatars/sas47.jpg",
     "profile": "https://remanga.org/user/2044615/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "stas211242",
-    "display": "stas211242",
-    "initial": 12780,
-    "current": 18580,
-    "diff": 5800,
-    "avatar": "avatars/stas211242.jpg",
-    "profile": "https://remanga.org/user/269608/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
