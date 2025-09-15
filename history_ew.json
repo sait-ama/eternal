@@ -804,6 +804,18 @@
     "last_active_human": "9 дн. назад"
   },
   {
+    "norm": "asura",
+    "display": "__ASURA__",
+    "initial": 13600,
+    "current": 18290,
+    "diff": 4690,
+    "avatar": "avatars/asura.jpg",
+    "profile": "https://remanga.org/user/1365587/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "harlequ1n",
     "display": "HARLEQU1N",
     "initial": 30760,
@@ -838,18 +850,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "17 дн. назад"
-  },
-  {
-    "norm": "asura",
-    "display": "__ASURA__",
-    "initial": 13600,
-    "current": 17760,
-    "diff": 4160,
-    "avatar": "avatars/asura.jpg",
-    "profile": "https://remanga.org/user/1365587/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "chitandael",
