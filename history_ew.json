@@ -549,7 +549,7 @@
     "profile": "https://remanga.org/user/3003544/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "loly2810",
@@ -788,8 +788,8 @@
     "avatar": "avatars/magnavanitas.jpg",
     "profile": "https://remanga.org/user/2041779/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "nikesnt",
