@@ -24,6 +24,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "rwbylove",
+    "display": "RWBYLOVE",
+    "initial": 20450,
+    "current": 30620,
+    "diff": 10170,
+    "avatar": "avatars/rwbylove.jpg",
+    "profile": "https://remanga.org/user/740757/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ham021",
     "display": "Ham021",
     "initial": 30500,
@@ -34,18 +46,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
-  },
-  {
-    "norm": "rwbylove",
-    "display": "RWBYLOVE",
-    "initial": 20450,
-    "current": 29740,
-    "diff": 9290,
-    "avatar": "avatars/rwbylove.jpg",
-    "profile": "https://remanga.org/user/740757/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "издateль",
@@ -285,7 +285,7 @@
     "profile": "https://remanga.org/user/102335/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "dmitryflow",
