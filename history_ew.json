@@ -177,7 +177,7 @@
     "profile": "https://remanga.org/user/2230415/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "harutsu",
@@ -756,6 +756,18 @@
     "last_active_human": "15 дн. назад"
   },
   {
+    "norm": "ялyчшийвмиpe",
+    "display": "Я_лучший_в_мире",
+    "initial": 22080,
+    "current": 27280,
+    "diff": 5200,
+    "avatar": "avatars/ялyчшийвмиpe.jpg",
+    "profile": "https://remanga.org/user/285519/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "tokkebi11",
     "display": "ToKKeBi11",
     "initial": 11350,
@@ -1138,18 +1150,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "7 дн. назад"
-  },
-  {
-    "norm": "ялyчшийвмиpe",
-    "display": "Я_лучший_в_мире",
-    "initial": 22080,
-    "current": 23280,
-    "diff": 1200,
-    "avatar": "avatars/ялyчшийвмиpe.jpg",
-    "profile": "https://remanga.org/user/285519/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "16 дн. назад"
   },
   {
     "norm": "cкpыtыйинtpигaн",
