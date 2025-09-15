@@ -216,6 +216,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "@toxic",
+    "display": "@𝑻𝑶𝑿𝑰𝑪",
+    "initial": 23200,
+    "current": 27410,
+    "diff": 4210,
+    "avatar": "avatars/@toxic.jpg",
+    "profile": "https://remanga.org/user/3204383/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "mmarti",
     "display": "mmarti",
     "initial": 13000,
@@ -310,18 +322,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "@toxic",
-    "display": "@𝑻𝑶𝑿𝑰𝑪",
-    "initial": 23200,
-    "current": 27190,
-    "diff": 3990,
-    "avatar": "avatars/@toxic.jpg",
-    "profile": "https://remanga.org/user/3204383/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "beast",
