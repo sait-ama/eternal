@@ -144,6 +144,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "aggressive",
+    "display": "-AGGRESSIVE-",
+    "initial": 7750,
+    "current": 13000,
+    "diff": 5250,
+    "avatar": "avatars/aggressive.jpg",
+    "profile": "https://remanga.org/user/1939125/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "banshei",
     "display": "BanShei",
     "initial": 11000,
@@ -190,18 +202,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "aggressive",
-    "display": "-AGGRESSIVE-",
-    "initial": 7750,
-    "current": 12250,
-    "diff": 4500,
-    "avatar": "avatars/aggressive.jpg",
-    "profile": "https://remanga.org/user/1939125/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "hatin",
@@ -298,6 +298,18 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
+  },
+  {
+    "norm": "so1omoon",
+    "display": "So1oMooN",
+    "initial": 9000,
+    "current": 13000,
+    "diff": 4000,
+    "avatar": "avatars/so1omoon.jpg",
+    "profile": "https://remanga.org/user/102035/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "saytoriya",
@@ -526,18 +538,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "so1omoon",
-    "display": "So1oMooN",
-    "initial": 9000,
-    "current": 12000,
-    "diff": 3000,
-    "avatar": "avatars/so1omoon.jpg",
-    "profile": "https://remanga.org/user/102035/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "velialsalivan",
