@@ -87,13 +87,13 @@
     "norm": "stas211242",
     "display": "stas211242",
     "initial": 12780,
-    "current": 18340,
-    "diff": 5560,
+    "current": 18580,
+    "diff": 5800,
     "avatar": "avatars/stas211242.jpg",
     "profile": "https://remanga.org/user/269608/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "webru",
@@ -345,7 +345,7 @@
     "profile": "https://remanga.org/user/2797890/about",
     "guild": "Eternal Demonic",
     "is_afk": true,
-    "last_active_human": "9 дн. назад"
+    "last_active_human": "10 дн. назад"
   },
   {
     "norm": "trillo",
