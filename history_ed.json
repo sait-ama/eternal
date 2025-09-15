@@ -380,8 +380,8 @@
     "avatar": "avatars/mmarti.jpg",
     "profile": "https://remanga.org/user/184784/about",
     "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "samurafs",
@@ -405,7 +405,7 @@
     "profile": "https://remanga.org/user/136935/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "kim5+",
