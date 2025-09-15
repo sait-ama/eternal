@@ -180,6 +180,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "harutsu",
+    "display": "Harutsu",
+    "initial": 73130,
+    "current": 90000,
+    "diff": 16870,
+    "avatar": "avatars/harutsu.jpg",
+    "profile": "https://remanga.org/user/415473/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "strayker5421",
     "display": "Strayker5421",
     "initial": 8790,
@@ -298,18 +310,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "harutsu",
-    "display": "Harutsu",
-    "initial": 73130,
-    "current": 84250,
-    "diff": 11120,
-    "avatar": "avatars/harutsu.jpg",
-    "profile": "https://remanga.org/user/415473/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "arbogastr",
@@ -597,7 +597,7 @@
     "profile": "https://remanga.org/user/75644/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "totкtocмotpиt",
@@ -849,7 +849,7 @@
     "profile": "https://remanga.org/user/372102/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "allentina",
