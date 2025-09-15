@@ -471,8 +471,8 @@
     "norm": "гocькa",
     "display": "Госька",
     "initial": 32470,
-    "current": 40650,
-    "diff": 8180,
+    "current": 40790,
+    "diff": 8320,
     "avatar": "avatars/гocькa.jpg",
     "profile": "https://remanga.org/user/1079084/about",
     "guild": "Eternal Watchers",
@@ -1341,7 +1341,7 @@
     "profile": "https://remanga.org/user/77899/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "11 дн. назад"
+    "last_active_human": "12 дн. назад"
   },
   {
     "norm": "b@rmaley",
