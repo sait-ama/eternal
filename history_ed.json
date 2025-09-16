@@ -636,6 +636,18 @@
     "last_active_human": "7 дн. назад"
   },
   {
+    "norm": "flammenoire",
+    "display": "FlammeNoire",
+    "initial": 42130,
+    "current": 44240,
+    "diff": 2110,
+    "avatar": "avatars/flammenoire.jpg",
+    "profile": "https://remanga.org/user/2384260/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "etoromantic",
     "display": "etoRomantic",
     "initial": 11000,
@@ -718,18 +730,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
-  },
-  {
-    "norm": "flammenoire",
-    "display": "FlammeNoire",
-    "initial": 42130,
-    "current": 43530,
-    "diff": 1400,
-    "avatar": "avatars/flammenoire.jpg",
-    "profile": "https://remanga.org/user/2384260/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "riverfreedom",
