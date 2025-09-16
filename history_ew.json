@@ -75,13 +75,13 @@
     "norm": "ፚꮼꮢꭵ૮ꮒꮶꮧ",
     "display": "ፚᏬᏒᎥ૮ᏂᏦᏗ",
     "initial": 80000,
-    "current": 109900,
-    "diff": 29900,
+    "current": 110000,
+    "diff": 30000,
     "avatar": "avatars/ፚꮼꮢꭵ૮ꮒꮶꮧ.jpg",
     "profile": "https://remanga.org/user/189990/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "caйtaмa",
@@ -1128,6 +1128,18 @@
     "last_active_human": "18 дн. назад"
   },
   {
+    "norm": "чмoшкaмoшкa",
+    "display": "Чмошка-Мошка",
+    "initial": 11280,
+    "current": 13180,
+    "diff": 1900,
+    "avatar": "avatars/чмoшкaмoшкa.jpg",
+    "profile": "https://remanga.org/user/2991171/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "spidvrassrochku",
     "display": "spidvrassrochku",
     "initial": 15860,
@@ -1171,18 +1183,6 @@
     "diff": 1000,
     "avatar": "avatars/elduck.jpg",
     "profile": "https://remanga.org/user/1125410/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "18 дн. назад"
-  },
-  {
-    "norm": "чмoшкaмoшкa",
-    "display": "Чмошка-Мошка",
-    "initial": 11280,
-    "current": 12180,
-    "diff": 900,
-    "avatar": "avatars/чмoшкaмoшкa.jpg",
-    "profile": "https://remanga.org/user/2991171/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "18 дн. назад"
