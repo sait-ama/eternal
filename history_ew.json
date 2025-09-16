@@ -360,6 +360,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "akiragame",
+    "display": "AkiraGame",
+    "initial": 61970,
+    "current": 73020,
+    "diff": 11050,
+    "avatar": "avatars/akiragame.jpg",
+    "profile": "https://remanga.org/user/1714962/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ronin74",
     "display": "Ronin74",
     "initial": 6250,
@@ -451,18 +463,6 @@
     "diff": 9000,
     "avatar": "avatars/bloodborrn.jpg",
     "profile": "https://remanga.org/user/832683/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
-  },
-  {
-    "norm": "akiragame",
-    "display": "AkiraGame",
-    "initial": 61970,
-    "current": 70920,
-    "diff": 8950,
-    "avatar": "avatars/akiragame.jpg",
-    "profile": "https://remanga.org/user/1714962/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
@@ -681,7 +681,7 @@
     "profile": "https://remanga.org/user/243053/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "5 дн. назад"
+    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "efiliyens",
@@ -1035,8 +1035,8 @@
     "norm": "pupstv",
     "display": "PupsTv",
     "initial": 12000,
-    "current": 14700,
-    "diff": 2700,
+    "current": 14800,
+    "diff": 2800,
     "avatar": "avatars/pupstv.jpg",
     "profile": "https://remanga.org/user/117177/about",
     "guild": "Eternal Watchers",
