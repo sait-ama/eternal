@@ -372,6 +372,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "llikojioma",
+    "display": "LLIKoJIoma",
+    "initial": 10500,
+    "current": 14000,
+    "diff": 3500,
+    "avatar": "avatars/llikojioma.jpg",
+    "profile": "https://remanga.org/user/938430/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "kaizaki",
     "display": "Kaizaki",
     "initial": 20470,
@@ -619,18 +631,6 @@
     "diff": 2580,
     "avatar": "avatars/moonsh1ne.jpg",
     "profile": "https://remanga.org/user/128587/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад"
-  },
-  {
-    "norm": "llikojioma",
-    "display": "LLIKoJIoma",
-    "initial": 10500,
-    "current": 13000,
-    "diff": 2500,
-    "avatar": "avatars/llikojioma.jpg",
-    "profile": "https://remanga.org/user/938430/about",
     "guild": "Eternal Demonic",
     "is_afk": true,
     "last_active_human": "7 дн. назад"
