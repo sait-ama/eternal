@@ -48,6 +48,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "haisan",
+    "display": "HaiSan",
+    "initial": 22500,
+    "current": 31990,
+    "diff": 9490,
+    "avatar": "avatars/haisan.jpg",
+    "profile": "https://remanga.org/user/2577043/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "издateль",
     "display": "Издатель",
     "initial": 14780,
@@ -70,18 +82,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "haisan",
-    "display": "HaiSan",
-    "initial": 22500,
-    "current": 30090,
-    "diff": 7590,
-    "avatar": "avatars/haisan.jpg",
-    "profile": "https://remanga.org/user/2577043/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "stas211242",
@@ -261,7 +261,7 @@
     "profile": "https://remanga.org/user/617426/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "oblakatt",
@@ -513,7 +513,7 @@
     "profile": "https://remanga.org/user/486583/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "hazenberg",
