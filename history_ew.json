@@ -276,6 +276,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "suba7u",
+    "display": "Suba7u",
+    "initial": 51790,
+    "current": 65220,
+    "diff": 13430,
+    "avatar": "avatars/suba7u.jpg",
+    "profile": "https://remanga.org/user/1602594/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ewtaya",
     "display": "EW_Taya_",
     "initial": 48130,
@@ -298,18 +310,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "suba7u",
-    "display": "Suba7u",
-    "initial": 51790,
-    "current": 64269,
-    "diff": 12479,
-    "avatar": "avatars/suba7u.jpg",
-    "profile": "https://remanga.org/user/1602594/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "arbogastr",
@@ -540,6 +540,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "rezordaye",
+    "display": "rezord_aye",
+    "initial": 49660,
+    "current": 56920,
+    "diff": 7260,
+    "avatar": "avatars/rezordaye.jpg",
+    "profile": "https://remanga.org/user/210114/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "allentina",
     "display": "allentina",
     "initial": 3000,
@@ -562,18 +574,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "rezordaye",
-    "display": "rezord_aye",
-    "initial": 49660,
-    "current": 56580,
-    "diff": 6920,
-    "avatar": "avatars/rezordaye.jpg",
-    "profile": "https://remanga.org/user/210114/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "creamwhite",
@@ -636,6 +636,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "йopм",
+    "display": "Йорм",
+    "initial": 23340,
+    "current": 29530,
+    "diff": 6190,
+    "avatar": "avatars/йopм.jpg",
+    "profile": "https://remanga.org/user/208257/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "calistotzy",
     "display": "CalistoTzy",
     "initial": 117000,
@@ -682,18 +694,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
-  },
-  {
-    "norm": "йopм",
-    "display": "Йорм",
-    "initial": 23340,
-    "current": 29250,
-    "diff": 5910,
-    "avatar": "avatars/йopм.jpg",
-    "profile": "https://remanga.org/user/208257/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "chirusan",
@@ -1056,6 +1056,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "reyrivman",
+    "display": "ReyRivman",
+    "initial": 5500,
+    "current": 8380,
+    "diff": 2880,
+    "avatar": "avatars/reyrivman.jpg",
+    "profile": "https://remanga.org/user/1967242/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "tavik",
     "display": "Tavik",
     "initial": 48880,
@@ -1363,18 +1375,6 @@
     "diff": 0,
     "avatar": "avatars/popugay.jpg",
     "profile": "https://remanga.org/user/2895554/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "reyrivman",
-    "display": "ReyRivman",
-    "initial": 5500,
-    "current": 5500,
-    "diff": 0,
-    "avatar": "avatars/reyrivman.jpg",
-    "profile": "https://remanga.org/user/1967242/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
