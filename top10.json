@@ -96,6 +96,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "akiragame",
+    "display": "AkiraGame",
+    "initial": 61970,
+    "current": 90520,
+    "diff": 28550,
+    "avatar": "avatars/akiragame.jpg",
+    "profile": "https://remanga.org/user/1714962/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "belashik",
     "display": "Belashik",
     "initial": 149100,
@@ -106,17 +118,5 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "festashka",
-    "display": "_festashka_",
-    "initial": 77750,
-    "current": 103900,
-    "diff": 26150,
-    "avatar": "avatars/festashka.jpg",
-    "profile": "https://remanga.org/user/199911/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   }
 ]
