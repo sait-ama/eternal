@@ -696,6 +696,18 @@
     "last_active_human": "6 дн. назад"
   },
   {
+    "norm": "magnavanitas",
+    "display": "Magna_vanitas",
+    "initial": 0,
+    "current": 5580,
+    "diff": 5580,
+    "avatar": "avatars/magnavanitas.jpg",
+    "profile": "https://remanga.org/user/2041779/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "healot",
     "display": "healot",
     "initial": 21500,
@@ -826,18 +838,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "7 дн. назад"
-  },
-  {
-    "norm": "magnavanitas",
-    "display": "Magna_vanitas",
-    "initial": 0,
-    "current": 4830,
-    "diff": 4830,
-    "avatar": "avatars/magnavanitas.jpg",
-    "profile": "https://remanga.org/user/2041779/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "9 дн. назад"
   },
   {
     "norm": "nikesnt",
