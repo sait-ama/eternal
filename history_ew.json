@@ -1366,5 +1366,29 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
+  },
+  {
+    "norm": "petr66",
+    "display": "Petr66",
+    "initial": 5500,
+    "current": 5500,
+    "diff": 0,
+    "avatar": "avatars/petr66.jpg",
+    "profile": "https://remanga.org/user/3210259/about",
+    "guild": "Eternal Watchers",
+    "is_afk": true,
+    "last_active_human": "нет данных"
+  },
+  {
+    "norm": "widding",
+    "display": "WidDing",
+    "initial": 5500,
+    "current": 5500,
+    "diff": 0,
+    "avatar": "avatars/widding.jpg",
+    "profile": "https://remanga.org/user/888106/about",
+    "guild": "Eternal Watchers",
+    "is_afk": true,
+    "last_active_human": "нет данных"
   }
 ]
