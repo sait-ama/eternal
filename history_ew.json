@@ -27,8 +27,8 @@
     "norm": "pepegaronni",
     "display": "Pepegaronni",
     "initial": 28630,
-    "current": 85630,
-    "diff": 57000,
+    "current": 87130,
+    "diff": 58500,
     "avatar": "avatars/pepegaronni.jpg",
     "profile": "https://remanga.org/user/27168/about",
     "guild": "Eternal Watchers",
@@ -57,7 +57,7 @@
     "profile": "https://remanga.org/user/2234201/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "caйtaмa",
@@ -228,6 +228,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "akiragame",
+    "display": "AkiraGame",
+    "initial": 61970,
+    "current": 77520,
+    "diff": 15550,
+    "avatar": "avatars/akiragame.jpg",
+    "profile": "https://remanga.org/user/1714962/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "overcooling",
     "display": "Overcooling",
     "initial": 41000,
@@ -250,18 +262,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
-  },
-  {
-    "norm": "akiragame",
-    "display": "AkiraGame",
-    "initial": 61970,
-    "current": 76520,
-    "diff": 14550,
-    "avatar": "avatars/akiragame.jpg",
-    "profile": "https://remanga.org/user/1714962/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "лoхoбыкнoвeнный",
@@ -543,8 +543,8 @@
     "norm": "rezordaye",
     "display": "rezord_aye",
     "initial": 49660,
-    "current": 56920,
-    "diff": 7260,
+    "current": 57340,
+    "diff": 7680,
     "avatar": "avatars/rezordaye.jpg",
     "profile": "https://remanga.org/user/210114/about",
     "guild": "Eternal Watchers",
