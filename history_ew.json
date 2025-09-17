@@ -99,8 +99,8 @@
     "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 61970,
-    "current": 90520,
-    "diff": 28550,
+    "current": 90700,
+    "diff": 28730,
     "avatar": "avatars/akiragame.jpg",
     "profile": "https://remanga.org/user/1714962/about",
     "guild": "Eternal Watchers",
@@ -243,13 +243,13 @@
     "norm": "thostriel",
     "display": "Thostriel",
     "initial": 43030,
-    "current": 58810,
-    "diff": 15780,
+    "current": 59520,
+    "diff": 16490,
     "avatar": "avatars/thostriel.jpg",
     "profile": "https://remanga.org/user/1405392/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "overcooling",
