@@ -192,6 +192,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "saytoriya",
+    "display": "Saytoriya",
+    "initial": 11000,
+    "current": 16000,
+    "diff": 5000,
+    "avatar": "avatars/saytoriya.jpg",
+    "profile": "https://remanga.org/user/126709/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "sunburst",
     "display": "Sunburst",
     "initial": 9000,
@@ -346,18 +358,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "saytoriya",
-    "display": "Saytoriya",
-    "initial": 11000,
-    "current": 15000,
-    "diff": 4000,
-    "avatar": "avatars/saytoriya.jpg",
-    "profile": "https://remanga.org/user/126709/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "beast",
