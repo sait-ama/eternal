@@ -432,6 +432,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "efiliyens",
+    "display": "Efiliyens",
+    "initial": 21000,
+    "current": 31000,
+    "diff": 10000,
+    "avatar": "avatars/efiliyens.jpg",
+    "profile": "https://remanga.org/user/169153/about",
+    "guild": "Eternal Watchers",
+    "is_afk": true,
+    "last_active_human": "20 дн. назад"
+  },
+  {
     "norm": "urus",
     "display": "URUS",
     "initial": 12000,
@@ -682,18 +694,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "6 дн. назад"
-  },
-  {
-    "norm": "efiliyens",
-    "display": "Efiliyens",
-    "initial": 21000,
-    "current": 26500,
-    "diff": 5500,
-    "avatar": "avatars/efiliyens.jpg",
-    "profile": "https://remanga.org/user/169153/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "20 дн. назад"
   },
   {
     "norm": "healot",
