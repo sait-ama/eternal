@@ -129,7 +129,7 @@
     "profile": "https://remanga.org/user/199911/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "яшtyг",
@@ -1373,8 +1373,8 @@
     "initial": 5420,
     "current": 5420,
     "diff": 0,
-    "avatar": "avatars/popugay.jpg",
-    "profile": "https://remanga.org/user/2895554/about",
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
