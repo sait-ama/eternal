@@ -264,6 +264,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "necromant",
+    "display": "necromant",
+    "initial": 6020,
+    "current": 10030,
+    "diff": 4010,
+    "avatar": "avatars/necromant.jpg",
+    "profile": "https://remanga.org/user/1523481/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "mmarti",
     "display": "mmarti",
     "initial": 13000,
@@ -394,18 +406,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "necromant",
-    "display": "necromant",
-    "initial": 6020,
-    "current": 9830,
-    "diff": 3810,
-    "avatar": "avatars/necromant.jpg",
-    "profile": "https://remanga.org/user/1523481/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "kaizaki",
