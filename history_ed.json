@@ -12,6 +12,18 @@
     "last_active_human": "4 дн. назад"
   },
   {
+    "norm": "destructiongod𒉭",
+    "display": "DestructionGod𒉭",
+    "initial": 60000,
+    "current": 75000,
+    "diff": 15000,
+    "avatar": "avatars/destructiongod𒉭.jpg",
+    "profile": "https://remanga.org/user/1650325/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ham021",
     "display": "Ham021",
     "initial": 30500,
@@ -34,18 +46,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "destructiongod𒉭",
-    "display": "DestructionGod𒉭",
-    "initial": 60000,
-    "current": 71410,
-    "diff": 11410,
-    "avatar": "avatars/destructiongod𒉭.jpg",
-    "profile": "https://remanga.org/user/1650325/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "haisan",
