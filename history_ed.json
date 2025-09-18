@@ -320,8 +320,8 @@
     "avatar": "avatars/oblakatt.jpg",
     "profile": "https://remanga.org/user/474087/about",
     "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "vallynor",
@@ -501,7 +501,7 @@
     "profile": "https://remanga.org/user/90646/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "flammenoire",
