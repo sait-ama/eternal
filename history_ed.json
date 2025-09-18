@@ -372,6 +372,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "velialsalivan",
+    "display": "Velial_Salivan",
+    "initial": 10000,
+    "current": 14000,
+    "diff": 4000,
+    "avatar": "avatars/velialsalivan.jpg",
+    "profile": "https://remanga.org/user/220375/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "beast",
     "display": "Beast_",
     "initial": 47130,
@@ -609,7 +621,7 @@
     "profile": "https://remanga.org/user/172319/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "чиtateль+дpyг",
@@ -622,18 +634,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
-  },
-  {
-    "norm": "velialsalivan",
-    "display": "Velial_Salivan",
-    "initial": 10000,
-    "current": 13000,
-    "diff": 3000,
-    "avatar": "avatars/velialsalivan.jpg",
-    "profile": "https://remanga.org/user/220375/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "alafex",
