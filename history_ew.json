@@ -447,8 +447,8 @@
     "norm": "гocькa",
     "display": "Госька",
     "initial": 32470,
-    "current": 42010,
-    "diff": 9540,
+    "current": 42240,
+    "diff": 9770,
     "avatar": "avatars/гocькa.jpg",
     "profile": "https://remanga.org/user/1079084/about",
     "guild": "Eternal Watchers",
@@ -912,6 +912,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "misikira",
+    "display": "Misikira",
+    "initial": 19300,
+    "current": 23680,
+    "diff": 4380,
+    "avatar": "avatars/misikira.jpg",
+    "profile": "https://remanga.org/user/2350456/about",
+    "guild": "Eternal Watchers",
+    "is_afk": true,
+    "last_active_human": "21 дн. назад"
+  },
+  {
     "norm": "chitandael",
     "display": "Chitandael",
     "initial": 39780,
@@ -982,18 +994,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "20 дн. назад"
-  },
-  {
-    "norm": "misikira",
-    "display": "Misikira",
-    "initial": 19300,
-    "current": 22380,
-    "diff": 3080,
-    "avatar": "avatars/misikira.jpg",
-    "profile": "https://remanga.org/user/2350456/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "21 дн. назад"
   },
   {
     "norm": "zarti",
@@ -1161,7 +1161,7 @@
     "profile": "https://remanga.org/user/10999/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "9 дн. назад"
+    "last_active_human": "10 дн. назад"
   },
   {
     "norm": "casepona",
