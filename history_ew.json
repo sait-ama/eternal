@@ -903,8 +903,8 @@
     "norm": "xmmxmm",
     "display": "Xmmxmm",
     "initial": 13650,
-    "current": 18090,
-    "diff": 4440,
+    "current": 18130,
+    "diff": 4480,
     "avatar": "avatars/xmmxmm.jpg",
     "profile": "https://remanga.org/user/2724307/about",
     "guild": "Eternal Watchers",
@@ -1089,7 +1089,7 @@
     "profile": "https://remanga.org/user/876190/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "talent",
