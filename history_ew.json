@@ -27,13 +27,13 @@
     "norm": "pepegaronni",
     "display": "Pepegaronni",
     "initial": 28630,
-    "current": 87130,
-    "diff": 58500,
+    "current": 89430,
+    "diff": 60800,
     "avatar": "avatars/pepegaronni.jpg",
     "profile": "https://remanga.org/user/27168/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "akiram",
@@ -58,6 +58,18 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
+  },
+  {
+    "norm": "belashik",
+    "display": "Belashik",
+    "initial": 149100,
+    "current": 182760,
+    "diff": 33660,
+    "avatar": "avatars/belashik.jpg",
+    "profile": "https://remanga.org/user/175047/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "caйtaмa",
@@ -106,18 +118,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "belashik",
-    "display": "Belashik",
-    "initial": 149100,
-    "current": 176460,
-    "diff": 27360,
-    "avatar": "avatars/belashik.jpg",
-    "profile": "https://remanga.org/user/175047/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "festashka",
@@ -180,6 +180,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "harutsu",
+    "display": "Harutsu",
+    "initial": 73130,
+    "current": 94300,
+    "diff": 21170,
+    "avatar": "avatars/harutsu.jpg",
+    "profile": "https://remanga.org/user/415473/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "desport",
     "display": "desport",
     "initial": 60640,
@@ -199,18 +211,6 @@
     "diff": 17950,
     "avatar": "avatars/shirochan.jpg",
     "profile": "https://remanga.org/user/9766/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
-  },
-  {
-    "norm": "harutsu",
-    "display": "Harutsu",
-    "initial": 73130,
-    "current": 91000,
-    "diff": 17870,
-    "avatar": "avatars/harutsu.jpg",
-    "profile": "https://remanga.org/user/415473/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
@@ -357,7 +357,7 @@
     "profile": "https://remanga.org/user/141395/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "милыйкoхaй",
@@ -381,7 +381,7 @@
     "profile": "https://remanga.org/user/57091/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "ronin74",
@@ -573,7 +573,7 @@
     "profile": "https://remanga.org/user/1096325/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "allentina",
@@ -645,7 +645,7 @@
     "profile": "https://remanga.org/user/732690/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "harlequ1n",
