@@ -324,6 +324,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "arbogastr",
+    "display": "Arbogastr",
+    "initial": 45500,
+    "current": 58500,
+    "diff": 13000,
+    "avatar": "avatars/arbogastr.jpg",
+    "profile": "https://remanga.org/user/993371/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "andrefalkonen",
     "display": "Andre_Falkonen",
     "initial": 45580,
@@ -346,18 +358,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "arbogastr",
-    "display": "Arbogastr",
-    "initial": 45500,
-    "current": 57500,
-    "diff": 12000,
-    "avatar": "avatars/arbogastr.jpg",
-    "profile": "https://remanga.org/user/993371/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "милыйкoхaй",
@@ -612,6 +612,18 @@
     "last_active_human": "10 дн. назад"
   },
   {
+    "norm": "calistotzy",
+    "display": "CalistoTzy",
+    "initial": 117000,
+    "current": 123500,
+    "diff": 6500,
+    "avatar": "avatars/calistotzy.jpg",
+    "profile": "https://remanga.org/user/75644/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "frostik4",
     "display": "Frostik4",
     "initial": 39450,
@@ -658,18 +670,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "calistotzy",
-    "display": "CalistoTzy",
-    "initial": 117000,
-    "current": 123000,
-    "diff": 6000,
-    "avatar": "avatars/calistotzy.jpg",
-    "profile": "https://remanga.org/user/75644/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "katsuusa",
@@ -945,7 +945,7 @@
     "profile": "https://remanga.org/user/2360369/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "techal",
