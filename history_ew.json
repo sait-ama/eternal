@@ -561,7 +561,7 @@
     "profile": "https://remanga.org/user/201921/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "magnavanitas",
@@ -681,7 +681,7 @@
     "profile": "https://remanga.org/user/959231/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "йopм",
@@ -1227,13 +1227,13 @@
     "norm": "sunshi",
     "display": "Sunshi",
     "initial": 7660,
-    "current": 7800,
-    "diff": 140,
+    "current": 8070,
+    "diff": 410,
     "avatar": "avatars/sunshi.jpg",
     "profile": "https://remanga.org/user/2317545/about",
     "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "22 дн. назад"
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "hellsait",
