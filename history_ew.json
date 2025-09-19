@@ -189,7 +189,7 @@
     "profile": "https://remanga.org/user/938359/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "harutsu",
@@ -199,6 +199,18 @@
     "diff": 21170,
     "avatar": "avatars/harutsu.jpg",
     "profile": "https://remanga.org/user/415473/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
+    "norm": "ewtaya",
+    "display": "EW_Taya_",
+    "initial": 48130,
+    "current": 66320,
+    "diff": 18190,
+    "avatar": "avatars/ewtaya.jpg",
+    "profile": "https://remanga.org/user/2325061/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -252,18 +264,6 @@
     "last_active_human": "4 дн. назад"
   },
   {
-    "norm": "ewtaya",
-    "display": "EW_Taya_",
-    "initial": 48130,
-    "current": 63920,
-    "diff": 15790,
-    "avatar": "avatars/ewtaya.jpg",
-    "profile": "https://remanga.org/user/2325061/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
-  },
-  {
     "norm": "overcooling",
     "display": "Overcooling",
     "initial": 41000,
@@ -285,7 +285,7 @@
     "profile": "https://remanga.org/user/660145/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "5 дн. назад"
+    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "лoхoбыкнoвeнный",
@@ -357,7 +357,7 @@
     "profile": "https://remanga.org/user/35664/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "ewobserver",
