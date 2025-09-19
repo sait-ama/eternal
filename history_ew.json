@@ -24,18 +24,6 @@
     "last_active_human": "8 дн. назад"
   },
   {
-    "norm": "pepegaronni",
-    "display": "Pepegaronni",
-    "initial": 28630,
-    "current": 89430,
-    "diff": 60800,
-    "avatar": "avatars/pepegaronni.jpg",
-    "profile": "https://remanga.org/user/27168/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
     "norm": "akiram",
     "display": "Aki_Ram",
     "initial": 28600,
@@ -1017,7 +1005,7 @@
     "profile": "https://remanga.org/user/1529739/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "к4йдэн",
@@ -1234,6 +1222,18 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "22 дн. назад"
+  },
+  {
+    "norm": "pipimaki",
+    "display": "PipiMaki",
+    "initial": 28630,
+    "current": 5420,
+    "diff": 0,
+    "avatar": "avatars/pipimaki.jpg",
+    "profile": "https://remanga.org/user/2895554/about",
+    "guild": "Eternal Watchers",
+    "is_afk": true,
+    "last_active_human": "нет данных"
   },
   {
     "norm": "hellsait",
