@@ -744,6 +744,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "payk",
+    "display": "Payk_",
+    "initial": 33630,
+    "current": 39440,
+    "diff": 5810,
+    "avatar": "avatars/payk.jpg",
+    "profile": "https://remanga.org/user/155452/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "chirusan",
     "display": "Chiru-san",
     "initial": 11850,
@@ -958,18 +970,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "payk",
-    "display": "Payk_",
-    "initial": 33630,
-    "current": 37480,
-    "diff": 3850,
-    "avatar": "avatars/payk.jpg",
-    "profile": "https://remanga.org/user/155452/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "8 дн. назад"
   },
   {
     "norm": "laytee",
