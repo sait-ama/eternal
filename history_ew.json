@@ -336,6 +336,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "nebulousvortex",
+    "display": "NebulousVortex",
+    "initial": 5010,
+    "current": 18010,
+    "diff": 13000,
+    "avatar": "avatars/nebulousvortex.jpg",
+    "profile": "https://remanga.org/user/1003671/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "andrefalkonen",
     "display": "Andre_Falkonen",
     "initial": 45580,
@@ -444,6 +456,18 @@
     "last_active_human": "22 дн. назад"
   },
   {
+    "norm": "nebulousvortex",
+    "display": "NebulousVortex",
+    "initial": 8010,
+    "current": 18010,
+    "diff": 10000,
+    "avatar": "avatars/nebulousvortex.jpg",
+    "profile": "https://remanga.org/user/1003671/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "гocькa",
     "display": "Госька",
     "initial": 32470,
@@ -478,18 +502,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "nebulousvortex",
-    "display": "NebulousVortex",
-    "initial": 5010,
-    "current": 14010,
-    "diff": 9000,
-    "avatar": "avatars/nebulousvortex.jpg",
-    "profile": "https://remanga.org/user/1003671/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "bloodborrn",
@@ -718,18 +730,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "nebulousvortex",
-    "display": "NebulousVortex",
-    "initial": 8010,
-    "current": 14010,
-    "diff": 6000,
-    "avatar": "avatars/nebulousvortex.jpg",
-    "profile": "https://remanga.org/user/1003671/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "rayze",
