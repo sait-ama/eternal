@@ -153,7 +153,7 @@
     "profile": "https://remanga.org/user/453647/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "leyley",
@@ -226,6 +226,18 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
+  },
+  {
+    "norm": "dmitryflow",
+    "display": "DmitryFlow",
+    "initial": 24000,
+    "current": 29000,
+    "diff": 5000,
+    "avatar": "avatars/dmitryflow.jpg",
+    "profile": "https://remanga.org/user/742164/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "saytoriya",
@@ -403,18 +415,6 @@
     "diff": 4000,
     "avatar": "avatars/acediaqq.jpg",
     "profile": "https://remanga.org/user/102335/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
-  },
-  {
-    "norm": "dmitryflow",
-    "display": "DmitryFlow",
-    "initial": 24000,
-    "current": 28000,
-    "diff": 4000,
-    "avatar": "avatars/dmitryflow.jpg",
-    "profile": "https://remanga.org/user/742164/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "6 дн. назад"
