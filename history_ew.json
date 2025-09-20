@@ -132,6 +132,18 @@
     "last_active_human": "7 дн. назад"
   },
   {
+    "norm": "desport",
+    "display": "desport",
+    "initial": 60640,
+    "current": 87530,
+    "diff": 26890,
+    "avatar": "avatars/desport.jpg",
+    "profile": "https://remanga.org/user/216019/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ewnobon",
     "display": "EW_NoBoN",
     "initial": 65000,
@@ -166,18 +178,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "desport",
-    "display": "desport",
-    "initial": 60640,
-    "current": 84530,
-    "diff": 23890,
-    "avatar": "avatars/desport.jpg",
-    "profile": "https://remanga.org/user/216019/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "ミュージシャン",
@@ -513,7 +513,7 @@
     "profile": "https://remanga.org/user/942689/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "bloodborrn",
