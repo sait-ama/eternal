@@ -116,8 +116,8 @@
     "avatar": "avatars/kodokunayurei.jpg",
     "profile": "https://remanga.org/user/108546/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "festashka",
@@ -159,13 +159,13 @@
     "norm": "ewnobon",
     "display": "EW_NoBoN",
     "initial": 65000,
-    "current": 89700,
-    "diff": 24700,
+    "current": 90000,
+    "diff": 25000,
     "avatar": "avatars/ewnobon.jpg",
     "profile": "https://remanga.org/user/155090/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "desport",
