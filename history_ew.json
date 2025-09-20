@@ -276,6 +276,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "ewobserver",
+    "display": "EW_OBSERVER",
+    "initial": 264330,
+    "current": 279380,
+    "diff": 15050,
+    "avatar": "avatars/ewobserver.jpg",
+    "profile": "https://remanga.org/user/141395/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "markutts",
     "display": "MARKUTTs",
     "initial": 69500,
@@ -367,18 +379,6 @@
     "diff": 12990,
     "avatar": "avatars/andrefalkonen.jpg",
     "profile": "https://remanga.org/user/35664/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "ewobserver",
-    "display": "EW_OBSERVER",
-    "initial": 264330,
-    "current": 277080,
-    "diff": 12750,
-    "avatar": "avatars/ewobserver.jpg",
-    "profile": "https://remanga.org/user/141395/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
