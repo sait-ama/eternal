@@ -344,8 +344,8 @@
     "avatar": "avatars/ronin74.jpg",
     "profile": "https://remanga.org/user/76998/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "suba7u",
@@ -1173,7 +1173,7 @@
     "profile": "https://remanga.org/user/574245/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "12 дн. назад"
+    "last_active_human": "13 дн. назад"
   },
   {
     "norm": "nowarries",
