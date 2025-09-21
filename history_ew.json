@@ -27,8 +27,8 @@
     "norm": "pepegaronni",
     "display": "Pepegaronni",
     "initial": 28630,
-    "current": 96930,
-    "diff": 68300,
+    "current": 100830,
+    "diff": 72200,
     "avatar": "avatars/pepegaronni.jpg",
     "profile": "https://remanga.org/user/27168/about",
     "guild": "Eternal Watchers",
@@ -696,6 +696,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "ctapeйшинaчy",
+    "display": "Старейшина-Чу",
+    "initial": 20700,
+    "current": 27110,
+    "diff": 6410,
+    "avatar": "avatars/ctapeйшинaчy.jpg",
+    "profile": "https://remanga.org/user/69640/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "harlequ1n",
     "display": "HARLEQU1N",
     "initial": 30760,
@@ -874,18 +886,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "ctapeйшинaчy",
-    "display": "Старейшина-Чу",
-    "initial": 20700,
-    "current": 25810,
-    "diff": 5110,
-    "avatar": "avatars/ctapeйшинaчy.jpg",
-    "profile": "https://remanga.org/user/69640/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "asura",
@@ -1149,7 +1149,7 @@
     "profile": "https://remanga.org/user/2991171/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "spidvrassrochku",
