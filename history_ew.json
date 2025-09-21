@@ -195,13 +195,13 @@
     "norm": "harutsu",
     "display": "Harutsu",
     "initial": 73130,
-    "current": 94300,
-    "diff": 21170,
+    "current": 95200,
+    "diff": 22070,
     "avatar": "avatars/harutsu.jpg",
     "profile": "https://remanga.org/user/415473/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "ewtaya",
@@ -225,7 +225,7 @@
     "profile": "https://remanga.org/user/434820/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "12 дн. назад"
+    "last_active_human": "13 дн. назад"
   },
   {
     "norm": "thostriel",
