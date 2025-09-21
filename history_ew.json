@@ -51,8 +51,8 @@
     "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 61970,
-    "current": 98120,
-    "diff": 36150,
+    "current": 103780,
+    "diff": 41810,
     "avatar": "avatars/akiragame.jpg",
     "profile": "https://remanga.org/user/1714962/about",
     "guild": "Eternal Watchers",
@@ -285,7 +285,7 @@
     "profile": "https://remanga.org/user/141395/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "markutts",
