@@ -12,18 +12,6 @@
     "last_active_human": "8 дн. назад"
   },
   {
-    "norm": "rwbylove",
-    "display": "RWBYLOVE",
-    "initial": 20450,
-    "current": 36230,
-    "diff": 15780,
-    "avatar": "avatars/rwbylove.jpg",
-    "profile": "https://remanga.org/user/740757/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
-  },
-  {
     "norm": "destructiongod𒉭",
     "display": "DestructionGod𒉭",
     "initial": 60000,
@@ -790,6 +778,18 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
+  },
+  {
+    "norm": "rwbylove",
+    "display": "RWBYLOVE",
+    "initial": 20450,
+    "current": 20450,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "silenthill",
