@@ -213,7 +213,7 @@
     "profile": "https://remanga.org/user/474087/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "banshei",
@@ -237,7 +237,7 @@
     "profile": "https://remanga.org/user/742164/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "saytoriya",
@@ -286,6 +286,18 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
+  },
+  {
+    "norm": "sckatman",
+    "display": "Sckat_Man",
+    "initial": 7220,
+    "current": 11720,
+    "diff": 4500,
+    "avatar": "avatars/sckatman.jpg",
+    "profile": "https://remanga.org/user/136935/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "riverfreedom",
@@ -444,16 +456,16 @@
     "last_active_human": "3 дн. назад"
   },
   {
-    "norm": "beast",
-    "display": "Beast_",
+    "norm": "beastx",
+    "display": "Beast_x",
     "initial": 47130,
     "current": 50980,
     "diff": 3850,
-    "avatar": "avatars/beast.jpg",
+    "avatar": "avatars/beastx.jpg",
     "profile": "https://remanga.org/user/1935045/about",
     "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "16 дн. назад"
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "pилcyчк@",
@@ -538,18 +550,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "sckatman",
-    "display": "Sckat_Man",
-    "initial": 7220,
-    "current": 10220,
-    "diff": 3000,
-    "avatar": "avatars/sckatman.jpg",
-    "profile": "https://remanga.org/user/136935/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "9 дн. назад"
   },
   {
     "norm": "woodss",
@@ -777,7 +777,7 @@
     "profile": "https://remanga.org/user/3983/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "rwbylove",
