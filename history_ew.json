@@ -219,8 +219,8 @@
     "norm": "strayker5421",
     "display": "Strayker5421",
     "initial": 8790,
-    "current": 28200,
-    "diff": 19410,
+    "current": 28340,
+    "diff": 19550,
     "avatar": "avatars/placeholder.jpg",
     "profile": "https://remanga.org/user/434820/about",
     "guild": "Eternal Watchers",
@@ -624,6 +624,18 @@
     "last_active_human": "4 дн. назад"
   },
   {
+    "norm": "ctapeйшинaчy",
+    "display": "Старейшина-Чу",
+    "initial": 20700,
+    "current": 28010,
+    "diff": 7310,
+    "avatar": "avatars/ctapeйшинaчy.jpg",
+    "profile": "https://remanga.org/user/69640/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "allentina",
     "display": "allentina",
     "initial": 3000,
@@ -634,18 +646,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "6 дн. назад"
-  },
-  {
-    "norm": "ctapeйшинaчy",
-    "display": "Старейшина-Чу",
-    "initial": 20700,
-    "current": 27610,
-    "diff": 6910,
-    "avatar": "avatars/ctapeйшинaчy.jpg",
-    "profile": "https://remanga.org/user/69640/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "creamwhite",
@@ -777,7 +777,7 @@
     "profile": "https://remanga.org/user/605765/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "unlimitedcringeworks",
