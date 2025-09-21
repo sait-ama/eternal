@@ -48,6 +48,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "caйtaмa",
+    "display": "Сайтама",
+    "initial": 128060,
+    "current": 164090,
+    "diff": 36030,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org/user/12762/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 61970,
@@ -55,18 +67,6 @@
     "diff": 35150,
     "avatar": "avatars/akiragame.jpg",
     "profile": "https://remanga.org/user/1714962/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "caйtaмa",
-    "display": "Сайтама",
-    "initial": 128060,
-    "current": 162910,
-    "diff": 34850,
-    "avatar": "avatars/placeholder.jpg",
-    "profile": "https://remanga.org/user/12762/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
