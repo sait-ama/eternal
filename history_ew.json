@@ -123,13 +123,13 @@
     "norm": "kodokunayurei",
     "display": "KodokunaYurei",
     "initial": 104390,
-    "current": 134390,
-    "diff": 30000,
+    "current": 136190,
+    "diff": 31800,
     "avatar": "avatars/kodokunayurei.jpg",
     "profile": "https://remanga.org/user/108546/about",
     "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "9 дн. назад"
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "яшtyг",
@@ -195,8 +195,8 @@
     "norm": "ewtaya",
     "display": "EW_Taya_",
     "initial": 48130,
-    "current": 71420,
-    "diff": 23290,
+    "current": 71930,
+    "diff": 23800,
     "avatar": "avatars/ewtaya.jpg",
     "profile": "https://remanga.org/user/2325061/about",
     "guild": "Eternal Watchers",
