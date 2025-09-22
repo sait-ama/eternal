@@ -132,6 +132,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "кaйдeн",
+    "display": "Кайден",
+    "initial": 64610,
+    "current": 96070,
+    "diff": 31460,
+    "avatar": "avatars/кaйдeн.jpg",
+    "profile": "https://remanga.org/user/439629/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "яшtyг",
     "display": "Яштуг",
     "initial": 128780,
@@ -154,18 +166,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "кaйдeн",
-    "display": "Кайден",
-    "initial": 64610,
-    "current": 91610,
-    "diff": 27000,
-    "avatar": "avatars/кaйдeн.jpg",
-    "profile": "https://remanga.org/user/439629/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "ewnobon",
@@ -597,7 +597,7 @@
     "profile": "https://remanga.org/user/2093362/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "bloodborrn",
@@ -708,6 +708,18 @@
     "last_active_human": "4 дн. назад"
   },
   {
+    "norm": "payk",
+    "display": "Payk_",
+    "initial": 33630,
+    "current": 41080,
+    "diff": 7450,
+    "avatar": "avatars/payk.jpg",
+    "profile": "https://remanga.org/user/155452/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "temha9l",
     "display": "TeMHa9l",
     "initial": 33060,
@@ -727,6 +739,18 @@
     "diff": 7310,
     "avatar": "avatars/ctapeйшинaчy.jpg",
     "profile": "https://remanga.org/user/69640/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
+    "norm": "chirusan",
+    "display": "Chiru-san",
+    "initial": 11850,
+    "current": 18550,
+    "diff": 6700,
+    "avatar": "avatars/chirusan.jpg",
+    "profile": "https://remanga.org/user/243053/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -828,16 +852,16 @@
     "last_active_human": "4 дн. назад"
   },
   {
-    "norm": "payk",
-    "display": "Payk_",
-    "initial": 33630,
-    "current": 39440,
-    "diff": 5810,
-    "avatar": "avatars/payk.jpg",
-    "profile": "https://remanga.org/user/155452/about",
+    "norm": "chitandael",
+    "display": "Chitandael",
+    "initial": 39780,
+    "current": 45700,
+    "diff": 5920,
+    "avatar": "avatars/chitandael.jpg",
+    "profile": "https://remanga.org/user/372102/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "techal",
@@ -864,18 +888,6 @@
     "last_active_human": "сегодня"
   },
   {
-    "norm": "chirusan",
-    "display": "Chiru-san",
-    "initial": 11850,
-    "current": 17550,
-    "diff": 5700,
-    "avatar": "avatars/chirusan.jpg",
-    "profile": "https://remanga.org/user/243053/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "12 дн. назад"
-  },
-  {
     "norm": "хeйtepдoкa",
     "display": "Хейтер_Дока",
     "initial": 45880,
@@ -898,18 +910,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "21 дн. назад"
-  },
-  {
-    "norm": "chitandael",
-    "display": "Chitandael",
-    "initial": 39780,
-    "current": 44930,
-    "diff": 5150,
-    "avatar": "avatars/chitandael.jpg",
-    "profile": "https://remanga.org/user/372102/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "asura",
