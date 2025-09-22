@@ -63,13 +63,13 @@
     "norm": "caйtaмa",
     "display": "Сайтама",
     "initial": 128060,
-    "current": 164090,
-    "diff": 36030,
+    "current": 166660,
+    "diff": 38600,
     "avatar": "avatars/placeholder.jpg",
     "profile": "https://remanga.org/user/12762/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "darqee",
@@ -168,6 +168,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "ewnobon",
+    "display": "EW_NoBoN",
+    "initial": 65000,
+    "current": 92000,
+    "diff": 27000,
+    "avatar": "avatars/ewnobon.jpg",
+    "profile": "https://remanga.org/user/155090/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "harutsu",
     "display": "Harutsu",
     "initial": 73130,
@@ -175,18 +187,6 @@
     "diff": 26870,
     "avatar": "avatars/harutsu.jpg",
     "profile": "https://remanga.org/user/415473/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
-  },
-  {
-    "norm": "ewnobon",
-    "display": "EW_NoBoN",
-    "initial": 65000,
-    "current": 91050,
-    "diff": 26050,
-    "avatar": "avatars/ewnobon.jpg",
-    "profile": "https://remanga.org/user/155090/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
