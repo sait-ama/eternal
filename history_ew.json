@@ -1092,6 +1092,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "widding",
+    "display": "WidDing",
+    "initial": 5500,
+    "current": 8000,
+    "diff": 2500,
+    "avatar": "avatars/widding.jpg",
+    "profile": "https://remanga.org/user/888106/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "satisfied",
     "display": "Satisfied",
     "initial": 48630,
@@ -1387,18 +1399,6 @@
     "diff": 0,
     "avatar": "avatars/pipimaki.jpg",
     "profile": "https://remanga.org/user/2895554/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "widding",
-    "display": "WidDing",
-    "initial": 5500,
-    "current": 5500,
-    "diff": 0,
-    "avatar": "avatars/widding.jpg",
-    "profile": "https://remanga.org/user/888106/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
