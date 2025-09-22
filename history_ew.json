@@ -72,6 +72,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "kodokunayurei",
+    "display": "KodokunaYurei",
+    "initial": 104390,
+    "current": 141990,
+    "diff": 37600,
+    "avatar": "avatars/kodokunayurei.jpg",
+    "profile": "https://remanga.org/user/108546/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "darqee",
     "display": "DarQee",
     "initial": 23570,
@@ -115,18 +127,6 @@
     "diff": 33100,
     "avatar": "avatars/ፚꮼꮢꭵ૮ꮒꮶꮧ.jpg",
     "profile": "https://remanga.org/user/189990/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "kodokunayurei",
-    "display": "KodokunaYurei",
-    "initial": 104390,
-    "current": 136190,
-    "diff": 31800,
-    "avatar": "avatars/kodokunayurei.jpg",
-    "profile": "https://remanga.org/user/108546/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -819,13 +819,13 @@
     "norm": "rayze",
     "display": "RayZe",
     "initial": 15730,
-    "current": 21790,
-    "diff": 6060,
+    "current": 22030,
+    "diff": 6300,
     "avatar": "avatars/rayze.jpg",
     "profile": "https://remanga.org/user/108995/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "katsuusa",
@@ -969,7 +969,7 @@
     "profile": "https://remanga.org/user/2724307/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "talent",
@@ -1161,7 +1161,7 @@
     "profile": "https://remanga.org/user/876190/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "8 дн. назад"
+    "last_active_human": "9 дн. назад"
   },
   {
     "norm": "гдeмoйctoяк",
