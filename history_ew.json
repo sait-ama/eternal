@@ -777,7 +777,7 @@
     "profile": "https://remanga.org/user/3332888/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "11 дн. назад"
+    "last_active_human": "12 дн. назад"
   },
   {
     "norm": "sergeysh",
@@ -1080,6 +1080,18 @@
     "last_active_human": "23 дн. назад"
   },
   {
+    "norm": "petr66",
+    "display": "Petr66",
+    "initial": 5500,
+    "current": 8000,
+    "diff": 2500,
+    "avatar": "avatars/petr66.jpg",
+    "profile": "https://remanga.org/user/3210259/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "satisfied",
     "display": "Satisfied",
     "initial": 48630,
@@ -1221,7 +1233,7 @@
     "profile": "https://remanga.org/user/594356/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "23 дн. назад"
+    "last_active_human": "24 дн. назад"
   },
   {
     "norm": "sunshi",
@@ -1375,18 +1387,6 @@
     "diff": 0,
     "avatar": "avatars/pipimaki.jpg",
     "profile": "https://remanga.org/user/2895554/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
-  },
-  {
-    "norm": "petr66",
-    "display": "Petr66",
-    "initial": 5500,
-    "current": 5500,
-    "diff": 0,
-    "avatar": "avatars/petr66.jpg",
-    "profile": "https://remanga.org/user/3210259/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
