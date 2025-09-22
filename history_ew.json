@@ -428,8 +428,8 @@
     "avatar": "avatars/bluefish.jpg",
     "profile": "https://remanga.org/user/264468/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "clf",
@@ -668,8 +668,8 @@
     "avatar": "avatars/allentina.jpg",
     "profile": "https://remanga.org/user/890414/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "creamwhite",
