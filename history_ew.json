@@ -672,6 +672,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "йopм",
+    "display": "Йорм",
+    "initial": 23340,
+    "current": 31260,
+    "diff": 7920,
+    "avatar": "avatars/йopм.jpg",
+    "profile": "https://remanga.org/user/208257/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "harlequ1n",
     "display": "HARLEQU1N",
     "initial": 30760,
@@ -778,18 +790,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "25 дн. назад"
-  },
-  {
-    "norm": "йopм",
-    "display": "Йорм",
-    "initial": 23340,
-    "current": 29530,
-    "diff": 6190,
-    "avatar": "avatars/йopм.jpg",
-    "profile": "https://remanga.org/user/208257/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "rayze",
@@ -924,6 +924,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "nikesnt",
+    "display": "NikesNt",
+    "initial": 10040,
+    "current": 15050,
+    "diff": 5010,
+    "avatar": "avatars/nikesnt.jpg",
+    "profile": "https://remanga.org/user/1227659/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "loli69228",
     "display": "loli69228",
     "initial": 36090,
@@ -934,18 +946,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "21 дн. назад"
-  },
-  {
-    "norm": "nikesnt",
-    "display": "NikesNt",
-    "initial": 10040,
-    "current": 14820,
-    "diff": 4780,
-    "avatar": "avatars/nikesnt.jpg",
-    "profile": "https://remanga.org/user/1227659/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "16 дн. назад"
   },
   {
     "norm": "midwey",
