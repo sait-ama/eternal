@@ -213,7 +213,7 @@
     "profile": "https://remanga.org/user/938359/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "strayker5421",
@@ -345,7 +345,7 @@
     "profile": "https://remanga.org/user/660145/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "8 дн. назад"
+    "last_active_human": "9 дн. назад"
   },
   {
     "norm": "andrefalkonen",
@@ -972,6 +972,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "talent",
+    "display": "Talent",
+    "initial": 15460,
+    "current": 19790,
+    "diff": 4330,
+    "avatar": "avatars/talent.jpg",
+    "profile": "https://remanga.org/user/926473/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "zarti",
     "display": "zarti",
     "initial": 14110,
@@ -1150,18 +1162,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "8 дн. назад"
-  },
-  {
-    "norm": "talent",
-    "display": "Talent",
-    "initial": 15460,
-    "current": 17780,
-    "diff": 2320,
-    "avatar": "avatars/talent.jpg",
-    "profile": "https://remanga.org/user/926473/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "21 дн. назад"
   },
   {
     "norm": "гдeмoйctoяк",
