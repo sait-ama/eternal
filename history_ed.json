@@ -192,6 +192,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "mmarti",
+    "display": "mmarti",
+    "initial": 13000,
+    "current": 18000,
+    "diff": 5000,
+    "avatar": "avatars/mmarti.jpg",
+    "profile": "https://remanga.org/user/184784/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "akashi550",
     "display": "Akashi550",
     "initial": 12000,
@@ -224,8 +236,8 @@
     "avatar": "avatars/banshei.jpg",
     "profile": "https://remanga.org/user/204988/about",
     "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "acediaqq",
@@ -370,18 +382,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
-  },
-  {
-    "norm": "mmarti",
-    "display": "mmarti",
-    "initial": 13000,
-    "current": 17000,
-    "diff": 4000,
-    "avatar": "avatars/mmarti.jpg",
-    "profile": "https://remanga.org/user/184784/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "samurafs",
@@ -596,8 +596,8 @@
     "avatar": "avatars/sw1ty.jpg",
     "profile": "https://remanga.org/user/3154400/about",
     "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "bigmen07",
