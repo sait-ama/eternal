@@ -369,7 +369,7 @@
     "profile": "https://remanga.org/user/1003671/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "andrefalkonen",
@@ -444,6 +444,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "allentina",
+    "display": "allentina",
+    "initial": 3000,
+    "current": 13000,
+    "diff": 10000,
+    "avatar": "avatars/allentina.jpg",
+    "profile": "https://remanga.org/user/890414/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "monalize",
     "display": "MonaLize",
     "initial": 36700,
@@ -489,7 +501,7 @@
     "profile": "https://remanga.org/user/1003671/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "гocькa",
@@ -660,18 +672,6 @@
     "last_active_human": "сегодня"
   },
   {
-    "norm": "allentina",
-    "display": "allentina",
-    "initial": 3000,
-    "current": 10000,
-    "diff": 7000,
-    "avatar": "avatars/allentina.jpg",
-    "profile": "https://remanga.org/user/890414/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад"
-  },
-  {
     "norm": "creamwhite",
     "display": "CreamWhite",
     "initial": 28000,
@@ -693,7 +693,7 @@
     "profile": "https://remanga.org/user/79904/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "tokkebi11",
@@ -1028,8 +1028,8 @@
     "avatar": "avatars/admiralsengoku.jpg",
     "profile": "https://remanga.org/user/1529739/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "к4йдэн",
