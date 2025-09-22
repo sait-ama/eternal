@@ -207,13 +207,13 @@
     "norm": "ewtaya",
     "display": "EW_Taya_",
     "initial": 48130,
-    "current": 67720,
-    "diff": 19590,
+    "current": 69820,
+    "diff": 21690,
     "avatar": "avatars/ewtaya.jpg",
     "profile": "https://remanga.org/user/2325061/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "strayker5421",
@@ -1053,7 +1053,7 @@
     "profile": "https://remanga.org/user/1089770/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "16 дн. назад"
+    "last_active_human": "17 дн. назад"
   },
   {
     "norm": "reyrivman",
