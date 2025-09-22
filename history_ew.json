@@ -81,7 +81,7 @@
     "profile": "https://remanga.org/user/2234201/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "belashik",
@@ -852,6 +852,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "meeqq",
+    "display": "MeeQ_Q",
+    "initial": 40410,
+    "current": 46210,
+    "diff": 5800,
+    "avatar": "avatars/meeqq.jpg",
+    "profile": "https://remanga.org/user/2360369/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "chirusan",
     "display": "Chiru-san",
     "initial": 11850,
@@ -996,18 +1008,6 @@
     "last_active_human": "сегодня"
   },
   {
-    "norm": "meeqq",
-    "display": "MeeQ_Q",
-    "initial": 40410,
-    "current": 44310,
-    "diff": 3900,
-    "avatar": "avatars/meeqq.jpg",
-    "profile": "https://remanga.org/user/2360369/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад"
-  },
-  {
     "norm": "frozenjfx",
     "display": "FrozenJFX",
     "initial": 23770,
@@ -1025,7 +1025,7 @@
     "initial": 15860,
     "current": 19380,
     "diff": 3520,
-    "avatar": "avatars/spidvrassrochku.jpg",
+    "avatar": "avatars/placeholder.jpg",
     "profile": "https://remanga.org/user/10999/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
@@ -1041,7 +1041,7 @@
     "profile": "https://remanga.org/user/170917/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "24 дн. назад"
+    "last_active_human": "25 дн. назад"
   },
   {
     "norm": "zarti",
