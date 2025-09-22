@@ -164,8 +164,8 @@
     "avatar": "avatars/leyley.jpg",
     "profile": "https://remanga.org/user/24708/about",
     "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "hatin",
@@ -681,7 +681,7 @@
     "profile": "https://remanga.org/user/2336976/about",
     "guild": "Eternal Demonic",
     "is_afk": true,
-    "last_active_human": "13 дн. назад"
+    "last_active_human": "14 дн. назад"
   },
   {
     "norm": "tiltexist",
