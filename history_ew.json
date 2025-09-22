@@ -129,7 +129,7 @@
     "profile": "https://remanga.org/user/108546/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "8 дн. назад"
+    "last_active_human": "9 дн. назад"
   },
   {
     "norm": "desport",
@@ -516,6 +516,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "frostik4",
+    "display": "Frostik4",
+    "initial": 39450,
+    "current": 49020,
+    "diff": 9570,
+    "avatar": "avatars/frostik4.jpg",
+    "profile": "https://remanga.org/user/3003544/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "totкtocмotpиt",
     "display": "тот_кто_смотрит....",
     "initial": 25780,
@@ -706,18 +718,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "frostik4",
-    "display": "Frostik4",
-    "initial": 39450,
-    "current": 45970,
-    "diff": 6520,
-    "avatar": "avatars/frostik4.jpg",
-    "profile": "https://remanga.org/user/3003544/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "healot",
@@ -1185,7 +1185,7 @@
     "profile": "https://remanga.org/user/10999/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "13 дн. назад"
+    "last_active_human": "14 дн. назад"
   },
   {
     "norm": "casepona",
