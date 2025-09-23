@@ -63,13 +63,13 @@
     "norm": "caйtaмa",
     "display": "Сайтама",
     "initial": 128060,
-    "current": 166660,
-    "diff": 38600,
+    "current": 166670,
+    "diff": 38610,
     "avatar": "avatars/placeholder.jpg",
     "profile": "https://remanga.org/user/12762/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "kodokunayurei",
@@ -81,31 +81,31 @@
     "profile": "https://remanga.org/user/108546/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "darqee",
-    "display": "DarQee",
-    "initial": 23570,
-    "current": 58000,
-    "diff": 34430,
-    "avatar": "avatars/darqee.jpg",
-    "profile": "https://remanga.org/user/2234201/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
     "last_active_human": "вчера"
   },
   {
     "norm": "belashik",
     "display": "Belashik",
     "initial": 149100,
-    "current": 182760,
-    "diff": 33660,
+    "current": 185200,
+    "diff": 36100,
     "avatar": "avatars/belashik.jpg",
     "profile": "https://remanga.org/user/175047/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "сегодня"
+  },
+  {
+    "norm": "darqee",
+    "display": "DarQee",
+    "initial": 23570,
+    "current": 58650,
+    "diff": 35080,
+    "avatar": "avatars/darqee.jpg",
+    "profile": "https://remanga.org/user/2234201/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "вчера"
   },
   {
     "norm": "festashka",
