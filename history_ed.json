@@ -33,7 +33,7 @@
     "profile": "https://remanga.org/user/27288/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "5 дн. назад"
+    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "издateль",
@@ -480,6 +480,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "woodss",
+    "display": "Woods_s",
+    "initial": 26100,
+    "current": 30100,
+    "diff": 4000,
+    "avatar": "avatars/woodss.jpg",
+    "profile": "https://remanga.org/user/1450372/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "sw1ty",
     "display": "Sw1ty",
     "initial": 11000,
@@ -634,18 +646,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "woodss",
-    "display": "Woods_s",
-    "initial": 26100,
-    "current": 29100,
-    "diff": 3000,
-    "avatar": "avatars/woodss.jpg",
-    "profile": "https://remanga.org/user/1450372/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "hazenberg",
