@@ -51,8 +51,8 @@
     "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 61970,
-    "current": 107790,
-    "diff": 45820,
+    "current": 107810,
+    "diff": 45840,
     "avatar": "avatars/akiragame.jpg",
     "profile": "https://remanga.org/user/1714962/about",
     "guild": "Eternal Watchers",
@@ -147,13 +147,13 @@
     "norm": "яшtyг",
     "display": "Яштуг",
     "initial": 128780,
-    "current": 157810,
-    "diff": 29030,
+    "current": 157820,
+    "diff": 29040,
     "avatar": "avatars/яшtyг.jpg",
     "profile": "https://remanga.org/user/1317566/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "desport",
