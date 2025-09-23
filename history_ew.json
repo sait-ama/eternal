@@ -516,6 +516,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "abigor",
+    "display": "Abigor.",
+    "initial": 19870,
+    "current": 31050,
+    "diff": 11180,
+    "avatar": "avatars/abigor.jpg",
+    "profile": "https://remanga.org/user/2093362/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ялyчшийвмиpe",
     "display": "Я_лучший_в_мире",
     "initial": 22080,
@@ -610,18 +622,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
-  },
-  {
-    "norm": "abigor",
-    "display": "Abigor.",
-    "initial": 19870,
-    "current": 29050,
-    "diff": 9180,
-    "avatar": "avatars/abigor.jpg",
-    "profile": "https://remanga.org/user/2093362/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "bloodborrn",
@@ -900,6 +900,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "asura",
+    "display": "__ASURA__",
+    "initial": 13600,
+    "current": 19190,
+    "diff": 5590,
+    "avatar": "avatars/asura.jpg",
+    "profile": "https://remanga.org/user/1365587/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "хeйtepдoкa",
     "display": "Хейтер_Дока",
     "initial": 45880,
@@ -922,18 +934,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "22 дн. назад"
-  },
-  {
-    "norm": "asura",
-    "display": "__ASURA__",
-    "initial": 13600,
-    "current": 18690,
-    "diff": 5090,
-    "avatar": "avatars/asura.jpg",
-    "profile": "https://remanga.org/user/1365587/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "nikesnt",
