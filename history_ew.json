@@ -216,6 +216,18 @@
     "last_active_human": "5 дн. назад"
   },
   {
+    "norm": "overcooling",
+    "display": "Overcooling",
+    "initial": 41000,
+    "current": 63500,
+    "diff": 22500,
+    "avatar": "avatars/overcooling.jpg",
+    "profile": "https://remanga.org/user/52079/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "bluefish",
     "display": "Blue__fish",
     "initial": 9000,
@@ -262,18 +274,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "overcooling",
-    "display": "Overcooling",
-    "initial": 41000,
-    "current": 60000,
-    "diff": 19000,
-    "avatar": "avatars/overcooling.jpg",
-    "profile": "https://remanga.org/user/52079/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "shirochan",
