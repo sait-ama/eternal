@@ -960,6 +960,18 @@
     "last_active_human": "21 дн. назад"
   },
   {
+    "norm": "admiralsengoku",
+    "display": "ADMIRAL_SENGOKU",
+    "initial": 31000,
+    "current": 36000,
+    "diff": 5000,
+    "avatar": "avatars/admiralsengoku.jpg",
+    "profile": "https://remanga.org/user/1529739/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "pupstv",
     "display": "PupsTv",
     "initial": 12000,
@@ -1039,18 +1051,6 @@
     "diff": 4000,
     "avatar": "avatars/zarti.jpg",
     "profile": "https://remanga.org/user/845606/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "admiralsengoku",
-    "display": "ADMIRAL_SENGOKU",
-    "initial": 31000,
-    "current": 35000,
-    "diff": 4000,
-    "avatar": "avatars/admiralsengoku.jpg",
-    "profile": "https://remanga.org/user/1529739/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
