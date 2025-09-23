@@ -228,6 +228,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "markutts",
+    "display": "MARKUTTs",
+    "initial": 69500,
+    "current": 91500,
+    "diff": 22000,
+    "avatar": "avatars/markutts.jpg",
+    "profile": "https://remanga.org/user/660145/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "bluefish",
     "display": "Blue__fish",
     "initial": 9000,
@@ -358,18 +370,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "markutts",
-    "display": "MARKUTTs",
-    "initial": 69500,
-    "current": 84500,
-    "diff": 15000,
-    "avatar": "avatars/markutts.jpg",
-    "profile": "https://remanga.org/user/660145/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "10 дн. назад"
   },
   {
     "norm": "vladosrat",
@@ -588,6 +588,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "rezordaye",
+    "display": "rezord_aye",
+    "initial": 49660,
+    "current": 59890,
+    "diff": 10230,
+    "avatar": "avatars/rezordaye.jpg",
+    "profile": "https://remanga.org/user/210114/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "nebulousvortex",
     "display": "NebulousVortex",
     "initial": 8010,
@@ -598,18 +610,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "rezordaye",
-    "display": "rezord_aye",
-    "initial": 49660,
-    "current": 59530,
-    "diff": 9870,
-    "avatar": "avatars/rezordaye.jpg",
-    "profile": "https://remanga.org/user/210114/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "독부바",
