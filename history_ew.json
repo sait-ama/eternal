@@ -456,18 +456,6 @@
     "last_active_human": "4 дн. назад"
   },
   {
-    "norm": "urus",
-    "display": "URUS",
-    "initial": 12000,
-    "current": 24450,
-    "diff": 12450,
-    "avatar": "avatars/urus.jpg",
-    "profile": "https://remanga.org/user/46754/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
-  },
-  {
     "norm": "tavik",
     "display": "Tavik",
     "initial": 48880,
@@ -1258,6 +1246,18 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
+  },
+  {
+    "norm": "urus",
+    "display": "URUS",
+    "initial": 12000,
+    "current": 12000,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "hellsait",
