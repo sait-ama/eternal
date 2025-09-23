@@ -135,8 +135,8 @@
     "norm": "кaйдeн",
     "display": "Кайден",
     "initial": 64610,
-    "current": 96070,
-    "diff": 31460,
+    "current": 97070,
+    "diff": 32460,
     "avatar": "avatars/кaйдeн.jpg",
     "profile": "https://remanga.org/user/439629/about",
     "guild": "Eternal Watchers",
@@ -645,7 +645,7 @@
     "profile": "https://remanga.org/user/3037204/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "독부바",
