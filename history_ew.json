@@ -63,8 +63,8 @@
     "norm": "caйtaмa",
     "display": "Сайтама",
     "initial": 128060,
-    "current": 166670,
-    "diff": 38610,
+    "current": 167670,
+    "diff": 39610,
     "avatar": "avatars/placeholder.jpg",
     "profile": "https://remanga.org/user/12762/about",
     "guild": "Eternal Watchers",
@@ -600,6 +600,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "loli69228",
+    "display": "loli69228",
+    "initial": 36090,
+    "current": 46090,
+    "diff": 10000,
+    "avatar": "avatars/loli69228.jpg",
+    "profile": "https://remanga.org/user/69929/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "nebulousvortex",
     "display": "NebulousVortex",
     "initial": 8010,
@@ -732,6 +744,18 @@
     "last_active_human": "5 дн. назад"
   },
   {
+    "norm": "healot",
+    "display": "healot",
+    "initial": 21500,
+    "current": 29000,
+    "diff": 7500,
+    "avatar": "avatars/healot.jpg",
+    "profile": "https://remanga.org/user/2505495/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "payk",
     "display": "Payk_",
     "initial": 33630,
@@ -778,18 +802,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "healot",
-    "display": "healot",
-    "initial": 21500,
-    "current": 28000,
-    "diff": 6500,
-    "avatar": "avatars/healot.jpg",
-    "profile": "https://remanga.org/user/2505495/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "calistotzy",
@@ -946,18 +958,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "loli69228",
-    "display": "loli69228",
-    "initial": 36090,
-    "current": 41090,
-    "diff": 5000,
-    "avatar": "avatars/loli69228.jpg",
-    "profile": "https://remanga.org/user/69929/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "22 дн. назад"
   },
   {
     "norm": "admiralsengoku",
