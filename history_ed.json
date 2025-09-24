@@ -180,6 +180,18 @@
     "last_active_human": "4 дн. назад"
   },
   {
+    "norm": "riverfreedom",
+    "display": "RiverFreedom",
+    "initial": 15800,
+    "current": 21200,
+    "diff": 5400,
+    "avatar": "avatars/riverfreedom.jpg",
+    "profile": "https://remanga.org/user/3215284/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "trillo",
     "display": "Trillo",
     "initial": 9320,
@@ -456,18 +468,6 @@
     "last_active_human": "сегодня"
   },
   {
-    "norm": "riverfreedom",
-    "display": "RiverFreedom",
-    "initial": 15800,
-    "current": 20200,
-    "diff": 4400,
-    "avatar": "avatars/riverfreedom.jpg",
-    "profile": "https://remanga.org/user/3215284/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
-  },
-  {
     "norm": "etoromantic",
     "display": "etoRomantic",
     "initial": 11000,
@@ -561,7 +561,7 @@
     "profile": "https://remanga.org/user/486583/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "ckckck",
