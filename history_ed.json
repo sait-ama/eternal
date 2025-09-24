@@ -687,13 +687,13 @@
     "norm": "alanhui",
     "display": "alan-hui",
     "initial": 8660,
-    "current": 11300,
-    "diff": 2640,
+    "current": 11360,
+    "diff": 2700,
     "avatar": "avatars/alanhui.jpg",
     "profile": "https://remanga.org/user/2336976/about",
     "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "15 дн. назад"
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "tiltexist",
