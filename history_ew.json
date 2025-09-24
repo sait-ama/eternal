@@ -276,6 +276,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "ronin74",
+    "display": "Ronin74",
+    "initial": 6250,
+    "current": 27160,
+    "diff": 20910,
+    "avatar": "avatars/ronin74.jpg",
+    "profile": "https://remanga.org/user/76998/about",
+    "guild": "Eternal Watchers",
+    "is_afk": true,
+    "last_active_human": "9 дн. назад"
+  },
+  {
     "norm": "thostriel",
     "display": "Thostriel",
     "initial": 43030,
@@ -288,18 +300,6 @@
     "last_active_human": "вчера"
   },
   {
-    "norm": "ronin74",
-    "display": "Ronin74",
-    "initial": 6250,
-    "current": 26460,
-    "diff": 20210,
-    "avatar": "avatars/ronin74.jpg",
-    "profile": "https://remanga.org/user/76998/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "9 дн. назад"
-  },
-  {
     "norm": "souzerend",
     "display": "SouZeRenD",
     "initial": 0,
@@ -309,7 +309,7 @@
     "profile": "https://remanga.org/user/2230415/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "shirochan",
