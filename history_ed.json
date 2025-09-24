@@ -237,7 +237,7 @@
     "profile": "https://remanga.org/user/617426/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "oblakatt",
@@ -597,7 +597,7 @@
     "profile": "https://remanga.org/user/220375/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "5 дн. назад"
+    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "alafex",
@@ -648,6 +648,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "takahikoo",
+    "display": "Takahikoo",
+    "initial": 11000,
+    "current": 14000,
+    "diff": 3000,
+    "avatar": "avatars/takahikoo.jpg",
+    "profile": "https://remanga.org/user/3225144/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "hazenberg",
     "display": "Hazenberg",
     "initial": 9000,
@@ -693,7 +705,7 @@
     "profile": "https://remanga.org/user/98565/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "5 дн. назад"
+    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "谢怜",
@@ -706,18 +718,6 @@
     "guild": "Eternal Demonic",
     "is_afk": true,
     "last_active_human": "14 дн. назад"
-  },
-  {
-    "norm": "takahikoo",
-    "display": "Takahikoo",
-    "initial": 11000,
-    "current": 13000,
-    "diff": 2000,
-    "avatar": "avatars/takahikoo.jpg",
-    "profile": "https://remanga.org/user/3225144/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "17 дн. назад"
   },
   {
     "norm": "oporlew",
