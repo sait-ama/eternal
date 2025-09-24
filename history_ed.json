@@ -8,8 +8,8 @@
     "avatar": "avatars/tenofmoses.jpg",
     "profile": "https://remanga.org/user/3176212/about",
     "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "11 дн. назад"
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "destructiongod𒉭",
@@ -639,13 +639,13 @@
     "norm": "flammenoire",
     "display": "FlammeNoire",
     "initial": 42130,
-    "current": 45580,
-    "diff": 3450,
+    "current": 45600,
+    "diff": 3470,
     "avatar": "avatars/flammenoire.jpg",
     "profile": "https://remanga.org/user/2384260/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "takahikoo",
