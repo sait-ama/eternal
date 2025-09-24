@@ -708,6 +708,18 @@
     "last_active_human": "6 дн. назад"
   },
   {
+    "norm": "aмeн",
+    "display": "Амен",
+    "initial": 11000,
+    "current": 13070,
+    "diff": 2070,
+    "avatar": "avatars/aмeн.jpg",
+    "profile": "https://remanga.org/user/993301/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "谢怜",
     "display": ".谢怜.",
     "initial": 12000,
@@ -742,18 +754,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "aмeн",
-    "display": "Амен",
-    "initial": 11000,
-    "current": 12000,
-    "diff": 1000,
-    "avatar": "avatars/aмeн.jpg",
-    "profile": "https://remanga.org/user/993301/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "23 дн. назад"
   },
   {
     "norm": "mefisto51",
