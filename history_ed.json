@@ -32,8 +32,8 @@
     "avatar": "avatars/ham021.jpg",
     "profile": "https://remanga.org/user/27288/about",
     "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "stas211242",
@@ -285,7 +285,7 @@
     "profile": "https://remanga.org/user/876246/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "kost9n",
@@ -477,7 +477,7 @@
     "profile": "https://remanga.org/user/90646/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "meimei",
@@ -513,7 +513,7 @@
     "profile": "https://remanga.org/user/1450372/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "sw1ty",
