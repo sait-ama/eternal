@@ -513,7 +513,7 @@
     "profile": "https://remanga.org/user/45081/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "26 дн. назад"
+    "last_active_human": "27 дн. назад"
   },
   {
     "norm": "efiliyens",
@@ -525,7 +525,7 @@
     "profile": "https://remanga.org/user/169153/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "26 дн. назад"
+    "last_active_human": "27 дн. назад"
   },
   {
     "norm": "abigor",
@@ -816,6 +816,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "chitandael",
+    "display": "Chitandael",
+    "initial": 39780,
+    "current": 46690,
+    "diff": 6910,
+    "avatar": "avatars/chitandael.jpg",
+    "profile": "https://remanga.org/user/372102/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "bagas",
     "display": "Bagas",
     "initial": 27110,
@@ -873,7 +885,7 @@
     "profile": "https://remanga.org/user/2350456/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "26 дн. назад"
+    "last_active_human": "27 дн. назад"
   },
   {
     "norm": "pupstv",
@@ -898,18 +910,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "6 дн. назад"
-  },
-  {
-    "norm": "chitandael",
-    "display": "Chitandael",
-    "initial": 39780,
-    "current": 45700,
-    "diff": 5920,
-    "avatar": "avatars/chitandael.jpg",
-    "profile": "https://remanga.org/user/372102/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "techal",
