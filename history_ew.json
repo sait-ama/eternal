@@ -96,6 +96,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "кaйдeн",
+    "display": "Кайден",
+    "initial": 64610,
+    "current": 100500,
+    "diff": 35890,
+    "avatar": "avatars/кaйдeн.jpg",
+    "profile": "https://remanga.org/user/439629/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "darqee",
     "display": "DarQee",
     "initial": 23570,
@@ -129,19 +141,7 @@
     "profile": "https://remanga.org/user/189990/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
-  },
-  {
-    "norm": "кaйдeн",
-    "display": "Кайден",
-    "initial": 64610,
-    "current": 97070,
-    "diff": 32460,
-    "avatar": "avatars/кaйдeн.jpg",
-    "profile": "https://remanga.org/user/439629/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "harutsu",
@@ -225,7 +225,7 @@
     "profile": "https://remanga.org/user/52079/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "markutts",
@@ -657,7 +657,7 @@
     "profile": "https://remanga.org/user/3037204/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "harlequ1n",
@@ -708,6 +708,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "katsuusa",
+    "display": "katsu_usa",
+    "initial": 5000,
+    "current": 13500,
+    "diff": 8500,
+    "avatar": "avatars/katsuusa.jpg",
+    "profile": "https://remanga.org/user/3332888/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ctapeйшинaчy",
     "display": "Старейшина-Чу",
     "initial": 20700,
@@ -717,7 +729,7 @@
     "profile": "https://remanga.org/user/69640/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "йopм",
@@ -801,7 +813,7 @@
     "profile": "https://remanga.org/user/1132063/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "calistotzy",
@@ -850,18 +862,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "katsuusa",
-    "display": "katsu_usa",
-    "initial": 5000,
-    "current": 11000,
-    "diff": 6000,
-    "avatar": "avatars/katsuusa.jpg",
-    "profile": "https://remanga.org/user/3332888/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "13 дн. назад"
   },
   {
     "norm": "sergeysh",
@@ -1113,7 +1113,7 @@
     "profile": "https://remanga.org/user/928524/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "abyss",
