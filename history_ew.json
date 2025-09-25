@@ -252,6 +252,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "thostriel",
+    "display": "Thostriel",
+    "initial": 43030,
+    "current": 65290,
+    "diff": 22260,
+    "avatar": "avatars/thostriel.jpg",
+    "profile": "https://remanga.org/user/1405392/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "markutts",
     "display": "MARKUTTs",
     "initial": 69500,
@@ -274,18 +286,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "thostriel",
-    "display": "Thostriel",
-    "initial": 43030,
-    "current": 64280,
-    "diff": 21250,
-    "avatar": "avatars/thostriel.jpg",
-    "profile": "https://remanga.org/user/1405392/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "ronin74",
