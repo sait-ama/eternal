@@ -597,7 +597,7 @@
     "profile": "https://remanga.org/user/832683/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "ялyчшийвмиpe",
@@ -849,7 +849,7 @@
     "profile": "https://remanga.org/user/155452/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "abyss",
@@ -932,8 +932,8 @@
     "avatar": "avatars/calistotzy.jpg",
     "profile": "https://remanga.org/user/75644/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "techal",
