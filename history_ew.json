@@ -1272,6 +1272,18 @@
     "last_active_human": "5 дн. назад"
   },
   {
+    "norm": "hellsait",
+    "display": "Hellsait",
+    "initial": 9880,
+    "current": 10050,
+    "diff": 170,
+    "avatar": "avatars/hellsait.jpg",
+    "profile": "https://remanga.org/user/2906080/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "urus",
     "display": "URUS",
     "initial": 12000,
@@ -1282,18 +1294,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
-  },
-  {
-    "norm": "hellsait",
-    "display": "Hellsait",
-    "initial": 9880,
-    "current": 9880,
-    "diff": 0,
-    "avatar": "avatars/hellsait.jpg",
-    "profile": "https://remanga.org/user/2906080/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных"
   },
   {
     "norm": "nikita9",
