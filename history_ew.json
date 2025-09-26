@@ -183,8 +183,8 @@
     "norm": "ewnobon",
     "display": "EW_NoBoN",
     "initial": 65000,
-    "current": 94000,
-    "diff": 29000,
+    "current": 96700,
+    "diff": 31700,
     "avatar": "avatars/ewnobon.jpg",
     "profile": "https://remanga.org/user/155090/about",
     "guild": "Eternal Watchers",
@@ -753,7 +753,7 @@
     "profile": "https://remanga.org/user/1262251/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "mangalev",
