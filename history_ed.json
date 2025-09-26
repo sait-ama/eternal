@@ -428,8 +428,8 @@
     "avatar": "avatars/placeholder.jpg",
     "profile": "https://remanga.org/user/40277/about",
     "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "moonsh1ne",
@@ -441,7 +441,7 @@
     "profile": "https://remanga.org/user/128587/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "necromant",
