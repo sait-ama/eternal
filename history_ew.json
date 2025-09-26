@@ -576,6 +576,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "ctapeйшинaчy",
+    "display": "Старейшина-Чу",
+    "initial": 20700,
+    "current": 32040,
+    "diff": 11340,
+    "avatar": "avatars/ctapeйшинaчy.jpg",
+    "profile": "https://remanga.org/user/69640/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "독부바",
     "display": "독 부바",
     "initial": 1280,
@@ -622,18 +634,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "ctapeйшинaчy",
-    "display": "Старейшина-Чу",
-    "initial": 20700,
-    "current": 31540,
-    "diff": 10840,
-    "avatar": "avatars/ctapeйшинaчy.jpg",
-    "profile": "https://remanga.org/user/69640/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "кaпиtaнзaнyдa",
@@ -840,6 +840,18 @@
     "last_active_human": "8 дн. назад"
   },
   {
+    "norm": "rayze",
+    "display": "RayZe",
+    "initial": 15730,
+    "current": 23270,
+    "diff": 7540,
+    "avatar": "avatars/rayze.jpg",
+    "profile": "https://remanga.org/user/108995/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "payk",
     "display": "Payk_",
     "initial": 33630,
@@ -874,18 +886,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
-  },
-  {
-    "norm": "rayze",
-    "display": "RayZe",
-    "initial": 15730,
-    "current": 23050,
-    "diff": 7320,
-    "avatar": "avatars/rayze.jpg",
-    "profile": "https://remanga.org/user/108995/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "pupstv",
@@ -1401,7 +1401,7 @@
     "profile": "https://remanga.org/user/77899/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "22 дн. назад"
+    "last_active_human": "23 дн. назад"
   },
   {
     "norm": "b@rmaley",
