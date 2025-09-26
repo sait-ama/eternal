@@ -297,7 +297,7 @@
     "profile": "https://remanga.org/user/264468/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "ewobserver",
@@ -336,6 +336,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "arbogastr",
+    "display": "Arbogastr",
+    "initial": 45500,
+    "current": 63500,
+    "diff": 18000,
+    "avatar": "avatars/arbogastr.jpg",
+    "profile": "https://remanga.org/user/993371/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "shirochan",
     "display": "Shiro_Chan",
     "initial": 5000,
@@ -355,18 +367,6 @@
     "diff": 17080,
     "avatar": "avatars/andrefalkonen.jpg",
     "profile": "https://remanga.org/user/35664/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
-  },
-  {
-    "norm": "arbogastr",
-    "display": "Arbogastr",
-    "initial": 45500,
-    "current": 62500,
-    "diff": 17000,
-    "avatar": "avatars/arbogastr.jpg",
-    "profile": "https://remanga.org/user/993371/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
@@ -669,7 +669,7 @@
     "profile": "https://remanga.org/user/732690/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "loli69228",
@@ -1053,7 +1053,7 @@
     "profile": "https://remanga.org/user/926473/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "laytee",
