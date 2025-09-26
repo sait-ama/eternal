@@ -192,6 +192,18 @@
     "last_active_human": "5 дн. назад"
   },
   {
+    "norm": "ewnobon",
+    "display": "EW_NoBoN",
+    "initial": 65000,
+    "current": 93500,
+    "diff": 28500,
+    "avatar": "avatars/ewnobon.jpg",
+    "profile": "https://remanga.org/user/155090/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ミュージシャン",
     "display": "ミュージシャン",
     "initial": 113000,
@@ -202,18 +214,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "ewnobon",
-    "display": "EW_NoBoN",
-    "initial": 65000,
-    "current": 92000,
-    "diff": 27000,
-    "avatar": "avatars/ewnobon.jpg",
-    "profile": "https://remanga.org/user/155090/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "ewtaya",
@@ -696,6 +696,18 @@
     "last_active_human": "7 дн. назад"
   },
   {
+    "norm": "chitandael",
+    "display": "Chitandael",
+    "initial": 39780,
+    "current": 49720,
+    "diff": 9940,
+    "avatar": "avatars/chitandael.jpg",
+    "profile": "https://remanga.org/user/372102/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "unlimitedcringeworks",
     "display": "UnlimitedCringeWorks",
     "initial": 8000,
@@ -802,18 +814,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
-  },
-  {
-    "norm": "chitandael",
-    "display": "Chitandael",
-    "initial": 39780,
-    "current": 47580,
-    "diff": 7800,
-    "avatar": "avatars/chitandael.jpg",
-    "profile": "https://remanga.org/user/372102/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "хeйtepдoкa",
