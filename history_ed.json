@@ -320,8 +320,8 @@
     "avatar": "avatars/oblakatt.jpg",
     "profile": "https://remanga.org/user/474087/about",
     "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "kim5+",
@@ -777,7 +777,7 @@
     "profile": "https://remanga.org/user/3983/about",
     "guild": "Eternal Demonic",
     "is_afk": true,
-    "last_active_human": "9 дн. назад"
+    "last_active_human": "10 дн. назад"
   },
   {
     "norm": "mefisto51",
