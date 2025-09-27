@@ -201,7 +201,7 @@
     "profile": "https://remanga.org/user/155090/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "desport",
@@ -660,6 +660,18 @@
     "last_active_human": "5 дн. назад"
   },
   {
+    "norm": "harlequ1n",
+    "display": "HARLEQU1N",
+    "initial": 30760,
+    "current": 41160,
+    "diff": 10400,
+    "avatar": "avatars/harlequ1n.jpg",
+    "profile": "https://remanga.org/user/959231/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "rezordaye",
     "display": "rezord_aye",
     "initial": 49660,
@@ -720,18 +732,6 @@
     "last_active_human": "4 дн. назад"
   },
   {
-    "norm": "harlequ1n",
-    "display": "HARLEQU1N",
-    "initial": 30760,
-    "current": 39620,
-    "diff": 8860,
-    "avatar": "avatars/harlequ1n.jpg",
-    "profile": "https://remanga.org/user/959231/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
-  },
-  {
     "norm": "misikira",
     "display": "Misikira",
     "initial": 19300,
@@ -753,7 +753,7 @@
     "profile": "https://remanga.org/user/1262251/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "bagas",
