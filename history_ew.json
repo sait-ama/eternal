@@ -891,13 +891,13 @@
     "norm": "pupstv",
     "display": "PupsTv",
     "initial": 12000,
-    "current": 19000,
-    "diff": 7000,
+    "current": 19400,
+    "diff": 7400,
     "avatar": "avatars/pupstv.jpg",
     "profile": "https://remanga.org/user/117177/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "bagas",
