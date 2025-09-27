@@ -36,6 +36,18 @@
     "last_active_human": "5 дн. назад"
   },
   {
+    "norm": "akiram",
+    "display": "Aki_Ram",
+    "initial": 28600,
+    "current": 85120,
+    "diff": 56520,
+    "avatar": "avatars/akiram.jpg",
+    "profile": "https://remanga.org/user/3307870/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 61970,
@@ -46,18 +58,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "akiram",
-    "display": "Aki_Ram",
-    "initial": 28600,
-    "current": 83930,
-    "diff": 55330,
-    "avatar": "avatars/akiram.jpg",
-    "profile": "https://remanga.org/user/3307870/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "caйtaмa",
@@ -156,6 +156,18 @@
     "last_active_human": "6 дн. назад"
   },
   {
+    "norm": "ミュージシャン",
+    "display": "ミュージシャン",
+    "initial": 113000,
+    "current": 146200,
+    "diff": 33200,
+    "avatar": "avatars/ミュージシャン.jpg",
+    "profile": "https://remanga.org/user/938359/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "harutsu",
     "display": "Harutsu",
     "initial": 73130,
@@ -187,18 +199,6 @@
     "diff": 31700,
     "avatar": "avatars/ewnobon.jpg",
     "profile": "https://remanga.org/user/155090/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "ミュージシャン",
-    "display": "ミュージシャン",
-    "initial": 113000,
-    "current": 141700,
-    "diff": 28700,
-    "avatar": "avatars/ミュージシャン.jpg",
-    "profile": "https://remanga.org/user/938359/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
