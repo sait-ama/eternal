@@ -12,6 +12,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "ham021",
+    "display": "Ham021",
+    "initial": 30500,
+    "current": 50000,
+    "diff": 19500,
+    "avatar": "avatars/ham021.jpg",
+    "profile": "https://remanga.org/user/27288/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "rubyrose",
     "display": "RUBYROSE",
     "initial": 20450,
@@ -34,18 +46,6 @@
     "guild": "Eternal Demonic",
     "is_afk": true,
     "last_active_human": "9 дн. назад"
-  },
-  {
-    "norm": "ham021",
-    "display": "Ham021",
-    "initial": 30500,
-    "current": 45000,
-    "diff": 14500,
-    "avatar": "avatars/ham021.jpg",
-    "profile": "https://remanga.org/user/27288/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "10 дн. назад"
   },
   {
     "norm": "издateль",
