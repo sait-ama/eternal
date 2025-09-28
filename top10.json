@@ -63,13 +63,13 @@
     "norm": "caйtaмa",
     "display": "Сайтама",
     "initial": 128060,
-    "current": 177280,
-    "diff": 49220,
+    "current": 178920,
+    "diff": 50860,
     "avatar": "avatars/placeholder.jpg",
     "profile": "https://remanga.org/user/12762/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "tenofmoses",
@@ -108,15 +108,15 @@
     "last_active_human": "сегодня"
   },
   {
-    "norm": "kodokunayurei",
-    "display": "KodokunaYurei",
-    "initial": 104390,
-    "current": 141990,
-    "diff": 37600,
-    "avatar": "avatars/kodokunayurei.jpg",
-    "profile": "https://remanga.org/user/108546/about",
+    "norm": "яшtyг",
+    "display": "Яштуг",
+    "initial": 128780,
+    "current": 166970,
+    "diff": 38190,
+    "avatar": "avatars/яшtyг.jpg",
+    "profile": "https://remanga.org/user/1317566/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "last_active_human": "сегодня"
   }
 ]
