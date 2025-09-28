@@ -356,8 +356,8 @@
     "avatar": "avatars/placeholder.jpg",
     "profile": "https://remanga.org",
     "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "woodss",
@@ -789,7 +789,7 @@
     "profile": "https://remanga.org",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "oporlew",
