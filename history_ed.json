@@ -48,6 +48,18 @@
     "last_active_human": "9 дн. назад"
   },
   {
+    "norm": "stas211242",
+    "display": "stas211242",
+    "initial": 12780,
+    "current": 24980,
+    "diff": 12200,
+    "avatar": "avatars/stas211242.jpg",
+    "profile": "https://remanga.org/user/269608/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "издateль",
     "display": "Издатель",
     "initial": 14780,
@@ -58,18 +70,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "stas211242",
-    "display": "stas211242",
-    "initial": 12780,
-    "current": 24520,
-    "diff": 11740,
-    "avatar": "avatars/stas211242.jpg",
-    "profile": "https://remanga.org/user/269608/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "lucifiel",
@@ -273,7 +273,7 @@
     "profile": "https://remanga.org/user/3215284/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "trillo",
@@ -645,7 +645,7 @@
     "profile": "https://remanga.org/user/106279/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "5 дн. назад"
+    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "flammenoire",
