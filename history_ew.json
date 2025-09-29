@@ -15,13 +15,13 @@
     "norm": "бeлoхвoctый",
     "display": "Белохвостый",
     "initial": 51100,
-    "current": 142000,
-    "diff": 90900,
+    "current": 143000,
+    "diff": 91900,
     "avatar": "avatars/бeлoхвoctый.jpg",
     "profile": "https://remanga.org/user/2874672/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "pepegaronni",
@@ -63,8 +63,8 @@
     "norm": "caйtaмa",
     "display": "Сайтама",
     "initial": 128060,
-    "current": 180130,
-    "diff": 52070,
+    "current": 180280,
+    "diff": 52220,
     "avatar": "avatars/placeholder.jpg",
     "profile": "https://remanga.org/user/12762/about",
     "guild": "Eternal Watchers",
@@ -300,6 +300,18 @@
     "last_active_human": "5 дн. назад"
   },
   {
+    "norm": "ewobserver",
+    "display": "EW_OBSERVER",
+    "initial": 264330,
+    "current": 286280,
+    "diff": 21950,
+    "avatar": "avatars/ewobserver.jpg",
+    "profile": "https://remanga.org/user/141395/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "bluefish",
     "display": "Blue__fish",
     "initial": 9000,
@@ -310,18 +322,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "6 дн. назад"
-  },
-  {
-    "norm": "ewobserver",
-    "display": "EW_OBSERVER",
-    "initial": 264330,
-    "current": 284840,
-    "diff": 20510,
-    "avatar": "avatars/ewobserver.jpg",
-    "profile": "https://remanga.org/user/141395/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "allentina",
@@ -369,7 +369,7 @@
     "profile": "https://remanga.org/user/9766/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "11 дн. назад"
+    "last_active_human": "12 дн. назад"
   },
   {
     "norm": "andrefalkonen",
@@ -429,7 +429,7 @@
     "profile": "https://remanga.org/user/1037182/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "12 дн. назад"
+    "last_active_human": "13 дн. назад"
   },
   {
     "norm": "okiarya",
@@ -1191,8 +1191,8 @@
     "norm": "elduck",
     "display": "El_Duck",
     "initial": 110000,
-    "current": 112770,
-    "diff": 2770,
+    "current": 112940,
+    "diff": 2940,
     "avatar": "avatars/elduck.jpg",
     "profile": "https://remanga.org/user/1125410/about",
     "guild": "Eternal Watchers",
