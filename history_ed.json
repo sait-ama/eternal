@@ -588,6 +588,18 @@
     "last_active_human": "6 дн. назад"
   },
   {
+    "norm": "flammenoire",
+    "display": "FlammeNoire",
+    "initial": 42130,
+    "current": 46630,
+    "diff": 4500,
+    "avatar": "avatars/flammenoire.jpg",
+    "profile": "https://remanga.org/user/2384260/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "llikojioma",
     "display": "LLIKoJIoma",
     "initial": 10500,
@@ -598,18 +610,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "6 дн. назад"
-  },
-  {
-    "norm": "flammenoire",
-    "display": "FlammeNoire",
-    "initial": 42130,
-    "current": 46480,
-    "diff": 4350,
-    "avatar": "avatars/flammenoire.jpg",
-    "profile": "https://remanga.org/user/2384260/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "aмeн",
