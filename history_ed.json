@@ -213,7 +213,7 @@
     "profile": "https://remanga.org/user/246605/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "mmarti",
@@ -708,6 +708,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "谢怜",
+    "display": ".谢怜.",
+    "initial": 12000,
+    "current": 15000,
+    "diff": 3000,
+    "avatar": "avatars/谢怜.jpg",
+    "profile": "https://remanga.org/user/164257/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "takahikoo",
     "display": "Takahikoo",
     "initial": 11000,
@@ -730,18 +742,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
-  },
-  {
-    "norm": "谢怜",
-    "display": ".谢怜.",
-    "initial": 12000,
-    "current": 14000,
-    "diff": 2000,
-    "avatar": "avatars/谢怜.jpg",
-    "profile": "https://remanga.org/user/164257/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "20 дн. назад"
   },
   {
     "norm": "oporlew",
