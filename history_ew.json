@@ -1032,6 +1032,18 @@
     "last_active_human": "6 дн. назад"
   },
   {
+    "norm": "petr66",
+    "display": "Petr66",
+    "initial": 5500,
+    "current": 10500,
+    "diff": 5000,
+    "avatar": "avatars/petr66.jpg",
+    "profile": "https://remanga.org/user/3210259/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "xmmxmm",
     "display": "Xmmxmm",
     "initial": 13650,
@@ -1171,18 +1183,6 @@
     "diff": 2600,
     "avatar": "avatars/чмoшкaмoшкa.jpg",
     "profile": "https://remanga.org/user/2991171/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
-  },
-  {
-    "norm": "petr66",
-    "display": "Petr66",
-    "initial": 5500,
-    "current": 8000,
-    "diff": 2500,
-    "avatar": "avatars/petr66.jpg",
-    "profile": "https://remanga.org/user/3210259/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "6 дн. назад"
