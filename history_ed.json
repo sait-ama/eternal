@@ -288,6 +288,18 @@
     "last_active_human": "4 дн. назад"
   },
   {
+    "norm": "etoromantic",
+    "display": "etoRomantic",
+    "initial": 11000,
+    "current": 16400,
+    "diff": 5400,
+    "avatar": "avatars/etoromantic.jpg",
+    "profile": "https://remanga.org/user/90646/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "trillo",
     "display": "Trillo",
     "initial": 9320,
@@ -538,18 +550,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "etoromantic",
-    "display": "etoRomantic",
-    "initial": 11000,
-    "current": 15300,
-    "diff": 4300,
-    "avatar": "avatars/etoromantic.jpg",
-    "profile": "https://remanga.org/user/90646/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "aмeн",
