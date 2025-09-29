@@ -324,6 +324,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "allentina",
+    "display": "allentina",
+    "initial": 3000,
+    "current": 21890,
+    "diff": 18890,
+    "avatar": "avatars/allentina.jpg",
+    "profile": "https://remanga.org/user/890414/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "лoхoбыкнoвeнный",
     "display": "ЛохОбыкновенный",
     "initial": 33800,
@@ -382,18 +394,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "allentina",
-    "display": "allentina",
-    "initial": 3000,
-    "current": 18890,
-    "diff": 15890,
-    "avatar": "avatars/allentina.jpg",
-    "profile": "https://remanga.org/user/890414/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "ялyчшийвмиpe",
@@ -960,6 +960,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "admiralsengoku",
+    "display": "ADMIRAL_SENGOKU",
+    "initial": 31000,
+    "current": 37000,
+    "diff": 6000,
+    "avatar": "avatars/admiralsengoku.jpg",
+    "profile": "https://remanga.org/user/1529739/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "techal",
     "display": "TeChal",
     "initial": 10180,
@@ -1018,18 +1030,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "6 дн. назад"
-  },
-  {
-    "norm": "admiralsengoku",
-    "display": "ADMIRAL_SENGOKU",
-    "initial": 31000,
-    "current": 36000,
-    "diff": 5000,
-    "avatar": "avatars/admiralsengoku.jpg",
-    "profile": "https://remanga.org/user/1529739/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "xmmxmm",
