@@ -57,7 +57,7 @@
     "profile": "https://remanga.org/user/3307870/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "caйtaмa",
@@ -105,7 +105,7 @@
     "profile": "https://remanga.org/user/199911/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "яшtyг",
@@ -189,7 +189,7 @@
     "profile": "https://remanga.org/user/938359/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "harutsu",
@@ -1236,6 +1236,18 @@
     "last_active_human": "6 дн. назад"
   },
   {
+    "norm": "elduck",
+    "display": "El_Duck",
+    "initial": 110000,
+    "current": 111500,
+    "diff": 1500,
+    "avatar": "avatars/elduck.jpg",
+    "profile": "https://remanga.org/user/1125410/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "casepona",
     "display": "Casepona",
     "initial": 158000,
@@ -1258,18 +1270,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "22 дн. назад"
-  },
-  {
-    "norm": "elduck",
-    "display": "El_Duck",
-    "initial": 110000,
-    "current": 111000,
-    "diff": 1000,
-    "avatar": "avatars/elduck.jpg",
-    "profile": "https://remanga.org/user/1125410/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "31 дн. назад"
   },
   {
     "norm": "sunshi",
