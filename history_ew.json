@@ -216,6 +216,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "markutts",
+    "display": "MARKUTTs",
+    "initial": 69500,
+    "current": 101500,
+    "diff": 32000,
+    "avatar": "avatars/markutts.jpg",
+    "profile": "https://remanga.org/user/660145/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ewtaya",
     "display": "EW_Taya_",
     "initial": 48130,
@@ -286,18 +298,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "markutts",
-    "display": "MARKUTTs",
-    "initial": 69500,
-    "current": 91500,
-    "diff": 22000,
-    "avatar": "avatars/markutts.jpg",
-    "profile": "https://remanga.org/user/660145/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "ewobserver",
@@ -492,6 +492,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "ctapeйшинaчy",
+    "display": "Старейшина-Чу",
+    "initial": 20700,
+    "current": 33910,
+    "diff": 13210,
+    "avatar": "avatars/ctapeйшинaчy.jpg",
+    "profile": "https://remanga.org/user/69640/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "monalize",
     "display": "MonaLize",
     "initial": 36700,
@@ -547,18 +559,6 @@
     "diff": 12780,
     "avatar": "avatars/harlequ1n.jpg",
     "profile": "https://remanga.org/user/959231/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "ctapeйшинaчy",
-    "display": "Старейшина-Чу",
-    "initial": 20700,
-    "current": 33370,
-    "diff": 12670,
-    "avatar": "avatars/ctapeйшинaчy.jpg",
-    "profile": "https://remanga.org/user/69640/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
