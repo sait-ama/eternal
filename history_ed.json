@@ -180,6 +180,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "aggressive",
+    "display": "-AGGRESSIVE-",
+    "initial": 7750,
+    "current": 14500,
+    "diff": 6750,
+    "avatar": "avatars/aggressive.jpg",
+    "profile": "https://remanga.org/user/1939125/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "hatin",
     "display": "Hatin",
     "initial": 12900,
@@ -237,7 +249,7 @@
     "profile": "https://remanga.org/user/204988/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "sckatman",
@@ -322,18 +334,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
-  },
-  {
-    "norm": "aggressive",
-    "display": "-AGGRESSIVE-",
-    "initial": 7750,
-    "current": 13750,
-    "diff": 6000,
-    "avatar": "avatars/aggressive.jpg",
-    "profile": "https://remanga.org/user/1939125/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "necromant",
