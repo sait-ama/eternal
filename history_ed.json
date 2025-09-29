@@ -105,7 +105,7 @@
     "profile": "https://remanga.org/user/197380/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "ronin74",
@@ -235,6 +235,18 @@
     "diff": 6000,
     "avatar": "avatars/sckatman.jpg",
     "profile": "https://remanga.org/user/136935/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
+    "norm": "vallynor",
+    "display": "Vallynor",
+    "initial": 12000,
+    "current": 18000,
+    "diff": 6000,
+    "avatar": "avatars/vallynor.jpg",
+    "profile": "https://remanga.org/user/876246/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -454,18 +466,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "vallynor",
-    "display": "Vallynor",
-    "initial": 12000,
-    "current": 17000,
-    "diff": 5000,
-    "avatar": "avatars/vallynor.jpg",
-    "profile": "https://remanga.org/user/876246/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "чиtateль+дpyг",
