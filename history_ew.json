@@ -96,6 +96,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "desport",
+    "display": "desport",
+    "initial": 60640,
+    "current": 100280,
+    "diff": 39640,
+    "avatar": "avatars/desport.jpg",
+    "profile": "https://remanga.org/user/216019/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "яшtyг",
     "display": "Яштуг",
     "initial": 128780,
@@ -132,6 +144,18 @@
     "last_active_human": "6 дн. назад"
   },
   {
+    "norm": "ewnobon",
+    "display": "EW_NoBoN",
+    "initial": 65000,
+    "current": 101800,
+    "diff": 36800,
+    "avatar": "avatars/ewnobon.jpg",
+    "profile": "https://remanga.org/user/155090/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ፚꮼꮢꭵ૮ꮒꮶꮧ",
     "display": "ፚᏬᏒᎥ૮ᏂᏦᏗ",
     "initial": 80000,
@@ -154,18 +178,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
-  },
-  {
-    "norm": "ewnobon",
-    "display": "EW_NoBoN",
-    "initial": 65000,
-    "current": 101000,
-    "diff": 36000,
-    "avatar": "avatars/ewnobon.jpg",
-    "profile": "https://remanga.org/user/155090/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "darqee",
@@ -216,23 +228,11 @@
     "last_active_human": "вчера"
   },
   {
-    "norm": "desport",
-    "display": "desport",
-    "initial": 60640,
-    "current": 89280,
-    "diff": 28640,
-    "avatar": "avatars/desport.jpg",
-    "profile": "https://remanga.org/user/216019/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "8 дн. назад"
-  },
-  {
     "norm": "overcooling",
     "display": "Overcooling",
     "initial": 41000,
-    "current": 67500,
-    "diff": 26500,
+    "current": 68500,
+    "diff": 27500,
     "avatar": "avatars/overcooling.jpg",
     "profile": "https://remanga.org/user/52079/about",
     "guild": "Eternal Watchers",
@@ -399,13 +399,13 @@
     "norm": "ялyчшийвмиpe",
     "display": "Я_лучший_в_мире",
     "initial": 22080,
-    "current": 36980,
-    "diff": 14900,
+    "current": 38080,
+    "diff": 16000,
     "avatar": "avatars/ялyчшийвмиpe.jpg",
     "profile": "https://remanga.org/user/285519/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "suba7u",
