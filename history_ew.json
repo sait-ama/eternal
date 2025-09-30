@@ -84,6 +84,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "festashka",
+    "display": "_festashka_",
+    "initial": 77750,
+    "current": 122000,
+    "diff": 44250,
+    "avatar": "avatars/festashka.jpg",
+    "profile": "https://remanga.org/user/199911/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "кaйдeн",
     "display": "Кайден",
     "initial": 64610,
@@ -142,18 +154,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "festashka",
-    "display": "_festashka_",
-    "initial": 77750,
-    "current": 116200,
-    "diff": 38450,
-    "avatar": "avatars/festashka.jpg",
-    "profile": "https://remanga.org/user/199911/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "ፚꮼꮢꭵ૮ꮒꮶꮧ",
@@ -441,7 +441,7 @@
     "profile": "https://remanga.org/user/57091/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "vladosrat",
