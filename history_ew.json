@@ -15,8 +15,8 @@
     "norm": "бeлoхвoctый",
     "display": "Белохвостый",
     "initial": 51100,
-    "current": 143000,
-    "diff": 91900,
+    "current": 144000,
+    "diff": 92900,
     "avatar": "avatars/бeлoхвoctый.jpg",
     "profile": "https://remanga.org/user/2874672/about",
     "guild": "Eternal Watchers",
@@ -285,7 +285,7 @@
     "profile": "https://remanga.org/user/1405392/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "souzerend",
@@ -744,6 +744,18 @@
     "last_active_human": "6 дн. назад"
   },
   {
+    "norm": "temha9l",
+    "display": "TeMHa9l",
+    "initial": 33060,
+    "current": 42560,
+    "diff": 9500,
+    "avatar": "avatars/temha9l.jpg",
+    "profile": "https://remanga.org/user/1262251/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "healot",
     "display": "healot",
     "initial": 21500,
@@ -766,18 +778,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "temha9l",
-    "display": "TeMHa9l",
-    "initial": 33060,
-    "current": 41860,
-    "diff": 8800,
-    "avatar": "avatars/temha9l.jpg",
-    "profile": "https://remanga.org/user/1262251/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "bagas",
@@ -1053,7 +1053,7 @@
     "profile": "https://remanga.org/user/3210259/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "widding",
