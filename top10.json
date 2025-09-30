@@ -39,13 +39,13 @@
     "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 61970,
-    "current": 133370,
-    "diff": 71400,
+    "current": 133380,
+    "diff": 71410,
     "avatar": "avatars/akiragame.jpg",
     "profile": "https://remanga.org/user/1714962/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "akiram",
