@@ -39,8 +39,8 @@
     "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 61970,
-    "current": 133380,
-    "diff": 71410,
+    "current": 134080,
+    "diff": 72110,
     "avatar": "avatars/akiragame.jpg",
     "profile": "https://remanga.org/user/1714962/about",
     "guild": "Eternal Watchers",
@@ -321,7 +321,7 @@
     "profile": "https://remanga.org/user/264468/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "7 дн. назад"
+    "last_active_human": "8 дн. назад"
   },
   {
     "norm": "shirochan",
@@ -945,7 +945,7 @@
     "profile": "https://remanga.org/user/2360369/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "calistotzy",
@@ -1089,7 +1089,7 @@
     "profile": "https://remanga.org/user/926473/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "7 дн. назад"
+    "last_active_human": "8 дн. назад"
   },
   {
     "norm": "laytee",
