@@ -60,6 +60,18 @@
     "last_active_human": "3 дн. назад"
   },
   {
+    "norm": "belashik",
+    "display": "Belashik",
+    "initial": 149100,
+    "current": 204700,
+    "diff": 55600,
+    "avatar": "avatars/belashik.jpg",
+    "profile": "https://remanga.org/user/175047/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "caйtaмa",
     "display": "Сайтама",
     "initial": 128060,
@@ -178,18 +190,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "belashik",
-    "display": "Belashik",
-    "initial": 149100,
-    "current": 185200,
-    "diff": 36100,
-    "avatar": "avatars/belashik.jpg",
-    "profile": "https://remanga.org/user/175047/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "darqee",
@@ -1017,7 +1017,7 @@
     "profile": "https://remanga.org/user/10999/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "darkangei",
