@@ -393,7 +393,7 @@
     "profile": "https://remanga.org/user/3215284/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "5 дн. назад"
+    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "etoromantic",
@@ -406,6 +406,18 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
+  },
+  {
+    "norm": "aмeн",
+    "display": "Амен",
+    "initial": 11000,
+    "current": 16360,
+    "diff": 5360,
+    "avatar": "avatars/aмeн.jpg",
+    "profile": "https://remanga.org/user/993301/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "trillo",
@@ -441,7 +453,7 @@
     "profile": "https://remanga.org/user/106279/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "samurafs",
@@ -489,7 +501,7 @@
     "profile": "https://remanga.org/user/3154400/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "samurai",
@@ -622,18 +634,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "aмeн",
-    "display": "Амен",
-    "initial": 11000,
-    "current": 15220,
-    "diff": 4220,
-    "avatar": "avatars/aмeн.jpg",
-    "profile": "https://remanga.org/user/993301/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "drrи",
