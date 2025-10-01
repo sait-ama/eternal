@@ -105,7 +105,7 @@
     "profile": "https://remanga.org/user/199911/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "кaйдeн",
@@ -477,7 +477,19 @@
     "profile": "https://remanga.org/user/57091/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
+  },
+  {
+    "norm": "widding",
+    "display": "WidDing",
+    "initial": 5500,
+    "current": 20500,
+    "diff": 15000,
+    "avatar": "avatars/widding.jpg",
+    "profile": "https://remanga.org/user/888106/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "vladosrat",
@@ -1051,18 +1063,6 @@
     "diff": 5000,
     "avatar": "avatars/petr66.jpg",
     "profile": "https://remanga.org/user/3210259/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "widding",
-    "display": "WidDing",
-    "initial": 5500,
-    "current": 10500,
-    "diff": 5000,
-    "avatar": "avatars/widding.jpg",
-    "profile": "https://remanga.org/user/888106/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
