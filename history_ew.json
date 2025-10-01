@@ -120,6 +120,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "яшtyг",
+    "display": "Яштуг",
+    "initial": 128780,
+    "current": 169230,
+    "diff": 40450,
+    "avatar": "avatars/яшtyг.jpg",
+    "profile": "https://remanga.org/user/1317566/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "desport",
     "display": "desport",
     "initial": 60640,
@@ -129,7 +141,7 @@
     "profile": "https://remanga.org/user/216019/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "kodokunayurei",
@@ -142,18 +154,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "яшtyг",
-    "display": "Яштуг",
-    "initial": 128780,
-    "current": 168220,
-    "diff": 39440,
-    "avatar": "avatars/яшtyг.jpg",
-    "profile": "https://remanga.org/user/1317566/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "ミュージシャン",
@@ -261,7 +261,7 @@
     "profile": "https://remanga.org/user/52079/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "bluefish",
@@ -453,7 +453,7 @@
     "profile": "https://remanga.org/user/285519/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "okiarya",
@@ -1113,7 +1113,7 @@
     "profile": "https://remanga.org/user/1089770/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "гдeмoйctoяк",
