@@ -192,6 +192,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "harutsu",
+    "display": "Harutsu",
+    "initial": 73130,
+    "current": 110000,
+    "diff": 36870,
+    "avatar": "avatars/harutsu.jpg",
+    "profile": "https://remanga.org/user/415473/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "darqee",
     "display": "DarQee",
     "initial": 23570,
@@ -214,18 +226,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "harutsu",
-    "display": "Harutsu",
-    "initial": 73130,
-    "current": 106000,
-    "diff": 32870,
-    "avatar": "avatars/harutsu.jpg",
-    "profile": "https://remanga.org/user/415473/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "markutts",
@@ -696,6 +696,18 @@
     "last_active_human": "7 дн. назад"
   },
   {
+    "norm": "katsuusa",
+    "display": "katsu_usa",
+    "initial": 5000,
+    "current": 16000,
+    "diff": 11000,
+    "avatar": "avatars/katsuusa.jpg",
+    "profile": "https://remanga.org/user/3332888/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "rezordaye",
     "display": "rezord_aye",
     "initial": 49660,
@@ -814,18 +826,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
-  },
-  {
-    "norm": "katsuusa",
-    "display": "katsu_usa",
-    "initial": 5000,
-    "current": 13500,
-    "diff": 8500,
-    "avatar": "avatars/katsuusa.jpg",
-    "profile": "https://remanga.org/user/3332888/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "sergeysh",
