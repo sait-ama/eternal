@@ -252,6 +252,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "bluefish",
+    "display": "Blue__fish",
+    "initial": 9000,
+    "current": 38640,
+    "diff": 29640,
+    "avatar": "avatars/bluefish.jpg",
+    "profile": "https://remanga.org/user/264468/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "overcooling",
     "display": "Overcooling",
     "initial": 41000,
@@ -262,18 +274,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "bluefish",
-    "display": "Blue__fish",
-    "initial": 9000,
-    "current": 35790,
-    "diff": 26790,
-    "avatar": "avatars/bluefish.jpg",
-    "profile": "https://remanga.org/user/264468/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "ronin74",
@@ -969,7 +969,7 @@
     "profile": "https://remanga.org/user/2360369/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "asura",
@@ -1044,6 +1044,18 @@
     "last_active_human": "30 дн. назад"
   },
   {
+    "norm": "greein",
+    "display": "Gree.in",
+    "initial": 10010,
+    "current": 15150,
+    "diff": 5140,
+    "avatar": "avatars/greein.jpg",
+    "profile": "https://remanga.org/user/1089770/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "nikesnt",
     "display": "NikesNt",
     "initial": 10040,
@@ -1089,7 +1101,7 @@
     "profile": "https://remanga.org/user/926473/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "8 дн. назад"
+    "last_active_human": "9 дн. назад"
   },
   {
     "norm": "laytee",
@@ -1102,18 +1114,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "6 дн. назад"
-  },
-  {
-    "norm": "greein",
-    "display": "Gree.in",
-    "initial": 10010,
-    "current": 14250,
-    "diff": 4240,
-    "avatar": "avatars/greein.jpg",
-    "profile": "https://remanga.org/user/1089770/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "гдeмoйctoяк",
