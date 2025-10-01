@@ -48,6 +48,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "belashik",
+    "display": "Belashik",
+    "initial": 149100,
+    "current": 206000,
+    "diff": 56900,
+    "avatar": "avatars/belashik.jpg",
+    "profile": "https://remanga.org/user/175047/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "akiram",
     "display": "Aki_Ram",
     "initial": 28600,
@@ -58,18 +70,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "belashik",
-    "display": "Belashik",
-    "initial": 149100,
-    "current": 205000,
-    "diff": 55900,
-    "avatar": "avatars/belashik.jpg",
-    "profile": "https://remanga.org/user/175047/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "caйtaмa",
