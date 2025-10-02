@@ -219,13 +219,13 @@
     "norm": "ewobserver",
     "display": "EW_OBSERVER",
     "initial": 264330,
-    "current": 297710,
-    "diff": 33380,
+    "current": 298470,
+    "diff": 34140,
     "avatar": "avatars/ewobserver.jpg",
     "profile": "https://remanga.org/user/141395/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "markutts",
@@ -720,6 +720,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "sergeysh",
+    "display": "Sergey-Sh",
+    "initial": 5000,
+    "current": 16000,
+    "diff": 11000,
+    "avatar": "avatars/sergeysh.jpg",
+    "profile": "https://remanga.org/user/605765/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "rezordaye",
     "display": "rezord_aye",
     "initial": 49660,
@@ -850,18 +862,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "sergeysh",
-    "display": "Sergey-Sh",
-    "initial": 5000,
-    "current": 13500,
-    "diff": 8500,
-    "avatar": "avatars/sergeysh.jpg",
-    "profile": "https://remanga.org/user/605765/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "йopм",
