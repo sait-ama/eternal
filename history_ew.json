@@ -141,7 +141,7 @@
     "profile": "https://remanga.org/user/1317566/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "desport",
@@ -477,7 +477,7 @@
     "profile": "https://remanga.org/user/57091/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "widding",
@@ -489,7 +489,7 @@
     "profile": "https://remanga.org/user/888106/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "vladosrat",
@@ -600,6 +600,18 @@
     "last_active_human": "4 дн. назад"
   },
   {
+    "norm": "별팽귀",
+    "display": "별팽귀",
+    "initial": 28000,
+    "current": 40250,
+    "diff": 12250,
+    "avatar": "avatars/별팽귀.jpg",
+    "profile": "https://remanga.org/user/133044/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "tavik",
     "display": "Tavik",
     "initial": 48880,
@@ -658,18 +670,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "35 дн. назад"
-  },
-  {
-    "norm": "별팽귀",
-    "display": "별팽귀",
-    "initial": 28000,
-    "current": 39600,
-    "diff": 11600,
-    "avatar": "avatars/별팽귀.jpg",
-    "profile": "https://remanga.org/user/133044/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "katsuusa",
