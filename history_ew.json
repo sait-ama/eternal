@@ -1224,6 +1224,18 @@
     "last_active_human": "9 дн. назад"
   },
   {
+    "norm": "nowarries",
+    "display": "No_warries",
+    "initial": 16490,
+    "current": 18920,
+    "diff": 2430,
+    "avatar": "avatars/nowarries.jpg",
+    "profile": "https://remanga.org/user/1160253/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "gaynese",
     "display": "Gaynese",
     "initial": 0,
@@ -1234,18 +1246,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных"
-  },
-  {
-    "norm": "nowarries",
-    "display": "No_warries",
-    "initial": 16490,
-    "current": 18260,
-    "diff": 1770,
-    "avatar": "avatars/nowarries.jpg",
-    "profile": "https://remanga.org/user/1160253/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "9 дн. назад"
   },
   {
     "norm": "casepona",
