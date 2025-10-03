@@ -144,6 +144,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "desport",
+    "display": "desport",
+    "initial": 60640,
+    "current": 102280,
+    "diff": 41640,
+    "avatar": "avatars/desport.jpg",
+    "profile": "https://remanga.org/user/216019/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "яшtyг",
     "display": "Яштуг",
     "initial": 128780,
@@ -154,18 +166,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "desport",
-    "display": "desport",
-    "initial": 60640,
-    "current": 100280,
-    "diff": 39640,
-    "avatar": "avatars/desport.jpg",
-    "profile": "https://remanga.org/user/216019/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "harutsu",
@@ -264,6 +264,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "overcooling",
+    "display": "Overcooling",
+    "initial": 41000,
+    "current": 70000,
+    "diff": 29000,
+    "avatar": "avatars/overcooling.jpg",
+    "profile": "https://remanga.org/user/52079/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "strayker5421",
     "display": "Strayker5421",
     "initial": 8790,
@@ -274,18 +286,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "25 дн. назад"
-  },
-  {
-    "norm": "overcooling",
-    "display": "Overcooling",
-    "initial": 41000,
-    "current": 68500,
-    "diff": 27500,
-    "avatar": "avatars/overcooling.jpg",
-    "profile": "https://remanga.org/user/52079/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "ronin74",
