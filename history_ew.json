@@ -63,8 +63,8 @@
     "norm": "tenofmoses",
     "display": "tenofmoses",
     "initial": 0,
-    "current": 57100,
-    "diff": 57100,
+    "current": 57900,
+    "diff": 57900,
     "avatar": "avatars/tenofmoses.jpg",
     "profile": "https://remanga.org/user/3176212/about",
     "guild": "Eternal Watchers",
@@ -219,13 +219,13 @@
     "norm": "ewobserver",
     "display": "EW_OBSERVER",
     "initial": 264330,
-    "current": 298470,
-    "diff": 34140,
+    "current": 299020,
+    "diff": 34690,
     "avatar": "avatars/ewobserver.jpg",
     "profile": "https://remanga.org/user/141395/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "ewtaya",
