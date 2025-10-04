@@ -560,8 +560,8 @@
     "avatar": "avatars/loly2810.jpg",
     "profile": "https://remanga.org/user/732690/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "misikira",
@@ -574,6 +574,18 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "37 дн. назад"
+  },
+  {
+    "norm": "rezordaye",
+    "display": "rezord_aye",
+    "initial": 49660,
+    "current": 61860,
+    "diff": 12200,
+    "avatar": "avatars/rezordaye.jpg",
+    "profile": "https://remanga.org/user/210114/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "tavik",
@@ -622,18 +634,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
-  },
-  {
-    "norm": "rezordaye",
-    "display": "rezord_aye",
-    "initial": 49660,
-    "current": 61600,
-    "diff": 11940,
-    "avatar": "avatars/rezordaye.jpg",
-    "profile": "https://remanga.org/user/210114/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "милыйкoхaй",
@@ -729,7 +729,7 @@
     "profile": "https://remanga.org/user/69929/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "10 дн. назад"
+    "last_active_human": "11 дн. назад"
   },
   {
     "norm": "temha9l",
