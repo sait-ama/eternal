@@ -144,6 +144,18 @@
     "last_active_human": "11 дн. назад"
   },
   {
+    "norm": "oblakatt",
+    "display": "OblakaT_T",
+    "initial": 13000,
+    "current": 21000,
+    "diff": 8000,
+    "avatar": "avatars/oblakatt.jpg",
+    "profile": "https://remanga.org/user/474087/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "leyley",
     "display": "Ley-Ley",
     "initial": 10100,
@@ -190,18 +202,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "oblakatt",
-    "display": "OblakaT_T",
-    "initial": 13000,
-    "current": 20000,
-    "diff": 7000,
-    "avatar": "avatars/oblakatt.jpg",
-    "profile": "https://remanga.org/user/474087/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "dmitryflow",
