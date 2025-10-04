@@ -1,17 +1,5 @@
 [
   {
-    "norm": "tenofmoses",
-    "display": "tenofmoses",
-    "initial": 9000,
-    "current": 34550,
-    "diff": 25550,
-    "avatar": "avatars/tenofmoses.jpg",
-    "profile": "https://remanga.org/user/3176212/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад"
-  },
-  {
     "norm": "ham021",
     "display": "Ham021",
     "initial": 30500,
@@ -45,7 +33,7 @@
     "profile": "https://remanga.org/user/2439923/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "stas211242",
@@ -790,6 +778,18 @@
     "guild": "Eternal Demonic",
     "is_afk": true,
     "last_active_human": "28 дн. назад"
+  },
+  {
+    "norm": "tenofmoses",
+    "display": "tenofmoses",
+    "initial": 9000,
+    "current": 9000,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "mefisto51",
