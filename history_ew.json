@@ -192,6 +192,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "ewobserver",
+    "display": "EW_OBSERVER",
+    "initial": 264330,
+    "current": 300100,
+    "diff": 35770,
+    "avatar": "avatars/ewobserver.jpg",
+    "profile": "https://remanga.org/user/141395/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "darqee",
     "display": "DarQee",
     "initial": 23570,
@@ -199,18 +211,6 @@
     "diff": 35080,
     "avatar": "avatars/darqee.jpg",
     "profile": "https://remanga.org/user/2234201/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "ewobserver",
-    "display": "EW_OBSERVER",
-    "initial": 264330,
-    "current": 299020,
-    "diff": 34690,
-    "avatar": "avatars/ewobserver.jpg",
-    "profile": "https://remanga.org/user/141395/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -897,7 +897,7 @@
     "profile": "https://remanga.org/user/2360369/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "asura",
