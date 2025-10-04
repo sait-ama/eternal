@@ -87,8 +87,8 @@
     "norm": "festashka",
     "display": "_festashka_",
     "initial": 77750,
-    "current": 130199,
-    "diff": 52449,
+    "current": 131200,
+    "diff": 53450,
     "avatar": "avatars/festashka.jpg",
     "profile": "https://remanga.org/user/199911/about",
     "guild": "Eternal Watchers",
@@ -200,8 +200,8 @@
     "avatar": "avatars/darqee.jpg",
     "profile": "https://remanga.org/user/2234201/about",
     "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "11 дн. назад"
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "ewobserver",
@@ -477,7 +477,7 @@
     "profile": "https://remanga.org/user/1037182/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "17 дн. назад"
+    "last_active_human": "18 дн. назад"
   },
   {
     "norm": "гocькa",
