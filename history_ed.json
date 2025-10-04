@@ -192,6 +192,18 @@
     "last_active_human": "4 дн. назад"
   },
   {
+    "norm": "dmitryflow",
+    "display": "DmitryFlow",
+    "initial": 24000,
+    "current": 31000,
+    "diff": 7000,
+    "avatar": "avatars/dmitryflow.jpg",
+    "profile": "https://remanga.org/user/742164/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "saytoriya",
     "display": "Saytoriya",
     "initial": 11000,
@@ -406,18 +418,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
-  },
-  {
-    "norm": "dmitryflow",
-    "display": "DmitryFlow",
-    "initial": 24000,
-    "current": 30000,
-    "diff": 6000,
-    "avatar": "avatars/dmitryflow.jpg",
-    "profile": "https://remanga.org/user/742164/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "so1omoon",
