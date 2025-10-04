@@ -156,6 +156,18 @@
     "last_active_human": "4 дн. назад"
   },
   {
+    "norm": "aмeн",
+    "display": "Амен",
+    "initial": 11000,
+    "current": 18580,
+    "diff": 7580,
+    "avatar": "avatars/aмeн.jpg",
+    "profile": "https://remanga.org/user/993301/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "zatex",
     "display": "Zatex",
     "initial": 14390,
@@ -235,18 +247,6 @@
     "diff": 6600,
     "avatar": "avatars/akihiko.jpg",
     "profile": "https://remanga.org/user/183282/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "aмeн",
-    "display": "Амен",
-    "initial": 11000,
-    "current": 17580,
-    "diff": 6580,
-    "avatar": "avatars/aмeн.jpg",
-    "profile": "https://remanga.org/user/993301/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
