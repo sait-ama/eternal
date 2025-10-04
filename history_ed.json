@@ -81,7 +81,7 @@
     "profile": "https://remanga.org/user/2577043/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "lucifiel",
@@ -105,7 +105,7 @@
     "profile": "https://remanga.org/user/453647/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "sas47",
@@ -128,8 +128,8 @@
     "avatar": "avatars/cracker7.jpg",
     "profile": "https://remanga.org/user/197380/about",
     "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "ronin74",
