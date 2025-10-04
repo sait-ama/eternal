@@ -108,6 +108,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "ミュージシャン",
+    "display": "ミュージシャン",
+    "initial": 113000,
+    "current": 159200,
+    "diff": 46200,
+    "avatar": "avatars/ミュージシャン.jpg",
+    "profile": "https://remanga.org/user/938359/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "кaйдeн",
     "display": "Кайден",
     "initial": 64610,
@@ -127,18 +139,6 @@
     "diff": 43500,
     "avatar": "avatars/яшtyг.jpg",
     "profile": "https://remanga.org/user/1317566/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "ミュージシャン",
-    "display": "ミュージシャン",
-    "initial": 113000,
-    "current": 156200,
-    "diff": 43200,
-    "avatar": "avatars/ミュージシャン.jpg",
-    "profile": "https://remanga.org/user/938359/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -372,6 +372,18 @@
     "last_active_human": "5 дн. назад"
   },
   {
+    "norm": "suba7u",
+    "display": "Suba7u",
+    "initial": 51790,
+    "current": 69890,
+    "diff": 18100,
+    "avatar": "avatars/suba7u.jpg",
+    "profile": "https://remanga.org/user/1602594/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "monalize",
     "display": "MonaLize",
     "initial": 36700,
@@ -382,18 +394,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "3 дн. назад"
-  },
-  {
-    "norm": "suba7u",
-    "display": "Suba7u",
-    "initial": 51790,
-    "current": 69250,
-    "diff": 17460,
-    "avatar": "avatars/suba7u.jpg",
-    "profile": "https://remanga.org/user/1602594/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "sinfullife",
@@ -840,6 +840,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "chirusan",
+    "display": "Chiru-san",
+    "initial": 11850,
+    "current": 19650,
+    "diff": 7800,
+    "avatar": "avatars/chirusan.jpg",
+    "profile": "https://remanga.org/user/243053/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "magnavanitas",
     "display": "Magna_vanitas",
     "initial": 0,
@@ -871,18 +883,6 @@
     "diff": 7450,
     "avatar": "avatars/abyss.jpg",
     "profile": "https://remanga.org/user/170917/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "10 дн. назад"
-  },
-  {
-    "norm": "chirusan",
-    "display": "Chiru-san",
-    "initial": 11850,
-    "current": 19250,
-    "diff": 7400,
-    "avatar": "avatars/chirusan.jpg",
-    "profile": "https://remanga.org/user/243053/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "10 дн. назад"
