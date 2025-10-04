@@ -783,10 +783,10 @@
     "norm": "tenofmoses",
     "display": "tenofmoses",
     "initial": 9000,
-    "current": 9000,
+    "current": 0,
     "diff": 0,
-    "avatar": "avatars/placeholder.jpg",
-    "profile": "https://remanga.org",
+    "avatar": "avatars/tenofmoses.jpg",
+    "profile": "https://remanga.org/user/3176212/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "4 дн. назад"
