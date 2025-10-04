@@ -441,7 +441,7 @@
     "profile": "https://remanga.org/user/1003671/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "dergauss",
@@ -504,6 +504,18 @@
     "last_active_human": "37 дн. назад"
   },
   {
+    "norm": "frostik4",
+    "display": "Frostik4",
+    "initial": 39450,
+    "current": 52770,
+    "diff": 13320,
+    "avatar": "avatars/frostik4.jpg",
+    "profile": "https://remanga.org/user/3003544/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "totкtocмotpиt",
     "display": "тот_кто_смотрит....",
     "initial": 25780,
@@ -525,19 +537,7 @@
     "profile": "https://remanga.org/user/1003671/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "4 дн. назад"
-  },
-  {
-    "norm": "frostik4",
-    "display": "Frostik4",
-    "initial": 39450,
-    "current": 52370,
-    "diff": 12920,
-    "avatar": "avatars/frostik4.jpg",
-    "profile": "https://remanga.org/user/3003544/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "11 дн. назад"
+    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "harlequ1n",
@@ -873,7 +873,7 @@
     "profile": "https://remanga.org/user/2041779/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "16 дн. назад"
+    "last_active_human": "17 дн. назад"
   },
   {
     "norm": "payk",
@@ -1053,7 +1053,7 @@
     "profile": "https://remanga.org/user/191280/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "11 дн. назад"
+    "last_active_human": "12 дн. назад"
   },
   {
     "norm": "zarti",
