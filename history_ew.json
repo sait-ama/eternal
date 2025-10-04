@@ -15,8 +15,8 @@
     "norm": "бeлoхвoctый",
     "display": "Белохвостый",
     "initial": 51100,
-    "current": 146000,
-    "diff": 94900,
+    "current": 147000,
+    "diff": 95900,
     "avatar": "avatars/бeлoхвoctый.jpg",
     "profile": "https://remanga.org/user/2874672/about",
     "guild": "Eternal Watchers",
@@ -417,7 +417,7 @@
     "profile": "https://remanga.org/user/1632223/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "4 дн. назад"
   },
   {
     "norm": "nebulousvortex",
@@ -816,6 +816,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "spidvrassrochku",
+    "display": "spidvrassrochku",
+    "initial": 15860,
+    "current": 24380,
+    "diff": 8520,
+    "avatar": "avatars/spidvrassrochku.jpg",
+    "profile": "https://remanga.org/user/10999/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "rayze",
     "display": "RayZe",
     "initial": 15730,
@@ -958,18 +970,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "9 дн. назад"
-  },
-  {
-    "norm": "spidvrassrochku",
-    "display": "spidvrassrochku",
-    "initial": 15860,
-    "current": 21380,
-    "diff": 5520,
-    "avatar": "avatars/spidvrassrochku.jpg",
-    "profile": "https://remanga.org/user/10999/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад"
   },
   {
     "norm": "darkangei",
