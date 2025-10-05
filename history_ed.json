@@ -132,6 +132,18 @@
     "last_active_human": "13 дн. назад"
   },
   {
+    "norm": "hatin",
+    "display": "Hatin",
+    "initial": 12900,
+    "current": 20910,
+    "diff": 8010,
+    "avatar": "avatars/hatin.jpg",
+    "profile": "https://remanga.org/user/2797890/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "oblakatt",
     "display": "OblakaT_T",
     "initial": 13000,
@@ -238,18 +250,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
-  },
-  {
-    "norm": "hatin",
-    "display": "Hatin",
-    "initial": 12900,
-    "current": 19630,
-    "diff": 6730,
-    "avatar": "avatars/hatin.jpg",
-    "profile": "https://remanga.org/user/2797890/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "akihiko",
