@@ -528,6 +528,18 @@
     "last_active_human": "38 дн. назад"
   },
   {
+    "norm": "abigor",
+    "display": "Abigor.",
+    "initial": 19870,
+    "current": 33690,
+    "diff": 13820,
+    "avatar": "avatars/abigor.jpg",
+    "profile": "https://remanga.org/user/2093362/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "frostik4",
     "display": "Frostik4",
     "initial": 39450,
@@ -694,18 +706,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "abigor",
-    "display": "Abigor.",
-    "initial": 19870,
-    "current": 31250,
-    "diff": 11380,
-    "avatar": "avatars/abigor.jpg",
-    "profile": "https://remanga.org/user/2093362/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "bloodborrn",
@@ -960,6 +960,18 @@
     "last_active_human": "6 дн. назад"
   },
   {
+    "norm": "asura",
+    "display": "__ASURA__",
+    "initial": 13600,
+    "current": 20480,
+    "diff": 6880,
+    "avatar": "avatars/asura.jpg",
+    "profile": "https://remanga.org/user/1365587/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "elduck",
     "display": "El_Duck",
     "initial": 110000,
@@ -970,18 +982,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "asura",
-    "display": "__ASURA__",
-    "initial": 13600,
-    "current": 19750,
-    "diff": 6150,
-    "avatar": "avatars/asura.jpg",
-    "profile": "https://remanga.org/user/1365587/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "admiralsengoku",
@@ -1065,7 +1065,7 @@
     "profile": "https://remanga.org/user/2724307/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "16 дн. назад"
+    "last_active_human": "17 дн. назад"
   },
   {
     "norm": "talent",
