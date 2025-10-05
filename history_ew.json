@@ -108,6 +108,18 @@
     "last_active_human": "сегодня"
   },
   {
+    "norm": "ミュージシャン",
+    "display": "ミュージシャン",
+    "initial": 113000,
+    "current": 166200,
+    "diff": 53200,
+    "avatar": "avatars/ミュージシャン.jpg",
+    "profile": "https://remanga.org/user/938359/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "kodokunayurei",
     "display": "KodokunaYurei",
     "initial": 104390,
@@ -127,18 +139,6 @@
     "diff": 46890,
     "avatar": "avatars/кaйдeн.jpg",
     "profile": "https://remanga.org/user/439629/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "ミュージシャン",
-    "display": "ミュージシャン",
-    "initial": 113000,
-    "current": 159200,
-    "diff": 46200,
-    "avatar": "avatars/ミュージシャン.jpg",
-    "profile": "https://remanga.org/user/938359/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
@@ -240,6 +240,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "ronin74",
+    "display": "Ronin74",
+    "initial": 6250,
+    "current": 38640,
+    "diff": 32390,
+    "avatar": "avatars/ronin74.jpg",
+    "profile": "https://remanga.org/user/76998/about",
+    "guild": "Eternal Watchers",
+    "is_afk": true,
+    "last_active_human": "20 дн. назад"
+  },
+  {
     "norm": "markutts",
     "display": "MARKUTTs",
     "initial": 69500,
@@ -274,18 +286,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "27 дн. назад"
-  },
-  {
-    "norm": "ronin74",
-    "display": "Ronin74",
-    "initial": 6250,
-    "current": 35440,
-    "diff": 29190,
-    "avatar": "avatars/ronin74.jpg",
-    "profile": "https://remanga.org/user/76998/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "20 дн. назад"
   },
   {
     "norm": "overcooling",
