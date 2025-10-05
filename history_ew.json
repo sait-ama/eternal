@@ -513,7 +513,7 @@
     "profile": "https://remanga.org/user/1037182/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "18 дн. назад"
+    "last_active_human": "19 дн. назад"
   },
   {
     "norm": "efiliyens",
@@ -1179,13 +1179,13 @@
     "norm": "чмoшкaмoшкa",
     "display": "Чмошка-Мошка",
     "initial": 11280,
-    "current": 13880,
-    "diff": 2600,
+    "current": 14270,
+    "diff": 2990,
     "avatar": "avatars/чмoшкaмoшкa.jpg",
     "profile": "https://remanga.org/user/2991171/about",
     "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "12 дн. назад"
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "nowarries",
