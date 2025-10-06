@@ -192,6 +192,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "trillo",
+    "display": "Trillo",
+    "initial": 9320,
+    "current": 16610,
+    "diff": 7290,
+    "avatar": "avatars/trillo.jpg",
+    "profile": "https://remanga.org/user/207200/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "zatex",
     "display": "Zatex",
     "initial": 14390,
@@ -288,18 +300,6 @@
     "last_active_human": "вчера"
   },
   {
-    "norm": "trillo",
-    "display": "Trillo",
-    "initial": 9320,
-    "current": 15610,
-    "diff": 6290,
-    "avatar": "avatars/trillo.jpg",
-    "profile": "https://remanga.org/user/207200/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад"
-  },
-  {
     "norm": "@toxic",
     "display": "@𝑻𝑶𝑿𝑰𝑪",
     "initial": 23200,
@@ -358,6 +358,18 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
+  },
+  {
+    "norm": "sw1ty",
+    "display": "Sw1ty",
+    "initial": 11000,
+    "current": 17000,
+    "diff": 6000,
+    "avatar": "avatars/sw1ty.jpg",
+    "profile": "https://remanga.org/user/3154400/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "samurai",
@@ -524,8 +536,8 @@
     "avatar": "avatars/fox94.jpg",
     "profile": "https://remanga.org/user/158404/about",
     "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "woodss",
@@ -535,18 +547,6 @@
     "diff": 5000,
     "avatar": "avatars/woodss.jpg",
     "profile": "https://remanga.org/user/1450372/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
-  },
-  {
-    "norm": "sw1ty",
-    "display": "Sw1ty",
-    "initial": 11000,
-    "current": 16000,
-    "diff": 5000,
-    "avatar": "avatars/sw1ty.jpg",
-    "profile": "https://remanga.org/user/3154400/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "6 дн. назад"
