@@ -768,6 +768,18 @@
     "last_active_human": "13 дн. назад"
   },
   {
+    "norm": "healot",
+    "display": "healot",
+    "initial": 21500,
+    "current": 31800,
+    "diff": 10300,
+    "avatar": "avatars/healot.jpg",
+    "profile": "https://remanga.org/user/2505495/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "loli69228",
     "display": "loli69228",
     "initial": 36090,
@@ -823,18 +835,6 @@
     "diff": 9500,
     "avatar": "avatars/temha9l.jpg",
     "profile": "https://remanga.org/user/1262251/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
-  },
-  {
-    "norm": "healot",
-    "display": "healot",
-    "initial": 21500,
-    "current": 30800,
-    "diff": 9300,
-    "avatar": "avatars/healot.jpg",
-    "profile": "https://remanga.org/user/2505495/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "6 дн. назад"
