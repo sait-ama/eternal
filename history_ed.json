@@ -444,6 +444,18 @@
     "last_active_human": "7 дн. назад"
   },
   {
+    "norm": "чиtateль+дpyг",
+    "display": "Читатель+друг",
+    "initial": 10000,
+    "current": 16000,
+    "diff": 6000,
+    "avatar": "avatars/чиtateль+дpyг.jpg",
+    "profile": "https://remanga.org/user/616372/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "so1omoon",
     "display": "So1oMooN",
     "initial": 9000,
@@ -583,18 +595,6 @@
     "diff": 5000,
     "avatar": "avatars/ckckck.jpg",
     "profile": "https://remanga.org/user/172319/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
-  },
-  {
-    "norm": "чиtateль+дpyг",
-    "display": "Читатель+друг",
-    "initial": 10000,
-    "current": 15000,
-    "diff": 5000,
-    "avatar": "avatars/чиtateль+дpyг.jpg",
-    "profile": "https://remanga.org/user/616372/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "6 дн. назад"
