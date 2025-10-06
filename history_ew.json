@@ -69,7 +69,7 @@
     "profile": "https://remanga.org/user/175047/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "akiram",
@@ -156,6 +156,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "ewnobon",
+    "display": "EW_NoBoN",
+    "initial": 65000,
+    "current": 108000,
+    "diff": 43000,
+    "avatar": "avatars/ewnobon.jpg",
+    "profile": "https://remanga.org/user/155090/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "desport",
     "display": "desport",
     "initial": 60640,
@@ -163,18 +175,6 @@
     "diff": 41640,
     "avatar": "avatars/desport.jpg",
     "profile": "https://remanga.org/user/216019/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
-  },
-  {
-    "norm": "ewnobon",
-    "display": "EW_NoBoN",
-    "initial": 65000,
-    "current": 106500,
-    "diff": 41500,
-    "avatar": "avatars/ewnobon.jpg",
-    "profile": "https://remanga.org/user/155090/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "вчера"
