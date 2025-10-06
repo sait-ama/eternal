@@ -228,6 +228,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "overcooling",
+    "display": "Overcooling",
+    "initial": 41000,
+    "current": 74000,
+    "diff": 33000,
+    "avatar": "avatars/overcooling.jpg",
+    "profile": "https://remanga.org/user/52079/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ewtaya",
     "display": "EW_Taya_",
     "initial": 48130,
@@ -286,18 +298,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "27 дн. назад"
-  },
-  {
-    "norm": "overcooling",
-    "display": "Overcooling",
-    "initial": 41000,
-    "current": 70000,
-    "diff": 29000,
-    "avatar": "avatars/overcooling.jpg",
-    "profile": "https://remanga.org/user/52079/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера"
   },
   {
     "norm": "souzerend",
