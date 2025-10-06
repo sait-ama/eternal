@@ -380,8 +380,8 @@
     "avatar": "avatars/shirochan.jpg",
     "profile": "https://remanga.org/user/9766/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "andrefalkonen",
@@ -860,8 +860,8 @@
     "avatar": "avatars/mangalev.jpg",
     "profile": "https://remanga.org/user/1096325/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "йopм",
