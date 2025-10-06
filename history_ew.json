@@ -480,6 +480,18 @@
     "last_active_human": "6 дн. назад"
   },
   {
+    "norm": "гocькa",
+    "display": "Госька",
+    "initial": 32470,
+    "current": 47580,
+    "diff": 15110,
+    "avatar": "avatars/гocькa.jpg",
+    "profile": "https://remanga.org/user/1079084/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "dergauss",
     "display": "Dergauss",
     "initial": 14000,
@@ -538,18 +550,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "гocькa",
-    "display": "Госька",
-    "initial": 32470,
-    "current": 47090,
-    "diff": 14620,
-    "avatar": "avatars/гocькa.jpg",
-    "profile": "https://remanga.org/user/1079084/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "vladosrat",
@@ -876,6 +876,18 @@
     "last_active_human": "7 дн. назад"
   },
   {
+    "norm": "techal",
+    "display": "TeChal",
+    "initial": 10180,
+    "current": 19150,
+    "diff": 8970,
+    "avatar": "avatars/techal.jpg",
+    "profile": "https://remanga.org/user/1681839/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "йopм",
     "display": "Йорм",
     "initial": 23340,
@@ -994,18 +1006,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "techal",
-    "display": "TeChal",
-    "initial": 10180,
-    "current": 15990,
-    "diff": 5810,
-    "avatar": "avatars/techal.jpg",
-    "profile": "https://remanga.org/user/1681839/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "14 дн. назад"
   },
   {
     "norm": "midwey",
@@ -1245,7 +1245,7 @@
     "profile": "https://remanga.org/user/2317545/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "16 дн. назад"
+    "last_active_human": "17 дн. назад"
   },
   {
     "norm": "hellsait",
