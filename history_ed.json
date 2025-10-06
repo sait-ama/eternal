@@ -39,13 +39,13 @@
     "norm": "stas211242",
     "display": "stas211242",
     "initial": 12780,
-    "current": 25780,
-    "diff": 13000,
+    "current": 26170,
+    "diff": 13390,
     "avatar": "avatars/stas211242.jpg",
     "profile": "https://remanga.org/user/269608/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "haisan",
@@ -336,6 +336,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "so1omoon",
+    "display": "So1oMooN",
+    "initial": 9000,
+    "current": 16000,
+    "diff": 7000,
+    "avatar": "avatars/so1omoon.jpg",
+    "profile": "https://remanga.org/user/102035/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "kaizaki",
     "display": "Kaizaki",
     "initial": 20470,
@@ -504,18 +516,6 @@
     "last_active_human": "сегодня"
   },
   {
-    "norm": "so1omoon",
-    "display": "So1oMooN",
-    "initial": 9000,
-    "current": 15000,
-    "diff": 6000,
-    "avatar": "avatars/so1omoon.jpg",
-    "profile": "https://remanga.org/user/102035/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
-  },
-  {
     "norm": "velialsalivan",
     "display": "Velial_Salivan",
     "initial": 10000,
@@ -526,6 +526,18 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
+  },
+  {
+    "norm": "fox94",
+    "display": "Fox94",
+    "initial": 10750,
+    "current": 16750,
+    "diff": 6000,
+    "avatar": "avatars/fox94.jpg",
+    "profile": "https://remanga.org/user/158404/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "necromant",
@@ -574,18 +586,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "fox94",
-    "display": "Fox94",
-    "initial": 10750,
-    "current": 16000,
-    "diff": 5250,
-    "avatar": "avatars/fox94.jpg",
-    "profile": "https://remanga.org/user/158404/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "drrи",
