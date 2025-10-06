@@ -300,6 +300,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "kaizaki",
+    "display": "Kaizaki",
+    "initial": 20470,
+    "current": 27270,
+    "diff": 6800,
+    "avatar": "avatars/kaizaki.jpg",
+    "profile": "https://remanga.org/user/40277/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "aggressive",
     "display": "-AGGRESSIVE-",
     "initial": 7750,
@@ -310,6 +322,18 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "6 дн. назад"
+  },
+  {
+    "norm": "moonsh1ne",
+    "display": "moonsh1ne",
+    "initial": 14890,
+    "current": 21470,
+    "diff": 6580,
+    "avatar": "avatars/moonsh1ne.jpg",
+    "profile": "https://remanga.org/user/128587/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "llikojioma",
@@ -504,18 +528,6 @@
     "last_active_human": "8 дн. назад"
   },
   {
-    "norm": "kaizaki",
-    "display": "Kaizaki",
-    "initial": 20470,
-    "current": 26270,
-    "diff": 5800,
-    "avatar": "avatars/kaizaki.jpg",
-    "profile": "https://remanga.org/user/40277/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
-  },
-  {
     "norm": "meimei",
     "display": "mei_mei",
     "initial": 15450,
@@ -526,18 +538,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "moonsh1ne",
-    "display": "moonsh1ne",
-    "initial": 14890,
-    "current": 20470,
-    "diff": 5580,
-    "avatar": "avatars/moonsh1ne.jpg",
-    "profile": "https://remanga.org/user/128587/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
   },
   {
     "norm": "etoromantic",
