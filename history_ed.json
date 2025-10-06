@@ -156,6 +156,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "bigmen07",
+    "display": "BigMen07",
+    "initial": 9000,
+    "current": 17000,
+    "diff": 8000,
+    "avatar": "avatars/bigmen07.jpg",
+    "profile": "https://remanga.org/user/486583/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "saytoriya",
     "display": "Saytoriya",
     "initial": 11000,
@@ -415,18 +427,6 @@
     "diff": 6000,
     "avatar": "avatars/kost9n.jpg",
     "profile": "https://remanga.org/user/48794/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад"
-  },
-  {
-    "norm": "bigmen07",
-    "display": "BigMen07",
-    "initial": 9000,
-    "current": 15000,
-    "diff": 6000,
-    "avatar": "avatars/bigmen07.jpg",
-    "profile": "https://remanga.org/user/486583/about",
     "guild": "Eternal Demonic",
     "is_afk": true,
     "last_active_human": "7 дн. назад"
