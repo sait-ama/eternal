@@ -192,6 +192,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "samurafs",
+    "display": "SamuraFs",
+    "initial": 11000,
+    "current": 19000,
+    "diff": 8000,
+    "avatar": "avatars/samurafs.jpg",
+    "profile": "https://remanga.org/user/93225/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "oblakatt",
     "display": "OblakaT_T",
     "initial": 13000,
@@ -286,18 +298,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня"
-  },
-  {
-    "norm": "samurafs",
-    "display": "SamuraFs",
-    "initial": 11000,
-    "current": 18000,
-    "diff": 7000,
-    "avatar": "avatars/samurafs.jpg",
-    "profile": "https://remanga.org/user/93225/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "akashi550",
