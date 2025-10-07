@@ -33,7 +33,7 @@
     "profile": "https://remanga.org/user/2439923/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "stas211242",
@@ -72,6 +72,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "sas47",
+    "display": "Sas47",
+    "initial": 14010,
+    "current": 24010,
+    "diff": 10000,
+    "avatar": "avatars/sas47.jpg",
+    "profile": "https://remanga.org/user/2044615/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "cracker7",
     "display": "Cracker_7",
     "initial": 12000,
@@ -94,18 +106,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "5 дн. назад"
-  },
-  {
-    "norm": "sas47",
-    "display": "Sas47",
-    "initial": 14010,
-    "current": 23010,
-    "diff": 9000,
-    "avatar": "avatars/sas47.jpg",
-    "profile": "https://remanga.org/user/2044615/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "sunburst",
@@ -585,7 +585,7 @@
     "profile": "https://remanga.org/user/3263817/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "drrи",
