@@ -135,13 +135,13 @@
     "norm": "кaйдeн",
     "display": "Кайден",
     "initial": 64610,
-    "current": 112500,
-    "diff": 47890,
+    "current": 113500,
+    "diff": 48890,
     "avatar": "avatars/кaйдeн.jpg",
     "profile": "https://remanga.org/user/439629/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "яшtyг",
@@ -321,7 +321,7 @@
     "profile": "https://remanga.org/user/1405392/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "9 дн. назад"
+    "last_active_human": "10 дн. назад"
   },
   {
     "norm": "andrefalkonen",
@@ -345,7 +345,7 @@
     "profile": "https://remanga.org/user/46754/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "arbogastr",
@@ -621,7 +621,7 @@
     "profile": "https://remanga.org/user/133044/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "nebulousvortex",
