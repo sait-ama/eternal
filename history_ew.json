@@ -39,13 +39,13 @@
     "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 61970,
-    "current": 135000,
-    "diff": 73030,
+    "current": 135010,
+    "diff": 73040,
     "avatar": "avatars/akiragame.jpg",
     "profile": "https://remanga.org/user/1714962/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "3 дн. назад"
+    "last_active_human": "сегодня"
   },
   {
     "norm": "tenofmoses",
@@ -1185,7 +1185,7 @@
     "profile": "https://remanga.org/user/2991171/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "2 дн. назад"
   },
   {
     "norm": "nowarries",
