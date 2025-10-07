@@ -240,6 +240,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "bluefish",
+    "display": "Blue__fish",
+    "initial": 9000,
+    "current": 42740,
+    "diff": 33740,
+    "avatar": "avatars/bluefish.jpg",
+    "profile": "https://remanga.org/user/264468/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "ronin74",
     "display": "Ronin74",
     "initial": 6250,
@@ -259,18 +271,6 @@
     "diff": 33000,
     "avatar": "avatars/overcooling.jpg",
     "profile": "https://remanga.org/user/52079/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
-  },
-  {
-    "norm": "bluefish",
-    "display": "Blue__fish",
-    "initial": 9000,
-    "current": 41140,
-    "diff": 32140,
-    "avatar": "avatars/bluefish.jpg",
-    "profile": "https://remanga.org/user/264468/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня"
