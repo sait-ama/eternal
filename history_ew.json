@@ -600,6 +600,18 @@
     "last_active_human": "вчера"
   },
   {
+    "norm": "katsuusa",
+    "display": "katsu_usa",
+    "initial": 5000,
+    "current": 19000,
+    "diff": 14000,
+    "avatar": "avatars/katsuusa.jpg",
+    "profile": "https://remanga.org/user/3332888/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "abigor",
     "display": "Abigor.",
     "initial": 19870,
@@ -706,18 +718,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "40 дн. назад"
-  },
-  {
-    "norm": "katsuusa",
-    "display": "katsu_usa",
-    "initial": 5000,
-    "current": 16500,
-    "diff": 11500,
-    "avatar": "avatars/katsuusa.jpg",
-    "profile": "https://remanga.org/user/3332888/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "bloodborrn",
