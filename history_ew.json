@@ -500,8 +500,8 @@
     "avatar": "avatars/sinfullife.jpg",
     "profile": "https://remanga.org/user/1632223/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад"
+    "is_afk": true,
+    "last_active_human": "7 дн. назад"
   },
   {
     "norm": "гocькa",
@@ -1017,7 +1017,7 @@
     "profile": "https://remanga.org/user/1125410/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "midwey",
@@ -1041,7 +1041,7 @@
     "profile": "https://remanga.org/user/458815/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "36 дн. назад"
+    "last_active_human": "37 дн. назад"
   },
   {
     "norm": "nikesnt",
