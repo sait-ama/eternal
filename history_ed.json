@@ -108,6 +108,18 @@
     "last_active_human": "2 дн. назад"
   },
   {
+    "norm": "webru",
+    "display": "WebRU",
+    "initial": 19820,
+    "current": 29530,
+    "diff": 9710,
+    "avatar": "avatars/webru.jpg",
+    "profile": "https://remanga.org/user/1727226/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "sunburst",
     "display": "Sunburst",
     "initial": 9000,
@@ -154,18 +166,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
-  },
-  {
-    "norm": "webru",
-    "display": "WebRU",
-    "initial": 19820,
-    "current": 28130,
-    "diff": 8310,
-    "avatar": "avatars/webru.jpg",
-    "profile": "https://remanga.org/user/1727226/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "15 дн. назад"
   },
   {
     "norm": "@toxic",
