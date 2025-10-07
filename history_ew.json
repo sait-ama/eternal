@@ -243,8 +243,8 @@
     "norm": "bluefish",
     "display": "Blue__fish",
     "initial": 9000,
-    "current": 42740,
-    "diff": 33740,
+    "current": 43240,
+    "diff": 34240,
     "avatar": "avatars/bluefish.jpg",
     "profile": "https://remanga.org/user/264468/about",
     "guild": "Eternal Watchers",
@@ -813,7 +813,7 @@
     "profile": "https://remanga.org/user/117177/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "вчера"
   },
   {
     "norm": "tokkebi11",
