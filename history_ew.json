@@ -294,6 +294,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "overcooling",
+    "display": "Overcooling",
+    "initial": 41000,
+    "current": 76000,
+    "diff": 35000,
+    "avatar": "avatars/overcooling.jpg",
+    "profile": "https://remanga.org/user/52079/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2000,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "bluefish",
     "display": "Blue__fish",
     "initial": 9000,
@@ -318,20 +332,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "24 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "overcooling",
-    "display": "Overcooling",
-    "initial": 41000,
-    "current": 74000,
-    "diff": 33000,
-    "avatar": "avatars/overcooling.jpg",
-    "profile": "https://remanga.org/user/52079/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
@@ -877,7 +877,7 @@
     "profile": "https://remanga.org/user/72974/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "15 дн. назад",
+    "last_active_human": "16 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
