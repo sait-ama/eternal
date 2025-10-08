@@ -9,7 +9,9 @@
     "profile": "https://remanga.org/user/364625/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "2 дн. назад",
+    "weekly": 0,
+    "weekly_hint": "Прошлые недели:\n2025-10-06: 0"
   },
   {
     "norm": "бeлoхвoctый",
@@ -21,7 +23,9 @@
     "profile": "https://remanga.org/user/2874672/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "вчера",
+    "weekly": 0,
+    "weekly_hint": "Прошлые недели:\n2025-10-06: 0"
   },
   {
     "norm": "pepegaronni",
@@ -33,7 +37,9 @@
     "profile": "https://remanga.org/user/27168/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "9 дн. назад"
+    "last_active_human": "9 дн. назад",
+    "weekly": 0,
+    "weekly_hint": "Прошлые недели:\n2025-10-06: 0"
   },
   {
     "norm": "akiragame",
@@ -45,7 +51,9 @@
     "profile": "https://remanga.org/user/1714962/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "сегодня",
+    "weekly": 0,
+    "weekly_hint": "Прошлые недели:\n2025-10-06: 0"
   },
   {
     "norm": "tenofmoses",
@@ -57,7 +65,9 @@
     "profile": "https://remanga.org/user/3176212/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера"
+    "last_active_human": "вчера",
+    "weekly": 0,
+    "weekly_hint": "Прошлые недели:\n2025-10-06: 0"
   },
   {
     "norm": "belashik",
@@ -69,7 +79,9 @@
     "profile": "https://remanga.org/user/175047/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "2 дн. назад",
+    "weekly": 0,
+    "weekly_hint": "Прошлые недели:\n2025-10-06: 0"
   },
   {
     "norm": "akiram",
@@ -81,19 +93,23 @@
     "profile": "https://remanga.org/user/3307870/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "сегодня",
+    "weekly": 0,
+    "weekly_hint": "Прошлые недели:\n2025-10-06: 0"
   },
   {
     "norm": "caйtaмa",
     "display": "Сайтама",
     "initial": 128060,
-    "current": 189950,
-    "diff": 61890,
+    "current": 190010,
+    "diff": 61950,
     "avatar": "avatars/caйtaмa.jpg",
     "profile": "https://remanga.org/user/12762/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "сегодня",
+    "weekly": 0,
+    "weekly_hint": "Прошлые недели:\n2025-10-06: 0"
   },
   {
     "norm": "festashka",
@@ -105,7 +121,9 @@
     "profile": "https://remanga.org/user/199911/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "сегодня",
+    "weekly": 0,
+    "weekly_hint": "Прошлые недели:\n2025-10-06: 0"
   },
   {
     "norm": "ミュージシャン",
@@ -117,6 +135,8 @@
     "profile": "https://remanga.org/user/938359/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня"
+    "last_active_human": "сегодня",
+    "weekly": 0,
+    "weekly_hint": "Прошлые недели:\n2025-10-06: 0"
   }
 ]
