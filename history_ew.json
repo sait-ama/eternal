@@ -1134,6 +1134,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "greein",
+    "display": "Gree.in",
+    "initial": 10010,
+    "current": 17040,
+    "diff": 7030,
+    "avatar": "avatars/greein.jpg",
+    "profile": "https://remanga.org/user/1089770/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 690,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "meeqq",
     "display": "MeeQ_Q",
     "initial": 40410,
@@ -1158,20 +1172,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "greein",
-    "display": "Gree.in",
-    "initial": 10010,
-    "current": 16350,
-    "diff": 6340,
-    "avatar": "avatars/greein.jpg",
-    "profile": "https://remanga.org/user/1089770/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
