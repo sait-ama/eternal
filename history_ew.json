@@ -193,7 +193,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 2000,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 2 000"
   },
   {
     "norm": "harutsu",
@@ -473,7 +473,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 3900,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 3 900"
   },
   {
     "norm": "shirochan",
@@ -1297,7 +1297,7 @@
     "profile": "https://remanga.org/user/2724307/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "19 дн. назад",
+    "last_active_human": "20 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
@@ -1389,14 +1389,14 @@
     "norm": "nowarries",
     "display": "No_warries",
     "initial": 16490,
-    "current": 18920,
-    "diff": 2430,
+    "current": 19530,
+    "diff": 3040,
     "avatar": "avatars/nowarries.jpg",
     "profile": "https://remanga.org/user/1160253/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "4 дн. назад",
-    "weekly": 0,
+    "last_active_human": "сегодня",
+    "weekly": 610,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
