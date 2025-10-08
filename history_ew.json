@@ -720,6 +720,18 @@
     "last_active_human": "40 дн. назад"
   },
   {
+    "norm": "tokkebi11",
+    "display": "ToKKeBi11",
+    "initial": 11350,
+    "current": 22880,
+    "diff": 11530,
+    "avatar": "avatars/tokkebi11.jpg",
+    "profile": "https://remanga.org/user/1132063/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня"
+  },
+  {
     "norm": "bloodborrn",
     "display": "Bloodborrn",
     "initial": 16540,
@@ -778,18 +790,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "15 дн. назад"
-  },
-  {
-    "norm": "tokkebi11",
-    "display": "ToKKeBi11",
-    "initial": 11350,
-    "current": 21840,
-    "diff": 10490,
-    "avatar": "avatars/tokkebi11.jpg",
-    "profile": "https://remanga.org/user/1132063/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня"
   },
   {
     "norm": "healot",
