@@ -45,14 +45,14 @@
     "norm": "pepegaronni",
     "display": "Pepegaronni",
     "initial": 28630,
-    "current": 102650,
-    "diff": 74020,
+    "current": 104070,
+    "diff": 75440,
     "avatar": "avatars/pepegaronni.jpg",
     "profile": "https://remanga.org/user/27168/about",
     "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "9 дн. назад",
-    "weekly": 0,
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1420,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
@@ -79,8 +79,22 @@
     "profile": "https://remanga.org/user/3176212/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера",
+    "last_active_human": "2 дн. назад",
     "weekly": 0,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
+    "norm": "belashik",
+    "display": "Belashik",
+    "initial": 149100,
+    "current": 217160,
+    "diff": 68060,
+    "avatar": "avatars/belashik.jpg",
+    "profile": "https://remanga.org/user/175047/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 5160,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
@@ -95,21 +109,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 1420,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 170"
-  },
-  {
-    "norm": "belashik",
-    "display": "Belashik",
-    "initial": 149100,
-    "current": 212000,
-    "diff": 62900,
-    "avatar": "avatars/belashik.jpg",
-    "profile": "https://remanga.org/user/175047/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 1 420"
   },
   {
     "norm": "akiram",
