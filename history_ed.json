@@ -247,7 +247,7 @@
     "profile": "https://remanga.org/user/93225/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера",
+    "last_active_human": "2 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
@@ -672,6 +672,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "motherofdragons",
+    "display": "Mother_of_dragons",
+    "initial": 20310,
+    "current": 26040,
+    "diff": 5730,
+    "avatar": "avatars/motherofdragons.jpg",
+    "profile": "https://remanga.org/user/3263817/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 430,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "meimei",
     "display": "mei_mei",
     "initial": 15450,
@@ -682,20 +696,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "3 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "motherofdragons",
-    "display": "Mother_of_dragons",
-    "initial": 20310,
-    "current": 25610,
-    "diff": 5300,
-    "avatar": "avatars/motherofdragons.jpg",
-    "profile": "https://remanga.org/user/3263817/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
