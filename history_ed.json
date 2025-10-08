@@ -9,7 +9,7 @@
     "profile": "https://remanga.org/user/27288/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "destructiongod𒉭",
@@ -321,7 +321,7 @@
     "profile": "https://remanga.org/user/617426/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "banshei",
@@ -346,6 +346,18 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "вчера"
+  },
+  {
+    "norm": "kost9n",
+    "display": "KOST9N",
+    "initial": 11000,
+    "current": 18000,
+    "diff": 7000,
+    "avatar": "avatars/kost9n.jpg",
+    "profile": "https://remanga.org/user/48794/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня"
   },
   {
     "norm": "dmitryflow",
@@ -490,18 +502,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "2 дн. назад"
-  },
-  {
-    "norm": "kost9n",
-    "display": "KOST9N",
-    "initial": 11000,
-    "current": 17000,
-    "diff": 6000,
-    "avatar": "avatars/kost9n.jpg",
-    "profile": "https://remanga.org/user/48794/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "8 дн. назад"
   },
   {
     "norm": "acediaqq",
@@ -681,7 +681,7 @@
     "profile": "https://remanga.org/user/3225144/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад"
+    "last_active_human": "3 дн. назад"
   },
   {
     "norm": "oporlew",
