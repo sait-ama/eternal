@@ -129,14 +129,14 @@
     "norm": "festashka",
     "display": "_festashka_",
     "initial": 77750,
-    "current": 136200,
-    "diff": 58450,
+    "current": 138750,
+    "diff": 61000,
     "avatar": "avatars/festashka.jpg",
     "profile": "https://remanga.org/user/199911/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 0,
+    "last_active_human": "сегодня",
+    "weekly": 2550,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   }
 ]
