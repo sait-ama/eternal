@@ -95,7 +95,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 100,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 100"
   },
   {
     "norm": "akiram",
@@ -476,6 +476,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "suba7u",
+    "display": "Suba7u",
+    "initial": 51790,
+    "current": 71520,
+    "diff": 19730,
+    "avatar": "avatars/suba7u.jpg",
+    "profile": "https://remanga.org/user/1602594/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1630,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "sinfullife",
     "display": "SinfulLife",
     "initial": 8000,
@@ -486,20 +500,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "suba7u",
-    "display": "Suba7u",
-    "initial": 51790,
-    "current": 69890,
-    "diff": 18100,
-    "avatar": "avatars/suba7u.jpg",
-    "profile": "https://remanga.org/user/1602594/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
@@ -1171,7 +1171,7 @@
     "profile": "https://remanga.org/user/1089770/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня",
+    "last_active_human": "вчера",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
