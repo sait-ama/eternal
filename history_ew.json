@@ -81,7 +81,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 3200,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 3 200"
   },
   {
     "norm": "belashik",
@@ -557,7 +557,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 2090,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 2 090"
   },
   {
     "norm": "nebulousvortex",
@@ -627,7 +627,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 5000,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 5 000"
   },
   {
     "norm": "loly2810",
@@ -1078,6 +1078,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "chirusan",
+    "display": "Chiru-san",
+    "initial": 11850,
+    "current": 20150,
+    "diff": 8300,
+    "avatar": "avatars/chirusan.jpg",
+    "profile": "https://remanga.org/user/243053/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 500,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "к4йдэн",
     "display": "К4йдэн",
     "initial": 12840,
@@ -1090,20 +1104,6 @@
     "last_active_human": "сегодня",
     "weekly": 5000,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 5 000"
-  },
-  {
-    "norm": "chirusan",
-    "display": "Chiru-san",
-    "initial": 11850,
-    "current": 19650,
-    "diff": 7800,
-    "avatar": "avatars/chirusan.jpg",
-    "profile": "https://remanga.org/user/243053/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "magnavanitas",
@@ -1173,7 +1173,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 2910,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 2 910"
   },
   {
     "norm": "meeqq",
@@ -1246,6 +1246,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "darkangei",
+    "display": "Dark_AngeI",
+    "initial": 23140,
+    "current": 28570,
+    "diff": 5430,
+    "avatar": "avatars/darkangei.jpg",
+    "profile": "https://remanga.org/user/458815/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 210,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "talent",
     "display": "Talent",
     "initial": 15460,
@@ -1258,20 +1272,6 @@
     "last_active_human": "сегодня",
     "weekly": 1000,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 1 000"
-  },
-  {
-    "norm": "darkangei",
-    "display": "Dark_AngeI",
-    "initial": 23140,
-    "current": 28360,
-    "diff": 5220,
-    "avatar": "avatars/darkangei.jpg",
-    "profile": "https://remanga.org/user/458815/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "37 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "nikesnt",
@@ -1341,7 +1341,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 440,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 440"
   },
   {
     "norm": "чмoшкaмoшкa",
