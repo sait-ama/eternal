@@ -182,6 +182,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 1 600"
   },
   {
+    "norm": "harutsu",
+    "display": "Harutsu",
+    "initial": 73130,
+    "current": 118100,
+    "diff": 44970,
+    "avatar": "avatars/harutsu.jpg",
+    "profile": "https://remanga.org/user/415473/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 3120,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 20"
+  },
+  {
     "norm": "ewnobon",
     "display": "EW_NoBoN",
     "initial": 65000,
@@ -194,20 +208,6 @@
     "last_active_human": "2 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "harutsu",
-    "display": "Harutsu",
-    "initial": 73130,
-    "current": 115000,
-    "diff": 41870,
-    "avatar": "avatars/harutsu.jpg",
-    "profile": "https://remanga.org/user/415473/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня",
-    "weekly": 20,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 20"
   },
   {
     "norm": "desport",
@@ -627,7 +627,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 880,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 880"
   },
   {
     "norm": "кaпиtaнзaнyдa",
@@ -837,7 +837,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 2000,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 2 000"
   },
   {
     "norm": "bagas",
@@ -921,7 +921,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 480,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 480"
   },
   {
     "norm": "sergeysh",
