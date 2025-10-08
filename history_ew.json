@@ -53,7 +53,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 7350,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 3 200"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 7 350"
   },
   {
     "norm": "pepegaronni",
@@ -443,7 +443,7 @@
     "profile": "https://remanga.org/user/35664/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера",
+    "last_active_human": "2 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
@@ -583,7 +583,7 @@
     "profile": "https://remanga.org/user/285519/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "3 дн. назад",
+    "last_active_human": "4 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
@@ -1059,7 +1059,7 @@
     "profile": "https://remanga.org/user/208257/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня",
+    "last_active_human": "вчера",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
@@ -1185,7 +1185,7 @@
     "profile": "https://remanga.org/user/2360369/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "8 дн. назад",
+    "last_active_human": "9 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
