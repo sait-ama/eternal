@@ -11,7 +11,7 @@
     "is_afk": false,
     "last_active_human": "2 дн. назад",
     "weekly": 0,
-    "weekly_hint": "Нет истории недельного вклада"
+    "weekly_hint": "Прошлые недели:\n2025-10-06: 0"
   },
   {
     "norm": "бeлoхвoctый",
@@ -25,7 +25,7 @@
     "is_afk": false,
     "last_active_human": "вчера",
     "weekly": 0,
-    "weekly_hint": "Нет истории недельного вклада"
+    "weekly_hint": "Прошлые недели:\n2025-10-06: 0"
   },
   {
     "norm": "pepegaronni",
@@ -39,7 +39,7 @@
     "is_afk": true,
     "last_active_human": "9 дн. назад",
     "weekly": 0,
-    "weekly_hint": "Нет истории недельного вклада"
+    "weekly_hint": "Прошлые недели:\n2025-10-06: 0"
   },
   {
     "norm": "akiragame",
@@ -53,7 +53,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 0,
-    "weekly_hint": "Нет истории недельного вклада"
+    "weekly_hint": "Прошлые недели:\n2025-10-06: 0"
   },
   {
     "norm": "tenofmoses",
@@ -67,7 +67,7 @@
     "is_afk": false,
     "last_active_human": "вчера",
     "weekly": 0,
-    "weekly_hint": "Нет истории недельного вклада"
+    "weekly_hint": "Прошлые недели:\n2025-10-06: 0"
   },
   {
     "norm": "belashik",
@@ -81,7 +81,21 @@
     "is_afk": false,
     "last_active_human": "2 дн. назад",
     "weekly": 0,
-    "weekly_hint": "Нет истории недельного вклада"
+    "weekly_hint": "Прошлые недели:\n2025-10-06: 0"
+  },
+  {
+    "norm": "caйtaмa",
+    "display": "Сайтама",
+    "initial": 128060,
+    "current": 190110,
+    "diff": 62050,
+    "avatar": "avatars/caйtaмa.jpg",
+    "profile": "https://remanga.org/user/12762/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 0,
+    "weekly_hint": "Прошлые недели:\n2025-10-06: 0"
   },
   {
     "norm": "akiram",
@@ -95,21 +109,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 0,
-    "weekly_hint": "Нет истории недельного вклада"
-  },
-  {
-    "norm": "caйtaмa",
-    "display": "Сайтама",
-    "initial": 128060,
-    "current": 190010,
-    "diff": 61950,
-    "avatar": "avatars/caйtaмa.jpg",
-    "profile": "https://remanga.org/user/12762/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня",
-    "weekly": 0,
-    "weekly_hint": "Нет истории недельного вклада"
+    "weekly_hint": "Прошлые недели:\n2025-10-06: 0"
   },
   {
     "norm": "festashka",
@@ -123,7 +123,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 0,
-    "weekly_hint": "Нет истории недельного вклада"
+    "weekly_hint": "Прошлые недели:\n2025-10-06: 0"
   },
   {
     "norm": "ミュージシャン",
@@ -137,6 +137,6 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 0,
-    "weekly_hint": "Нет истории недельного вклада"
+    "weekly_hint": "Прошлые недели:\n2025-10-06: 0"
   }
 ]
