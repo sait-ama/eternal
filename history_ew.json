@@ -935,7 +935,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 600,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 600"
   },
   {
     "norm": "sergeysh",
@@ -1229,7 +1229,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 2000,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 2 000"
   },
   {
     "norm": "zarti",
