@@ -17,14 +17,14 @@
     "norm": "бeлoхвoctый",
     "display": "Белохвостый",
     "initial": 51100,
-    "current": 150000,
-    "diff": 98900,
+    "current": 151000,
+    "diff": 99900,
     "avatar": "avatars/бeлoхвoctый.jpg",
     "profile": "https://remanga.org/user/2874672/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 0,
+    "last_active_human": "сегодня",
+    "weekly": 1000,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
@@ -95,7 +95,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 7860,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 5 160"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 7 860"
   },
   {
     "norm": "caйtaмa",
@@ -767,7 +767,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 20,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 20"
   },
   {
     "norm": "별팽귀",
@@ -921,7 +921,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 2460,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 2 460"
   },
   {
     "norm": "chitandael",
@@ -963,7 +963,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 180,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 180"
   },
   {
     "norm": "healot",
