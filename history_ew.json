@@ -87,14 +87,14 @@
     "norm": "belashik",
     "display": "Belashik",
     "initial": 149100,
-    "current": 217160,
-    "diff": 68060,
+    "current": 219860,
+    "diff": 70760,
     "avatar": "avatars/belashik.jpg",
     "profile": "https://remanga.org/user/175047/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 5160,
+    "weekly": 7860,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 5 160"
   },
   {
@@ -759,14 +759,14 @@
     "norm": "frostik4",
     "display": "Frostik4",
     "initial": 39450,
-    "current": 52770,
-    "diff": 13320,
+    "current": 52790,
+    "diff": 13340,
     "avatar": "avatars/frostik4.jpg",
     "profile": "https://remanga.org/user/3003544/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "3 дн. назад",
-    "weekly": 0,
+    "last_active_human": "сегодня",
+    "weekly": 20,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
@@ -910,6 +910,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "spidvrassrochku",
+    "display": "spidvrassrochku",
+    "initial": 15860,
+    "current": 26840,
+    "diff": 10980,
+    "avatar": "avatars/spidvrassrochku.jpg",
+    "profile": "https://remanga.org/user/10999/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2460,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "chitandael",
     "display": "Chitandael",
     "initial": 39780,
@@ -938,6 +952,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "rayze",
+    "display": "RayZe",
+    "initial": 15730,
+    "current": 26080,
+    "diff": 10350,
+    "avatar": "avatars/rayze.jpg",
+    "profile": "https://remanga.org/user/108995/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 180,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "healot",
     "display": "healot",
     "initial": 21500,
@@ -948,20 +976,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "rayze",
-    "display": "RayZe",
-    "initial": 15730,
-    "current": 25900,
-    "diff": 10170,
-    "avatar": "avatars/rayze.jpg",
-    "profile": "https://remanga.org/user/108995/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
@@ -1064,20 +1078,6 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
-    "norm": "spidvrassrochku",
-    "display": "spidvrassrochku",
-    "initial": 15860,
-    "current": 24380,
-    "diff": 8520,
-    "avatar": "avatars/spidvrassrochku.jpg",
-    "profile": "https://remanga.org/user/10999/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
-  },
-  {
     "norm": "chirusan",
     "display": "Chiru-san",
     "initial": 11850,
@@ -1089,7 +1089,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 500,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 500"
   },
   {
     "norm": "к4йдэн",
@@ -1257,7 +1257,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 210,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 210"
   },
   {
     "norm": "talent",
