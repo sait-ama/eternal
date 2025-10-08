@@ -129,14 +129,14 @@
     "norm": "festashka",
     "display": "_festashka_",
     "initial": 77750,
-    "current": 136200,
-    "diff": 58450,
+    "current": 138750,
+    "diff": 61000,
     "avatar": "avatars/festashka.jpg",
     "profile": "https://remanga.org/user/199911/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 0,
+    "last_active_human": "сегодня",
+    "weekly": 2550,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
@@ -238,6 +238,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "ewtaya",
+    "display": "EW_Taya_",
+    "initial": 48130,
+    "current": 86260,
+    "diff": 38130,
+    "avatar": "avatars/ewtaya.jpg",
+    "profile": "https://remanga.org/user/2325061/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 260,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "nix",
     "display": "-Nix-",
     "initial": 12000,
@@ -250,20 +264,6 @@
     "last_active_human": "сегодня",
     "weekly": 15290,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 15 290"
-  },
-  {
-    "norm": "ewtaya",
-    "display": "EW_Taya_",
-    "initial": 48130,
-    "current": 86000,
-    "diff": 37870,
-    "avatar": "avatars/ewtaya.jpg",
-    "profile": "https://remanga.org/user/2325061/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "ewobserver",
@@ -395,14 +395,14 @@
     "norm": "thostriel",
     "display": "Thostriel",
     "initial": 43030,
-    "current": 66650,
-    "diff": 23620,
+    "current": 68770,
+    "diff": 25740,
     "avatar": "avatars/thostriel.jpg",
     "profile": "https://remanga.org/user/1405392/about",
     "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "11 дн. назад",
-    "weekly": 0,
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2120,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
