@@ -45,14 +45,14 @@
     "norm": "stas211242",
     "display": "stas211242",
     "initial": 12780,
-    "current": 26260,
-    "diff": 13480,
+    "current": 26450,
+    "diff": 13670,
     "avatar": "avatars/stas211242.jpg",
     "profile": "https://remanga.org/user/269608/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 0,
+    "last_active_human": "сегодня",
+    "weekly": 190,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
@@ -177,7 +177,7 @@
     "profile": "https://remanga.org/user/76998/about",
     "guild": "Eternal Demonic",
     "is_afk": true,
-    "last_active_human": "23 дн. назад",
+    "last_active_human": "24 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
@@ -779,7 +779,7 @@
     "profile": "https://remanga.org/user/1935045/about",
     "guild": "Eternal Demonic",
     "is_afk": true,
-    "last_active_human": "16 дн. назад",
+    "last_active_human": "17 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
