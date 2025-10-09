@@ -322,6 +322,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "aggressive",
+    "display": "-AGGRESSIVE-",
+    "initial": 7750,
+    "current": 15250,
+    "diff": 7500,
+    "avatar": "avatars/aggressive.jpg",
+    "profile": "https://remanga.org/user/1939125/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 750,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "riverfreedom",
     "display": "RiverFreedom",
     "initial": 15800,
@@ -472,20 +486,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "2 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "aggressive",
-    "display": "-AGGRESSIVE-",
-    "initial": 7750,
-    "current": 14500,
-    "diff": 6750,
-    "avatar": "avatars/aggressive.jpg",
-    "profile": "https://remanga.org/user/1939125/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "9 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
