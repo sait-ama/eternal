@@ -420,6 +420,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 2 120"
   },
   {
+    "norm": "andrefalkonen",
+    "display": "Andre_Falkonen",
+    "initial": 45580,
+    "current": 69630,
+    "diff": 24050,
+    "avatar": "avatars/andrefalkonen.jpg",
+    "profile": "https://remanga.org/user/35664/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1300,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "arbogastr",
     "display": "Arbogastr",
     "initial": 45500,
@@ -446,20 +460,6 @@
     "last_active_human": "сегодня",
     "weekly": 5500,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 5 500"
-  },
-  {
-    "norm": "andrefalkonen",
-    "display": "Andre_Falkonen",
-    "initial": 45580,
-    "current": 68330,
-    "diff": 22750,
-    "avatar": "avatars/andrefalkonen.jpg",
-    "profile": "https://remanga.org/user/35664/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "ялyчшийвмиpe",
