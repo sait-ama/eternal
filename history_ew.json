@@ -140,6 +140,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 2 550"
   },
   {
+    "norm": "кaйдeн",
+    "display": "Кайден",
+    "initial": 64610,
+    "current": 118960,
+    "diff": 54350,
+    "avatar": "avatars/кaйдeн.jpg",
+    "profile": "https://remanga.org/user/439629/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 4460,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "kodokunayurei",
     "display": "KodokunaYurei",
     "initial": 104390,
@@ -165,21 +179,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 2710,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 1 600"
-  },
-  {
-    "norm": "кaйдeн",
-    "display": "Кайден",
-    "initial": 64610,
-    "current": 114500,
-    "diff": 49890,
-    "avatar": "avatars/кaйдeн.jpg",
-    "profile": "https://remanga.org/user/439629/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 2 710"
   },
   {
     "norm": "ewnobon",
@@ -241,14 +241,14 @@
     "norm": "ewtaya",
     "display": "EW_Taya_",
     "initial": 48130,
-    "current": 86260,
-    "diff": 38130,
+    "current": 87000,
+    "diff": 38870,
     "avatar": "avatars/ewtaya.jpg",
     "profile": "https://remanga.org/user/2325061/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 260,
+    "weekly": 1000,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 260"
   },
   {
@@ -364,6 +364,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "allentina",
+    "display": "allentina",
+    "initial": 3000,
+    "current": 34890,
+    "diff": 31890,
+    "avatar": "avatars/allentina.jpg",
+    "profile": "https://remanga.org/user/890414/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 10000,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "лoхoбыкнoвeнный",
     "display": "ЛохОбыкновенный",
     "initial": 33800,
@@ -441,20 +455,6 @@
     "diff": 22750,
     "avatar": "avatars/andrefalkonen.jpg",
     "profile": "https://remanga.org/user/35664/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "allentina",
-    "display": "allentina",
-    "initial": 3000,
-    "current": 24890,
-    "diff": 21890,
-    "avatar": "avatars/allentina.jpg",
-    "profile": "https://remanga.org/user/890414/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "2 дн. назад",
@@ -913,14 +913,14 @@
     "norm": "tokkebi11",
     "display": "ToKKeBi11",
     "initial": 11350,
-    "current": 22880,
-    "diff": 11530,
+    "current": 23020,
+    "diff": 11670,
     "avatar": "avatars/tokkebi11.jpg",
     "profile": "https://remanga.org/user/1132063/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 0,
+    "last_active_human": "сегодня",
+    "weekly": 140,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
@@ -1143,7 +1143,7 @@
     "profile": "https://remanga.org/user/1529739/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад",
+    "last_active_human": "3 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
