@@ -51,7 +51,7 @@
     "profile": "https://remanga.org/user/2439923/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "3 дн. назад",
+    "last_active_human": "4 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
@@ -333,7 +333,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 750,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 750"
   },
   {
     "norm": "riverfreedom",
@@ -359,7 +359,7 @@
     "profile": "https://remanga.org/user/207200/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад",
+    "last_active_human": "3 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
@@ -583,7 +583,7 @@
     "profile": "https://remanga.org/user/3154400/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад",
+    "last_active_human": "3 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
@@ -866,6 +866,20 @@
     "last_active_human": "9 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
+    "norm": "ewobserver",
+    "display": "EW_OBSERVER",
+    "initial": 70240,
+    "current": 73240,
+    "diff": 3000,
+    "avatar": "avatars/ewobserver.jpg",
+    "profile": "https://remanga.org/user/141395/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "4 дн. назад",
+    "weekly": 0,
+    "weekly_hint": "История недель: нет данных"
   },
   {
     "norm": "alanhui",
