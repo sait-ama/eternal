@@ -980,6 +980,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 2 460"
   },
   {
+    "norm": "abyss",
+    "display": "_Abyss_",
+    "initial": 19840,
+    "current": 30190,
+    "diff": 10350,
+    "avatar": "avatars/abyss.jpg",
+    "profile": "https://remanga.org/user/170917/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2900,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "rayze",
     "display": "RayZe",
     "initial": 15730,
@@ -1130,20 +1144,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "21 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "abyss",
-    "display": "_Abyss_",
-    "initial": 19840,
-    "current": 27290,
-    "diff": 7450,
-    "avatar": "avatars/abyss.jpg",
-    "profile": "https://remanga.org/user/170917/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "15 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
@@ -1437,7 +1437,7 @@
     "profile": "https://remanga.org/user/410852/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "32 дн. назад",
+    "last_active_human": "33 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
