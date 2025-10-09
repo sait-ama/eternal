@@ -854,6 +854,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 5 230"
   },
   {
+    "norm": "admiralsengoku",
+    "display": "ADMIRAL_SENGOKU",
+    "initial": 31000,
+    "current": 43400,
+    "diff": 12400,
+    "avatar": "avatars/admiralsengoku.jpg",
+    "profile": "https://remanga.org/user/1529739/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 5000,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "healot",
     "display": "healot",
     "initial": 21500,
@@ -1130,20 +1144,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "15 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "admiralsengoku",
-    "display": "ADMIRAL_SENGOKU",
-    "initial": 31000,
-    "current": 38400,
-    "diff": 7400,
-    "avatar": "avatars/admiralsengoku.jpg",
-    "profile": "https://remanga.org/user/1529739/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
