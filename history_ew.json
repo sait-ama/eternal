@@ -431,7 +431,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 3000,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 1 000"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 3 000"
   },
   {
     "norm": "andrefalkonen",
@@ -527,7 +527,7 @@
     "profile": "https://remanga.org/user/1632223/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад",
+    "last_active_human": "3 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
