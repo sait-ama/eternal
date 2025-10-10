@@ -812,6 +812,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 20"
   },
   {
+    "norm": "healot",
+    "display": "healot",
+    "initial": 21500,
+    "current": 34800,
+    "diff": 13300,
+    "avatar": "avatars/healot.jpg",
+    "profile": "https://remanga.org/user/2505495/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 3000,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 2 000"
+  },
+  {
     "norm": "독부바",
     "display": "독 부바",
     "initial": 1280,
@@ -866,20 +880,6 @@
     "last_active_human": "сегодня",
     "weekly": 5000,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 5 000"
-  },
-  {
-    "norm": "healot",
-    "display": "healot",
-    "initial": 21500,
-    "current": 33800,
-    "diff": 12300,
-    "avatar": "avatars/healot.jpg",
-    "profile": "https://remanga.org/user/2505495/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 2000,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 2 000"
   },
   {
     "norm": "bagas",
@@ -1465,7 +1465,7 @@
     "profile": "https://remanga.org/user/2906080/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "14 дн. назад",
+    "last_active_human": "15 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
