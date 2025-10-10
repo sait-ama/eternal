@@ -143,14 +143,14 @@
     "norm": "кaйдeн",
     "display": "Кайден",
     "initial": 64610,
-    "current": 118960,
-    "diff": 54350,
+    "current": 119310,
+    "diff": 54700,
     "avatar": "avatars/кaйдeн.jpg",
     "profile": "https://remanga.org/user/439629/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 4460,
+    "weekly": 4810,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 4 460"
   },
   {
@@ -541,7 +541,7 @@
     "profile": "https://remanga.org/user/809195/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "8 дн. назад",
+    "last_active_human": "9 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
