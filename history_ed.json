@@ -154,6 +154,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "samurafs",
+    "display": "SamuraFs",
+    "initial": 11000,
+    "current": 20000,
+    "diff": 9000,
+    "avatar": "avatars/samurafs.jpg",
+    "profile": "https://remanga.org/user/93225/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1000,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "sunburst",
     "display": "Sunburst",
     "initial": 9000,
@@ -234,20 +248,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "4 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "samurafs",
-    "display": "SamuraFs",
-    "initial": 11000,
-    "current": 19000,
-    "diff": 8000,
-    "avatar": "avatars/samurafs.jpg",
-    "profile": "https://remanga.org/user/93225/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
@@ -695,7 +695,7 @@
     "profile": "https://remanga.org/user/52975/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "4 дн. назад",
+    "last_active_human": "5 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
