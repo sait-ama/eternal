@@ -95,7 +95,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 300,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 300"
   },
   {
     "norm": "cracker7",
@@ -359,7 +359,7 @@
     "profile": "https://remanga.org/user/3215284/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "3 дн. назад",
+    "last_active_human": "4 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
@@ -611,7 +611,7 @@
     "profile": "https://remanga.org/user/396925/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "4 дн. назад",
+    "last_active_human": "5 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
