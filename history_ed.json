@@ -205,7 +205,7 @@
     "profile": "https://remanga.org/user/76998/about",
     "guild": "Eternal Demonic",
     "is_afk": true,
-    "last_active_human": "25 дн. назад",
+    "last_active_human": "26 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
@@ -770,6 +770,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "ewobserver",
+    "display": "EW_OBSERVER",
+    "initial": 70240,
+    "current": 74460,
+    "diff": 4220,
+    "avatar": "avatars/ewobserver.jpg",
+    "profile": "https://remanga.org/user/141395/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "5 дн. назад",
+    "weekly": 4220,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 3 600"
+  },
+  {
     "norm": "takahikoo",
     "display": "Takahikoo",
     "initial": 11000,
@@ -810,20 +824,6 @@
     "last_active_human": "19 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "ewobserver",
-    "display": "EW_OBSERVER",
-    "initial": 70240,
-    "current": 73840,
-    "diff": 3600,
-    "avatar": "avatars/ewobserver.jpg",
-    "profile": "https://remanga.org/user/141395/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад",
-    "weekly": 3600,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 3 600"
   },
   {
     "norm": "oporlew",
