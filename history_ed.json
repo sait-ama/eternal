@@ -812,6 +812,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "tiltexist",
+    "display": "TIltExist",
+    "initial": 28330,
+    "current": 32259,
+    "diff": 3929,
+    "avatar": "avatars/tiltexist.jpg",
+    "profile": "https://remanga.org/user/98565/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 629,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "beastx",
     "display": "Beast_x",
     "initial": 47130,
@@ -833,20 +847,6 @@
     "diff": 3500,
     "avatar": "avatars/oporlew.jpg",
     "profile": "https://remanga.org/user/2602/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "11 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "tiltexist",
-    "display": "TIltExist",
-    "initial": 28330,
-    "current": 31630,
-    "diff": 3300,
-    "avatar": "avatars/tiltexist.jpg",
-    "profile": "https://remanga.org/user/98565/about",
     "guild": "Eternal Demonic",
     "is_afk": true,
     "last_active_human": "11 дн. назад",
