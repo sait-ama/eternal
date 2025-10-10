@@ -793,7 +793,7 @@
     "profile": "https://remanga.org/user/605765/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня",
+    "last_active_human": "вчера",
     "weekly": 2500,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 2 500"
   },
@@ -1075,7 +1075,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 200,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 200"
   },
   {
     "norm": "mangalev",
