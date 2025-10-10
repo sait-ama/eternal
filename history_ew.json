@@ -994,6 +994,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 2 460"
   },
   {
+    "norm": "rayze",
+    "display": "RayZe",
+    "initial": 15730,
+    "current": 26300,
+    "diff": 10570,
+    "avatar": "avatars/rayze.jpg",
+    "profile": "https://remanga.org/user/108995/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 400,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 180"
+  },
+  {
     "norm": "abyss",
     "display": "_Abyss_",
     "initial": 19840,
@@ -1006,20 +1020,6 @@
     "last_active_human": "вчера",
     "weekly": 2900,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 2 900"
-  },
-  {
-    "norm": "rayze",
-    "display": "RayZe",
-    "initial": 15730,
-    "current": 26080,
-    "diff": 10350,
-    "avatar": "avatars/rayze.jpg",
-    "profile": "https://remanga.org/user/108995/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 180,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 180"
   },
   {
     "norm": "loli69228",
