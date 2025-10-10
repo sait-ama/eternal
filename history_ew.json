@@ -182,6 +182,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 2 710"
   },
   {
+    "norm": "desport",
+    "display": "desport",
+    "initial": 60640,
+    "current": 106080,
+    "diff": 45440,
+    "avatar": "avatars/desport.jpg",
+    "profile": "https://remanga.org/user/216019/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 3800,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "ewnobon",
     "display": "EW_NoBoN",
     "initial": 65000,
@@ -208,20 +222,6 @@
     "last_active_human": "вчера",
     "weekly": 3120,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 3 120"
-  },
-  {
-    "norm": "desport",
-    "display": "desport",
-    "initial": 60640,
-    "current": 102280,
-    "diff": 41640,
-    "avatar": "avatars/desport.jpg",
-    "profile": "https://remanga.org/user/216019/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "ewtaya",
@@ -1367,7 +1367,7 @@
     "profile": "https://remanga.org/user/876190/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "10 дн. назад",
+    "last_active_human": "11 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
