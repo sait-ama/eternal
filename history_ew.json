@@ -224,6 +224,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 3 120"
   },
   {
+    "norm": "bluefish",
+    "display": "Blue__fish",
+    "initial": 9000,
+    "current": 49340,
+    "diff": 40340,
+    "avatar": "avatars/bluefish.jpg",
+    "profile": "https://remanga.org/user/264468/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 6100,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 5 000"
+  },
+  {
     "norm": "ewtaya",
     "display": "EW_Taya_",
     "initial": 48130,
@@ -236,20 +250,6 @@
     "last_active_human": "вчера",
     "weekly": 1460,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 1 460"
-  },
-  {
-    "norm": "bluefish",
-    "display": "Blue__fish",
-    "initial": 9000,
-    "current": 48240,
-    "diff": 39240,
-    "avatar": "avatars/bluefish.jpg",
-    "profile": "https://remanga.org/user/264468/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня",
-    "weekly": 5000,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 5 000"
   },
   {
     "norm": "ፚꮼꮢꭵ૮ꮒꮶꮧ",
@@ -1451,7 +1451,7 @@
     "profile": "https://remanga.org/user/2317545/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "20 дн. назад",
+    "last_active_human": "21 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
