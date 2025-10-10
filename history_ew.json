@@ -1005,7 +1005,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 400,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 180"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 400"
   },
   {
     "norm": "abyss",
@@ -1059,7 +1059,7 @@
     "profile": "https://remanga.org/user/2105597/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "9 дн. назад",
+    "last_active_human": "10 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
