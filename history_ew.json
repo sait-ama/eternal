@@ -70,6 +70,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 1 420"
   },
   {
+    "norm": "belashik",
+    "display": "Belashik",
+    "initial": 149100,
+    "current": 222260,
+    "diff": 73160,
+    "avatar": "avatars/belashik.jpg",
+    "profile": "https://remanga.org/user/175047/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 10260,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 7 860"
+  },
+  {
     "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 61970,
@@ -82,20 +96,6 @@
     "last_active_human": "вчера",
     "weekly": 50,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 50"
-  },
-  {
-    "norm": "belashik",
-    "display": "Belashik",
-    "initial": 149100,
-    "current": 219860,
-    "diff": 70760,
-    "avatar": "avatars/belashik.jpg",
-    "profile": "https://remanga.org/user/175047/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 7860,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 7 860"
   },
   {
     "norm": "caйtaмa",
