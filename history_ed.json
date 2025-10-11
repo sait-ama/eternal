@@ -28,6 +28,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "издateль",
+    "display": "Издатель",
+    "initial": 14780,
+    "current": 33570,
+    "diff": 18790,
+    "avatar": "avatars/издateль.jpg",
+    "profile": "https://remanga.org/user/2439923/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2990,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "rubyrose",
     "display": "RUBYROSE",
     "initial": 20450,
@@ -38,20 +52,6 @@
     "guild": "Eternal Demonic",
     "is_afk": true,
     "last_active_human": "16 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "издateль",
-    "display": "Издатель",
-    "initial": 14780,
-    "current": 30580,
-    "diff": 15800,
-    "avatar": "avatars/издateль.jpg",
-    "profile": "https://remanga.org/user/2439923/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
@@ -557,7 +557,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 1430,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 1 380"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 1 430"
   },
   {
     "norm": "alafex",
