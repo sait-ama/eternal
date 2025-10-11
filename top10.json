@@ -16,20 +16,6 @@
   {
     "norm": "бeлoхвoctый",
     "display": "Белохвостый",
-    "initial": 11200,
-    "current": 112000,
-    "diff": 100800,
-    "avatar": "avatars/бeлoхвoctый.jpg",
-    "profile": "https://remanga.org/user/2874672/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель: нет данных"
-  },
-  {
-    "norm": "бeлoхвoctый",
-    "display": "Белохвостый",
     "initial": 51100,
     "current": 151000,
     "diff": 99900,
@@ -138,5 +124,19 @@
     "last_active_human": "3 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
+    "norm": "festashka",
+    "display": "_festashka_",
+    "initial": 77750,
+    "current": 138750,
+    "diff": 61000,
+    "avatar": "avatars/festashka.jpg",
+    "profile": "https://remanga.org/user/199911/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "2 дн. назад",
+    "weekly": 2550,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 2 550"
   }
 ]
