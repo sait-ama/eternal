@@ -728,20 +728,6 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
-    "norm": "nebulousvortex",
-    "display": "NebulousVortex",
-    "initial": 8010,
-    "current": 22510,
-    "diff": 14500,
-    "avatar": "avatars/nebulousvortex.jpg",
-    "profile": "https://remanga.org/user/1003671/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
-  },
-  {
     "norm": "clf",
     "display": "Clf",
     "initial": 32890,
