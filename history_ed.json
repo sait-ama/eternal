@@ -686,6 +686,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "jdhdbx",
+    "display": "Jdhdbx",
+    "initial": 12840,
+    "current": 18660,
+    "diff": 5820,
+    "avatar": "avatars/jdhdbx.jpg",
+    "profile": "https://remanga.org/user/1911610/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1000,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "motherofdragons",
     "display": "Mother_of_dragons",
     "initial": 20310,
@@ -752,20 +766,6 @@
     "guild": "Eternal Demonic",
     "is_afk": true,
     "last_active_human": "13 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "jdhdbx",
-    "display": "Jdhdbx",
-    "initial": 12840,
-    "current": 17660,
-    "diff": 4820,
-    "avatar": "avatars/jdhdbx.jpg",
-    "profile": "https://remanga.org/user/1911610/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "18 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
