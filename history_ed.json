@@ -434,6 +434,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "kim5+",
+    "display": "Kim_5+",
+    "initial": 10000,
+    "current": 17000,
+    "diff": 7000,
+    "avatar": "avatars/kim5+.jpg",
+    "profile": "https://remanga.org/user/880531/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1000,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "vallynor",
     "display": "Vallynor",
     "initial": 12000,
@@ -558,20 +572,6 @@
     "last_active_human": "сегодня",
     "weekly": 1380,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 1 380"
-  },
-  {
-    "norm": "kim5+",
-    "display": "Kim_5+",
-    "initial": 10000,
-    "current": 16000,
-    "diff": 6000,
-    "avatar": "avatars/kim5+.jpg",
-    "profile": "https://remanga.org/user/880531/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "woodss",
