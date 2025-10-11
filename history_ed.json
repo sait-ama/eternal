@@ -22,8 +22,8 @@
     "avatar": "avatars/destructiongod𒉭.jpg",
     "profile": "https://remanga.org/user/1650325/about",
     "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад",
+    "is_afk": true,
+    "last_active_human": "7 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
@@ -93,7 +93,7 @@
     "profile": "https://remanga.org/user/1207689/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "сегодня",
+    "last_active_human": "вчера",
     "weekly": 300,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 300"
   },
@@ -373,7 +373,7 @@
     "profile": "https://remanga.org/user/3215284/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "4 дн. назад",
+    "last_active_human": "5 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
@@ -778,8 +778,8 @@
     "avatar": "avatars/ewobserver.jpg",
     "profile": "https://remanga.org/user/141395/about",
     "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад",
+    "is_afk": true,
+    "last_active_human": "7 дн. назад",
     "weekly": 4850,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 4 850"
   },
