@@ -345,7 +345,7 @@
     "profile": "https://remanga.org/user/434820/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "32 дн. назад",
+    "last_active_human": "33 дн. назад",
     "weekly": 280,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 280"
   },
@@ -1246,6 +1246,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "osmodeuss",
+    "display": "osmodeuss",
+    "initial": 13110,
+    "current": 18600,
+    "diff": 5490,
+    "avatar": "avatars/osmodeuss.jpg",
+    "profile": "https://remanga.org/user/928524/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2000,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "darkangei",
     "display": "Dark_AngeI",
     "initial": 23140,
@@ -1354,20 +1368,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "11 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "osmodeuss",
-    "display": "osmodeuss",
-    "initial": 13110,
-    "current": 16600,
-    "diff": 3490,
-    "avatar": "avatars/osmodeuss.jpg",
-    "profile": "https://remanga.org/user/928524/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "18 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
