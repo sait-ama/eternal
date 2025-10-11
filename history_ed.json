@@ -1,5 +1,19 @@
 [
   {
+    "norm": "бeлoхвoctый",
+    "display": "Белохвостый",
+    "initial": 11200,
+    "current": 112000,
+    "diff": 100800,
+    "avatar": "avatars/бeлoхвoctый.jpg",
+    "profile": "https://remanga.org/user/2874672/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "2 дн. назад",
+    "weekly": 0,
+    "weekly_hint": "История недель: нет данных"
+  },
+  {
     "norm": "ham021",
     "display": "Ham021",
     "initial": 30500,
@@ -471,7 +485,7 @@
     "profile": "https://remanga.org/user/48794/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад",
+    "last_active_human": "3 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
@@ -936,5 +950,19 @@
     "last_active_human": "нет данных",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
+    "norm": "wertyservyt",
+    "display": "Werty-Servyt",
+    "initial": 233430,
+    "current": 233430,
+    "diff": 0,
+    "avatar": "avatars/wertyservyt.jpg",
+    "profile": "https://remanga.org/user/364625/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "5 дн. назад",
+    "weekly": 0,
+    "weekly_hint": "История недель: нет данных"
   }
 ]
