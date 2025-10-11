@@ -770,6 +770,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "bagas",
+    "display": "Bagas",
+    "initial": 27110,
+    "current": 40930,
+    "diff": 13820,
+    "avatar": "avatars/bagas.jpg",
+    "profile": "https://remanga.org/user/79904/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1550,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "sergeysh",
     "display": "Sergey-Sh",
     "initial": 5000,
@@ -866,20 +880,6 @@
     "last_active_human": "вчера",
     "weekly": 5000,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 5 000"
-  },
-  {
-    "norm": "bagas",
-    "display": "Bagas",
-    "initial": 27110,
-    "current": 39380,
-    "diff": 12270,
-    "avatar": "avatars/bagas.jpg",
-    "profile": "https://remanga.org/user/79904/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "tavik",
