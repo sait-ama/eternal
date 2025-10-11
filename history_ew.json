@@ -53,7 +53,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 9950,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 7 350"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 9 950"
   },
   {
     "norm": "pepegaronni",
@@ -101,14 +101,14 @@
     "norm": "caйtaмa",
     "display": "Сайтама",
     "initial": 128060,
-    "current": 194010,
-    "diff": 65950,
+    "current": 200100,
+    "diff": 72040,
     "avatar": "avatars/caйtaмa.jpg",
     "profile": "https://remanga.org/user/12762/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 3820,
+    "weekly": 9910,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 3 820"
   },
   {
@@ -171,14 +171,14 @@
     "norm": "яшtyг",
     "display": "Яштуг",
     "initial": 128780,
-    "current": 180100,
-    "diff": 51320,
+    "current": 181500,
+    "diff": 52720,
     "avatar": "avatars/яшtyг.jpg",
     "profile": "https://remanga.org/user/1317566/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 3810,
+    "weekly": 5210,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 3 810"
   },
   {
@@ -798,6 +798,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 2 500"
   },
   {
+    "norm": "독부바",
+    "display": "독 부바",
+    "initial": 1280,
+    "current": 14750,
+    "diff": 13470,
+    "avatar": "avatars/독부바.jpg",
+    "profile": "https://remanga.org/user/3181995/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 370,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "frostik4",
     "display": "Frostik4",
     "initial": 39450,
@@ -824,20 +838,6 @@
     "last_active_human": "вчера",
     "weekly": 3000,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 3 000"
-  },
-  {
-    "norm": "독부바",
-    "display": "독 부바",
-    "initial": 1280,
-    "current": 14380,
-    "diff": 13100,
-    "avatar": "avatars/독부바.jpg",
-    "profile": "https://remanga.org/user/3181995/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "misikira",
