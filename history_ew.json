@@ -185,14 +185,14 @@
     "norm": "desport",
     "display": "desport",
     "initial": 60640,
-    "current": 106080,
-    "diff": 45440,
+    "current": 112680,
+    "diff": 52040,
     "avatar": "avatars/desport.jpg",
     "profile": "https://remanga.org/user/216019/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 3800,
+    "last_active_human": "сегодня",
+    "weekly": 10400,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 3 800"
   },
   {
@@ -387,7 +387,7 @@
     "profile": "https://remanga.org/user/1496494/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "3 дн. назад",
+    "last_active_human": "4 дн. назад",
     "weekly": 9999,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 9 999"
   },
