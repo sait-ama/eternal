@@ -233,7 +233,7 @@
     "profile": "https://remanga.org/user/183282/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "сегодня",
+    "last_active_human": "вчера",
     "weekly": 300,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 300"
   },
@@ -334,6 +334,20 @@
     "last_active_human": "сегодня",
     "weekly": 1000,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 1 000"
+  },
+  {
+    "norm": "necromant",
+    "display": "necromant",
+    "initial": 6020,
+    "current": 13620,
+    "diff": 7600,
+    "avatar": "avatars/necromant.jpg",
+    "profile": "https://remanga.org/user/1523481/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1600,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "aмeн",
@@ -672,20 +686,6 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
-    "norm": "necromant",
-    "display": "necromant",
-    "initial": 6020,
-    "current": 12020,
-    "diff": 6000,
-    "avatar": "avatars/necromant.jpg",
-    "profile": "https://remanga.org/user/1523481/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "14 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
-  },
-  {
     "norm": "jdhdbx",
     "display": "Jdhdbx",
     "initial": 12840,
@@ -723,7 +723,7 @@
     "profile": "https://remanga.org/user/3263817/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "3 дн. назад",
+    "last_active_human": "4 дн. назад",
     "weekly": 430,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 430"
   },
