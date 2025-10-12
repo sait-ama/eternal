@@ -1621,7 +1621,7 @@
     "is_afk": true,
     "last_active_human": "нет данных",
     "weekly": 0,
-    "weekly_hint": "История недель: нет данных"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "asesinadodios",
@@ -1635,7 +1635,7 @@
     "is_afk": true,
     "last_active_human": "нет данных",
     "weekly": 0,
-    "weekly_hint": "История недель: нет данных"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "sas47",
@@ -1649,6 +1649,6 @@
     "is_afk": false,
     "last_active_human": "5 дн. назад",
     "weekly": 0,
-    "weekly_hint": "История недель: нет данных"
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   }
 ]
