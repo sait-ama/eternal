@@ -868,6 +868,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 5 230"
   },
   {
+    "norm": "chitandael",
+    "display": "Chitandael",
+    "initial": 39780,
+    "current": 52320,
+    "diff": 12540,
+    "avatar": "avatars/chitandael.jpg",
+    "profile": "https://remanga.org/user/372102/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1840,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 480"
+  },
+  {
     "norm": "admiralsengoku",
     "display": "ADMIRAL_SENGOKU",
     "initial": 31000,
@@ -936,20 +950,6 @@
     "last_active_human": "вчера",
     "weekly": 2470,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 2 470"
-  },
-  {
-    "norm": "chitandael",
-    "display": "Chitandael",
-    "initial": 39780,
-    "current": 50960,
-    "diff": 11180,
-    "avatar": "avatars/chitandael.jpg",
-    "profile": "https://remanga.org/user/372102/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад",
-    "weekly": 480,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 480"
   },
   {
     "norm": "temha9l",
@@ -1101,7 +1101,7 @@
     "profile": "https://remanga.org/user/243053/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "3 дн. назад",
+    "last_active_human": "4 дн. назад",
     "weekly": 500,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 500"
   },
@@ -1269,7 +1269,7 @@
     "profile": "https://remanga.org/user/458815/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "3 дн. назад",
+    "last_active_human": "4 дн. назад",
     "weekly": 210,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 210"
   },
