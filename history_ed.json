@@ -107,7 +107,7 @@
     "profile": "https://remanga.org/user/197380/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "3 дн. назад",
+    "last_active_human": "4 дн. назад",
     "weekly": 1000,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 1 000"
   },
@@ -308,6 +308,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 1 000"
   },
   {
+    "norm": "so1omoon",
+    "display": "So1oMooN",
+    "initial": 9000,
+    "current": 17000,
+    "diff": 8000,
+    "avatar": "avatars/so1omoon.jpg",
+    "profile": "https://remanga.org/user/102035/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1000,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "saytoriya",
     "display": "Saytoriya",
     "initial": 11000,
@@ -486,20 +500,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "4 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "so1omoon",
-    "display": "So1oMooN",
-    "initial": 9000,
-    "current": 16000,
-    "diff": 7000,
-    "avatar": "avatars/so1omoon.jpg",
-    "profile": "https://remanga.org/user/102035/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
