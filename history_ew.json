@@ -728,6 +728,20 @@
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "frostik4",
+    "display": "Frostik4",
+    "initial": 39450,
+    "current": 53930,
+    "diff": 14480,
+    "avatar": "avatars/frostik4.jpg",
+    "profile": "https://remanga.org/user/3003544/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1160,
+    "weekly_hint": "История недель:\nс 06.10 по 13.10: 20"
+  },
+  {
     "norm": "clf",
     "display": "Clf",
     "initial": 32890,
@@ -810,20 +824,6 @@
     "last_active_human": "сегодня",
     "weekly": 370,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 370"
-  },
-  {
-    "norm": "frostik4",
-    "display": "Frostik4",
-    "initial": 39450,
-    "current": 52790,
-    "diff": 13340,
-    "avatar": "avatars/frostik4.jpg",
-    "profile": "https://remanga.org/user/3003544/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад",
-    "weekly": 20,
-    "weekly_hint": "История недель:\nс 06.10 по 13.10: 20"
   },
   {
     "norm": "healot",
