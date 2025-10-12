@@ -24,7 +24,7 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "4 дн. назад",
-    "weekly": 1000,
+    "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 1 000"
   },
   {
@@ -38,7 +38,7 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "4 дн. назад",
-    "weekly": 29800,
+    "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 29 800"
   },
   {
@@ -52,7 +52,7 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 12300,
+    "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 12 300"
   },
   {
@@ -66,7 +66,7 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 5500,
+    "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 5 500"
   },
   {
@@ -80,7 +80,7 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "4 дн. назад",
-    "weekly": 1420,
+    "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 1 420"
   },
   {
@@ -94,7 +94,7 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 10940,
+    "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 10 940"
   },
   {
@@ -108,7 +108,7 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 10210,
+    "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 10 210"
   },
   {
@@ -122,7 +122,7 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 1800,
+    "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 1 800"
   },
   {
@@ -136,7 +136,7 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "4 дн. назад",
-    "weekly": 2550,
+    "weekly": 0,
     "weekly_hint": "История недель:\nс 06.10 по 13.10: 2 550"
   }
 ]
