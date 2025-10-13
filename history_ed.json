@@ -350,6 +350,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 1 000"
   },
   {
+    "norm": "kost9n",
+    "display": "KOST9N",
+    "initial": 11000,
+    "current": 19000,
+    "diff": 8000,
+    "avatar": "avatars/kost9n.jpg",
+    "profile": "https://remanga.org/user/48794/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1000,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "bigmen07",
     "display": "BigMen07",
     "initial": 9000,
@@ -542,20 +556,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "6 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "kost9n",
-    "display": "KOST9N",
-    "initial": 11000,
-    "current": 18000,
-    "diff": 7000,
-    "avatar": "avatars/kost9n.jpg",
-    "profile": "https://remanga.org/user/48794/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
