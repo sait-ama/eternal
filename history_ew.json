@@ -700,6 +700,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 5 000"
   },
   {
+    "norm": "misikira",
+    "display": "Misikira",
+    "initial": 19300,
+    "current": 34550,
+    "diff": 15250,
+    "avatar": "avatars/misikira.jpg",
+    "profile": "https://remanga.org/user/2350456/about",
+    "guild": "Eternal Watchers",
+    "is_afk": true,
+    "last_active_human": "46 дн. назад",
+    "weekly": 2251,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 951\nс 06.10 по 13.10: 789"
+  },
+  {
     "norm": "loly2810",
     "display": "Loly2810",
     "initial": 18650,
@@ -796,20 +810,6 @@
     "last_active_human": "5 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "misikira",
-    "display": "Misikira",
-    "initial": 19300,
-    "current": 33250,
-    "diff": 13950,
-    "avatar": "avatars/misikira.jpg",
-    "profile": "https://remanga.org/user/2350456/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "46 дн. назад",
-    "weekly": 951,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 951\nс 06.10 по 13.10: 789"
   },
   {
     "norm": "bagas",
