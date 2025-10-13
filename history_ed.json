@@ -305,7 +305,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 750,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 750"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 750\nс 06.10 по 13.10: 750"
   },
   {
     "norm": "@toxic",
@@ -431,7 +431,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 1150,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 150\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "necromant",
@@ -471,7 +471,7 @@
     "profile": "https://remanga.org/user/136935/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "5 дн. назад",
+    "last_active_human": "6 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
