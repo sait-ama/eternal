@@ -462,6 +462,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 5 500"
   },
   {
+    "norm": "unlimitedcringeworks",
+    "display": "UnlimitedCringeWorks",
+    "initial": 8000,
+    "current": 31000,
+    "diff": 23000,
+    "avatar": "avatars/unlimitedcringeworks.jpg",
+    "profile": "https://remanga.org/user/3037204/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "5 дн. назад",
+    "weekly": 5000,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "ялyчшийвмиpe",
     "display": "Я_лучший_в_мире",
     "initial": 22080,
@@ -542,20 +556,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "11 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "unlimitedcringeworks",
-    "display": "UnlimitedCringeWorks",
-    "initial": 8000,
-    "current": 26000,
-    "diff": 18000,
-    "avatar": "avatars/unlimitedcringeworks.jpg",
-    "profile": "https://remanga.org/user/3037204/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
