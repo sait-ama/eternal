@@ -415,7 +415,7 @@
     "profile": "https://remanga.org/user/2230415/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "7 дн. назад",
+    "last_active_human": "8 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
@@ -994,6 +994,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 2 460"
   },
   {
+    "norm": "хeйtepдoкa",
+    "display": "Хейтер_Дока",
+    "initial": 45880,
+    "current": 56790,
+    "diff": 10910,
+    "avatar": "avatars/хeйtepдoкa.jpg",
+    "profile": "https://remanga.org/user/2105597/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1130,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "abyss",
     "display": "_Abyss_",
     "initial": 19840,
@@ -1032,20 +1046,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "7 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "хeйtepдoкa",
-    "display": "Хейтер_Дока",
-    "initial": 45880,
-    "current": 55660,
-    "diff": 9780,
-    "avatar": "avatars/хeйtepдoкa.jpg",
-    "profile": "https://remanga.org/user/2105597/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "13 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
@@ -1591,7 +1591,7 @@
     "profile": "https://remanga.org/user/77899/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "39 дн. назад",
+    "last_active_human": "40 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
