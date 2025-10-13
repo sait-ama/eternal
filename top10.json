@@ -45,15 +45,15 @@
     "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 61970,
-    "current": 143780,
-    "diff": 81810,
+    "current": 148080,
+    "diff": 86110,
     "avatar": "avatars/akiragame.jpg",
     "profile": "https://remanga.org/user/1714962/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 3270,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 700\nс 06.10 по 13.10: 5 500"
+    "weekly": 7570,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 3 270\nс 06.10 по 13.10: 5 500"
   },
   {
     "norm": "tenofmoses",
@@ -73,14 +73,14 @@
     "norm": "caйtaмa",
     "display": "Сайтама",
     "initial": 128060,
-    "current": 203520,
-    "diff": 75460,
+    "current": 203570,
+    "diff": 75510,
     "avatar": "avatars/caйtaмa.jpg",
     "profile": "https://remanga.org/user/12762/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 3120,
+    "weekly": 3170,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 3 120\nс 06.10 по 13.10: 10 210"
   },
   {
