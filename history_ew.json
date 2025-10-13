@@ -445,7 +445,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 3480,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 900\nс 06.10 по 13.10: 3 900"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 3 480\nс 06.10 по 13.10: 3 900"
   },
   {
     "norm": "okiarya",
@@ -557,7 +557,7 @@
     "is_afk": true,
     "last_active_human": "46 дн. назад",
     "weekly": 2450,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 450\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "monalize",
@@ -633,14 +633,14 @@
     "norm": "totкtocмotpиt",
     "display": "тот_кто_смотрит....",
     "initial": 25780,
-    "current": 41900,
-    "diff": 16120,
+    "current": 42100,
+    "diff": 16320,
     "avatar": "avatars/totкtocмotpиt.jpg",
     "profile": "https://remanga.org/user/201921/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 0,
+    "last_active_human": "сегодня",
+    "weekly": 200,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 1 400"
   },
   {
@@ -1017,7 +1017,7 @@
     "profile": "https://remanga.org/user/69929/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "19 дн. назад",
+    "last_active_human": "20 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
