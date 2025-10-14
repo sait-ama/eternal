@@ -1109,14 +1109,14 @@
     "norm": "chirusan",
     "display": "Chiru-san",
     "initial": 11850,
-    "current": 20150,
-    "diff": 8300,
+    "current": 20650,
+    "diff": 8800,
     "avatar": "avatars/chirusan.jpg",
     "profile": "https://remanga.org/user/243053/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "6 дн. назад",
-    "weekly": 0,
+    "last_active_human": "сегодня",
+    "weekly": 500,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 500"
   },
   {
@@ -1213,7 +1213,7 @@
     "profile": "https://remanga.org/user/191280/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "5 дн. назад",
+    "last_active_human": "6 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 2 000"
   },
