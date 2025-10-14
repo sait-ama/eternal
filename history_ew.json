@@ -602,6 +602,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "harlequ1n",
+    "display": "HARLEQU1N",
+    "initial": 30760,
+    "current": 48490,
+    "diff": 17730,
+    "avatar": "avatars/harlequ1n.jpg",
+    "profile": "https://remanga.org/user/959231/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2910,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "гocькa",
     "display": "Госька",
     "initial": 32470,
@@ -726,20 +740,6 @@
     "last_active_human": "6 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 700"
-  },
-  {
-    "norm": "harlequ1n",
-    "display": "HARLEQU1N",
-    "initial": 30760,
-    "current": 45580,
-    "diff": 14820,
-    "avatar": "avatars/harlequ1n.jpg",
-    "profile": "https://remanga.org/user/959231/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "8 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "frostik4",
