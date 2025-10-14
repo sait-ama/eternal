@@ -73,14 +73,14 @@
     "norm": "caйtaмa",
     "display": "Сайтама",
     "initial": 128060,
-    "current": 203600,
-    "diff": 75540,
+    "current": 204820,
+    "diff": 76760,
     "avatar": "avatars/caйtaмa.jpg",
     "profile": "https://remanga.org/user/12762/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 3200,
+    "weekly": 4420,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 3 200\nс 06.10 по 13.10: 10 210"
   },
   {
@@ -947,7 +947,7 @@
     "profile": "https://remanga.org/user/1132063/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "4 дн. назад",
+    "last_active_human": "5 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 140"
   },
