@@ -667,7 +667,7 @@
     "profile": "https://remanga.org/user/201921/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня",
+    "last_active_human": "вчера",
     "weekly": 200,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 200\nс 06.10 по 13.10: 1 400"
   },
@@ -921,7 +921,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 1400,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 600"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 400\nс 06.10 по 13.10: 600"
   },
   {
     "norm": "tavik",
@@ -1031,7 +1031,7 @@
     "profile": "https://remanga.org/user/170917/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "4 дн. назад",
+    "last_active_human": "5 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 2 900"
   },
@@ -1045,7 +1045,7 @@
     "profile": "https://remanga.org/user/69929/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "20 дн. назад",
+    "last_active_human": "21 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
@@ -1075,7 +1075,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 3310,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 180"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 3 310\nс 06.10 по 13.10: 180"
   },
   {
     "norm": "mangalev",
@@ -1423,7 +1423,7 @@
     "profile": "https://remanga.org/user/410852/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "37 дн. назад",
+    "last_active_human": "38 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
