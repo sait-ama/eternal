@@ -95,7 +95,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 500,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 100\nс 06.10 по 13.10: 500"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 500\nс 06.10 по 13.10: 500"
   },
   {
     "norm": "cracker7",
@@ -224,6 +224,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 580\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "akihiko",
+    "display": "Akihiko",
+    "initial": 9000,
+    "current": 18500,
+    "diff": 9500,
+    "avatar": "avatars/akihiko.jpg",
+    "profile": "https://remanga.org/user/183282/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 700,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 300"
+  },
+  {
     "norm": "samurafs",
     "display": "SamuraFs",
     "initial": 11000,
@@ -278,20 +292,6 @@
     "last_active_human": "8 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "akihiko",
-    "display": "Akihiko",
-    "initial": 9000,
-    "current": 17800,
-    "diff": 8800,
-    "avatar": "avatars/akihiko.jpg",
-    "profile": "https://remanga.org/user/183282/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 300"
   },
   {
     "norm": "ronin74",
