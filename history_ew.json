@@ -115,14 +115,14 @@
     "norm": "ፚꮼꮢꭵ૮ꮒꮶꮧ",
     "display": "ፚᏬᏒᎥ૮ᏂᏦᏗ",
     "initial": 80000,
-    "current": 146500,
-    "diff": 66500,
+    "current": 148000,
+    "diff": 68000,
     "avatar": "avatars/ፚꮼꮢꭵ૮ꮒꮶꮧ.jpg",
     "profile": "https://remanga.org/user/189990/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 26500,
+    "weekly": 28000,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 26 500\nс 06.10 по 13.10: 1 000"
   },
   {
@@ -546,6 +546,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "nebulousvortex",
+    "display": "NebulousVortex",
+    "initial": 5010,
+    "current": 24010,
+    "diff": 19000,
+    "avatar": "avatars/nebulousvortex.jpg",
+    "profile": "https://remanga.org/user/1003671/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1500,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "efiliyens",
     "display": "Efiliyens",
     "initial": 21000,
@@ -613,35 +627,21 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 2910,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 910\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "гocькa",
     "display": "Госька",
     "initial": 32470,
-    "current": 50000,
-    "diff": 17530,
+    "current": 50200,
+    "diff": 17730,
     "avatar": "avatars/гocькa.jpg",
     "profile": "https://remanga.org/user/1079084/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "6 дн. назад",
-    "weekly": 0,
+    "last_active_human": "сегодня",
+    "weekly": 200,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 2 090"
-  },
-  {
-    "norm": "nebulousvortex",
-    "display": "NebulousVortex",
-    "initial": 5010,
-    "current": 22510,
-    "diff": 17500,
-    "avatar": "avatars/nebulousvortex.jpg",
-    "profile": "https://remanga.org/user/1003671/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "rezordaye",
@@ -1101,7 +1101,7 @@
     "profile": "https://remanga.org/user/1681839/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "7 дн. назад",
+    "last_active_human": "8 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
