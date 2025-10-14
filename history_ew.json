@@ -143,14 +143,14 @@
     "norm": "festashka",
     "display": "_festashka_",
     "initial": 77750,
-    "current": 138750,
-    "diff": 61000,
+    "current": 140450,
+    "diff": 62700,
     "avatar": "avatars/festashka.jpg",
     "profile": "https://remanga.org/user/199911/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "5 дн. назад",
-    "weekly": 0,
+    "last_active_human": "сегодня",
+    "weekly": 1700,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 2 550"
   },
   {
@@ -431,7 +431,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 2500,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 500\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "unlimitedcringeworks",
@@ -627,7 +627,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 1390,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 750\nс 06.10 по 13.10: 880"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 390\nс 06.10 по 13.10: 880"
   },
   {
     "norm": "abigor",
@@ -1367,7 +1367,7 @@
     "profile": "https://remanga.org/user/876190/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "14 дн. назад",
+    "last_active_human": "15 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
