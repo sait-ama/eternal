@@ -151,7 +151,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 2630,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 110\nс 06.10 по 13.10: 7 230"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 630\nс 06.10 по 13.10: 7 230"
   },
   {
     "norm": "яшtyг",
@@ -395,14 +395,14 @@
     "norm": "thostriel",
     "display": "Thostriel",
     "initial": 43030,
-    "current": 71490,
-    "diff": 28460,
+    "current": 71890,
+    "diff": 28860,
     "avatar": "avatars/thostriel.jpg",
     "profile": "https://remanga.org/user/1405392/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 2000,
+    "weekly": 2400,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 2 840"
   },
   {
