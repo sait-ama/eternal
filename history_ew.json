@@ -322,6 +322,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "allentina",
+    "display": "allentina",
+    "initial": 3000,
+    "current": 37890,
+    "diff": 34890,
+    "avatar": "avatars/allentina.jpg",
+    "profile": "https://remanga.org/user/890414/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 3000,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 10 000"
+  },
+  {
     "norm": "ronin74",
     "display": "Ronin74",
     "initial": 6250,
@@ -364,20 +378,6 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
-    "norm": "allentina",
-    "display": "allentina",
-    "initial": 3000,
-    "current": 34890,
-    "diff": 31890,
-    "avatar": "avatars/allentina.jpg",
-    "profile": "https://remanga.org/user/890414/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 10 000"
-  },
-  {
     "norm": "лoхoбыкнoвeнный",
     "display": "ЛохОбыкновенный",
     "initial": 33800,
@@ -403,7 +403,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 2400,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 2 840"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 400\nс 06.10 по 13.10: 2 840"
   },
   {
     "norm": "souzerend",
@@ -432,6 +432,20 @@
     "last_active_human": "3 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 3 000"
+  },
+  {
+    "norm": "shirochan",
+    "display": "Shiro_Chan",
+    "initial": 5000,
+    "current": 29950,
+    "diff": 24950,
+    "avatar": "avatars/shirochan.jpg",
+    "profile": "https://remanga.org/user/9766/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 4000,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "ялyчшийвмиpe",
@@ -504,20 +518,6 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 3 000\nс 06.10 по 13.10: 0"
   },
   {
-    "norm": "shirochan",
-    "display": "Shiro_Chan",
-    "initial": 5000,
-    "current": 25950,
-    "diff": 20950,
-    "avatar": "avatars/shirochan.jpg",
-    "profile": "https://remanga.org/user/9766/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "14 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
-  },
-  {
     "norm": "suba7u",
     "display": "Suba7u",
     "initial": 51790,
@@ -569,7 +569,7 @@
     "profile": "https://remanga.org/user/809195/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "12 дн. назад",
+    "last_active_human": "13 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
@@ -1437,7 +1437,7 @@
     "profile": "https://remanga.org/user/514882/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня",
+    "last_active_human": "вчера",
     "weekly": 1000,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
