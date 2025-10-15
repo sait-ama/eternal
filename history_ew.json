@@ -616,6 +616,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "гocькa",
+    "display": "Госька",
+    "initial": 32470,
+    "current": 50430,
+    "diff": 17960,
+    "avatar": "avatars/гocькa.jpg",
+    "profile": "https://remanga.org/user/1079084/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 430,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 200\nс 06.10 по 13.10: 2 090"
+  },
+  {
     "norm": "harlequ1n",
     "display": "HARLEQU1N",
     "initial": 30760,
@@ -628,20 +642,6 @@
     "last_active_human": "сегодня",
     "weekly": 2910,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 910\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "гocькa",
-    "display": "Госька",
-    "initial": 32470,
-    "current": 50200,
-    "diff": 17730,
-    "avatar": "avatars/гocькa.jpg",
-    "profile": "https://remanga.org/user/1079084/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня",
-    "weekly": 200,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 200\nс 06.10 по 13.10: 2 090"
   },
   {
     "norm": "rezordaye",
