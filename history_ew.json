@@ -235,7 +235,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 8660,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 8 650\nс 06.10 по 13.10: 6 100"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 8 660\nс 06.10 по 13.10: 6 100"
   },
   {
     "norm": "ewnobon",
@@ -401,7 +401,7 @@
     "profile": "https://remanga.org/user/1405392/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня",
+    "last_active_human": "вчера",
     "weekly": 2400,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 400\nс 06.10 по 13.10: 2 840"
   },
@@ -1451,7 +1451,7 @@
     "profile": "https://remanga.org/user/514882/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера",
+    "last_active_human": "2 дн. назад",
     "weekly": 1000,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
