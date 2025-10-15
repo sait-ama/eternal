@@ -163,7 +163,7 @@
     "profile": "https://remanga.org/user/439629/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня",
+    "last_active_human": "вчера",
     "weekly": 2630,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 630\nс 06.10 по 13.10: 7 230"
   },
@@ -227,15 +227,15 @@
     "norm": "bluefish",
     "display": "Blue__fish",
     "initial": 9000,
-    "current": 57990,
-    "diff": 48990,
+    "current": 58000,
+    "diff": 49000,
     "avatar": "avatars/bluefish.jpg",
     "profile": "https://remanga.org/user/264468/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 8650,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 5 500\nс 06.10 по 13.10: 6 100"
+    "weekly": 8660,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 8 650\nс 06.10 по 13.10: 6 100"
   },
   {
     "norm": "ewnobon",
@@ -821,7 +821,7 @@
     "profile": "https://remanga.org/user/79904/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "3 дн. назад",
+    "last_active_human": "4 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 1 550"
   },
@@ -1647,7 +1647,7 @@
     "profile": "https://remanga.org/user/2044615/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "7 дн. назад",
+    "last_active_human": "8 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   }
