@@ -252,6 +252,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 750\nс 06.10 по 13.10: 2 000"
   },
   {
+    "norm": "overcooling",
+    "display": "Overcooling",
+    "initial": 41000,
+    "current": 83000,
+    "diff": 42000,
+    "avatar": "avatars/overcooling.jpg",
+    "profile": "https://remanga.org/user/52079/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 7000,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 5 000\nс 06.10 по 13.10: 2 000"
+  },
+  {
     "norm": "ewtaya",
     "display": "EW_Taya_",
     "initial": 48130,
@@ -264,20 +278,6 @@
     "last_active_human": "2 дн. назад",
     "weekly": 1110,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 110\nс 06.10 по 13.10: 2 480"
-  },
-  {
-    "norm": "overcooling",
-    "display": "Overcooling",
-    "initial": 41000,
-    "current": 81000,
-    "diff": 40000,
-    "avatar": "avatars/overcooling.jpg",
-    "profile": "https://remanga.org/user/52079/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 5000,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 5 000\nс 06.10 по 13.10: 2 000"
   },
   {
     "norm": "nix",
@@ -933,7 +933,7 @@
     "profile": "https://remanga.org/user/1262251/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня",
+    "last_active_human": "вчера",
     "weekly": 1400,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 400\nс 06.10 по 13.10: 600"
   },
@@ -1073,7 +1073,7 @@
     "profile": "https://remanga.org/user/69929/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "21 дн. назад",
+    "last_active_human": "22 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
@@ -1087,7 +1087,7 @@
     "profile": "https://remanga.org/user/1125410/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня",
+    "last_active_human": "вчера",
     "weekly": 3310,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 3 310\nс 06.10 по 13.10: 180"
   },
