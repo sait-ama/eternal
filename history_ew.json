@@ -39,7 +39,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 8960,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 8 310\nс 06.10 по 13.10: 5 500"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 8 960\nс 06.10 по 13.10: 5 500"
   },
   {
     "norm": "ミュージシャン",
@@ -708,8 +708,8 @@
     "avatar": "avatars/кaпиtaнзaнyдa.jpg",
     "profile": "https://remanga.org/user/1323051/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад",
+    "is_afk": true,
+    "last_active_human": "7 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 5 000"
   },
@@ -1198,8 +1198,8 @@
     "avatar": "avatars/pipimaki.jpg",
     "profile": "https://remanga.org/user/2895554/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад",
+    "is_afk": true,
+    "last_active_human": "7 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 2 910"
   },
@@ -1352,8 +1352,8 @@
     "avatar": "avatars/frozenjfx.jpg",
     "profile": "https://remanga.org/user/594356/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад",
+    "is_afk": true,
+    "last_active_human": "7 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 440"
   },
