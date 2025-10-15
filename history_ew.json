@@ -476,6 +476,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 9 000\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "okiarya",
+    "display": "Okiarya",
+    "initial": 64120,
+    "current": 90230,
+    "diff": 26110,
+    "avatar": "avatars/okiarya.jpg",
+    "profile": "https://remanga.org/user/2391629/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 3000,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 5 500"
+  },
+  {
     "norm": "shirochan",
     "display": "Shiro_Chan",
     "initial": 5000,
@@ -488,20 +502,6 @@
     "last_active_human": "вчера",
     "weekly": 4000,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 4 000\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "okiarya",
-    "display": "Okiarya",
-    "initial": 64120,
-    "current": 88230,
-    "diff": 24110,
-    "avatar": "avatars/okiarya.jpg",
-    "profile": "https://remanga.org/user/2391629/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 1000,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 5 500"
   },
   {
     "norm": "sinfullife",
@@ -667,7 +667,7 @@
     "profile": "https://remanga.org/user/201921/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня",
+    "last_active_human": "вчера",
     "weekly": 800,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 800\nс 06.10 по 13.10: 1 400"
   },
