@@ -1624,6 +1624,34 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "ckckck",
+    "display": "CKCKCK",
+    "initial": 21100,
+    "current": 21100,
+    "diff": 0,
+    "avatar": "avatars/ckckck.jpg",
+    "profile": "https://remanga.org/user/172319/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 0,
+    "weekly_hint": "История недель: нет данных"
+  },
+  {
+    "norm": "mmarti",
+    "display": "mmarti",
+    "initial": 0,
+    "current": 0,
+    "diff": 0,
+    "avatar": "avatars/mmarti.jpg",
+    "profile": "https://remanga.org/user/184784/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "2 дн. назад",
+    "weekly": 0,
+    "weekly_hint": "История недель: нет данных"
+  },
+  {
     "norm": "lesto",
     "display": "Lesto",
     "initial": 11230,
