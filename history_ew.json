@@ -1218,6 +1218,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "laytee",
+    "display": "Laytee",
+    "initial": 10330,
+    "current": 17210,
+    "diff": 6880,
+    "avatar": "avatars/laytee.jpg",
+    "profile": "https://remanga.org/user/2488048/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2050,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 260\nс 06.10 по 13.10: 570"
+  },
+  {
     "norm": "гдeмoйctoяк",
     "display": "гдемойстояк",
     "initial": 10000,
@@ -1342,20 +1356,6 @@
     "last_active_human": "вчера",
     "weekly": 80,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 80\nс 06.10 по 13.10: 180"
-  },
-  {
-    "norm": "laytee",
-    "display": "Laytee",
-    "initial": 10330,
-    "current": 15420,
-    "diff": 5090,
-    "avatar": "avatars/laytee.jpg",
-    "profile": "https://remanga.org/user/2488048/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня",
-    "weekly": 260,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 570"
   },
   {
     "norm": "frozenjfx",
