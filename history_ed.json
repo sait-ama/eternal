@@ -112,6 +112,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 500\nс 06.10 по 13.10: 500"
   },
   {
+    "norm": "ewobserver",
+    "display": "EW_OBSERVER",
+    "initial": 70240,
+    "current": 82370,
+    "diff": 12130,
+    "avatar": "avatars/ewobserver.jpg",
+    "profile": "https://remanga.org/user/141395/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 6370,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 5 710\nс 06.10 по 13.10: 5 760"
+  },
+  {
     "norm": "webru",
     "display": "WebRU",
     "initial": 19820,
@@ -124,20 +138,6 @@
     "last_active_human": "вчера",
     "weekly": 1880,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 880\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "ewobserver",
-    "display": "EW_OBSERVER",
-    "initial": 70240,
-    "current": 81710,
-    "diff": 11470,
-    "avatar": "avatars/ewobserver.jpg",
-    "profile": "https://remanga.org/user/141395/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня",
-    "weekly": 5710,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 5 710\nс 06.10 по 13.10: 5 760"
   },
   {
     "norm": "alld995",
