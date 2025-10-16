@@ -67,7 +67,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 5050,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 5 000\nс 06.10 по 13.10: 12 300"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 5 050\nс 06.10 по 13.10: 12 300"
   },
   {
     "norm": "caйtaмa",
@@ -81,7 +81,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 6370,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 6 350\nс 06.10 по 13.10: 10 210"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 6 370\nс 06.10 по 13.10: 10 210"
   },
   {
     "norm": "pepegaronni",
@@ -193,7 +193,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 10810,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 7 900\nс 06.10 по 13.10: 3 120"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 10 810\nс 06.10 по 13.10: 3 120"
   },
   {
     "norm": "kodokunayurei",
@@ -1288,6 +1288,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 2 000"
   },
   {
+    "norm": "чмoшкaмoшкa",
+    "display": "Чмошка-Мошка",
+    "initial": 11280,
+    "current": 16770,
+    "diff": 5490,
+    "avatar": "avatars/чмoшкaмoшкa.jpg",
+    "profile": "https://remanga.org/user/2991171/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1500,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 1 000"
+  },
+  {
     "norm": "darkangei",
     "display": "Dark_AngeI",
     "initial": 23140,
@@ -1356,20 +1370,6 @@
     "last_active_human": "8 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 440"
-  },
-  {
-    "norm": "чмoшкaмoшкa",
-    "display": "Чмошка-Мошка",
-    "initial": 11280,
-    "current": 15270,
-    "diff": 3990,
-    "avatar": "avatars/чмoшкaмoшкa.jpg",
-    "profile": "https://remanga.org/user/2991171/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "8 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 1 000"
   },
   {
     "norm": "satisfied",
