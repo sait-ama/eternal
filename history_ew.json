@@ -826,6 +826,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 2 000"
   },
   {
+    "norm": "inanitas",
+    "display": "Inanitаs",
+    "initial": 12000,
+    "current": 26000,
+    "diff": 14000,
+    "avatar": "avatars/inanitas.jpg",
+    "profile": "https://remanga.org/user/3259037/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1000,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0"
+  },
+  {
     "norm": "bagas",
     "display": "Bagas",
     "initial": 27110,
@@ -880,20 +894,6 @@
     "last_active_human": "3 дн. назад",
     "weekly": 1000,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 5 000"
-  },
-  {
-    "norm": "inanitas",
-    "display": "Inanitаs",
-    "initial": 12000,
-    "current": 25000,
-    "diff": 13000,
-    "avatar": "avatars/inanitas.jpg",
-    "profile": "https://remanga.org/user/3259037/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0"
   },
   {
     "norm": "йopм",
