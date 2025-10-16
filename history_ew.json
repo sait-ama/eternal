@@ -140,6 +140,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 28 000\nс 06.10 по 13.10: 1 000"
   },
   {
+    "norm": "festashka",
+    "display": "_festashka_",
+    "initial": 77750,
+    "current": 144850,
+    "diff": 67100,
+    "avatar": "avatars/festashka.jpg",
+    "profile": "https://remanga.org/user/199911/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 6100,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 700\nс 06.10 по 13.10: 2 550"
+  },
+  {
     "norm": "кaйдeн",
     "display": "Кайден",
     "initial": 64610,
@@ -152,20 +166,6 @@
     "last_active_human": "сегодня",
     "weekly": 7010,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 7 010\nс 06.10 по 13.10: 7 230"
-  },
-  {
-    "norm": "festashka",
-    "display": "_festashka_",
-    "initial": 77750,
-    "current": 140450,
-    "diff": 62700,
-    "avatar": "avatars/festashka.jpg",
-    "profile": "https://remanga.org/user/199911/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 1700,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 700\nс 06.10 по 13.10: 2 550"
   },
   {
     "norm": "яшtyг",
