@@ -403,7 +403,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 3450,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 400\nс 06.10 по 13.10: 2 840"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 3 450\nс 06.10 по 13.10: 2 840"
   },
   {
     "norm": "andrefalkonen",
@@ -1305,14 +1305,14 @@
     "norm": "nikesnt",
     "display": "NikesNt",
     "initial": 10040,
-    "current": 15230,
-    "diff": 5190,
+    "current": 15310,
+    "diff": 5270,
     "avatar": "avatars/nikesnt.jpg",
     "profile": "https://remanga.org/user/1227659/about",
     "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад",
-    "weekly": 0,
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 80,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 180"
   },
   {
