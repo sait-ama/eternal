@@ -3,14 +3,14 @@
     "norm": "ham021",
     "display": "Ham021",
     "initial": 30500,
-    "current": 55000,
-    "diff": 24500,
+    "current": 60000,
+    "diff": 29500,
     "avatar": "avatars/ham021.jpg",
     "profile": "https://remanga.org/user/27288/about",
     "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "11 дн. назад",
-    "weekly": 0,
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 5000,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
@@ -31,14 +31,14 @@
     "norm": "rubyrose",
     "display": "RUBYROSE",
     "initial": 20450,
-    "current": 40860,
-    "diff": 20410,
+    "current": 40970,
+    "diff": 20520,
     "avatar": "avatars/rubyrose.jpg",
     "profile": "https://remanga.org/user/740757/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 3630,
+    "last_active_human": "сегодня",
+    "weekly": 3740,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 3 630\nс 06.10 по 13.10: 0"
   },
   {
@@ -67,7 +67,21 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 1460,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 250\nс 06.10 по 13.10: 1 550"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 460\nс 06.10 по 13.10: 1 550"
+  },
+  {
+    "norm": "cracker7",
+    "display": "Cracker_7",
+    "initial": 12000,
+    "current": 25000,
+    "diff": 13000,
+    "avatar": "avatars/cracker7.jpg",
+    "profile": "https://remanga.org/user/197380/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2250,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 500\nс 06.10 по 13.10: 1 000"
   },
   {
     "norm": "haisan",
@@ -96,20 +110,6 @@
     "last_active_human": "2 дн. назад",
     "weekly": 500,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 500\nс 06.10 по 13.10: 500"
-  },
-  {
-    "norm": "cracker7",
-    "display": "Cracker_7",
-    "initial": 12000,
-    "current": 24250,
-    "diff": 12250,
-    "avatar": "avatars/cracker7.jpg",
-    "profile": "https://remanga.org/user/197380/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 1500,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 500\nс 06.10 по 13.10: 1 000"
   },
   {
     "norm": "webru",
@@ -179,7 +179,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 3000,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 3 000\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "samurafs",
