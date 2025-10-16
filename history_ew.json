@@ -882,6 +882,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 5 000"
   },
   {
+    "norm": "inanitas",
+    "display": "Inanitаs",
+    "initial": 12000,
+    "current": 25000,
+    "diff": 13000,
+    "avatar": "avatars/inanitas.jpg",
+    "profile": "https://remanga.org/user/3259037/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 0,
+    "weekly_hint": "История недель: нет данных"
+  },
+  {
     "norm": "йopм",
     "display": "Йорм",
     "initial": 23340,
@@ -1535,7 +1549,7 @@
     "profile": "https://remanga.org/user/636791/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "нет данных",
+    "last_active_human": "103 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
@@ -1577,7 +1591,7 @@
     "profile": "https://remanga.org/user/920777/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "нет данных",
+    "last_active_human": "117 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
@@ -1634,20 +1648,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "3 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0"
-  },
-  {
-    "norm": "clxxviii",
-    "display": "CLXXVIII",
-    "initial": 12000,
-    "current": 12000,
-    "diff": 0,
-    "avatar": "avatars/placeholder.jpg",
-    "profile": "https://remanga.org",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0"
   },
