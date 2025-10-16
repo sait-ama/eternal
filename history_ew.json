@@ -361,7 +361,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 1230,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 230\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "strayker5421",
@@ -448,6 +448,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 500\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "ялyчшийвмиpe",
+    "display": "Я_лучший_в_мире",
+    "initial": 22080,
+    "current": 49910,
+    "diff": 27830,
+    "avatar": "avatars/ялyчшийвмиpe.jpg",
+    "profile": "https://remanga.org/user/285519/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 6730,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 6 220\nс 06.10 по 13.10: 3 900"
+  },
+  {
     "norm": "arbogastr",
     "display": "Arbogastr",
     "initial": 45500,
@@ -460,20 +474,6 @@
     "last_active_human": "вчера",
     "weekly": 2000,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 3 000"
-  },
-  {
-    "norm": "ялyчшийвмиpe",
-    "display": "Я_лучший_в_мире",
-    "initial": 22080,
-    "current": 49400,
-    "diff": 27320,
-    "avatar": "avatars/ялyчшийвмиpe.jpg",
-    "profile": "https://remanga.org/user/285519/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 6220,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 6 220\nс 06.10 по 13.10: 3 900"
   },
   {
     "norm": "okiarya",
