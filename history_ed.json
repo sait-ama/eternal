@@ -98,6 +98,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 250\nс 06.10 по 13.10: 1 000"
   },
   {
+    "norm": "lucifiel",
+    "display": "--Lucifiel--",
+    "initial": 12500,
+    "current": 25300,
+    "diff": 12800,
+    "avatar": "avatars/lucifiel.jpg",
+    "profile": "https://remanga.org/user/1207689/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1000,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 500\nс 06.10 по 13.10: 500"
+  },
+  {
     "norm": "haisan",
     "display": "HaiSan",
     "initial": 22500,
@@ -110,20 +124,6 @@
     "last_active_human": "10 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "lucifiel",
-    "display": "--Lucifiel--",
-    "initial": 12500,
-    "current": 24800,
-    "diff": 12300,
-    "avatar": "avatars/lucifiel.jpg",
-    "profile": "https://remanga.org/user/1207689/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад",
-    "weekly": 500,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 500\nс 06.10 по 13.10: 500"
   },
   {
     "norm": "ewobserver",
@@ -152,6 +152,20 @@
     "last_active_human": "2 дн. назад",
     "weekly": 1880,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 880\nс 06.10 по 13.10: 0"
+  },
+  {
+    "norm": "hatin",
+    "display": "Hatin",
+    "initial": 12900,
+    "current": 23990,
+    "diff": 11090,
+    "avatar": "avatars/hatin.jpg",
+    "profile": "https://remanga.org/user/2797890/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 3080,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 580\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "alld995",
@@ -250,20 +264,6 @@
     "last_active_human": "3 дн. назад",
     "weekly": 1000,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "hatin",
-    "display": "Hatin",
-    "initial": 12900,
-    "current": 22490,
-    "diff": 9590,
-    "avatar": "avatars/hatin.jpg",
-    "profile": "https://remanga.org/user/2797890/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад",
-    "weekly": 1580,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 580\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "akihiko",
