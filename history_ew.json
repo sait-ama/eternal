@@ -669,7 +669,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 1430,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 390\nс 06.10 по 13.10: 880"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 430\nс 06.10 по 13.10: 880"
   },
   {
     "norm": "totкtocмotpиt",
@@ -1109,14 +1109,14 @@
     "norm": "mangalev",
     "display": "mangalev",
     "initial": 12340,
-    "current": 22140,
-    "diff": 9800,
+    "current": 22160,
+    "diff": 9820,
     "avatar": "avatars/mangalev.jpg",
     "profile": "https://remanga.org/user/1096325/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 530,
+    "weekly": 550,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 530\nс 06.10 по 13.10: 200"
   },
   {
