@@ -112,6 +112,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 10 940"
   },
   {
+    "norm": "akiram",
+    "display": "Aki_Ram",
+    "initial": 28600,
+    "current": 96970,
+    "diff": 68370,
+    "avatar": "avatars/akiram.jpg",
+    "profile": "https://remanga.org/user/3307870/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 4550,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 3 500\nс 06.10 по 13.10: 1 800"
+  },
+  {
     "norm": "ፚꮼꮢꭵ૮ꮒꮶꮧ",
     "display": "ፚᏬᏒᎥ૮ᏂᏦᏗ",
     "initial": 80000,
@@ -124,20 +138,6 @@
     "last_active_human": "вчера",
     "weekly": 28000,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 28 000\nс 06.10 по 13.10: 1 000"
-  },
-  {
-    "norm": "akiram",
-    "display": "Aki_Ram",
-    "initial": 28600,
-    "current": 95920,
-    "diff": 67320,
-    "avatar": "avatars/akiram.jpg",
-    "profile": "https://remanga.org/user/3307870/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 3500,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 3 500\nс 06.10 по 13.10: 1 800"
   },
   {
     "norm": "кaйдeн",
@@ -669,7 +669,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 1520,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 430\nс 06.10 по 13.10: 880"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 520\nс 06.10 по 13.10: 880"
   },
   {
     "norm": "totкtocмotpиt",
