@@ -792,8 +792,8 @@
     "avatar": "avatars/ckckck.jpg",
     "profile": "https://remanga.org/user/172319/about",
     "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня",
+    "is_afk": true,
+    "last_active_human": "нет данных",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
@@ -932,8 +932,8 @@
     "avatar": "avatars/tenofmoses.jpg",
     "profile": "https://remanga.org/user/3176212/about",
     "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "нет данных",
+    "is_afk": false,
+    "last_active_human": "сегодня",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
@@ -960,8 +960,8 @@
     "avatar": "avatars/бeлoхвoctый.jpg",
     "profile": "https://remanga.org/user/2874672/about",
     "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "нет данных",
+    "is_afk": false,
+    "last_active_human": "сегодня",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
@@ -974,8 +974,8 @@
     "avatar": "avatars/wertyservyt.jpg",
     "profile": "https://remanga.org/user/364625/about",
     "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "нет данных",
+    "is_afk": false,
+    "last_active_human": "сегодня",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   }
