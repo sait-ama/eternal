@@ -59,14 +59,14 @@
     "norm": "tenofmoses",
     "display": "tenofmoses",
     "initial": 0,
-    "current": 83950,
-    "diff": 83950,
+    "current": 85950,
+    "diff": 85950,
     "avatar": "avatars/tenofmoses.jpg",
     "profile": "https://remanga.org/user/3176212/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 3000,
+    "last_active_human": "сегодня",
+    "weekly": 5000,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 3 000\nс 06.10 по 13.10: 12 300"
   },
   {
