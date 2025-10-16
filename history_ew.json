@@ -233,7 +233,7 @@
     "profile": "https://remanga.org/user/264468/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "сегодня",
+    "last_active_human": "вчера",
     "weekly": 8660,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 8 660\nс 06.10 по 13.10: 6 100"
   },
@@ -835,7 +835,7 @@
     "profile": "https://remanga.org/user/79904/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "4 дн. назад",
+    "last_active_human": "5 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 1 550"
   },
@@ -980,6 +980,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 140"
   },
   {
+    "norm": "techal",
+    "display": "TeChal",
+    "initial": 10180,
+    "current": 21640,
+    "diff": 11460,
+    "avatar": "avatars/techal.jpg",
+    "profile": "https://remanga.org/user/1681839/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2490,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "pupstv",
     "display": "PupsTv",
     "initial": 12000,
@@ -1104,20 +1118,6 @@
     "last_active_human": "сегодня",
     "weekly": 160,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 160\nс 06.10 по 13.10: 200"
-  },
-  {
-    "norm": "techal",
-    "display": "TeChal",
-    "initial": 10180,
-    "current": 19150,
-    "diff": 8970,
-    "avatar": "avatars/techal.jpg",
-    "profile": "https://remanga.org/user/1681839/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "9 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "chirusan",
