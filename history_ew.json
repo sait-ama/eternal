@@ -848,8 +848,8 @@
     "avatar": "avatars/sergeysh.jpg",
     "profile": "https://remanga.org/user/605765/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад",
+    "is_afk": true,
+    "last_active_human": "7 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 2 500"
   },
