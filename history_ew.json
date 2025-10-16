@@ -123,7 +123,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 4550,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 3 500\nс 06.10 по 13.10: 1 800"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 4 550\nс 06.10 по 13.10: 1 800"
   },
   {
     "norm": "ፚꮼꮢꭵ૮ꮒꮶꮧ",
@@ -266,6 +266,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 750\nс 06.10 по 13.10: 2 000"
   },
   {
+    "norm": "ewtaya",
+    "display": "EW_Taya_",
+    "initial": 48130,
+    "current": 90590,
+    "diff": 42460,
+    "avatar": "avatars/ewtaya.jpg",
+    "profile": "https://remanga.org/user/2325061/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2110,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 110\nс 06.10 по 13.10: 2 480"
+  },
+  {
     "norm": "overcooling",
     "display": "Overcooling",
     "initial": 41000,
@@ -278,20 +292,6 @@
     "last_active_human": "вчера",
     "weekly": 7000,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 7 000\nс 06.10 по 13.10: 2 000"
-  },
-  {
-    "norm": "ewtaya",
-    "display": "EW_Taya_",
-    "initial": 48130,
-    "current": 89590,
-    "diff": 41460,
-    "avatar": "avatars/ewtaya.jpg",
-    "profile": "https://remanga.org/user/2325061/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад",
-    "weekly": 1110,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 110\nс 06.10 по 13.10: 2 480"
   },
   {
     "norm": "nix",
