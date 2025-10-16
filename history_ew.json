@@ -661,14 +661,14 @@
     "norm": "rezordaye",
     "display": "rezord_aye",
     "initial": 49660,
-    "current": 66890,
-    "diff": 17230,
+    "current": 66930,
+    "diff": 17270,
     "avatar": "avatars/rezordaye.jpg",
     "profile": "https://remanga.org/user/210114/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 1390,
+    "last_active_human": "сегодня",
+    "weekly": 1430,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 390\nс 06.10 по 13.10: 880"
   },
   {
@@ -1661,7 +1661,7 @@
     "profile": "https://remanga.org/user/2909/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
-    "last_active_human": "нет данных",
+    "last_active_human": "7 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
