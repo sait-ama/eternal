@@ -39,7 +39,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 20050,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 5 050\nс 06.10 по 13.10: 12 300"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 20 050\nс 06.10 по 13.10: 12 300"
   },
   {
     "norm": "akiragame",
@@ -448,6 +448,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 4 600\nс 06.10 по 13.10: 1 300"
   },
   {
+    "norm": "arbogastr",
+    "display": "Arbogastr",
+    "initial": 45500,
+    "current": 74100,
+    "diff": 28600,
+    "avatar": "avatars/arbogastr.jpg",
+    "profile": "https://remanga.org/user/993371/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 3000,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 3 000"
+  },
+  {
     "norm": "souzerend",
     "display": "SouZeRenD",
     "initial": 0,
@@ -474,20 +488,6 @@
     "last_active_human": "сегодня",
     "weekly": 6970,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 6 970\nс 06.10 по 13.10: 3 900"
-  },
-  {
-    "norm": "arbogastr",
-    "display": "Arbogastr",
-    "initial": 45500,
-    "current": 73100,
-    "diff": 27600,
-    "avatar": "avatars/arbogastr.jpg",
-    "profile": "https://remanga.org/user/993371/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 2000,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 3 000"
   },
   {
     "norm": "okiarya",
