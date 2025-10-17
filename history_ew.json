@@ -840,6 +840,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 2 000"
   },
   {
+    "norm": "inanitas",
+    "display": "Inanitаs",
+    "initial": 12000,
+    "current": 26000,
+    "diff": 14000,
+    "avatar": "avatars/inanitas.jpg",
+    "profile": "https://remanga.org/user/3259037/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "вчера",
+    "weekly": 1000,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 000"
+  },
+  {
     "norm": "йopм",
     "display": "Йорм",
     "initial": 23340,
@@ -1386,6 +1400,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 610"
   },
   {
+    "norm": "rokywka",
+    "display": "RokYwka",
+    "initial": 3000,
+    "current": 5500,
+    "diff": 2500,
+    "avatar": "avatars/rokywka.jpg",
+    "profile": "https://remanga.org/user/1339341/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 0,
+    "weekly_hint": "История недель: нет данных"
+  },
+  {
     "norm": "gaynese",
     "display": "Gaynese",
     "initial": 0,
@@ -1638,18 +1666,18 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0"
   },
   {
-    "norm": "clxxviii",
-    "display": "CLXXVIII",
-    "initial": 12000,
-    "current": 12000,
+    "norm": "huahua",
+    "display": "Hua-Hua",
+    "initial": 3000,
+    "current": 3000,
     "diff": 0,
-    "avatar": "avatars/placeholder.jpg",
-    "profile": "https://remanga.org",
+    "avatar": "avatars/huahua.jpg",
+    "profile": "https://remanga.org/user/554143/about",
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "нет данных",
     "weekly": 0,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0"
+    "weekly_hint": "История недель: нет данных"
   },
   {
     "norm": "lesto",
