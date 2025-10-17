@@ -913,14 +913,14 @@
     "norm": "lorden",
     "display": "Lorden",
     "initial": 0,
-    "current": 700,
-    "diff": 700,
+    "current": 1000,
+    "diff": 1000,
     "avatar": "avatars/lorden.jpg",
     "profile": "https://remanga.org/user/2937842/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 500,
+    "last_active_human": "сегодня",
+    "weekly": 800,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 500"
   },
   {
