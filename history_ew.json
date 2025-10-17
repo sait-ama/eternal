@@ -227,15 +227,29 @@
     "norm": "bluefish",
     "display": "Blue__fish",
     "initial": 9000,
-    "current": 58000,
-    "diff": 49000,
+    "current": 60000,
+    "diff": 51000,
     "avatar": "avatars/bluefish.jpg",
     "profile": "https://remanga.org/user/264468/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 8660,
+    "last_active_human": "сегодня",
+    "weekly": 10660,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 8 660\nс 06.10 по 13.10: 6 100"
+  },
+  {
+    "norm": "ewnobon",
+    "display": "EW_NoBoN",
+    "initial": 65000,
+    "current": 113800,
+    "diff": 48800,
+    "avatar": "avatars/ewnobon.jpg",
+    "profile": "https://remanga.org/user/155090/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 3800,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 750\nс 06.10 по 13.10: 2 000"
   },
   {
     "norm": "unlimitedcringeworks",
@@ -250,20 +264,6 @@
     "last_active_human": "вчера",
     "weekly": 29000,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 29 000\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "ewnobon",
-    "display": "EW_NoBoN",
-    "initial": 65000,
-    "current": 110750,
-    "diff": 45750,
-    "avatar": "avatars/ewnobon.jpg",
-    "profile": "https://remanga.org/user/155090/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 750,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 750\nс 06.10 по 13.10: 2 000"
   },
   {
     "norm": "ewtaya",
@@ -711,7 +711,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 2220,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 1 550"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 220\nс 06.10 по 13.10: 1 550"
   },
   {
     "norm": "sergeysh",
