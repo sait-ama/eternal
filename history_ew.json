@@ -115,14 +115,14 @@
     "norm": "akiram",
     "display": "Aki_Ram",
     "initial": 28600,
-    "current": 96970,
-    "diff": 68370,
+    "current": 98720,
+    "diff": 70120,
     "avatar": "avatars/akiram.jpg",
     "profile": "https://remanga.org/user/3307870/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 4550,
+    "last_active_human": "сегодня",
+    "weekly": 6300,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 4 550\nс 06.10 по 13.10: 1 800"
   },
   {
@@ -473,7 +473,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 6970,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 6 730\nс 06.10 по 13.10: 3 900"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 6 970\nс 06.10 по 13.10: 3 900"
   },
   {
     "norm": "arbogastr",
@@ -672,6 +672,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 820\nс 06.10 по 13.10: 880"
   },
   {
+    "norm": "misikira",
+    "display": "Misikira",
+    "initial": 19300,
+    "current": 36250,
+    "diff": 16950,
+    "avatar": "avatars/misikira.jpg",
+    "profile": "https://remanga.org/user/2350456/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 3951,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 251\nс 06.10 по 13.10: 789"
+  },
+  {
     "norm": "totкtocмotpиt",
     "display": "тот_кто_смотрит....",
     "initial": 25780,
@@ -768,20 +782,6 @@
     "last_active_human": "2 дн. назад",
     "weekly": 1500,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 500\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "misikira",
-    "display": "Misikira",
-    "initial": 19300,
-    "current": 34550,
-    "diff": 15250,
-    "avatar": "avatars/misikira.jpg",
-    "profile": "https://remanga.org/user/2350456/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "50 дн. назад",
-    "weekly": 2251,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 251\nс 06.10 по 13.10: 789"
   },
   {
     "norm": "loly2810",
@@ -1103,7 +1103,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 600,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 550\nс 06.10 по 13.10: 200"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 600\nс 06.10 по 13.10: 200"
   },
   {
     "norm": "elduck",
