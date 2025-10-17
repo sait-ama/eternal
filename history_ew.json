@@ -938,6 +938,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 400\nс 06.10 по 13.10: 600"
   },
   {
+    "norm": "rayze",
+    "display": "RayZe",
+    "initial": 15730,
+    "current": 27920,
+    "diff": 12190,
+    "avatar": "avatars/rayze.jpg",
+    "profile": "https://remanga.org/user/108995/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1370,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 140\nс 06.10 по 13.10: 650"
+  },
+  {
     "norm": "tavik",
     "display": "Tavik",
     "initial": 48880,
@@ -950,20 +964,6 @@
     "last_active_human": "24 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "rayze",
-    "display": "RayZe",
-    "initial": 15730,
-    "current": 27690,
-    "diff": 11960,
-    "avatar": "avatars/rayze.jpg",
-    "profile": "https://remanga.org/user/108995/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 1140,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 140\nс 06.10 по 13.10: 650"
   },
   {
     "norm": "милыйкoхaй",
