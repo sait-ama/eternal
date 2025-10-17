@@ -896,6 +896,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 370"
   },
   {
+    "norm": "temha9l",
+    "display": "TeMHa9l",
+    "initial": 33060,
+    "current": 46460,
+    "diff": 13400,
+    "avatar": "avatars/temha9l.jpg",
+    "profile": "https://remanga.org/user/1262251/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2300,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 400\nс 06.10 по 13.10: 600"
+  },
+  {
     "norm": "admiralsengoku",
     "display": "ADMIRAL_SENGOKU",
     "initial": 31000,
@@ -922,20 +936,6 @@
     "last_active_human": "10 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 5 230"
-  },
-  {
-    "norm": "temha9l",
-    "display": "TeMHa9l",
-    "initial": 33060,
-    "current": 45560,
-    "diff": 12500,
-    "avatar": "avatars/temha9l.jpg",
-    "profile": "https://remanga.org/user/1262251/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад",
-    "weekly": 1400,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 400\nс 06.10 по 13.10: 600"
   },
   {
     "norm": "rayze",
@@ -1271,7 +1271,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 2110,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 110\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "midwey",
