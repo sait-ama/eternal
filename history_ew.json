@@ -269,14 +269,14 @@
     "norm": "ewtaya",
     "display": "EW_Taya_",
     "initial": 48130,
-    "current": 90590,
-    "diff": 42460,
+    "current": 90860,
+    "diff": 42730,
     "avatar": "avatars/ewtaya.jpg",
     "profile": "https://remanga.org/user/2325061/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 2110,
+    "last_active_human": "сегодня",
+    "weekly": 2380,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 110\nс 06.10 по 13.10: 2 480"
   },
   {
