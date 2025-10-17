@@ -1428,6 +1428,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "ckckck",
+    "display": "CKCKCK",
+    "initial": 21100,
+    "current": 23200,
+    "diff": 2100,
+    "avatar": "avatars/ckckck.jpg",
+    "profile": "https://remanga.org/user/172319/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2100,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 100"
+  },
+  {
     "norm": "casepona",
     "display": "Casepona",
     "initial": 158000,
@@ -1496,20 +1510,6 @@
     "last_active_human": "4 дн. назад",
     "weekly": 110,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 110\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "ckckck",
-    "display": "CKCKCK",
-    "initial": 21100,
-    "current": 21200,
-    "diff": 100,
-    "avatar": "avatars/ckckck.jpg",
-    "profile": "https://remanga.org/user/172319/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 100,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 100"
   },
   {
     "norm": "nikita9",
