@@ -224,6 +224,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 10 400"
   },
   {
+    "norm": "bluefish",
+    "display": "Blue__fish",
+    "initial": 9000,
+    "current": 61000,
+    "diff": 52000,
+    "avatar": "avatars/bluefish.jpg",
+    "profile": "https://remanga.org/user/264468/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 11660,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 10 660\nс 06.10 по 13.10: 6 100"
+  },
+  {
     "norm": "ewnobon",
     "display": "EW_NoBoN",
     "initial": 65000,
@@ -236,20 +250,6 @@
     "last_active_human": "вчера",
     "weekly": 6250,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 6 250\nс 06.10 по 13.10: 2 000"
-  },
-  {
-    "norm": "bluefish",
-    "display": "Blue__fish",
-    "initial": 9000,
-    "current": 60000,
-    "diff": 51000,
-    "avatar": "avatars/bluefish.jpg",
-    "profile": "https://remanga.org/user/264468/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 10660,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 10 660\nс 06.10 по 13.10: 6 100"
   },
   {
     "norm": "unlimitedcringeworks",
@@ -1400,6 +1400,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 440"
   },
   {
+    "norm": "ckckck",
+    "display": "CKCKCK",
+    "initial": 21100,
+    "current": 24950,
+    "diff": 3850,
+    "avatar": "avatars/ckckck.jpg",
+    "profile": "https://remanga.org/user/172319/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 3850,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 100"
+  },
+  {
     "norm": "nowarries",
     "display": "No_warries",
     "initial": 16490,
@@ -1454,20 +1468,6 @@
     "last_active_human": "33 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "ckckck",
-    "display": "CKCKCK",
-    "initial": 21100,
-    "current": 23200,
-    "diff": 2100,
-    "avatar": "avatars/ckckck.jpg",
-    "profile": "https://remanga.org/user/172319/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 2100,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 100"
   },
   {
     "norm": "casepona",
