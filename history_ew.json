@@ -812,6 +812,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 700"
   },
   {
+    "norm": "chitandael",
+    "display": "Chitandael",
+    "initial": 39780,
+    "current": 54440,
+    "diff": 14660,
+    "avatar": "avatars/chitandael.jpg",
+    "profile": "https://remanga.org/user/372102/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2120,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 040\nс 06.10 по 13.10: 1 840"
+  },
+  {
     "norm": "frostik4",
     "display": "Frostik4",
     "initial": 39450,
@@ -866,20 +880,6 @@
     "last_active_human": "вчера",
     "weekly": 2110,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 110\nс 06.10 по 13.10: 2 810"
-  },
-  {
-    "norm": "chitandael",
-    "display": "Chitandael",
-    "initial": 39780,
-    "current": 53360,
-    "diff": 13580,
-    "avatar": "avatars/chitandael.jpg",
-    "profile": "https://remanga.org/user/372102/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад",
-    "weekly": 1040,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 040\nс 06.10 по 13.10: 1 840"
   },
   {
     "norm": "독부바",
