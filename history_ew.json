@@ -45,14 +45,14 @@
     "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 61970,
-    "current": 150000,
-    "diff": 88030,
+    "current": 150030,
+    "diff": 88060,
     "avatar": "avatars/akiragame.jpg",
     "profile": "https://remanga.org/user/1714962/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 9490,
+    "last_active_human": "сегодня",
+    "weekly": 9520,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 9 490\nс 06.10 по 13.10: 5 500"
   },
   {
