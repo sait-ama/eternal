@@ -1190,6 +1190,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "sallikrash",
+    "display": "SalliKrash",
+    "initial": 32500,
+    "current": 40000,
+    "diff": 7500,
+    "avatar": "avatars/sallikrash.jpg",
+    "profile": "https://remanga.org/user/73710/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 7500,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "laytee",
     "display": "Laytee",
     "initial": 10330,
@@ -1522,20 +1536,6 @@
     "guild": "Eternal Watchers",
     "is_afk": true,
     "last_active_human": "84 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "sallikrash",
-    "display": "SalliKrash",
-    "initial": 32500,
-    "current": 32500,
-    "diff": 0,
-    "avatar": "avatars/sallikrash.jpg",
-    "profile": "https://remanga.org/user/73710/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "108 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
