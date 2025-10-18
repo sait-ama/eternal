@@ -1190,6 +1190,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "laytee",
+    "display": "Laytee",
+    "initial": 10330,
+    "current": 17810,
+    "diff": 7480,
+    "avatar": "avatars/laytee.jpg",
+    "profile": "https://remanga.org/user/2488048/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2650,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 050\nс 06.10 по 13.10: 570"
+  },
+  {
     "norm": "pipimaki",
     "display": "PipiMaki",
     "initial": 5420,
@@ -1216,20 +1230,6 @@
     "last_active_human": "19 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "laytee",
-    "display": "Laytee",
-    "initial": 10330,
-    "current": 17210,
-    "diff": 6880,
-    "avatar": "avatars/laytee.jpg",
-    "profile": "https://remanga.org/user/2488048/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 2050,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 050\nс 06.10 по 13.10: 570"
   },
   {
     "norm": "гдeмoйctoяк",
@@ -1400,6 +1400,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 610"
   },
   {
+    "norm": "asesinadodios",
+    "display": "asesinadoDios",
+    "initial": 2900,
+    "current": 5900,
+    "diff": 3000,
+    "avatar": "avatars/asesinadodios.jpg",
+    "profile": "https://remanga.org/user/514882/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 3000,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "rokywka",
     "display": "RokYwka",
     "initial": 3000,
@@ -1468,20 +1482,6 @@
     "last_active_human": "42 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "asesinadodios",
-    "display": "asesinadoDios",
-    "initial": 2900,
-    "current": 3900,
-    "diff": 1000,
-    "avatar": "avatars/asesinadodios.jpg",
-    "profile": "https://remanga.org/user/514882/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад",
-    "weekly": 1000,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "sunshi",
