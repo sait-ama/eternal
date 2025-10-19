@@ -31,14 +31,14 @@
     "norm": "tenofmoses",
     "display": "tenofmoses",
     "initial": 0,
-    "current": 101000,
-    "diff": 101000,
+    "current": 106000,
+    "diff": 106000,
     "avatar": "avatars/tenofmoses.jpg",
     "profile": "https://remanga.org/user/3176212/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 20050,
+    "last_active_human": "сегодня",
+    "weekly": 25050,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 20 050\nс 06.10 по 13.10: 12 300"
   },
   {
@@ -319,7 +319,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 13000,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 3 000\nс 06.10 по 13.10: 3 000"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 13 000\nс 06.10 по 13.10: 3 000"
   },
   {
     "norm": "ronin74",
@@ -557,7 +557,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 3560,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 830\nс 06.10 по 13.10: 2 090"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 3 560\nс 06.10 по 13.10: 2 090"
   },
   {
     "norm": "vladosrat",
@@ -784,6 +784,34 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 200\nс 06.10 по 13.10: 1 160"
   },
   {
+    "norm": "chitandael",
+    "display": "Chitandael",
+    "initial": 39780,
+    "current": 55450,
+    "diff": 15670,
+    "avatar": "avatars/chitandael.jpg",
+    "profile": "https://remanga.org/user/372102/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 3130,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 120\nс 06.10 по 13.10: 1 840"
+  },
+  {
+    "norm": "katsuusa",
+    "display": "katsu_usa",
+    "initial": 5000,
+    "current": 20570,
+    "diff": 15570,
+    "avatar": "avatars/katsuusa.jpg",
+    "profile": "https://remanga.org/user/3332888/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1570,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 500\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "ctapeйшинaчy",
     "display": "Старейшина-Чу",
     "initial": 20700,
@@ -812,20 +840,6 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 5 000"
   },
   {
-    "norm": "katsuusa",
-    "display": "katsu_usa",
-    "initial": 5000,
-    "current": 20500,
-    "diff": 15500,
-    "avatar": "avatars/katsuusa.jpg",
-    "profile": "https://remanga.org/user/3332888/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад",
-    "weekly": 1500,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 500\nс 06.10 по 13.10: 0"
-  },
-  {
     "norm": "healot",
     "display": "healot",
     "initial": 21500,
@@ -838,20 +852,6 @@
     "last_active_human": "вчера",
     "weekly": 2000,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 3 000"
-  },
-  {
-    "norm": "chitandael",
-    "display": "Chitandael",
-    "initial": 39780,
-    "current": 54440,
-    "diff": 14660,
-    "avatar": "avatars/chitandael.jpg",
-    "profile": "https://remanga.org/user/372102/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 2120,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 120\nс 06.10 по 13.10: 1 840"
   },
   {
     "norm": "temha9l",
@@ -1159,7 +1159,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 1900,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 2 000"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 900\nс 06.10 по 13.10: 2 000"
   },
   {
     "norm": "zarti",
@@ -1428,6 +1428,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 220\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "asesinadodios",
+    "display": "asesinadoDios",
+    "initial": 2900,
+    "current": 6900,
+    "diff": 4000,
+    "avatar": "avatars/asesinadodios.jpg",
+    "profile": "https://remanga.org/user/514882/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 4000,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 3 000\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "nowarries",
     "display": "No_warries",
     "initial": 16490,
@@ -1440,20 +1454,6 @@
     "last_active_human": "11 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 610"
-  },
-  {
-    "norm": "asesinadodios",
-    "display": "asesinadoDios",
-    "initial": 2900,
-    "current": 5900,
-    "diff": 3000,
-    "avatar": "avatars/asesinadodios.jpg",
-    "profile": "https://remanga.org/user/514882/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 3000,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 3 000\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "rokywka",
