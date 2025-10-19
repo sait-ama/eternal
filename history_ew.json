@@ -291,7 +291,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 2540,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 380\nс 06.10 по 13.10: 2 480"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 540\nс 06.10 по 13.10: 2 480"
   },
   {
     "norm": "overcooling",
@@ -602,6 +602,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 500\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "кaпиtaнзaнyдa",
+    "display": "Капитан-зануда",
+    "initial": 12000,
+    "current": 30500,
+    "diff": 18500,
+    "avatar": "avatars/кaпиtaнзaнyдa.jpg",
+    "profile": "https://remanga.org/user/1323051/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 3000,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 5 000"
+  },
+  {
     "norm": "별팽귀",
     "display": "별팽귀",
     "initial": 28000,
@@ -614,6 +628,20 @@
     "last_active_human": "5 дн. назад",
     "weekly": 2400,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 400\nс 06.10 по 13.10: 2 650"
+  },
+  {
+    "norm": "misikira",
+    "display": "Misikira",
+    "initial": 19300,
+    "current": 37650,
+    "diff": 18350,
+    "avatar": "avatars/misikira.jpg",
+    "profile": "https://remanga.org/user/2350456/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 5351,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 3 951\nс 06.10 по 13.10: 789"
   },
   {
     "norm": "monalize",
@@ -642,6 +670,20 @@
     "last_active_human": "3 дн. назад",
     "weekly": 4000,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 4 000\nс 06.10 по 13.10: 3 000"
+  },
+  {
+    "norm": "inanitas",
+    "display": "Inanitаs",
+    "initial": 12000,
+    "current": 30000,
+    "diff": 18000,
+    "avatar": "avatars/inanitas.jpg",
+    "profile": "https://remanga.org/user/3259037/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 5000,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 4 000"
   },
   {
     "norm": "loly2810",
@@ -684,34 +726,6 @@
     "last_active_human": "2 дн. назад",
     "weekly": 1820,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 820\nс 06.10 по 13.10: 880"
-  },
-  {
-    "norm": "inanitas",
-    "display": "Inanitаs",
-    "initial": 12000,
-    "current": 29000,
-    "diff": 17000,
-    "avatar": "avatars/inanitas.jpg",
-    "profile": "https://remanga.org/user/3259037/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 4000,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 4 000"
-  },
-  {
-    "norm": "misikira",
-    "display": "Misikira",
-    "initial": 19300,
-    "current": 36250,
-    "diff": 16950,
-    "avatar": "avatars/misikira.jpg",
-    "profile": "https://remanga.org/user/2350456/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 3951,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 3 951\nс 06.10 по 13.10: 789"
   },
   {
     "norm": "totкtocмotpиt",
@@ -826,20 +840,6 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 600\nс 06.10 по 13.10: 0"
   },
   {
-    "norm": "кaпиtaнзaнyдa",
-    "display": "Капитан-зануда",
-    "initial": 12000,
-    "current": 27500,
-    "diff": 15500,
-    "avatar": "avatars/кaпиtaнзaнyдa.jpg",
-    "profile": "https://remanga.org/user/1323051/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "11 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 5 000"
-  },
-  {
     "norm": "healot",
     "display": "healot",
     "initial": 21500,
@@ -852,6 +852,20 @@
     "last_active_human": "вчера",
     "weekly": 2000,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 3 000"
+  },
+  {
+    "norm": "payk",
+    "display": "Payk_",
+    "initial": 33630,
+    "current": 48910,
+    "diff": 15280,
+    "avatar": "avatars/payk.jpg",
+    "profile": "https://remanga.org/user/155452/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2600,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 5 230"
   },
   {
     "norm": "temha9l",
@@ -922,20 +936,6 @@
     "last_active_human": "6 дн. назад",
     "weekly": 1000,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 5 000"
-  },
-  {
-    "norm": "payk",
-    "display": "Payk_",
-    "initial": 33630,
-    "current": 46310,
-    "diff": 12680,
-    "avatar": "avatars/payk.jpg",
-    "profile": "https://remanga.org/user/155452/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "11 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 5 230"
   },
   {
     "norm": "rayze",
