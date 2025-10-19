@@ -3,14 +3,14 @@
     "norm": "wertyservyt",
     "display": "Werty-Servyt",
     "initial": 212290,
-    "current": 327380,
-    "diff": 115090,
+    "current": 543490,
+    "diff": 331200,
     "avatar": "avatars/wertyservyt.jpg",
     "profile": "https://remanga.org/user/364625/about",
     "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "14 дн. назад",
-    "weekly": 0,
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 216110,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
@@ -73,14 +73,14 @@
     "norm": "caйtaмa",
     "display": "Сайтама",
     "initial": 128060,
-    "current": 211250,
-    "diff": 83190,
+    "current": 211980,
+    "diff": 83920,
     "avatar": "avatars/caйtaмa.jpg",
     "profile": "https://remanga.org/user/12762/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 10850,
+    "weekly": 11580,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 10 850\nс 06.10 по 13.10: 10 210"
   },
   {
@@ -123,7 +123,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 14750,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 14 600\nс 06.10 по 13.10: 2 550"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 14 750\nс 06.10 по 13.10: 2 550"
   },
   {
     "norm": "akiram",
