@@ -45,14 +45,14 @@
     "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 61970,
-    "current": 150030,
-    "diff": 88060,
+    "current": 150220,
+    "diff": 88250,
     "avatar": "avatars/akiragame.jpg",
     "profile": "https://remanga.org/user/1714962/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 9520,
+    "last_active_human": "сегодня",
+    "weekly": 9710,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 9 520\nс 06.10 по 13.10: 5 500"
   },
   {
@@ -1456,6 +1456,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 500"
   },
   {
+    "norm": "huahua",
+    "display": "Hua-Hua",
+    "initial": 3000,
+    "current": 5500,
+    "diff": 2500,
+    "avatar": "avatars/huahua.jpg",
+    "profile": "https://remanga.org/user/554143/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2500,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0"
+  },
+  {
     "norm": "gaynese",
     "display": "Gaynese",
     "initial": 0,
@@ -1662,20 +1676,6 @@
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "6 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0"
-  },
-  {
-    "norm": "huahua",
-    "display": "Hua-Hua",
-    "initial": 3000,
-    "current": 3000,
-    "diff": 0,
-    "avatar": "avatars/huahua.jpg",
-    "profile": "https://remanga.org/user/554143/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0"
   },
