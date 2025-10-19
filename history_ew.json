@@ -115,14 +115,14 @@
     "norm": "festashka",
     "display": "_festashka_",
     "initial": 77750,
-    "current": 151850,
-    "diff": 74100,
+    "current": 153350,
+    "diff": 75600,
     "avatar": "avatars/festashka.jpg",
     "profile": "https://remanga.org/user/199911/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 13100,
+    "last_active_human": "сегодня",
+    "weekly": 14600,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 13 100\nс 06.10 по 13.10: 2 550"
   },
   {
@@ -269,14 +269,14 @@
     "norm": "nix",
     "display": "-Nix-",
     "initial": 12000,
-    "current": 56560,
-    "diff": 44560,
+    "current": 56570,
+    "diff": 44570,
     "avatar": "avatars/nix.jpg",
     "profile": "https://remanga.org/user/46754/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 6560,
+    "weekly": 6570,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 6 560\nс 06.10 по 13.10: 15 290"
   },
   {
@@ -602,6 +602,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 3 500\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "healot",
+    "display": "healot",
+    "initial": 21500,
+    "current": 40800,
+    "diff": 19300,
+    "avatar": "avatars/healot.jpg",
+    "profile": "https://remanga.org/user/2505495/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 6000,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 3 000"
+  },
+  {
     "norm": "nebulousvortex",
     "display": "NebulousVortex",
     "initial": 5010,
@@ -840,20 +854,6 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 570\nс 06.10 по 13.10: 0"
   },
   {
-    "norm": "healot",
-    "display": "healot",
-    "initial": 21500,
-    "current": 36800,
-    "diff": 15300,
-    "avatar": "avatars/healot.jpg",
-    "profile": "https://remanga.org/user/2505495/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 2000,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 3 000"
-  },
-  {
     "norm": "payk",
     "display": "Payk_",
     "initial": 33630,
@@ -963,7 +963,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 1859,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 2 900"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 859\nс 06.10 по 13.10: 2 900"
   },
   {
     "norm": "tavik",
