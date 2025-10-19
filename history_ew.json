@@ -280,6 +280,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 6 570\nс 06.10 по 13.10: 15 290"
   },
   {
+    "norm": "overcooling",
+    "display": "Overcooling",
+    "initial": 41000,
+    "current": 84500,
+    "diff": 43500,
+    "avatar": "avatars/overcooling.jpg",
+    "profile": "https://remanga.org/user/52079/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 8500,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 7 000\nс 06.10 по 13.10: 2 000"
+  },
+  {
     "norm": "ewtaya",
     "display": "EW_Taya_",
     "initial": 48130,
@@ -292,20 +306,6 @@
     "last_active_human": "сегодня",
     "weekly": 2540,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 540\nс 06.10 по 13.10: 2 480"
-  },
-  {
-    "norm": "overcooling",
-    "display": "Overcooling",
-    "initial": 41000,
-    "current": 83000,
-    "diff": 42000,
-    "avatar": "avatars/overcooling.jpg",
-    "profile": "https://remanga.org/user/52079/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад",
-    "weekly": 7000,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 7 000\nс 06.10 по 13.10: 2 000"
   },
   {
     "norm": "лoхoбыкнoвeнный",
