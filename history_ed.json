@@ -896,6 +896,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "silenthill",
+    "display": "SilentHill",
+    "initial": 24000,
+    "current": 26150,
+    "diff": 2150,
+    "avatar": "avatars/silenthill.jpg",
+    "profile": "https://remanga.org/user/54424/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2150,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "lorden",
     "display": "Lorden",
     "initial": 0,
@@ -934,20 +948,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "4 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "silenthill",
-    "display": "SilentHill",
-    "initial": 24000,
-    "current": 24000,
-    "diff": 0,
-    "avatar": "avatars/silenthill.jpg",
-    "profile": "https://remanga.org/user/54424/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "нет данных",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
