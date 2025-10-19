@@ -39,7 +39,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 25050,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 20 050\nс 06.10 по 13.10: 12 300"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 25 050\nс 06.10 по 13.10: 12 300"
   },
   {
     "norm": "akiragame",
@@ -283,14 +283,14 @@
     "norm": "ewtaya",
     "display": "EW_Taya_",
     "initial": 48130,
-    "current": 90860,
-    "diff": 42730,
+    "current": 91020,
+    "diff": 42890,
     "avatar": "avatars/ewtaya.jpg",
     "profile": "https://remanga.org/user/2325061/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 2380,
+    "last_active_human": "сегодня",
+    "weekly": 2540,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 380\nс 06.10 по 13.10: 2 480"
   },
   {
@@ -795,7 +795,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 3130,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 120\nс 06.10 по 13.10: 1 840"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 3 130\nс 06.10 по 13.10: 1 840"
   },
   {
     "norm": "katsuusa",
@@ -809,7 +809,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 1570,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 500\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 570\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "ctapeйшинaчy",
@@ -1439,7 +1439,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 4000,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 3 000\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 4 000\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "nowarries",
