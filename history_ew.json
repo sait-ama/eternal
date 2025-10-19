@@ -1064,6 +1064,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 300\nс 06.10 по 13.10: 200"
   },
   {
+    "norm": "mangalev",
+    "display": "mangalev",
+    "initial": 12340,
+    "current": 23010,
+    "diff": 10670,
+    "avatar": "avatars/mangalev.jpg",
+    "profile": "https://remanga.org/user/1096325/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1400,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 720\nс 06.10 по 13.10: 200"
+  },
+  {
     "norm": "abyss",
     "display": "_Abyss_",
     "initial": 19840,
@@ -1104,20 +1118,6 @@
     "last_active_human": "26 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "mangalev",
-    "display": "mangalev",
-    "initial": 12340,
-    "current": 22330,
-    "diff": 9990,
-    "avatar": "avatars/mangalev.jpg",
-    "profile": "https://remanga.org/user/1096325/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня",
-    "weekly": 720,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 600\nс 06.10 по 13.10: 200"
   },
   {
     "norm": "elduck",
