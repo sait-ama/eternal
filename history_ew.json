@@ -115,14 +115,14 @@
     "norm": "festashka",
     "display": "_festashka_",
     "initial": 77750,
-    "current": 153350,
-    "diff": 75600,
+    "current": 153500,
+    "diff": 75750,
     "avatar": "avatars/festashka.jpg",
     "profile": "https://remanga.org/user/199911/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 14600,
+    "weekly": 14750,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 14 600\nс 06.10 по 13.10: 2 550"
   },
   {
@@ -143,14 +143,14 @@
     "norm": "кaйдeн",
     "display": "Кайден",
     "initial": 64610,
-    "current": 133070,
-    "diff": 68460,
+    "current": 134340,
+    "diff": 69730,
     "avatar": "avatars/кaйдeн.jpg",
     "profile": "https://remanga.org/user/439629/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 11340,
+    "weekly": 12610,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 11 340\nс 06.10 по 13.10: 7 230"
   },
   {
@@ -166,6 +166,20 @@
     "last_active_human": "4 дн. назад",
     "weekly": 28000,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 28 000\nс 06.10 по 13.10: 1 000"
+  },
+  {
+    "norm": "kodokunayurei",
+    "display": "KodokunaYurei",
+    "initial": 104390,
+    "current": 167990,
+    "diff": 63600,
+    "avatar": "avatars/kodokunayurei.jpg",
+    "profile": "https://remanga.org/user/108546/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 10800,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "яшtyг",
@@ -222,20 +236,6 @@
     "last_active_human": "сегодня",
     "weekly": 13170,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 13 170\nс 06.10 по 13.10: 6 100"
-  },
-  {
-    "norm": "kodokunayurei",
-    "display": "KodokunaYurei",
-    "initial": 104390,
-    "current": 157190,
-    "diff": 52800,
-    "avatar": "avatars/kodokunayurei.jpg",
-    "profile": "https://remanga.org/user/108546/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "15 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "ewnobon",
