@@ -899,14 +899,14 @@
     "norm": "йopм",
     "display": "Йорм",
     "initial": 23340,
-    "current": 37290,
-    "diff": 13950,
+    "current": 37350,
+    "diff": 14010,
     "avatar": "avatars/йopм.jpg",
     "profile": "https://remanga.org/user/208257/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 2150,
+    "weekly": 2210,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 150\nс 06.10 по 13.10: 2 810"
   },
   {
@@ -1047,7 +1047,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 2010,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 1 400\nс 06.10 по 13.10: 200"
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 010\nс 06.10 по 13.10: 200"
   },
   {
     "norm": "pupstv",
@@ -1428,6 +1428,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 220\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "rokywka",
+    "display": "RokYwka",
+    "initial": 3000,
+    "current": 7150,
+    "diff": 4150,
+    "avatar": "avatars/rokywka.jpg",
+    "profile": "https://remanga.org/user/1339341/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 4150,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 500"
+  },
+  {
     "norm": "asesinadodios",
     "display": "asesinadoDios",
     "initial": 2900,
@@ -1454,20 +1468,6 @@
     "last_active_human": "сегодня",
     "weekly": 810,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 810\nс 06.10 по 13.10: 610"
-  },
-  {
-    "norm": "rokywka",
-    "display": "RokYwka",
-    "initial": 3000,
-    "current": 5500,
-    "diff": 2500,
-    "avatar": "avatars/rokywka.jpg",
-    "profile": "https://remanga.org/user/1339341/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 2500,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 2 500"
   },
   {
     "norm": "huahua",
