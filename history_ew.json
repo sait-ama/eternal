@@ -140,6 +140,20 @@
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 8 220\nс 06.10 по 13.10: 1 800"
   },
   {
+    "norm": "кaйдeн",
+    "display": "Кайден",
+    "initial": 64610,
+    "current": 133070,
+    "diff": 68460,
+    "avatar": "avatars/кaйдeн.jpg",
+    "profile": "https://remanga.org/user/439629/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 11340,
+    "weekly_hint": "История недель:\nс 13.10 по 20.10: 9 760\nс 06.10 по 13.10: 7 230"
+  },
+  {
     "norm": "ፚꮼꮢꭵ૮ꮒꮶꮧ",
     "display": "ፚᏬᏒᎥ૮ᏂᏦᏗ",
     "initial": 80000,
@@ -152,20 +166,6 @@
     "last_active_human": "4 дн. назад",
     "weekly": 28000,
     "weekly_hint": "История недель:\nс 13.10 по 20.10: 28 000\nс 06.10 по 13.10: 1 000"
-  },
-  {
-    "norm": "кaйдeн",
-    "display": "Кайден",
-    "initial": 64610,
-    "current": 131490,
-    "diff": 66880,
-    "avatar": "avatars/кaйдeн.jpg",
-    "profile": "https://remanga.org/user/439629/about",
-    "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 9760,
-    "weekly_hint": "История недель:\nс 13.10 по 20.10: 9 760\nс 06.10 по 13.10: 7 230"
   },
   {
     "norm": "яшtyг",
