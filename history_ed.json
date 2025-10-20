@@ -336,6 +336,20 @@
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 9 000\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 1 000"
   },
   {
+    "norm": "vallynor",
+    "display": "Vallynor",
+    "initial": 12000,
+    "current": 21000,
+    "diff": 9000,
+    "avatar": "avatars/vallynor.jpg",
+    "profile": "https://remanga.org/user/876246/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 9000,
+    "weekly_hint": "История недель:\nс 20.10 по 27.10: 8 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "dmitryflow",
     "display": "DmitryFlow",
     "initial": 24000,
@@ -504,6 +518,20 @@
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 8 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "sw1ty",
+    "display": "Sw1ty",
+    "initial": 11000,
+    "current": 19000,
+    "diff": 8000,
+    "avatar": "avatars/sw1ty.jpg",
+    "profile": "https://remanga.org/user/3154400/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 8000,
+    "weekly_hint": "История недель:\nс 20.10 по 27.10: 7 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "samurai",
     "display": "S.a.m.u.r.a.i.",
     "initial": 11000,
@@ -516,20 +544,6 @@
     "last_active_human": "вчера",
     "weekly": 8000,
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 8 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 1 000"
-  },
-  {
-    "norm": "vallynor",
-    "display": "Vallynor",
-    "initial": 12000,
-    "current": 20000,
-    "diff": 8000,
-    "avatar": "avatars/vallynor.jpg",
-    "profile": "https://remanga.org/user/876246/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад",
-    "weekly": 8000,
-    "weekly_hint": "История недель:\nс 20.10 по 27.10: 8 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "kost9n",
@@ -616,6 +630,20 @@
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 7 500\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "fox94",
+    "display": "Fox94",
+    "initial": 10750,
+    "current": 18250,
+    "diff": 7500,
+    "avatar": "avatars/fox94.jpg",
+    "profile": "https://remanga.org/user/158404/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 7500,
+    "weekly_hint": "История недель:\nс 20.10 по 27.10: 6 750\nс 13.10 по 20.10: 750\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "flammenoire",
     "display": "FlammeNoire",
     "initial": 42130,
@@ -642,20 +670,6 @@
     "last_active_human": "7 дн. назад",
     "weekly": 7100,
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 7 100\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "sw1ty",
-    "display": "Sw1ty",
-    "initial": 11000,
-    "current": 18000,
-    "diff": 7000,
-    "avatar": "avatars/sw1ty.jpg",
-    "profile": "https://remanga.org/user/3154400/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад",
-    "weekly": 7000,
-    "weekly_hint": "История недель:\nс 20.10 по 27.10: 7 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "acediaqq",
@@ -698,20 +712,6 @@
     "last_active_human": "5 дн. назад",
     "weekly": 7000,
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 7 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "fox94",
-    "display": "Fox94",
-    "initial": 10750,
-    "current": 17500,
-    "diff": 6750,
-    "avatar": "avatars/fox94.jpg",
-    "profile": "https://remanga.org/user/158404/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад",
-    "weekly": 6750,
-    "weekly_hint": "История недель:\nс 20.10 по 27.10: 6 750\nс 13.10 по 20.10: 750\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "meimei",
