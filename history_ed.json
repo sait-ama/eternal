@@ -630,6 +630,20 @@
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 7 580\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "flammenoire",
+    "display": "FlammeNoire",
+    "initial": 42130,
+    "current": 49630,
+    "diff": 7500,
+    "avatar": "avatars/flammenoire.jpg",
+    "profile": "https://remanga.org/user/2384260/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 7500,
+    "weekly_hint": "История недель:\nс 20.10 по 27.10: 7 350\nс 13.10 по 20.10: 1 240\nс 06.10 по 13.10: 1 430"
+  },
+  {
     "norm": "llikojioma",
     "display": "LLIKoJIoma",
     "initial": 10500,
@@ -656,20 +670,6 @@
     "last_active_human": "сегодня",
     "weekly": 7500,
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 7 500\nс 13.10 по 20.10: 750\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "flammenoire",
-    "display": "FlammeNoire",
-    "initial": 42130,
-    "current": 49480,
-    "diff": 7350,
-    "avatar": "avatars/flammenoire.jpg",
-    "profile": "https://remanga.org/user/2384260/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 7350,
-    "weekly_hint": "История недель:\nс 20.10 по 27.10: 7 350\nс 13.10 по 20.10: 1 240\nс 06.10 по 13.10: 1 430"
   },
   {
     "norm": "acediaqq",
