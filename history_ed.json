@@ -182,6 +182,20 @@
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 11 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "sas47",
+    "display": "Sas47",
+    "initial": 14010,
+    "current": 25010,
+    "diff": 11000,
+    "avatar": "avatars/sas47.jpg",
+    "profile": "https://remanga.org/user/2044615/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 11000,
+    "weekly_hint": "История недель:\nс 20.10 по 27.10: 10 000\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "aмeн",
     "display": "Амен",
     "initial": 11000,
@@ -236,20 +250,6 @@
     "last_active_human": "вчера",
     "weekly": 10000,
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 10 000\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 1 000"
-  },
-  {
-    "norm": "sas47",
-    "display": "Sas47",
-    "initial": 14010,
-    "current": 24010,
-    "diff": 10000,
-    "avatar": "avatars/sas47.jpg",
-    "profile": "https://remanga.org/user/2044615/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "13 дн. назад",
-    "weekly": 10000,
-    "weekly_hint": "История недель:\nс 20.10 по 27.10: 10 000\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "bigmen07",
