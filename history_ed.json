@@ -25,7 +25,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 25810,
-    "weekly_hint": "История недель:\nс 20.10 по 27.10: 25 110\nс 13.10 по 20.10: 5 110\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 20.10 по 27.10: 25 810\nс 13.10 по 20.10: 5 110\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "beastx",
@@ -196,6 +196,20 @@
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 11 090\nс 13.10 по 20.10: 3 080\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "samurafs",
+    "display": "SamuraFs",
+    "initial": 11000,
+    "current": 22000,
+    "diff": 11000,
+    "avatar": "avatars/samurafs.jpg",
+    "profile": "https://remanga.org/user/93225/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 11000,
+    "weekly_hint": "История недель:\nс 20.10 по 27.10: 10 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 1 000"
+  },
+  {
     "norm": "sas47",
     "display": "Sas47",
     "initial": 14010,
@@ -236,20 +250,6 @@
     "last_active_human": "8 дн. назад",
     "weekly": 10730,
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 10 730\nс 13.10 по 20.10: 3 150\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "samurafs",
-    "display": "SamuraFs",
-    "initial": 11000,
-    "current": 21000,
-    "diff": 10000,
-    "avatar": "avatars/samurafs.jpg",
-    "profile": "https://remanga.org/user/93225/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад",
-    "weekly": 10000,
-    "weekly_hint": "История недель:\nс 20.10 по 27.10: 10 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 1 000"
   },
   {
     "norm": "akashi550",
