@@ -112,6 +112,20 @@
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 13 890\nс 13.10 по 20.10: 1 300\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "mmarti",
+    "display": "mmarti",
+    "initial": 13000,
+    "current": 26550,
+    "diff": 13550,
+    "avatar": "avatars/mmarti.jpg",
+    "profile": "https://remanga.org/user/184784/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 13550,
+    "weekly_hint": "История недель:\nс 20.10 по 27.10: 12 550\nс 13.10 по 20.10: 3 000\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "cracker7",
     "display": "Cracker_7",
     "initial": 12000,
@@ -138,20 +152,6 @@
     "last_active_human": "4 дн. назад",
     "weekly": 12800,
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 12 800\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 500"
-  },
-  {
-    "norm": "mmarti",
-    "display": "mmarti",
-    "initial": 13000,
-    "current": 25550,
-    "diff": 12550,
-    "avatar": "avatars/mmarti.jpg",
-    "profile": "https://remanga.org/user/184784/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 12550,
-    "weekly_hint": "История недель:\nс 20.10 по 27.10: 12 550\nс 13.10 по 20.10: 3 000\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "alld995",
