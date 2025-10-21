@@ -252,6 +252,20 @@
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 10 730\nс 13.10 по 20.10: 3 150\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "@toxic",
+    "display": "@𝑻𝑶𝑿𝑰𝑪",
+    "initial": 23200,
+    "current": 33600,
+    "diff": 10400,
+    "avatar": "avatars/@toxic.jpg",
+    "profile": "https://remanga.org/user/3204383/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 10400,
+    "weekly_hint": "История недель:\nс 20.10 по 27.10: 9 960\nс 13.10 по 20.10: 1 920\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "akashi550",
     "display": "Akashi550",
     "initial": 12000,
@@ -308,20 +322,6 @@
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 10 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 1 000"
   },
   {
-    "norm": "@toxic",
-    "display": "@𝑻𝑶𝑿𝑰𝑪",
-    "initial": 23200,
-    "current": 33160,
-    "diff": 9960,
-    "avatar": "avatars/@toxic.jpg",
-    "profile": "https://remanga.org/user/3204383/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад",
-    "weekly": 9960,
-    "weekly_hint": "История недель:\nс 20.10 по 27.10: 9 960\nс 13.10 по 20.10: 1 920\nс 06.10 по 13.10: 0"
-  },
-  {
     "norm": "akihiko",
     "display": "Akihiko",
     "initial": 9000,
@@ -347,7 +347,7 @@
     "is_afk": false,
     "last_active_human": "сегодня",
     "weekly": 9290,
-    "weekly_hint": "История недель:\nс 20.10 по 27.10: 8 290\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
+    "weekly_hint": "История недель:\nс 20.10 по 27.10: 9 290\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "vallynor",
