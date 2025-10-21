@@ -406,6 +406,20 @@
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 8 999\nс 13.10 по 20.10: 1 499\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "riverfreedom",
+    "display": "RiverFreedom",
+    "initial": 15800,
+    "current": 24700,
+    "diff": 8900,
+    "avatar": "avatars/riverfreedom.jpg",
+    "profile": "https://remanga.org/user/3215284/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 8900,
+    "weekly_hint": "История недель:\nс 20.10 по 27.10: 8 400\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "etoromantic",
     "display": "etoRomantic",
     "initial": 11000,
@@ -460,20 +474,6 @@
     "last_active_human": "вчера",
     "weekly": 8580,
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 8 580\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "riverfreedom",
-    "display": "RiverFreedom",
-    "initial": 15800,
-    "current": 24200,
-    "diff": 8400,
-    "avatar": "avatars/riverfreedom.jpg",
-    "profile": "https://remanga.org/user/3215284/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад",
-    "weekly": 8400,
-    "weekly_hint": "История недель:\nс 20.10 по 27.10: 8 400\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "trillo",
