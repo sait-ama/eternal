@@ -196,6 +196,20 @@
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 1 880\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "ronin74",
+    "display": "Ronin74",
+    "initial": 54200,
+    "current": 65410,
+    "diff": 11210,
+    "avatar": "avatars/ronin74.jpg",
+    "profile": "https://remanga.org/user/76998/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2590,
+    "weekly_hint": "История недель:\nс 20.10 по 27.10: 2 590\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "hatin",
     "display": "Hatin",
     "initial": 12900,
@@ -236,20 +250,6 @@
     "last_active_human": "4 дн. назад",
     "weekly": 1000,
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "ronin74",
-    "display": "Ronin74",
-    "initial": 54200,
-    "current": 64959,
-    "diff": 10759,
-    "avatar": "avatars/ronin74.jpg",
-    "profile": "https://remanga.org/user/76998/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня",
-    "weekly": 2139,
-    "weekly_hint": "История недель:\nс 20.10 по 27.10: 2 139\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "aмeн",
