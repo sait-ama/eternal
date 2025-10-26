@@ -266,6 +266,20 @@
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 2 590\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "ckckck",
+    "display": "CKCKCK",
+    "initial": 11000,
+    "current": 22150,
+    "diff": 11150,
+    "avatar": "avatars/ckckck.jpg",
+    "profile": "https://remanga.org/user/172319/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 6150,
+    "weekly_hint": "История недель:\nс 20.10 по 27.10: 6 150\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "samurafs",
     "display": "SamuraFs",
     "initial": 11000,
@@ -614,20 +628,6 @@
     "last_active_human": "6 дн. назад",
     "weekly": 1000,
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "ckckck",
-    "display": "CKCKCK",
-    "initial": 11000,
-    "current": 19050,
-    "diff": 8050,
-    "avatar": "avatars/ckckck.jpg",
-    "profile": "https://remanga.org/user/172319/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад",
-    "weekly": 3050,
-    "weekly_hint": "История недель:\nс 20.10 по 27.10: 3 050\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "banshei",
