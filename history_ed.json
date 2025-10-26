@@ -42,6 +42,20 @@
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 20 000\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "издateль",
+    "display": "Издатель",
+    "initial": 14780,
+    "current": 37300,
+    "diff": 22520,
+    "avatar": "avatars/издateль.jpg",
+    "profile": "https://remanga.org/user/2439923/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 3730,
+    "weekly_hint": "История недель:\nс 20.10 по 27.10: 3 730\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 2 990"
+  },
+  {
     "norm": "rubyrose",
     "display": "RUBYROSE",
     "initial": 20450,
@@ -54,20 +68,6 @@
     "last_active_human": "2 дн. назад",
     "weekly": 1320,
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 1 320\nс 13.10 по 20.10: 3 740\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "издateль",
-    "display": "Издатель",
-    "initial": 14780,
-    "current": 35570,
-    "diff": 20790,
-    "avatar": "avatars/издateль.jpg",
-    "profile": "https://remanga.org/user/2439923/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад",
-    "weekly": 2000,
-    "weekly_hint": "История недель:\nс 20.10 по 27.10: 2 000\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 2 990"
   },
   {
     "norm": "stas211242",
