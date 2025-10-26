@@ -196,6 +196,20 @@
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 1 260\nс 13.10 по 20.10: 3 080\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "oblakatt",
+    "display": "OblakaT_T",
+    "initial": 13000,
+    "current": 25000,
+    "diff": 12000,
+    "avatar": "avatars/oblakatt.jpg",
+    "profile": "https://remanga.org/user/474087/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 3000,
+    "weekly_hint": "История недель:\nс 20.10 по 27.10: 3 000\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 1 000"
+  },
+  {
     "norm": "alld995",
     "display": "AllD-995",
     "initial": 17000,
@@ -306,20 +320,6 @@
     "last_active_human": "4 дн. назад",
     "weekly": 440,
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 440\nс 13.10 по 20.10: 1 920\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "oblakatt",
-    "display": "OblakaT_T",
-    "initial": 13000,
-    "current": 23000,
-    "diff": 10000,
-    "avatar": "avatars/oblakatt.jpg",
-    "profile": "https://remanga.org/user/474087/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад",
-    "weekly": 1000,
-    "weekly_hint": "История недель:\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 1 000"
   },
   {
     "norm": "bigmen07",
