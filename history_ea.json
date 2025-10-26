@@ -1,5 +1,19 @@
 [
   {
+    "norm": "ewobserver",
+    "display": "EW_OBSERVER",
+    "initial": 155,
+    "current": 156,
+    "diff": 1,
+    "avatar": "avatars/ewobserver.jpg",
+    "profile": "https://remanga.org/user/141395/about",
+    "guild": "Eternal Angelic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1,
+    "weekly_hint": "История недель:\nс 20.10 по 27.10: 1"
+  },
+  {
     "norm": "wertyservyt",
     "display": "Werty-Servyt",
     "initial": 52850,
@@ -133,20 +147,6 @@
     "diff": 0,
     "avatar": "avatars/qbz92.jpg",
     "profile": "https://remanga.org/user/82014/about",
-    "guild": "Eternal Angelic",
-    "is_afk": true,
-    "last_active_human": "нет данных",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 20.10 по 27.10: 0"
-  },
-  {
-    "norm": "ewobserver",
-    "display": "EW_OBSERVER",
-    "initial": 155,
-    "current": 155,
-    "diff": 0,
-    "avatar": "avatars/ewobserver.jpg",
-    "profile": "https://remanga.org/user/141395/about",
     "guild": "Eternal Angelic",
     "is_afk": true,
     "last_active_human": "нет данных",
