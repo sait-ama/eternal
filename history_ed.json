@@ -770,6 +770,20 @@
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 430"
   },
   {
+    "norm": "oporlew",
+    "display": "oporlew",
+    "initial": 5000,
+    "current": 11500,
+    "diff": 6500,
+    "avatar": "avatars/oporlew.jpg",
+    "profile": "https://remanga.org/user/2602/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 3000,
+    "weekly_hint": "История недель:\nс 20.10 по 27.10: 3 000\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "hazenberg",
     "display": "Hazenberg",
     "initial": 9000,
@@ -782,20 +796,6 @@
     "last_active_human": "5 дн. назад",
     "weekly": 1000,
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "oporlew",
-    "display": "oporlew",
-    "initial": 5000,
-    "current": 10100,
-    "diff": 5100,
-    "avatar": "avatars/oporlew.jpg",
-    "profile": "https://remanga.org/user/2602/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад",
-    "weekly": 1600,
-    "weekly_hint": "История недель:\nс 20.10 по 27.10: 1 600\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "takahikoo",
