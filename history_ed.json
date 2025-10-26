@@ -196,6 +196,20 @@
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 1 880\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "akashi550",
+    "display": "Akashi550",
+    "initial": 12000,
+    "current": 23370,
+    "diff": 11370,
+    "avatar": "avatars/akashi550.jpg",
+    "profile": "https://remanga.org/user/617426/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1370,
+    "weekly_hint": "История недель:\nс 20.10 по 27.10: 1 370\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 1 000"
+  },
+  {
     "norm": "ronin74",
     "display": "Ronin74",
     "initial": 54200,
@@ -278,20 +292,6 @@
     "last_active_human": "4 дн. назад",
     "weekly": 440,
     "weekly_hint": "История недель:\nс 20.10 по 27.10: 440\nс 13.10 по 20.10: 1 920\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "akashi550",
-    "display": "Akashi550",
-    "initial": 12000,
-    "current": 22000,
-    "diff": 10000,
-    "avatar": "avatars/akashi550.jpg",
-    "profile": "https://remanga.org/user/617426/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 1 000"
   },
   {
     "norm": "oblakatt",
