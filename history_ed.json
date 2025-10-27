@@ -378,6 +378,20 @@
     "weekly_hint": "История недель:\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 1 000"
   },
   {
+    "norm": "etoromantic",
+    "display": "etoRomantic",
+    "initial": 11000,
+    "current": 21000,
+    "diff": 10000,
+    "avatar": "avatars/etoromantic.jpg",
+    "profile": "https://remanga.org/user/90646/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1150,
+    "weekly_hint": "История недель:\nс 27.10 по 03.11: 1 150\nс 20.10 по 27.10: 1 150\nс 13.10 по 20.10: 1 150\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "bigmen07",
     "display": "BigMen07",
     "initial": 9000,
@@ -572,20 +586,6 @@
     "last_active_human": "21 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "etoromantic",
-    "display": "etoRomantic",
-    "initial": 11000,
-    "current": 19850,
-    "diff": 8850,
-    "avatar": "avatars/etoromantic.jpg",
-    "profile": "https://remanga.org/user/90646/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 1 150\nс 13.10 по 20.10: 1 150\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "kaizaki",
