@@ -476,6 +476,20 @@
     "weekly_hint": "История недель:\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "llikojioma",
+    "display": "LLIKoJIoma",
+    "initial": 10500,
+    "current": 20000,
+    "diff": 9500,
+    "avatar": "avatars/llikojioma.jpg",
+    "profile": "https://remanga.org/user/938430/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1000,
+    "weekly_hint": "История недель:\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "akihiko",
     "display": "Akihiko",
     "initial": 9000,
@@ -642,20 +656,6 @@
     "last_active_human": "12 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "llikojioma",
-    "display": "LLIKoJIoma",
-    "initial": 10500,
-    "current": 19000,
-    "diff": 8500,
-    "avatar": "avatars/llikojioma.jpg",
-    "profile": "https://remanga.org/user/938430/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "fox94",
