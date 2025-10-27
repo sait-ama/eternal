@@ -238,6 +238,20 @@
     "weekly_hint": "История недель:\nс 27.10 по 03.11: 2 000\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "leyley",
+    "display": "Ley-Ley",
+    "initial": 10100,
+    "current": 22070,
+    "diff": 11970,
+    "avatar": "avatars/leyley.jpg",
+    "profile": "https://remanga.org/user/24708/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1000,
+    "weekly_hint": "История недель:\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "webru",
     "display": "WebRU",
     "initial": 19820,
@@ -320,20 +334,6 @@
     "last_active_human": "сегодня",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 1 400\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "leyley",
-    "display": "Ley-Ley",
-    "initial": 10100,
-    "current": 21070,
-    "diff": 10970,
-    "avatar": "avatars/leyley.jpg",
-    "profile": "https://remanga.org/user/24708/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "aмeн",
