@@ -518,6 +518,20 @@
     "weekly_hint": "История недель:\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 2 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "sw1ty",
+    "display": "Sw1ty",
+    "initial": 11000,
+    "current": 20000,
+    "diff": 9000,
+    "avatar": "avatars/sw1ty.jpg",
+    "profile": "https://remanga.org/user/3154400/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1000,
+    "weekly_hint": "История недель:\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "samurai",
     "display": "S.a.m.u.r.a.i.",
     "initial": 11000,
@@ -670,20 +684,6 @@
     "last_active_human": "12 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "sw1ty",
-    "display": "Sw1ty",
-    "initial": 11000,
-    "current": 19000,
-    "diff": 8000,
-    "avatar": "avatars/sw1ty.jpg",
-    "profile": "https://remanga.org/user/3154400/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "acediaqq",
