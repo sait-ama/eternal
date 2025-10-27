@@ -45,15 +45,15 @@
     "norm": "издateль",
     "display": "Издатель",
     "initial": 14780,
-    "current": 37300,
-    "diff": 22520,
+    "current": 37880,
+    "diff": 23100,
     "avatar": "avatars/издateль.jpg",
     "profile": "https://remanga.org/user/2439923/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 3 730\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 2 990"
+    "last_active_human": "сегодня",
+    "weekly": 580,
+    "weekly_hint": "История недель:\nс 27.10 по 03.11: 580\nс 20.10 по 27.10: 3 730\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 2 990"
   },
   {
     "norm": "rubyrose",
