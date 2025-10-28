@@ -87,15 +87,15 @@
     "norm": "mmarti",
     "display": "mmarti",
     "initial": 13000,
-    "current": 29950,
-    "diff": 16950,
+    "current": 30950,
+    "diff": 17950,
     "avatar": "avatars/mmarti.jpg",
     "profile": "https://remanga.org/user/184784/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "4 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 6 950\nс 13.10 по 20.10: 3 000\nс 06.10 по 13.10: 0"
+    "last_active_human": "сегодня",
+    "weekly": 1000,
+    "weekly_hint": "История недель:\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 6 950\nс 13.10 по 20.10: 3 000\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "ewobserver",
