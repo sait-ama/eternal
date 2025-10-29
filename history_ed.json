@@ -978,5 +978,19 @@
     "last_active_human": "14 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+  },
+  {
+    "norm": "reyrivman",
+    "display": "ReyRivman",
+    "initial": 0,
+    "current": 0,
+    "diff": 0,
+    "avatar": "avatars/reyrivman.jpg",
+    "profile": "https://remanga.org/user/1967242/about",
+    "guild": "Eternal Demonic",
+    "is_afk": true,
+    "last_active_human": "нет данных",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 27.10 по 03.11: 0"
   }
 ]
