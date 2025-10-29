@@ -1064,20 +1064,6 @@
     "weekly_hint": "История недель:\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 1 200\nс 06.10 по 13.10: 0"
   },
   {
-    "norm": "хeйtepдoкa",
-    "display": "Хейтер_Дока",
-    "initial": 45880,
-    "current": 56790,
-    "diff": 10910,
-    "avatar": "avatars/хeйtepдoкa.jpg",
-    "profile": "https://remanga.org/user/2105597/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "15 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 1 130\nс 06.10 по 13.10: 0"
-  },
-  {
     "norm": "calistotzy",
     "display": "CalistoTzy",
     "initial": 117000,
@@ -1538,6 +1524,20 @@
     "last_active_human": "16 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 110\nс 06.10 по 13.10: 0"
+  },
+  {
+    "norm": "хeйtepдoкa",
+    "display": "Хейтер_Дока",
+    "initial": 45880,
+    "current": 45880,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Watchers",
+    "is_afk": true,
+    "last_active_human": "15 дн. назад",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 1 130\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "nikita9",
