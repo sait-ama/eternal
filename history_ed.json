@@ -154,6 +154,20 @@
     "weekly_hint": "История недель:\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 1 500\nс 13.10 по 20.10: 2 250\nс 06.10 по 13.10: 1 000"
   },
   {
+    "norm": "flammenoire",
+    "display": "FlammeNoire",
+    "initial": 42130,
+    "current": 56380,
+    "diff": 14250,
+    "avatar": "avatars/flammenoire.jpg",
+    "profile": "https://remanga.org/user/2384260/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1580,
+    "weekly_hint": "История недель:\nс 27.10 по 03.11: 1 580\nс 20.10 по 27.10: 5 320\nс 13.10 по 20.10: 1 240\nс 06.10 по 13.10: 1 430"
+  },
+  {
     "norm": "lucifiel",
     "display": "--Lucifiel--",
     "initial": 12500,
@@ -166,20 +180,6 @@
     "last_active_human": "сегодня",
     "weekly": 400,
     "weekly_hint": "История недель:\nс 27.10 по 03.11: 400\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 500"
-  },
-  {
-    "norm": "flammenoire",
-    "display": "FlammeNoire",
-    "initial": 42130,
-    "current": 55290,
-    "diff": 13160,
-    "avatar": "avatars/flammenoire.jpg",
-    "profile": "https://remanga.org/user/2384260/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня",
-    "weekly": 490,
-    "weekly_hint": "История недель:\nс 27.10 по 03.11: 490\nс 20.10 по 27.10: 5 320\nс 13.10 по 20.10: 1 240\nс 06.10 по 13.10: 1 430"
   },
   {
     "norm": "alld995",
