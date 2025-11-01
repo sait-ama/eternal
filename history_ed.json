@@ -882,6 +882,20 @@
     "weekly_hint": "История недель:\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 3 790\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "tenofmoses",
+    "display": "tenofmoses",
+    "initial": 0,
+    "current": 3350,
+    "diff": 3350,
+    "avatar": "avatars/tenofmoses.jpg",
+    "profile": "https://remanga.org/user/3176212/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2650,
+    "weekly_hint": "История недель:\nс 27.10 по 03.11: 2 650\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "дoлинapeкиcetyнь",
     "display": "ДолинаРекиСетунь",
     "initial": 21750,
@@ -950,20 +964,6 @@
     "last_active_human": "12 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 100\nс 13.10 по 20.10: 1 100"
-  },
-  {
-    "norm": "tenofmoses",
-    "display": "tenofmoses",
-    "initial": 0,
-    "current": 1250,
-    "diff": 1250,
-    "avatar": "avatars/tenofmoses.jpg",
-    "profile": "https://remanga.org/user/3176212/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад",
-    "weekly": 550,
-    "weekly_hint": "История недель:\nс 27.10 по 03.11: 550\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "kintownskiy",
