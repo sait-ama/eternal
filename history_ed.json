@@ -938,6 +938,20 @@
     "weekly_hint": "История недель:\nс 27.10 по 03.11: 0"
   },
   {
+    "norm": "jacksaifer",
+    "display": "JackSaifer",
+    "initial": 0,
+    "current": 3000,
+    "diff": 3000,
+    "avatar": "avatars/jacksaifer.jpg",
+    "profile": "https://remanga.org/user/349030/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 27.10 по 03.11: 0"
+  },
+  {
     "norm": "alanhui",
     "display": "alan-hui",
     "initial": 8660,
@@ -1001,20 +1015,6 @@
     "diff": 0,
     "avatar": "avatars/reyrivman.jpg",
     "profile": "https://remanga.org/user/1967242/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "нет данных",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 27.10 по 03.11: 0"
-  },
-  {
-    "norm": "jacksaifer",
-    "display": "JackSaifer",
-    "initial": 0,
-    "current": 0,
-    "diff": 0,
-    "avatar": "avatars/jacksaifer.jpg",
-    "profile": "https://remanga.org/user/349030/about",
     "guild": "Eternal Demonic",
     "is_afk": true,
     "last_active_human": "нет данных",
