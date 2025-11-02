@@ -686,6 +686,20 @@
     "weekly_hint": "История недель:\nс 27.10 по 03.11: 830\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 1 600"
   },
   {
+    "norm": "jdhdbx",
+    "display": "Jdhdbx",
+    "initial": 12840,
+    "current": 21260,
+    "diff": 8420,
+    "avatar": "avatars/jdhdbx.jpg",
+    "profile": "https://remanga.org/user/1911610/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1600,
+    "weekly_hint": "История недель:\nс 27.10 по 03.11: 1 600\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 1 000"
+  },
+  {
     "norm": "fox94",
     "display": "Fox94",
     "initial": 10750,
@@ -754,20 +768,6 @@
     "last_active_human": "6 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "jdhdbx",
-    "display": "Jdhdbx",
-    "initial": 12840,
-    "current": 19660,
-    "diff": 6820,
-    "avatar": "avatars/jdhdbx.jpg",
-    "profile": "https://remanga.org/user/1911610/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "13 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 1 000"
   },
   {
     "norm": "motherofdragons",
