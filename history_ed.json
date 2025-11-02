@@ -1006,5 +1006,19 @@
     "last_active_human": "нет данных",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 27.10 по 03.11: 0"
+  },
+  {
+    "norm": "jacksaifer",
+    "display": "JackSaifer",
+    "initial": 0,
+    "current": 0,
+    "diff": 0,
+    "avatar": "avatars/jacksaifer.jpg",
+    "profile": "https://remanga.org/user/349030/about",
+    "guild": "Eternal Demonic",
+    "is_afk": true,
+    "last_active_human": "нет данных",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 27.10 по 03.11: 0"
   }
 ]
