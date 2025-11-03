@@ -490,6 +490,20 @@
     "weekly_hint": "История недель:\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 1 501\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 1 499\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "aggressive",
+    "display": "-AGGRESSIVE-",
+    "initial": 7750,
+    "current": 18250,
+    "diff": 10500,
+    "avatar": "avatars/aggressive.jpg",
+    "profile": "https://remanga.org/user/1939125/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 750,
+    "weekly_hint": "История недель:\nс 03.11 по 10.11: 750\nс 27.10 по 03.11: 750\nс 20.10 по 27.10: 750\nс 13.10 по 20.10: 750\nс 06.10 по 13.10: 750"
+  },
+  {
     "norm": "alafex",
     "display": "Alafex",
     "initial": 9000,
@@ -586,20 +600,6 @@
     "last_active_human": "4 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "aggressive",
-    "display": "-AGGRESSIVE-",
-    "initial": 7750,
-    "current": 17500,
-    "diff": 9750,
-    "avatar": "avatars/aggressive.jpg",
-    "profile": "https://remanga.org/user/1939125/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 750\nс 20.10 по 27.10: 750\nс 13.10 по 20.10: 750\nс 06.10 по 13.10: 750"
   },
   {
     "norm": "moonsh1ne",
