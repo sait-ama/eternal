@@ -784,6 +784,20 @@
     "weekly_hint": "История недель:\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 800\nс 06.10 по 13.10: 500"
   },
   {
+    "norm": "kintownskiy",
+    "display": "kintownskiy",
+    "initial": 15000,
+    "current": 22000,
+    "diff": 7000,
+    "avatar": "avatars/kintownskiy.jpg",
+    "profile": "https://remanga.org/user/3983/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 6000,
+    "weekly_hint": "История недель:\nс 03.11 по 10.11: 6 000\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "motherofdragons",
     "display": "Mother_of_dragons",
     "initial": 20310,
@@ -978,20 +992,6 @@
     "last_active_human": "13 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 100\nс 13.10 по 20.10: 1 100"
-  },
-  {
-    "norm": "kintownskiy",
-    "display": "kintownskiy",
-    "initial": 15000,
-    "current": 16000,
-    "diff": 1000,
-    "avatar": "avatars/kintownskiy.jpg",
-    "profile": "https://remanga.org/user/3983/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "47 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "бeлoхвoctый",
