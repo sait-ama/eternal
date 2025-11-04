@@ -157,15 +157,15 @@
     "norm": "flammenoire",
     "display": "FlammeNoire",
     "initial": 42130,
-    "current": 56680,
-    "diff": 14550,
+    "current": 56720,
+    "diff": 14590,
     "avatar": "avatars/flammenoire.jpg",
     "profile": "https://remanga.org/user/2384260/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 300,
-    "weekly_hint": "История недель:\nс 03.11 по 10.11: 300\nс 27.10 по 03.11: 1 580\nс 20.10 по 27.10: 5 320\nс 13.10 по 20.10: 1 240\nс 06.10 по 13.10: 1 430"
+    "last_active_human": "сегодня",
+    "weekly": 340,
+    "weekly_hint": "История недель:\nс 03.11 по 10.11: 340\nс 27.10 по 03.11: 1 580\nс 20.10 по 27.10: 5 320\nс 13.10 по 20.10: 1 240\nс 06.10 по 13.10: 1 430"
   },
   {
     "norm": "hatin",
@@ -843,15 +843,15 @@
     "norm": "pилcyчк@",
     "display": "Рил_сучк@.",
     "initial": 10780,
-    "current": 16030,
-    "diff": 5250,
+    "current": 17030,
+    "diff": 6250,
     "avatar": "avatars/pилcyчк@.jpg",
     "profile": "https://remanga.org/user/1245568/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 400\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+    "last_active_human": "сегодня",
+    "weekly": 1000,
+    "weekly_hint": "История недель:\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 400\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "silenthill",
