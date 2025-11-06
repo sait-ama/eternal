@@ -14,20 +14,6 @@
     "weekly_hint": "История недель:\nс 03.11 по 10.11: 1 500\nс 27.10 по 03.11: 7 500\nс 20.10 по 27.10: 9 890\nс 13.10 по 20.10: 5 110\nс 06.10 по 13.10: 0"
   },
   {
-    "norm": "ham021",
-    "display": "Ham021",
-    "initial": 30500,
-    "current": 70000,
-    "diff": 39500,
-    "avatar": "avatars/ham021.jpg",
-    "profile": "https://remanga.org/user/27288/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 10 000\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 5 000\nс 06.10 по 13.10: 0"
-  },
-  {
     "norm": "издateль",
     "display": "Издатель",
     "initial": 14780,
@@ -1020,6 +1006,20 @@
     "last_active_human": "вчера",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 03.11 по 10.11: 0"
+  },
+  {
+    "norm": "ham021",
+    "display": "Ham021",
+    "initial": 30500,
+    "current": 30500,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "6 дн. назад",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 10 000\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 5 000\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "бeлoхвoctый",
