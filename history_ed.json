@@ -87,15 +87,15 @@
     "norm": "stas211242",
     "display": "stas211242",
     "initial": 12780,
-    "current": 33270,
-    "diff": 20490,
+    "current": 33600,
+    "diff": 20820,
     "avatar": "avatars/stas211242.jpg",
     "profile": "https://remanga.org/user/269608/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 430,
-    "weekly_hint": "История недель:\nс 03.11 по 10.11: 430\nс 27.10 по 03.11: 791\nс 20.10 по 27.10: 2 569\nс 13.10 по 20.10: 1 670\nс 06.10 по 13.10: 1 550"
+    "last_active_human": "сегодня",
+    "weekly": 760,
+    "weekly_hint": "История недель:\nс 03.11 по 10.11: 760\nс 27.10 по 03.11: 791\nс 20.10 по 27.10: 2 569\nс 13.10 по 20.10: 1 670\nс 06.10 по 13.10: 1 550"
   },
   {
     "norm": "cracker7",
@@ -770,6 +770,20 @@
     "weekly_hint": "История недель:\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "яшtyг",
+    "display": "Яштуг",
+    "initial": 0,
+    "current": 7600,
+    "diff": 7600,
+    "avatar": "avatars/яшtyг.jpg",
+    "profile": "https://remanga.org/user/1317566/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 03.11 по 10.11: 0"
+  },
+  {
     "norm": "motherofdragons",
     "display": "Mother_of_dragons",
     "initial": 20310,
@@ -894,20 +908,6 @@
     "last_active_human": "18 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 781\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 629"
-  },
-  {
-    "norm": "яшtyг",
-    "display": "Яштуг",
-    "initial": 0,
-    "current": 4300,
-    "diff": 4300,
-    "avatar": "avatars/яшtyг.jpg",
-    "profile": "https://remanga.org/user/1317566/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 03.11 по 10.11: 0"
   },
   {
     "norm": "alanhui",
