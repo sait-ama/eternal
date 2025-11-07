@@ -518,6 +518,20 @@
     "weekly_hint": "История недель:\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 1 000"
   },
   {
+    "norm": "kaizaki",
+    "display": "Kaizaki",
+    "initial": 20470,
+    "current": 31070,
+    "diff": 10600,
+    "avatar": "avatars/kaizaki.jpg",
+    "profile": "https://remanga.org/user/40277/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 800,
+    "weekly_hint": "История недель:\nс 03.11 по 10.11: 800\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "moonsh1ne",
     "display": "moonsh1ne",
     "initial": 14890,
@@ -558,20 +572,6 @@
     "last_active_human": "4 дн. назад",
     "weekly": 750,
     "weekly_hint": "История недель:\nс 03.11 по 10.11: 750\nс 27.10 по 03.11: 750\nс 20.10 по 27.10: 750\nс 13.10 по 20.10: 750\nс 06.10 по 13.10: 750"
-  },
-  {
-    "norm": "kaizaki",
-    "display": "Kaizaki",
-    "initial": 20470,
-    "current": 30770,
-    "diff": 10300,
-    "avatar": "avatars/kaizaki.jpg",
-    "profile": "https://remanga.org/user/40277/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад",
-    "weekly": 500,
-    "weekly_hint": "История недель:\nс 03.11 по 10.11: 500\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "alafex",
