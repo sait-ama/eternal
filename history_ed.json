@@ -980,20 +980,6 @@
     "weekly_hint": "История недель:\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
-    "norm": "lorden",
-    "display": "Lorden",
-    "initial": 0,
-    "current": 1400,
-    "diff": 1400,
-    "avatar": "avatars/lorden.jpg",
-    "profile": "https://remanga.org/user/2937842/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "17 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 100\nс 13.10 по 20.10: 1 100"
-  },
-  {
     "norm": "un1c0",
     "display": "un1c0",
     "initial": 0,
@@ -1034,5 +1020,19 @@
     "last_active_human": "23 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+  },
+  {
+    "norm": "lorden",
+    "display": "Lorden",
+    "initial": 0,
+    "current": 0,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic",
+    "is_afk": true,
+    "last_active_human": "17 дн. назад",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 100\nс 13.10 по 20.10: 1 100"
   }
 ]
