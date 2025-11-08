@@ -98,6 +98,20 @@
     "weekly_hint": "История недель:\nс 03.11 по 10.11: 760\nс 27.10 по 03.11: 791\nс 20.10 по 27.10: 2 569\nс 13.10 по 20.10: 1 670\nс 06.10 по 13.10: 1 550"
   },
   {
+    "norm": "nix",
+    "display": "-Nix-",
+    "initial": 6950,
+    "current": 25700,
+    "diff": 18750,
+    "avatar": "avatars/nix.jpg",
+    "profile": "https://remanga.org/user/46754/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 03.11 по 10.11: 0"
+  },
+  {
     "norm": "cracker7",
     "display": "Cracker_7",
     "initial": 12000,
@@ -992,6 +1006,20 @@
     "last_active_human": "40 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+  },
+  {
+    "norm": "petr66",
+    "display": "Petr66",
+    "initial": 5400,
+    "current": 7150,
+    "diff": 1750,
+    "avatar": "avatars/petr66.jpg",
+    "profile": "https://remanga.org/user/3210259/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 03.11 по 10.11: 0"
   },
   {
     "norm": "un1c0",
