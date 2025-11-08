@@ -154,6 +154,20 @@
     "weekly_hint": "История недель:\nс 03.11 по 10.11: 1 310\nс 27.10 по 03.11: 1 580\nс 20.10 по 27.10: 5 320\nс 13.10 по 20.10: 1 240\nс 06.10 по 13.10: 1 430"
   },
   {
+    "norm": "haisan",
+    "display": "HaiSan",
+    "initial": 22500,
+    "current": 37990,
+    "diff": 15490,
+    "avatar": "avatars/haisan.jpg",
+    "profile": "https://remanga.org/user/2577043/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 300,
+    "weekly_hint": "История недель:\nс 03.11 по 10.11: 300\nс 27.10 по 03.11: 1 300\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 1 300\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "ewobserver",
     "display": "EW_OBSERVER",
     "initial": 70240,
@@ -166,20 +180,6 @@
     "last_active_human": "сегодня",
     "weekly": 460,
     "weekly_hint": "История недель:\nс 03.11 по 10.11: 460\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 740\nс 13.10 по 20.10: 8 430\nс 06.10 по 13.10: 5 760"
-  },
-  {
-    "norm": "haisan",
-    "display": "HaiSan",
-    "initial": 22500,
-    "current": 37690,
-    "diff": 15190,
-    "avatar": "avatars/haisan.jpg",
-    "profile": "https://remanga.org/user/2577043/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "11 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 1 300\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 1 300\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "sunburst",
