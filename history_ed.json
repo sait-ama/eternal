@@ -182,6 +182,20 @@
     "weekly_hint": "История недель:\nс 03.11 по 10.11: 460\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 740\nс 13.10 по 20.10: 8 430\nс 06.10 по 13.10: 5 760"
   },
   {
+    "norm": "hatin",
+    "display": "Hatin",
+    "initial": 12900,
+    "current": 28090,
+    "diff": 15190,
+    "avatar": "avatars/hatin.jpg",
+    "profile": "https://remanga.org/user/2797890/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 740,
+    "weekly_hint": "История недель:\nс 03.11 по 10.11: 740\nс 27.10 по 03.11: 2 100\nс 20.10 по 27.10: 1 260\nс 13.10 по 20.10: 3 080\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "sunburst",
     "display": "Sunburst",
     "initial": 9000,
@@ -222,20 +236,6 @@
     "last_active_human": "2 дн. назад",
     "weekly": 1000,
     "weekly_hint": "История недель:\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 800\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 500"
-  },
-  {
-    "norm": "hatin",
-    "display": "Hatin",
-    "initial": 12900,
-    "current": 27350,
-    "diff": 14450,
-    "avatar": "avatars/hatin.jpg",
-    "profile": "https://remanga.org/user/2797890/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "9 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 2 100\nс 20.10 по 27.10: 1 260\nс 13.10 по 20.10: 3 080\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "velialsalivan",
