@@ -504,6 +504,20 @@
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 570\nс 27.10 по 03.11: 870\nс 20.10 по 27.10: 440\nс 13.10 по 20.10: 1 920\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "moonsh1ne",
+    "display": "moonsh1ne",
+    "initial": 14890,
+    "current": 26470,
+    "diff": 11580,
+    "avatar": "avatars/moonsh1ne.jpg",
+    "profile": "https://remanga.org/user/128587/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1000,
+    "weekly_hint": "История недель:\nс 10.11 по 17.11: 1 000\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "alafex",
     "display": "Alafex",
     "initial": 9000,
@@ -642,20 +656,6 @@
     "last_active_human": "3 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 800\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "moonsh1ne",
-    "display": "moonsh1ne",
-    "initial": 14890,
-    "current": 25470,
-    "diff": 10580,
-    "avatar": "avatars/moonsh1ne.jpg",
-    "profile": "https://remanga.org/user/128587/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "llikojioma",
@@ -1106,6 +1106,20 @@
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 0"
   },
   {
+    "norm": "лoхoбыкнoвeнный",
+    "display": "ЛохОбыкновенный",
+    "initial": 0,
+    "current": 2600,
+    "diff": 2600,
+    "avatar": "avatars/лoхoбыкнoвeнный.jpg",
+    "profile": "https://remanga.org/user/1496494/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1600,
+    "weekly_hint": "История недель:\nс 10.11 по 17.11: 1 600\nс 03.11 по 10.11: 0"
+  },
+  {
     "norm": "petr66",
     "display": "Petr66",
     "initial": 5400,
@@ -1130,20 +1144,6 @@
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "5 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0"
-  },
-  {
-    "norm": "лoхoбыкнoвeнный",
-    "display": "ЛохОбыкновенный",
-    "initial": 0,
-    "current": 1000,
-    "diff": 1000,
-    "avatar": "avatars/лoхoбыкнoвeнный.jpg",
-    "profile": "https://remanga.org/user/1496494/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0"
   },
