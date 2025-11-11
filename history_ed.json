@@ -3,15 +3,15 @@
     "norm": "destructiongod𒉭",
     "display": "DestructionGod𒉭",
     "initial": 60000,
-    "current": 112100,
-    "diff": 52100,
+    "current": 115300,
+    "diff": 55300,
     "avatar": "avatars/destructiongod𒉭.jpg",
     "profile": "https://remanga.org/user/1650325/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 4600,
-    "weekly_hint": "История недель:\nс 10.11 по 17.11: 4 600\nс 03.11 по 10.11: 5 000\nс 27.10 по 03.11: 7 500\nс 20.10 по 27.10: 9 890\nс 13.10 по 20.10: 5 110\nс 06.10 по 13.10: 0"
+    "last_active_human": "сегодня",
+    "weekly": 7800,
+    "weekly_hint": "История недель:\nс 10.11 по 17.11: 7 800\nс 03.11 по 10.11: 5 000\nс 27.10 по 03.11: 7 500\nс 20.10 по 27.10: 9 890\nс 13.10 по 20.10: 5 110\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "ewdgham021",
@@ -154,6 +154,20 @@
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 1 500\nс 27.10 по 03.11: 1 500\nс 20.10 по 27.10: 1 500\nс 13.10 по 20.10: 2 250\nс 06.10 по 13.10: 1 000"
   },
   {
+    "norm": "яшtyг",
+    "display": "Яштуг",
+    "initial": 0,
+    "current": 16750,
+    "diff": 16750,
+    "avatar": "avatars/яшtyг.jpg",
+    "profile": "https://remanga.org/user/1317566/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 500,
+    "weekly_hint": "История недель:\nс 10.11 по 17.11: 500\nс 03.11 по 10.11: 0"
+  },
+  {
     "norm": "lucifiel",
     "display": "--Lucifiel--",
     "initial": 12500,
@@ -166,20 +180,6 @@
     "last_active_human": "вчера",
     "weekly": 1000,
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 1 000\nс 03.11 по 10.11: 2 000\nс 27.10 по 03.11: 800\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 500"
-  },
-  {
-    "norm": "яшtyг",
-    "display": "Яштуг",
-    "initial": 0,
-    "current": 16250,
-    "diff": 16250,
-    "avatar": "avatars/яшtyг.jpg",
-    "profile": "https://remanga.org/user/1317566/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "4 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0"
   },
   {
     "norm": "ronin74",
@@ -1022,6 +1022,20 @@
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 1 300\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "harutsu",
+    "display": "Harutsu",
+    "initial": 800,
+    "current": 5200,
+    "diff": 4400,
+    "avatar": "avatars/harutsu.jpg",
+    "profile": "https://remanga.org/user/415473/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1100,
+    "weekly_hint": "История недель:\nс 10.11 по 17.11: 1 100\nс 03.11 по 10.11: 0"
+  },
+  {
     "norm": "alanhui",
     "display": "alan-hui",
     "initial": 8660,
@@ -1062,20 +1076,6 @@
     "last_active_human": "вчера",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 0"
-  },
-  {
-    "norm": "harutsu",
-    "display": "Harutsu",
-    "initial": 800,
-    "current": 4100,
-    "diff": 3300,
-    "avatar": "avatars/harutsu.jpg",
-    "profile": "https://remanga.org/user/415473/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0"
   },
   {
     "norm": "谢怜",
