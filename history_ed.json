@@ -1216,5 +1216,19 @@
     "last_active_human": "нет данных",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0"
+  },
+  {
+    "norm": "arbogastr",
+    "display": "Arbogastr",
+    "initial": 17000,
+    "current": 4000,
+    "diff": 0,
+    "avatar": "avatars/arbogastr.jpg",
+    "profile": "https://remanga.org/user/993371/about",
+    "guild": "Eternal Demonic",
+    "is_afk": true,
+    "last_active_human": "нет данных",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 10.11 по 17.11: 0"
   }
 ]
