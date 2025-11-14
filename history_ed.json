@@ -168,6 +168,20 @@
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 3 900\nс 03.11 по 10.11: 0"
   },
   {
+    "norm": "ミュージシャン",
+    "display": "ミュージシャン",
+    "initial": 0,
+    "current": 18700,
+    "diff": 18700,
+    "avatar": "avatars/ミュージシャン.jpg",
+    "profile": "https://remanga.org/user/938359/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 10.11 по 17.11: 0"
+  },
+  {
     "norm": "cracker7",
     "display": "Cracker_7",
     "initial": 12000,
@@ -586,20 +600,6 @@
     "last_active_human": "4 дн. назад",
     "weekly": 1000,
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 1 000\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "ミュージシャン",
-    "display": "ミュージシャン",
-    "initial": 0,
-    "current": 11100,
-    "diff": 11100,
-    "avatar": "avatars/ミュージシャン.jpg",
-    "profile": "https://remanga.org/user/938359/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 10.11 по 17.11: 0"
   },
   {
     "norm": "woodss",
@@ -1053,15 +1053,15 @@
     "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 9077,
-    "current": 13790,
-    "diff": 4713,
+    "current": 14010,
+    "diff": 4933,
     "avatar": "avatars/akiragame.jpg",
     "profile": "https://remanga.org/user/1714962/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "3 дн. назад",
-    "weekly": 180,
-    "weekly_hint": "История недель:\nс 10.11 по 17.11: 180\nс 03.11 по 10.11: 0"
+    "last_active_human": "сегодня",
+    "weekly": 400,
+    "weekly_hint": "История недель:\nс 10.11 по 17.11: 400\nс 03.11 по 10.11: 0"
   },
   {
     "norm": "jacksaifer",
