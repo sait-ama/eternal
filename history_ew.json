@@ -630,20 +630,6 @@
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 5 000\nс 06.10 по 13.10: 3 000"
   },
   {
-    "norm": "inanitas",
-    "display": "Inanitаs",
-    "initial": 12000,
-    "current": 31000,
-    "diff": 19000,
-    "avatar": "avatars/inanitas.jpg",
-    "profile": "https://remanga.org/user/3259037/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "26 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 6 000"
-  },
-  {
     "norm": "кaпиtaнзaнyдa",
     "display": "Капитан-зануда",
     "initial": 12000,
@@ -1678,6 +1664,20 @@
     "last_active_human": "нет данных",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0"
+  },
+  {
+    "norm": "inanitas",
+    "display": "Inanitаs",
+    "initial": 12000,
+    "current": 12000,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Watchers",
+    "is_afk": true,
+    "last_active_human": "26 дн. назад",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 6 000"
   },
   {
     "norm": "lesto",
