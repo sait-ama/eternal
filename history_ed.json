@@ -1151,15 +1151,15 @@
     "norm": "petr66",
     "display": "Petr66",
     "initial": 5400,
-    "current": 7150,
-    "diff": 1750,
+    "current": 7900,
+    "diff": 2500,
     "avatar": "avatars/petr66.jpg",
     "profile": "https://remanga.org/user/3210259/about",
     "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0"
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 750,
+    "weekly_hint": "История недель:\nс 10.11 по 17.11: 750\nс 03.11 по 10.11: 0"
   },
   {
     "norm": "un1c0",
