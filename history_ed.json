@@ -70,6 +70,20 @@
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 7 700\nс 03.11 по 10.11: 0"
   },
   {
+    "norm": "dmitryflow",
+    "display": "DmitryFlow",
+    "initial": 24000,
+    "current": 49000,
+    "diff": 25000,
+    "avatar": "avatars/dmitryflow.jpg",
+    "profile": "https://remanga.org/user/742164/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 14000,
+    "weekly_hint": "История недель:\nс 10.11 по 17.11: 14 000\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 1 000"
+  },
+  {
     "norm": "beastx",
     "display": "Beast_x",
     "initial": 47130,
@@ -336,6 +350,20 @@
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 740\nс 27.10 по 03.11: 2 100\nс 20.10 по 27.10: 1 260\nс 13.10 по 20.10: 3 080\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "oblakatt",
+    "display": "OblakaT_T",
+    "initial": 13000,
+    "current": 28000,
+    "diff": 15000,
+    "avatar": "avatars/oblakatt.jpg",
+    "profile": "https://remanga.org/user/474087/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2000,
+    "weekly_hint": "История недель:\nс 10.11 по 17.11: 2 000\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 3 000\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 1 000"
+  },
+  {
     "norm": "sunburst",
     "display": "Sunburst",
     "initial": 9000,
@@ -446,20 +474,6 @@
     "last_active_human": "вчера",
     "weekly": 2500,
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 2 500\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 1 000"
-  },
-  {
-    "norm": "oblakatt",
-    "display": "OblakaT_T",
-    "initial": 13000,
-    "current": 26000,
-    "diff": 13000,
-    "avatar": "avatars/oblakatt.jpg",
-    "profile": "https://remanga.org/user/474087/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "8 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 3 000\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 1 000"
   },
   {
     "norm": "aмeн",
@@ -684,20 +698,6 @@
     "last_active_human": "5 дн. назад",
     "weekly": 1000,
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 1 000\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "dmitryflow",
-    "display": "DmitryFlow",
-    "initial": 24000,
-    "current": 35000,
-    "diff": 11000,
-    "avatar": "avatars/dmitryflow.jpg",
-    "profile": "https://remanga.org/user/742164/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "15 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 1 000"
   },
   {
     "norm": "чиtateль+дpyг",
