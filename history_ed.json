@@ -714,6 +714,20 @@
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 800\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "reyrivman",
+    "display": "ReyRivman",
+    "initial": 0,
+    "current": 10550,
+    "diff": 10550,
+    "avatar": "avatars/reyrivman.jpg",
+    "profile": "https://remanga.org/user/1967242/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 4150,
+    "weekly_hint": "История недель:\nс 10.11 по 17.11: 4 150\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 0"
+  },
+  {
     "norm": "festashka",
     "display": "_festashka_",
     "initial": 8800,
@@ -894,20 +908,6 @@
     "last_active_human": "12 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 1 050\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 810\nс 13.10 по 20.10: 790\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "reyrivman",
-    "display": "ReyRivman",
-    "initial": 0,
-    "current": 8050,
-    "diff": 8050,
-    "avatar": "avatars/reyrivman.jpg",
-    "profile": "https://remanga.org/user/1967242/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 1650,
-    "weekly_hint": "История недель:\nс 10.11 по 17.11: 1 650\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 0"
   },
   {
     "norm": "motherofdragons",
