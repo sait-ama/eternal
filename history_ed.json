@@ -532,6 +532,20 @@
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 6 100\nс 03.11 по 10.11: 2 750\nс 27.10 по 03.11: 2 650\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "alafex",
+    "display": "Alafex",
+    "initial": 9000,
+    "current": 21150,
+    "diff": 12150,
+    "avatar": "avatars/alafex.jpg",
+    "profile": "https://remanga.org/user/106279/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2050,
+    "weekly_hint": "История недель:\nс 10.11 по 17.11: 2 050\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "kim5+",
     "display": "Kim_5+",
     "initial": 10000,
@@ -628,20 +642,6 @@
     "last_active_human": "4 дн. назад",
     "weekly": 750,
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 750\nс 03.11 по 10.11: 750\nс 27.10 по 03.11: 750\nс 20.10 по 27.10: 750\nс 13.10 по 20.10: 750\nс 06.10 по 13.10: 750"
-  },
-  {
-    "norm": "alafex",
-    "display": "Alafex",
-    "initial": 9000,
-    "current": 20100,
-    "diff": 11100,
-    "avatar": "avatars/alafex.jpg",
-    "profile": "https://remanga.org/user/106279/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад",
-    "weekly": 1000,
-    "weekly_hint": "История недель:\nс 10.11 по 17.11: 1 000\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "woodss",
@@ -1078,6 +1078,20 @@
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 1 000\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 0"
   },
   {
+    "norm": "marlya",
+    "display": "MarLya",
+    "initial": 0,
+    "current": 5000,
+    "diff": 5000,
+    "avatar": "avatars/marlya.jpg",
+    "profile": "https://remanga.org/user/209369/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 10.11 по 17.11: 0"
+  },
+  {
     "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 9077,
@@ -1118,20 +1132,6 @@
     "last_active_human": "10 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 1 500\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "marlya",
-    "display": "MarLya",
-    "initial": 0,
-    "current": 4000,
-    "diff": 4000,
-    "avatar": "avatars/marlya.jpg",
-    "profile": "https://remanga.org/user/209369/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 10.11 по 17.11: 0"
   },
   {
     "norm": "лoхoбыкнoвeнный",
