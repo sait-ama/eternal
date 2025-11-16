@@ -745,15 +745,15 @@
     "norm": "kaizaki",
     "display": "Kaizaki",
     "initial": 20470,
-    "current": 31070,
-    "diff": 10600,
+    "current": 31410,
+    "diff": 10940,
     "avatar": "avatars/kaizaki.jpg",
     "profile": "https://remanga.org/user/40277/about",
     "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "9 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 800\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 0"
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 340,
+    "weekly_hint": "История недель:\nс 10.11 по 17.11: 340\nс 03.11 по 10.11: 800\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "reyrivman",
@@ -1207,15 +1207,15 @@
     "norm": "ewtaya",
     "display": "EW_Taya_",
     "initial": 750,
-    "current": 750,
-    "diff": 0,
+    "current": 1580,
+    "diff": 830,
     "avatar": "avatars/ewtaya.jpg",
     "profile": "https://remanga.org/user/2325061/about",
     "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "нет данных",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0"
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 830,
+    "weekly_hint": "История недель:\nс 10.11 по 17.11: 830\nс 03.11 по 10.11: 0"
   },
   {
     "norm": "suba7u",
