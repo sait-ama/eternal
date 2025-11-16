@@ -283,15 +283,15 @@
     "norm": "flammenoire",
     "display": "FlammeNoire",
     "initial": 42130,
-    "current": 57990,
-    "diff": 15860,
+    "current": 58030,
+    "diff": 15900,
     "avatar": "avatars/flammenoire.jpg",
     "profile": "https://remanga.org/user/2384260/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "6 дн. назад",
-    "weekly": 300,
-    "weekly_hint": "История недель:\nс 10.11 по 17.11: 300\nс 03.11 по 10.11: 1 310\nс 27.10 по 03.11: 1 580\nс 20.10 по 27.10: 5 320\nс 13.10 по 20.10: 1 240\nс 06.10 по 13.10: 1 430"
+    "last_active_human": "сегодня",
+    "weekly": 340,
+    "weekly_hint": "История недель:\nс 10.11 по 17.11: 340\nс 03.11 по 10.11: 1 310\nс 27.10 по 03.11: 1 580\nс 20.10 по 27.10: 5 320\nс 13.10 по 20.10: 1 240\nс 06.10 по 13.10: 1 430"
   },
   {
     "norm": "trillo",
