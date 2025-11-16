@@ -252,6 +252,20 @@
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 840\nс 03.11 по 10.11: 4 100\nс 27.10 по 03.11: 750\nс 20.10 по 27.10: 2 590\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "trillo",
+    "display": "Trillo",
+    "initial": 9320,
+    "current": 26180,
+    "diff": 16860,
+    "avatar": "avatars/trillo.jpg",
+    "profile": "https://remanga.org/user/207200/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 3190,
+    "weekly_hint": "История недель:\nс 10.11 по 17.11: 3 190\nс 03.11 по 10.11: 1 070\nс 27.10 по 03.11: 1 600\nс 20.10 по 27.10: 1 400\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "samurafs",
     "display": "SamuraFs",
     "initial": 11000,
@@ -292,20 +306,6 @@
     "last_active_human": "сегодня",
     "weekly": 340,
     "weekly_hint": "История недель:\nс 10.11 по 17.11: 340\nс 03.11 по 10.11: 1 310\nс 27.10 по 03.11: 1 580\nс 20.10 по 27.10: 5 320\nс 13.10 по 20.10: 1 240\nс 06.10 по 13.10: 1 430"
-  },
-  {
-    "norm": "trillo",
-    "display": "Trillo",
-    "initial": 9320,
-    "current": 25180,
-    "diff": 15860,
-    "avatar": "avatars/trillo.jpg",
-    "profile": "https://remanga.org/user/207200/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 2190,
-    "weekly_hint": "История недель:\nс 10.11 по 17.11: 2 190\nс 03.11 по 10.11: 1 070\nс 27.10 по 03.11: 1 600\nс 20.10 по 27.10: 1 400\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "haisan",
