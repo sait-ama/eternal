@@ -980,6 +980,20 @@
     "weekly_hint": "История недель:\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 7 000\nс 03.11 по 10.11: 0"
   },
   {
+    "norm": "heardand",
+    "display": "Heardand",
+    "initial": 0,
+    "current": 7000,
+    "diff": 7000,
+    "avatar": "avatars/heardand.jpg",
+    "profile": "https://remanga.org/user/1575407/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1000,
+    "weekly_hint": "История недель:\nс 17.11 по 24.11: 1 000\nс 10.11 по 17.11: 0"
+  },
+  {
     "norm": "tiltexist",
     "display": "TIltExist",
     "initial": 28330,
@@ -1034,20 +1048,6 @@
     "last_active_human": "сегодня",
     "weekly": 1300,
     "weekly_hint": "История недель:\nс 17.11 по 24.11: 1 300\nс 10.11 по 17.11: 400\nс 03.11 по 10.11: 0"
-  },
-  {
-    "norm": "heardand",
-    "display": "Heardand",
-    "initial": 0,
-    "current": 6000,
-    "diff": 6000,
-    "avatar": "avatars/heardand.jpg",
-    "profile": "https://remanga.org/user/1575407/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0"
   },
   {
     "norm": "별팽귀",
