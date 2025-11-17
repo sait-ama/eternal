@@ -126,6 +126,20 @@
     "weekly_hint": "История недель:\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 11 050\nс 03.11 по 10.11: 1 450\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 6 150\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "яшtyг",
+    "display": "Яштуг",
+    "initial": 0,
+    "current": 23650,
+    "diff": 23650,
+    "avatar": "avatars/яшtyг.jpg",
+    "profile": "https://remanga.org/user/1317566/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2000,
+    "weekly_hint": "История недель:\nс 17.11 по 24.11: 2 000\nс 10.11 по 17.11: 5 400\nс 03.11 по 10.11: 0"
+  },
+  {
     "norm": "ewobserver",
     "display": "EW_OBSERVER",
     "initial": 70240,
@@ -166,20 +180,6 @@
     "last_active_human": "вчера",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 870\nс 03.11 по 10.11: 1 060\nс 27.10 по 03.11: 791\nс 20.10 по 27.10: 2 569\nс 13.10 по 20.10: 1 670\nс 06.10 по 13.10: 1 550"
-  },
-  {
-    "norm": "яшtyг",
-    "display": "Яштуг",
-    "initial": 0,
-    "current": 21650,
-    "diff": 21650,
-    "avatar": "avatars/яшtyг.jpg",
-    "profile": "https://remanga.org/user/1317566/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 5 400\nс 03.11 по 10.11: 0"
   },
   {
     "norm": "cracker7",
