@@ -227,15 +227,15 @@
     "norm": "lucifiel",
     "display": "--Lucifiel--",
     "initial": 12500,
-    "current": 29900,
-    "diff": 17400,
+    "current": 30100,
+    "diff": 17600,
     "avatar": "avatars/lucifiel.jpg",
     "profile": "https://remanga.org/user/1207689/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 1 800\nс 03.11 по 10.11: 2 000\nс 27.10 по 03.11: 800\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 500"
+    "last_active_human": "сегодня",
+    "weekly": 200,
+    "weekly_hint": "История недель:\nс 17.11 по 24.11: 200\nс 10.11 по 17.11: 1 800\nс 03.11 по 10.11: 2 000\nс 27.10 по 03.11: 800\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 500"
   },
   {
     "norm": "oblakatt",
