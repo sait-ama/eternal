@@ -899,15 +899,15 @@
     "norm": "jacksaifer",
     "display": "JackSaifer",
     "initial": 0,
-    "current": 8980,
-    "diff": 8980,
+    "current": 9000,
+    "diff": 9000,
     "avatar": "avatars/jacksaifer.jpg",
     "profile": "https://remanga.org/user/349030/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "3 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 5 380\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 0"
+    "last_active_human": "сегодня",
+    "weekly": 20,
+    "weekly_hint": "История недель:\nс 17.11 по 24.11: 20\nс 10.11 по 17.11: 5 380\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 0"
   },
   {
     "norm": "necromant",
