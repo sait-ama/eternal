@@ -70,6 +70,20 @@
     "weekly_hint": "История недель:\nс 17.11 по 24.11: 1 000\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 10 600\nс 27.10 по 03.11: 3 050\nс 20.10 по 27.10: 4 200\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "ewobserver",
+    "display": "EW_OBSERVER",
+    "initial": 70240,
+    "current": 95360,
+    "diff": 25120,
+    "avatar": "avatars/ewobserver.jpg",
+    "profile": "https://remanga.org/user/141395/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2800,
+    "weekly_hint": "История недель:\nс 17.11 по 24.11: 2 800\nс 10.11 по 17.11: 6 930\nс 03.11 по 10.11: 460\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 740\nс 13.10 по 20.10: 8 430\nс 06.10 по 13.10: 5 760"
+  },
+  {
     "norm": "dmitryflow",
     "display": "DmitryFlow",
     "initial": 24000,
@@ -96,20 +110,6 @@
     "last_active_human": "4 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 1 500\nс 03.11 по 10.11: 2 000\nс 27.10 по 03.11: 4 200\nс 20.10 по 27.10: 6 950\nс 13.10 по 20.10: 3 000\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "ewobserver",
-    "display": "EW_OBSERVER",
-    "initial": 70240,
-    "current": 94670,
-    "diff": 24430,
-    "avatar": "avatars/ewobserver.jpg",
-    "profile": "https://remanga.org/user/141395/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 2110,
-    "weekly_hint": "История недель:\nс 17.11 по 24.11: 2 110\nс 10.11 по 17.11: 6 930\nс 03.11 по 10.11: 460\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 740\nс 13.10 по 20.10: 8 430\nс 06.10 по 13.10: 5 760"
   },
   {
     "norm": "beastx",
