@@ -1218,6 +1218,20 @@
     "weekly_hint": "История недель:\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 1 000\nс 03.11 по 10.11: 0"
   },
   {
+    "norm": "inanitas",
+    "display": ".𝕴𝖓𝖆𝖓𝖎𝖙𝖆𝖘.",
+    "initial": 0,
+    "current": 2000,
+    "diff": 2000,
+    "avatar": "avatars/inanitas.jpg",
+    "profile": "https://remanga.org/user/3259037/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 17.11 по 24.11: 0"
+  },
+  {
     "norm": "ewtaya",
     "display": "EW_Taya_",
     "initial": 750,
