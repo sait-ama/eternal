@@ -73,15 +73,15 @@
     "norm": "яшtyг",
     "display": "Яштуг",
     "initial": 0,
-    "current": 26100,
-    "diff": 26100,
+    "current": 26700,
+    "diff": 26700,
     "avatar": "avatars/яшtyг.jpg",
     "profile": "https://remanga.org/user/1317566/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 4450,
-    "weekly_hint": "История недель:\nс 17.11 по 24.11: 4 450\nс 10.11 по 17.11: 5 400\nс 03.11 по 10.11: 0"
+    "weekly": 5050,
+    "weekly_hint": "История недель:\nс 17.11 по 24.11: 5 050\nс 10.11 по 17.11: 5 400\nс 03.11 по 10.11: 0"
   },
   {
     "norm": "ewobserver",
@@ -574,6 +574,20 @@
     "weekly_hint": "История недель:\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 1 000\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 1 500\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "tenofmoses",
+    "display": "tenofmoses",
+    "initial": 0,
+    "current": 12600,
+    "diff": 12600,
+    "avatar": "avatars/tenofmoses.jpg",
+    "profile": "https://remanga.org/user/3176212/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 400,
+    "weekly_hint": "История недель:\nс 17.11 по 24.11: 400\nс 10.11 по 17.11: 6 100\nс 03.11 по 10.11: 2 750\nс 27.10 по 03.11: 2 650\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "moonsh1ne",
     "display": "moonsh1ne",
     "initial": 14890,
@@ -600,20 +614,6 @@
     "last_active_human": "3 дн. назад",
     "weekly": 1000,
     "weekly_hint": "История недель:\nс 17.11 по 24.11: 1 000\nс 10.11 по 17.11: 1 000\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "tenofmoses",
-    "display": "tenofmoses",
-    "initial": 0,
-    "current": 12200,
-    "diff": 12200,
-    "avatar": "avatars/tenofmoses.jpg",
-    "profile": "https://remanga.org/user/3176212/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 6 100\nс 03.11 по 10.11: 2 750\nс 27.10 по 03.11: 2 650\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "alafex",
