@@ -2,396 +2,326 @@
 <html lang="ru">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-  <title>Eternal Tap — Энергия</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+  <title>Neon Tap: Hardcore</title>
   <script src="https://telegram.org/js/telegram-web-app.js"></script>
   <style>
-    :root{
-      --bg:#0d1116; --surface:#121720; --card:#151a23;
-      --text:#e6edf3; --muted:#9aa6b2; --stroke:#232a36; --stroke2:#1d2430;
-      --green:#6fff9e; --green-2:#44e784;
-      --shadow: 0 12px 30px rgba(0,0,0,.35), inset 0 1px 0 rgba(255,255,255,.04);
+    :root {
+      --bg: #050511; --card: #16162e; --card-border: #2a2a4a;
+      --accent: #b026ff; --accent-2: #00f0ff; --energy-color: #ffd700;
+      --text: #ffffff; --text-sec: #8b8bce; --green: #26ff85; --red: #ff4d4d;
     }
-    *{box-sizing:border-box}
-    html,body{height:100%}
-    body{
-      margin:0; background:radial-gradient(1200px 800px at 40% -100px, rgba(102,153,255,.08), transparent 60%), var(--bg);
-      color:var(--text); font:500 16px/1.45 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Arial;
-      -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+    * { box-sizing: border-box; user-select: none; -webkit-tap-highlight-color: transparent; }
+    body { margin: 0; background: var(--bg); color: var(--text); font-family: 'Segoe UI', sans-serif; height: 100vh; overflow: hidden; display: flex; flex-direction: column; }
+
+    /* --- UI --- */
+    .header {
+      position: fixed; top: 0; left: 0; right: 0; height: 100px; padding: 10px 15px;
+      background: rgba(19,19,43,0.98); border-bottom: 1px solid var(--card-border); z-index: 100;
+      display: flex; flex-direction: column; gap: 5px;
     }
-    a{color:inherit}
-    .wrap{max-width:980px; margin:0 auto; padding:18px; display:flex; flex-direction:column; gap:14px}
-    .top{display:flex; gap:14px; align-items:stretch; flex-wrap:wrap}
-    .kpi{
-      min-width:160px; flex:1; background:linear-gradient(180deg, rgba(255,255,255,.03), transparent 80%), var(--card);
-      border:1px solid var(--stroke); border-radius:16px; padding:12px 14px; box-shadow:var(--shadow);
-      display:flex; flex-direction:column; justify-content:center; gap:6px;
+    .top-row { display: flex; justify-content: space-between; align-items: center; }
+    .balance { font-size: 24px; font-weight: 900; color: var(--text); }
+    .premium-res { font-size: 16px; font-weight: bold; color: var(--energy-color); }
+    
+    .controls-row { display: flex; gap: 10px; align-items: center; margin-top: 5px; }
+    .save-btn {
+      background: linear-gradient(90deg, var(--green), #00cc66); border: none; color: #000;
+      font-weight: 900; padding: 8px 16px; border-radius: 6px; font-size: 12px; cursor: pointer;
+      text-transform: uppercase; letter-spacing: 1px; box-shadow: 0 0 10px rgba(38, 255, 133, 0.3);
     }
-    .kpi .label{font-size:12px; color:var(--muted)}
-    .kpi .value{font-weight:900; font-size:22px}
-    .btn{
-      padding:0 16px; min-height:52px; border-radius:14px; border:none; font-weight:900; font-size:16px; cursor:pointer;
-      color:#06120b; background:linear-gradient(180deg, var(--green), var(--green-2) 60%, #26c068);
-      box-shadow: 0 12px 30px rgba(111,255,158,.25), inset 0 2px 0 rgba(255,255,255,.45);
-      transition: transform .06s ease, filter .2s ease;
+    .save-btn:active { transform: scale(0.95); }
+
+    .stamina-bar-bg { flex: 1; height: 8px; background: #333; border-radius: 4px; overflow: hidden; }
+    .stamina-bar-fill { height: 100%; background: var(--accent-2); width: 100%; transition: width 0.2s; }
+    .stamina-text { font-size: 10px; color: var(--text-sec); margin-left: 10px; width: 60px; text-align: right; }
+
+    /* --- ЭКРАНЫ --- */
+    .screen {
+      position: absolute; top: 100px; bottom: 70px; left: 0; right: 0;
+      overflow-y: auto; padding: 20px; background: var(--bg);
+      display: none; flex-direction: column; align-items: center;
     }
-    .btn:active{ transform: translateY(1px) scale(.99) }
-    .btn:disabled{ filter:grayscale(.5) brightness(.9); cursor:not-allowed }
-    .panel{background:linear-gradient(180deg, rgba(255,255,255,.02), transparent 80%), var(--surface);
-      border:1px solid var(--stroke); border-radius:18px; padding:16px; box-shadow:var(--shadow);}
-    .panel-inner{display:grid; place-items:center; padding:6px 4px 12px}
-    .tap{
-      width:320px; height:320px; border-radius:50%; border:none; cursor:pointer;
-      color:#071013; position:relative; font-weight:900; font-size:40px; letter-spacing:.4px;
-      background:
-        radial-gradient(150px 150px at 30% 25%, rgba(255,255,255,.45), rgba(255,255,255,0) 60%),
-        conic-gradient(from 0deg, #6ee7ff, #6fff9e, #ffe66e, #ff996e, #6ee7ff);
-      box-shadow:
-        0 24px 36px rgba(0,0,0,.35),
-        inset 0 14px 32px rgba(255,255,255,.35),
-        inset 0 -18px 36px rgba(0,0,0,.50);
-      transition: transform .06s ease; user-select:none; -webkit-user-select:none; touch-action:manipulation;
+    .screen.show { display: flex; }
+    #screen-game { justify-content: center; }
+
+    /* --- ИГРА --- */
+    .circle-container { position: relative; width: 260px; height: 260px; display: flex; justify-content: center; align-items: center; margin: auto; }
+    .tap-btn {
+      width: 230px; height: 230px; border-radius: 50%; border: none; cursor: pointer;
+      background: radial-gradient(circle at 30% 30%, #2b2b50, #101025);
+      box-shadow: 0 0 30px rgba(0, 240, 255, 0.15), inset 0 0 20px rgba(0,0,0,0.5);
+      border: 4px solid var(--accent-2); z-index: 2; transition: transform 0.05s;
     }
-    .tap:active{ transform: scale(.985) }
-    .tap .sub{ position:absolute; left:0; right:0; bottom:34%; text-align:center; font-size:18px; opacity:.9 }
-    .chips{display:flex; gap:10px; flex-wrap:wrap; justify-content:center; padding:12px 4px 4px}
-    .chip{
-      font-size:12px; color:var(--muted); padding:8px 12px; border-radius:999px;
-      background:#151a23; border:1px solid var(--stroke); box-shadow: inset 0 1px 0 rgba(255,255,255,.04);
+    .tap-btn:active { transform: scale(0.95); }
+    .tap-btn h1 { margin: 0; font-size: 32px; color: var(--accent-2); text-shadow: 0 0 10px var(--accent-2); pointer-events: none; }
+
+    /* --- СПИСКИ --- */
+    .list-container { width: 100%; max-width: 600px; display: flex; flex-direction: column; gap: 10px; }
+    .section-title { width: 100%; max-width: 600px; font-size: 14px; color: var(--text-sec); text-transform: uppercase; margin-bottom: 10px; }
+
+    .card {
+      background: var(--card); border: 1px solid var(--card-border); border-radius: 12px;
+      padding: 12px; display: flex; align-items: center; gap: 12px; width: 100%;
     }
-    .shop{background:linear-gradient(180deg, rgba(255,255,255,.02), transparent 80%), var(--surface);
-      border:1px solid var(--stroke); border-radius:18px; padding:14px; box-shadow:var(--shadow);}
-    .shop-title{font-weight:900; font-size:18px; margin:6px 4px 10px; color:#dce4ea}
-    .item{display:flex; gap:14px; align-items:center; padding:14px; margin:8px 0;
-      border-radius:16px; background:linear-gradient(180deg, rgba(255,255,255,.03), transparent 80%), var(--card);
-      border:1px solid var(--stroke2); box-shadow: inset 0 1px 0 rgba(255,255,255,.03);
+    .card.premium { border: 1px solid var(--energy-color); background: rgba(255, 215, 0, 0.03); }
+    .card.locked { opacity: 0.5; filter: grayscale(1); pointer-events: none; }
+    
+    .card-icon { font-size: 28px; min-width: 40px; text-align: center; }
+    .card-body { flex: 1; min-width: 0; }
+    .card-name { font-weight: bold; font-size: 15px; }
+    .card-lvl { font-size: 11px; color: var(--accent-2); margin-left: 5px; }
+    .card-desc { font-size: 11px; color: var(--text-sec); }
+    
+    .buy-btn {
+      border: none; border-radius: 8px; padding: 8px 12px;
+      font-weight: bold; font-size: 13px; min-width: 80px;
+      background: #333; color: #777; cursor: not-allowed; transition: 0.2s;
     }
-    .icon{font-size:22px}
-    .grow{flex:1}
-    .title{font-weight:800}
-    .desc{font-size:12px; color:var(--muted); margin-top:3px}
-    .price{font-weight:900; min-width:92px; text-align:right; color:#d8dee6}
-    .buy{
-      min-width:120px; padding:10px 14px; border-radius:12px; border:none; font-weight:900; cursor:pointer; color:#101419;
-      background:linear-gradient(180deg, #cdd1d6, #b8bdc4 55%, #a3abb4);
-      box-shadow:inset 0 1px 0 rgba(255,255,255,.65), 0 6px 14px rgba(0,0,0,.25);
+    .buy-btn.can-buy { background: var(--accent); color: #fff; cursor: pointer; box-shadow: 0 4px 10px rgba(176, 38, 255, 0.2); }
+    .buy-btn.premium-btn.can-buy { background: linear-gradient(45deg, #ffd700, #ffaa00); color: #000; }
+    .buy-btn.maxed { background: transparent; border: 1px solid var(--green); color: var(--green); }
+
+    /* --- МЕНЮ --- */
+    .tabs {
+      position: fixed; bottom: 0; left: 0; right: 0; height: 70px;
+      background: var(--card); border-top: 1px solid var(--card-border);
+      display: flex; justify-content: space-around; align-items: center; z-index: 100;
     }
-    .buy:disabled{ filter:grayscale(.8) brightness(.9); cursor:not-allowed }
-    .toast{ position:fixed; left:50%; bottom:18px; transform:translateX(-50%);
-      background:rgba(0,0,0,.78); color:#fff; padding:10px 14px; border-radius:12px; font-size:14px;
-      opacity:0; pointer-events:none; transition:opacity .2s ease, transform .2s ease; }
-    .toast.show{opacity:1; transform:translateX(-50%) translateY(-4px)}
-    .float{ position:fixed; left:0; top:0; transform:translate(-50%,-50%); color:#fff; font-weight:900;
-      text-shadow:0 2px 6px rgba(0,0,0,.6); pointer-events:none; opacity:0; transition:transform .6s ease, opacity .6s ease; }
-    .float.show{ opacity:1; transform:translate(-50%,-120%) }
-    .row{display:flex; gap:12px; flex-wrap:wrap; align-items:center}
-    input[type="url"], input[type="text"]{
-      width:100%; background:#0f141c; color:var(--text); border:1px solid var(--stroke);
-      border-radius:12px; padding:10px 12px; outline:none;
+    .tab-btn {
+      background: transparent; border: none; color: var(--text-sec);
+      font-size: 11px; display: flex; flex-direction: column; align-items: center; gap: 4px;
+      cursor: pointer; flex: 1; height: 100%; justify-content: center;
     }
-    .mini{font-size:12px; color:var(--muted)}
-    @media (max-width:560px){ .tap{ width:260px; height:260px; font-size:34px } }
+    .tab-btn.active { color: var(--text); font-weight: bold; }
+    .tab-btn.active .tab-icon { color: var(--accent-2); transform: scale(1.1); }
+    .tab-icon { font-size: 22px; transition: 0.2s; }
+
+    /* --- ПРОЧЕЕ --- */
+    .float-num { position: absolute; font-weight: bold; font-size: 24px; pointer-events: none; animation: floatUp 0.8s ease-out forwards; color: #fff; z-index: 50; text-shadow: 0 2px 4px #000; }
+    .float-num.crit { color: var(--energy-color); font-size: 30px; }
+    @keyframes floatUp { to { transform: translateY(-120px); opacity: 0; } }
+
+    .modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.8); z-index: 200; display: none; justify-content: center; align-items: center; }
+    .modal { background: var(--card); padding: 20px; border-radius: 16px; width: 90%; max-width: 320px; border: 1px solid var(--accent); }
+    .inp { width: 100%; padding: 10px; background: #080810; border: 1px solid #444; color: #fff; border-radius: 8px; margin: 10px 0; outline: none; }
+    
+    .profile-linker { position: fixed; top: 105px; left: 10px; right: 10px; background: var(--red); padding: 10px; text-align: center; font-size: 12px; border-radius: 8px; cursor: pointer; display: none; z-index: 90; color: white; font-weight: bold; }
+    .profile-linker.active { display: block; }
+    .toast { position: fixed; top: 110px; left: 50%; transform: translateX(-50%); background: rgba(0,0,0,0.9); border: 1px solid var(--green); color: var(--green); padding: 8px 16px; border-radius: 20px; font-size: 12px; z-index: 300; opacity: 0; pointer-events: none; transition: opacity 0.3s; }
+    
+    .rank-row { display: flex; align-items: center; padding: 10px; background: var(--card); border-radius: 10px; border: 1px solid var(--card-border); margin-bottom: 8px; width: 100%; }
+    .rank-idx { width: 30px; font-weight: 900; color: var(--text-sec); }
+    .rank-name { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-weight: bold; }
+    .rank-val { color: var(--green); font-weight: bold; }
+    .rank-row.me { border: 1px solid var(--accent-2); box-shadow: 0 0 10px rgba(0, 240, 255, 0.2); background: rgba(0, 240, 255, 0.05); }
   </style>
 </head>
 <body>
-  <div class="wrap">
-    <!-- Top bar -->
-    <div class="top">
-      <div class="kpi"><div class="label">Баланс</div><div class="value" id="balance">0</div></div>
-      <div class="kpi"><div class="label">За тап</div><div class="value" id="perTap">+1</div></div>
-      <div class="kpi"><div class="label">⚡ Энергия</div><div class="value" id="energy">0</div></div>
-      <button class="btn" id="btnSave">Сохранить</button>
-      <button class="btn" id="btnSync">⚡ Синхр. энергию</button>
-    </div>
 
-    <!-- Big circle -->
-    <div class="panel">
-      <div class="panel-inner">
-        <button class="tap" id="tapBtn">Тапни!<div class="sub" id="tapDelta">+1</div></button>
-        <div class="chips">
-          <div class="chip" id="userChip">Локальный игрок</div>
-          <div class="chip" id="unameChip"></div>
-          <div class="chip" id="profileChip">Профиль: не привязан</div>
-          <div class="chip"><a href="#shop" style="text-decoration:none;color:inherit">Магазин улучшений</a></div>
-        </div>
+  <div id="toast" class="toast">Сохранено</div>
+  <div id="profileLinker" class="profile-linker" onclick="openProfileModal()">⚠️ Профиль ReManga не привязан!</div>
+
+  <div class="header">
+    <div class="top-row">
+      <div>
+        <div style="font-size:10px; color:var(--text-sec)">БАЛАНС</div>
+        <div class="balance" id="balanceDisplay">0</div>
+      </div>
+      <div style="text-align:right">
+        <div style="font-size:10px; color:var(--text-sec)">ЭНЕРГИЯ</div>
+        <div class="premium-res"><span>⚡</span> <span id="upgradeEnergyDisplay">0</span></div>
       </div>
     </div>
-
-    <!-- Profile input (shown when missing) -->
-    <div class="panel" id="profilePanel" style="display:none">
-      <div class="row">
-        <div style="flex:1">
-          <div class="mini">Вставь ссылку на профиль ReManga (например, https://remanga.org/user/2384260/about):</div>
-          <input type="url" id="profileInput" placeholder="https://remanga.org/user/XXXXX/about" />
-        </div>
-        <button class="btn" id="btnSaveProfile">Привязать</button>
+    <div class="controls-row">
+      <button class="save-btn" onclick="sendDataToBot()">💾 Сохранить</button>
+      <div style="display:flex; align-items:center; flex:1; margin-left:10px;">
+        <div class="stamina-bar-bg"><div class="stamina-bar-fill" id="staminaFill"></div></div>
+        <div class="stamina-text" id="staminaText">1000</div>
       </div>
-      <div class="mini">Если делал /register в боте и нажмёшь «Играть с привязкой», профиль подставится сам.</div>
-    </div>
-
-    <!-- Shop -->
-    <div class="shop" id="shop">
-      <div class="shop-title">Улучшения (покупаются за ⚡ Энергию)</div>
-      <div id="shopList"></div>
     </div>
   </div>
 
-  <div class="toast" id="toast">Сохранено</div>
+  <div class="screen show" id="screen-game">
+    <div class="circle-container"><button class="tap-btn" id="tapBtn"><h1>TAP</h1></button></div>
+    <div style="margin-top:20px; text-align:center; color:var(--text-sec); font-size:12px">
+      <div id="clickDmg">Клик: +1</div>
+      <div id="autoDmg">Авто: 0/сек</div>
+    </div>
+  </div>
+
+  <div class="screen" id="screen-shop">
+    <div class="section-title">Базовые (Монеты)</div>
+    <div class="list-container" id="basicList"></div>
+  </div>
+
+  <div class="screen" id="screen-premium">
+    <div class="section-title" style="color:var(--energy-color)">Элитные (Цена +1)</div>
+    <div style="font-size:11px; color:#888; margin-bottom:10px; text-align:center">
+      1 Энергия = 100 Молний (из файлов).<br><span id="lightningInfo">Молний: 0</span>
+    </div>
+    <div class="list-container" id="premiumList"></div>
+    <button class="buy-btn" style="margin-top:20px; width:100%; max-width:600px; background:#222; color:#fff; border:1px solid #444;" onclick="syncEnergy()">🔄 Проверить файлы</button>
+  </div>
+
+  <div class="screen" id="screen-top">
+    <div class="section-title">Топ Лидеры</div>
+    <div style="font-size:11px; color:#666; margin-bottom:10px; text-align:center">Обновляется при нажатии "Сохранить"</div>
+    <div class="list-container" id="topList">Загрузка...</div>
+  </div>
+
+  <div class="tabs">
+    <button class="tab-btn active" onclick="switchTab('game', this)"><span class="tab-icon">🎮</span></button>
+    <button class="tab-btn" onclick="switchTab('shop', this)"><span class="tab-icon">🛠</span></button>
+    <button class="tab-btn" onclick="switchTab('premium', this)"><span class="tab-icon" style="color:var(--energy-color)">⚡</span></button>
+    <button class="tab-btn" onclick="switchTab('top', this)"><span class="tab-icon">🏆</span></button>
+  </div>
+
+  <div class="modal-overlay" id="profileModal">
+    <div class="modal">
+      <h3>Привязка ReManga</h3>
+      <input type="text" class="inp" id="profileInput" placeholder="https://remanga.org/user/..." />
+      <button class="buy-btn can-buy" style="width:100%" onclick="saveProfile()">Сохранить</button>
+      <button class="buy-btn" style="width:100%; margin-top:10px; background:transparent" onclick="closeProfileModal()">Отмена</button>
+    </div>
+  </div>
 
 <script>
-// ====== КОНФИГ ======
-const ENERGY_SOURCES = [
-  "./history_ew.json",
-  "./history_ed.json",
-  //"./history_e.json",
+const tg = window.Telegram?.WebApp; tg?.expand();
+
+// === БАЛАНС ===
+const BASIC_UPGRADES = [
+  { id: 'b_click', name: 'Сила Пальца', desc: '+0.5 к клику', icon: '👆', baseCost: 200, mult: 1.8, max: 20, type: 'click', val: 0.5 },
+  { id: 'b_auto', name: 'Авто-Кликер', desc: '+0.5 в сек', icon: '🤖', baseCost: 500, mult: 1.6, max: 20, type: 'auto', val: 0.5 },
+  { id: 'b_crit', name: 'Линза', desc: '+0.5% шанс крита', icon: '🔍', baseCost: 1000, mult: 2.0, max: 20, type: 'crit', val: 0.5 },
+  { id: 'b_stamina', name: 'Батарейка', desc: '+25 стамины', icon: '🔋', baseCost: 400, mult: 1.5, max: 20, type: 'stamina', val: 25 },
+  { id: 'b_regen', name: 'Зарядка', desc: '+0.5 реген', icon: '🔌', baseCost: 1500, mult: 1.9, max: 20, type: 'regen', val: 0.5 }
 ];
+const PREMIUM_UPGRADES = [
+  { id: 'p_thunder', name: 'Громоотвод', desc: '+10% к клику', icon: '🔨', baseCost: 1, type: 'clickMult', val: 0.1 },
+  { id: 'p_plasma', name: 'Плазма', desc: '+25 урон', icon: '💥', baseCost: 5, req: {id:'p_thunder', lvl:5}, type: 'clickFlat', val: 25 },
+  { id: 'p_static', name: 'Статика', desc: '+10% к авто', icon: '🌐', baseCost: 1, type: 'autoMult', val: 0.1 },
+  { id: 'p_storm', name: 'Шторм', desc: '+100 авто', icon: '🌪', baseCost: 5, req: {id:'p_static', lvl:5}, type: 'autoFlat', val: 100 },
+  { id: 'p_overload', name: 'Перегрузка', desc: 'Крит +25%', icon: '⚡', baseCost: 3, type: 'critMult', val: 0.25 },
+  { id: 'p_effic', name: 'Оптимизация', desc: 'Скидка 0.5%', icon: '📉', baseCost: 2, type: 'discount', val: 0.005 }
+];
+const FILES = ['./history_ew.json', './history_ed.json', './history_ea.json'];
 
-const tg = window.Telegram?.WebApp; tg?.ready(); tg?.expand();
-const cloud = tg?.CloudStorage;
-const CLOUD_KEY = "eternal_state1";
-const STATE_KEY = "eternal_state1";
+let state = { balance: 0, stamina: 1000, b_levels: {}, p_levels: {}, claimedDiff: 0, spentEnergy: 0, totalEnergy: 0, name: (tg?.initDataUnsafe?.user?.first_name || "Player") };
+let stats = { click: 1, auto: 0, crit: 0, maxStamina: 1000, regen: 1, discount: 0, critMult: 5 };
 
-// Состояние
-const def = () => ({
-  userId: tg?.initDataUnsafe?.user?.id || 0,
-  balance: 0,
-  baseTap: 1,
-  upgrades: { tapPower:0, autoClick:0, mult:0, offline:0 },
-  lastTs: Date.now(),
-  energy: 0,
-  claimedEnergy: 0,
-  profile: ""
-});
-let S = def();
-
-// Элементы
-const $ = s=>document.querySelector(s);
-const elBal=$("#balance"), elPerTap=$("#perTap"), elEnergy=$("#energy");
-const elTap=$("#tapBtn"), elDelta=$("#tapDelta"), elToast=$("#toast");
-const elSave=$("#btnSave"), elSync=$("#btnSync");
-const elUser=$("#userChip"), elUname=$("#unameChip"), elProfChip=$("#profileChip");
-const elProfPanel=$("#profilePanel"), elProfInput=$("#profileInput"), elProfSave=$("#btnSaveProfile");
-const elShop=$("#shopList");
-
-// Формат
-const fmt = n => (n<1000? n.toString() : (n<1e6? (n/1e3).toFixed(1)+'K' : (n/1e6).toFixed(2)+'M'));
-
-// Параметры
-const perTap = () => Math.max(1, Math.floor((S.baseTap + S.upgrades.tapPower) * (1 + 0.15*S.upgrades.mult)));
-const cps = () => Math.floor((S.upgrades.autoClick) * (1 + 0.10*S.upgrades.mult));
-
-// ====== ЭНЕРГИЯ из diff ======
-function normalizeProfile(url){
-  try{
-    const m = String(url||"").trim().match(/^https?:\/\/(?:www\.)?remanga\.org\/user\/(\d+)\/(?:about\/?)?$/i);
-    if(!m) return null;
-    return `https://remanga.org/user/${m[1]}/about`;
-  }catch(e){return null;}
+function load() {
+  const raw = localStorage.getItem("neon_v7_full");
+  if (raw) try { state = { ...state, ...JSON.parse(raw) }; } catch(e){}
+  try { const p = new URLSearchParams(location.search).get("profile"); if (p) state.profile = normalizeProfile(p); } catch(e){}
+  calcStats(); updateUI(); syncEnergy();
 }
+function saveLocal() { localStorage.setItem("neon_v7_full", JSON.stringify(state)); }
 
-// подхватываем ?profile=... из URL
-try {
-  const u = new URL(location.href);
-  const p = u.searchParams.get("profile");
-  const n = normalizeProfile(p);
-  if (n) S.profile = n;
-} catch(e){}
-
-// Фетч с таймаутом
-async function fetchJson(url, timeoutMs=8000){
-  const ctrl = new AbortController();
-  const t = setTimeout(()=>ctrl.abort(), timeoutMs);
-  try{
-    const r = await fetch(url, {signal: ctrl.signal});
-    if(!r.ok) throw new Error("HTTP "+r.status);
-    return await r.json();
-  } finally { clearTimeout(t); }
-}
-
-async function syncEnergy(){
-  if (!S.profile){
-    toast("Сначала привяжи профиль");
-    elProfPanel.style.display = "";
-    elProfInput.focus();
-    return;
-  }
-  elSync.disabled = true;
-  try{
-    // Скачиваем все источники
-    let all = [];
-    for (const src of ENERGY_SOURCES){
-      try{
-        const part = await fetchJson(src);
-        if (Array.isArray(part)) all = all.concat(part);
-      }catch(e){ /* пропускаем */ }
-    }
-    // Ищем запись по profile
-    const norm = normalizeProfile(S.profile);
-    let found = null;
-    for (const row of all){
-      const pr = normalizeProfile(row?.profile);
-      if (pr && pr === norm){ found = row; break; }
-    }
-    if (!found){ toast("Профиль не найден в данных"); return; }
-
-    const diff = Number(found.diff||0) || 0;
-    const total = Math.floor(diff / 300);
-    const delta = Math.max(0, total - (S.claimedEnergy||0));
-    if (delta>0){
-      S.energy += delta;
-      S.claimedEnergy += delta;
-      toast(`Начислено ⚡${delta} (из diff ${diff})`);
-      persistSoon();
-      updateUI();
-    } else {
-      toast(`Нет новой энергии (diff ${diff})`);
-    }
-  } finally {
-    elSync.disabled = false;
-  }
-}
-
-// ====== ИГРА ======
-function updateUI(){
-  elBal.textContent = fmt(S.balance);
-  elPerTap.textContent = "+" + fmt(perTap());
-  elEnergy.textContent = String(S.energy);
-  elDelta.textContent = "+" + fmt(perTap());
-
-  const u = tg?.initDataUnsafe?.user;
-  if (u){
-    elUser.textContent = `${u.first_name||''} ${u.last_name||''}`.trim() || ("user#"+u.id);
-    elUname.textContent = u.username? "@"+u.username : `user#${u.id}`;
+// === ОТПРАВКА БОТУ (SEND DATA) ===
+function sendDataToBot() {
+  saveLocal();
+  if (tg && tg.sendData) {
+    // Это закрывает игру и передает JSON боту
+    tg.sendData(JSON.stringify({ type: "save_manual", state: state }));
   } else {
-    elUser.textContent = "Локальный игрок";
-    elUname.textContent = "";
-  }
-  elProfChip.textContent = S.profile? ("Профиль: " + S.profile) : "Профиль: не привязан";
-  elProfPanel.style.display = S.profile? "none" : "";
-
-  renderShop();
-}
-
-// Магазин (цены в Энергии)
-const ITEMS = [
-  { id:"tapPower", icon:"👆", title:"Сила тапа", desc:"Каждый тап даёт больше монет.",
-    eprice:l=>1 + l, buy:()=>{ S.upgrades.tapPower++; } },
-  { id:"autoClick", icon:"🤖", title:"Автокликер", desc:"Пассивный доход в секунду.",
-    eprice:l=>1 + l, buy:()=>{ S.upgrades.autoClick++; } },
-  { id:"mult", icon:"✨", title:"Множитель", desc:"Множит доходы от тапа и AFK.",
-    eprice:l=>2 + 2*l, buy:()=>{ S.upgrades.mult++; } },
-  { id:"offline", icon:"🌙", title:"Офлайн-фарм", desc:"Повышает доход в офлайне.",
-    eprice:l=>2 + l, buy:()=>{ S.upgrades.offline++; } },
-];
-
-function renderShop(){
-  elShop.innerHTML = "";
-  for (const it of ITEMS){
-    const lvl = S.upgrades[it.id]||0;
-    const cost = it.eprice(lvl);
-    const can = S.energy >= cost;
-
-    const row = document.createElement("div");
-    row.className = "item";
-    row.innerHTML = `
-      <div class="icon">${it.icon}</div>
-      <div class="grow">
-        <div class="title">${it.title} <span style="color:var(--muted);font-weight:600">ур. ${lvl}</span></div>
-        <div class="desc">${it.desc}</div>
-      </div>
-      <div class="price">⚡ ${cost}</div>
-    `;
-    const btn = document.createElement("button");
-    btn.className = "buy";
-    btn.textContent = can ? "Купить" : "Не хватает";
-    btn.disabled = !can;
-    btn.onclick = () => {
-      const lvlNow = S.upgrades[it.id]||0;
-      const priceNow = it.eprice(lvlNow);
-      if (S.energy >= priceNow){
-        S.energy -= priceNow;
-        it.buy();
-        persistSoon();
-        toast(`Куплено: ${it.title} (ур. ${S.upgrades[it.id]})`);
-        updateUI();
-      }
-    };
-    row.appendChild(btn);
-    elShop.appendChild(row);
+    alert("Эта кнопка работает только внутри Telegram!");
   }
 }
 
-// Всплывающие +N
-function floatText(text, x, y){
-  const el = document.createElement("div");
-  el.className = "float"; el.textContent = text;
-  el.style.left = x+"px"; el.style.top = y+"px";
-  document.body.appendChild(el);
-  requestAnimationFrame(()=> el.classList.add("show"));
-  setTimeout(()=> el.remove(), 650);
+// === ИГРА ===
+function calcStats() {
+  let s = { click: 1, auto: 0, crit: 0, maxStamina: 1000, regen: 1, discount: 0, clickMult: 1, autoMult: 1, critMult: 5 };
+  BASIC_UPGRADES.forEach(u => { const l = state.b_levels[u.id] || 0; if (u.type==='click') s.click += l*u.val; if (u.type==='auto') s.auto += l*u.val; if (u.type==='crit') s.crit += l*u.val; if (u.type==='stamina') s.maxStamina += l*u.val; if (u.type==='regen') s.regen += l*u.val; });
+  PREMIUM_UPGRADES.forEach(u => { const l = state.p_levels[u.id] || 0; if (u.type==='clickMult') s.clickMult += l*u.val; if (u.type==='clickFlat') s.click += l*u.val; if (u.type==='autoMult') s.autoMult += l*u.val; if (u.type==='autoFlat') s.auto += l*u.val; if (u.type==='critMult') s.critMult += l*u.val; if (u.type==='discount') s.discount += l*u.val; });
+  stats.click = s.click * s.clickMult; stats.auto = s.auto * s.autoMult; stats.crit = s.crit; stats.maxStamina = s.maxStamina; stats.regen = s.regen; stats.discount = Math.min(0.8, s.discount); stats.critMult = s.critMult;
 }
 
-// Офлайн доход
-function applyOffline(){
-  const now = Date.now();
-  const dt = Math.max(0, (now - (S.lastTs||now))/1000);
-  const earn = Math.floor(cps()*dt* (1 + 0.15*S.upgrades.offline));
-  if (earn>0) S.balance += earn;
-  S.lastTs = now;
-}
+setInterval(() => { if (stats.auto > 0) state.balance += stats.auto; if (state.stamina < stats.maxStamina) state.stamina = Math.min(stats.maxStamina, state.stamina + stats.regen); updateUI(); saveLocal(); }, 1000);
 
-// Сохранение
-function saveLocal(){ try{ localStorage.setItem(STATE_KEY, JSON.stringify(S)); }catch(e){} }
-async function cloudSet(key,val){ return new Promise(r=>{ if(!cloud) return r(false); cloud.setItem(key,val, (err)=> r(!err)); }); }
-async function cloudGet(key){ return new Promise(r=>{ if(!cloud) return r(null); cloud.getItem(key, (err,v)=> r(err?null:v||null)); }); }
-let saveTimer=null;
-function persistSoon(){ clearTimeout(saveTimer); saveTimer=setTimeout(()=>persist(),400); }
-async function persist(){ S.lastTs=Date.now(); saveLocal(); if (cloud) await cloudSet(CLOUD_KEY, JSON.stringify(S)); }
-function toast(t){ elToast.textContent=t; elToast.classList.add("show"); setTimeout(()=> elToast.classList.remove("show"), 1400); }
-
-// События
-elTap.addEventListener("pointerdown", (ev)=>{
-  const gain = perTap();
-  S.balance += gain;
-  floatText("+"+fmt(gain), ev.clientX||innerWidth/2, ev.clientY||innerHeight/2);
-  persistSoon(); updateUI();
-});
-setInterval(()=>{ const inc = cps(); if (inc>0){ S.balance+=inc; persistSoon(); updateUI(); } }, 1000);
-document.getElementById('btnSave').addEventListener('click', async()=>{
-  await persist();
-  try{ if (tg && typeof tg.sendData==="function"){ tg.sendData(JSON.stringify({type:"sync", state:S})); } }catch(e){}
-  toast("Сохранено");
-});
-
-elSync.addEventListener('click', syncEnergy);
-elProfSave.addEventListener('click', ()=>{
-  const n = normalizeProfile(elProfInput.value);
-  if (!n){ toast("Некорректная ссылка"); return; }
-  S.profile = n; persistSoon(); updateUI(); toast("Профиль привязан");
-});
-
-// Инициализация
-(async ()=>{
-  let loaded=null;
-  const raw = await cloudGet(CLOUD_KEY);
-  if (raw){ try{ loaded=JSON.parse(raw);}catch{} }
-  if (!loaded){ try{ const r=localStorage.getItem(eternal_state); loaded=r?JSON.parse(r):null; }catch{} }
-  S = Object.assign(def(), loaded||{});
-  applyOffline();
-  saveLocal(); if (cloud) await cloudSet(CLOUD_KEY, JSON.stringify(S));
-  // Авто-отображение профиля из URL
-  if (!S.profile){
-    try{ const u=new URL(location.href); const p=u.searchParams.get("profile"); const n=normalizeProfile(p); if(n){ S.profile=n; } }catch(e){}
+document.getElementById('tapBtn').addEventListener('pointerdown', (e) => {
+  if (state.stamina >= 1) {
+    state.stamina -= 1; let dmg = stats.click;
+    if (Math.random()*100 < stats.crit) dmg *= stats.critMult;
+    state.balance += dmg;
+    const btn = document.getElementById('tapBtn'); btn.style.transform = "scale(0.95)"; setTimeout(() => btn.style.transform = "scale(1)", 50);
+    createFloat(e.clientX, e.clientY, "+" + fmt(dmg), dmg > stats.click);
+    updateUI();
   }
-  updateUI();
-})();
+});
 
-// Имя пользователя в чипы
-const u = tg?.initDataUnsafe?.user;
-if (u){
-  document.getElementById('userChip').textContent = `${u.first_name||''} ${u.last_name||''}`.trim() || ("user#"+u.id);
-  document.getElementById('unameChip').textContent = u.username? "@"+u.username : `user#${u.id}`;
+// === МАГАЗИН ===
+function buyBasic(id) {
+  const u = BASIC_UPGRADES.find(x => x.id === id), lvl = state.b_levels[id] || 0;
+  const cost = Math.floor(Math.floor(u.baseCost * Math.pow(u.mult, lvl)) * (1 - stats.discount));
+  if (state.balance >= cost && lvl < u.max) { state.balance -= cost; state.b_levels[id] = lvl + 1; calcStats(); updateUI(); saveLocal(); showToast("Куплено!"); }
 }
+function buyPremium(id) {
+  const u = PREMIUM_UPGRADES.find(x => x.id === id), lvl = state.p_levels[id] || 0;
+  if (u.req && (state.p_levels[u.req.id]||0) < u.req.lvl) return;
+  const cost = u.baseCost + lvl;
+  if (state.totalEnergy >= cost) { state.totalEnergy -= cost; state.spentEnergy += cost; state.p_levels[id] = lvl + 1; calcStats(); updateUI(); saveLocal(); showToast("Элитный апгрейд!"); }
+}
+
+// === UI & SYNC ===
+function updateUI() {
+  document.getElementById('balanceDisplay').innerText = fmt(state.balance);
+  document.getElementById('upgradeEnergyDisplay').innerText = state.totalEnergy;
+  document.getElementById('staminaFill').style.width = (state.stamina/stats.maxStamina*100) + "%";
+  document.getElementById('staminaText').innerText = Math.floor(state.stamina);
+  document.getElementById('clickDmg').innerText = `Клик: +${fmt(stats.click)}`;
+  document.getElementById('autoDmg').innerText = `Авто: ${fmt(stats.auto)}/сек`;
+  renderShops();
+}
+function renderShops() {
+  const bList = document.getElementById('basicList'); bList.innerHTML = "";
+  BASIC_UPGRADES.forEach(u => {
+    const lvl = state.b_levels[u.id] || 0, cost = Math.floor(Math.floor(u.baseCost * Math.pow(u.mult, lvl)) * (1 - stats.discount));
+    const can = state.balance >= cost && lvl < u.max, maxed = lvl >= u.max;
+    bList.innerHTML += `<div class="card"><div class="card-icon">${u.icon}</div><div class="card-body"><div class="card-name">${u.name} <span class="card-lvl">${lvl}/${u.max}</span></div><div class="card-desc">${u.desc}</div></div><button class="buy-btn ${can?'can-buy':''} ${maxed?'maxed':''}" onclick="buyBasic('${u.id}')">${maxed ? 'MAX' : fmt(cost)}</button></div>`;
+  });
+  const pList = document.getElementById('premiumList'); pList.innerHTML = "";
+  PREMIUM_UPGRADES.forEach(u => {
+    const lvl = state.p_levels[u.id] || 0, cost = u.baseCost + lvl;
+    let locked = u.req && (state.p_levels[u.req.id]||0) < u.req.lvl;
+    const can = !locked && state.totalEnergy >= cost;
+    pList.innerHTML += `<div class="card premium ${locked?'locked':''}"><div class="card-icon">${u.icon}</div><div class="card-body"><div class="card-name" style="color:var(--energy-color)">${u.name} <span class="card-lvl">Lvl ${lvl}</span></div><div class="card-desc">${locked ? 'Требует пред. уровень' : u.desc}</div></div><button class="buy-btn premium-btn ${can?'can-buy':''}" onclick="buyPremium('${u.id}')">⚡ ${cost}</button></div>`;
+  });
+}
+async function syncEnergy() {
+  if (!state.profile) { document.getElementById('profileLinker').classList.add('active'); return; }
+  try {
+    let totalDiff = 0, norm = normalizeProfile(state.profile);
+    for (const file of FILES) {
+      const r = await fetch(file + "?t=" + Date.now());
+      if (r.ok) (await r.json()).forEach(row => { if (normalizeProfile(row.profile) === norm) totalDiff += row.diff || 0; });
+    }
+    state.totalEnergy = Math.max(0, Math.floor(totalDiff / 100) - state.spentEnergy);
+    document.getElementById('lightningInfo').innerText = `Молний: ${totalDiff}`;
+    showToast("Синхронизация OK"); updateUI();
+  } catch(e) {}
+}
+async function loadRealTop() {
+  const list = document.getElementById('topList'); list.innerHTML = "Загрузка...";
+  try {
+    const r = await fetch('./tap_saves.json?t=' + Date.now());
+    if (r.ok) {
+      const d = await r.json();
+      let arr = Object.keys(d).map(k => ({ name: d[k].name || "ID:"+k, score: (d[k].state?.balance || 0), isMe: String(k) === String(tg?.initDataUnsafe?.user?.id) }));
+      arr.sort((a,b) => b.score - a.score);
+      list.innerHTML = arr.slice(0, 50).map((p, i) => `<div class="rank-row ${p.isMe ? 'me' : ''}"><div class="rank-idx">${i+1}</div><div class="rank-name">${p.name}</div><div class="rank-val">${fmt(p.score)}</div></div>`).join('');
+    }
+  } catch { list.innerHTML = "Ошибка загрузки"; }
+}
+function normalizeProfile(url) { try { return "https://remanga.org/user/" + url.match(/user\/(\d+)/)[1] + "/about"; } catch { return url; } }
+function fmt(n) { if (n >= 1e6) return (n/1e6).toFixed(2)+"M"; if (n >= 1e3) return (n/1e3).toFixed(1)+"K"; return Number(n).toFixed(1).replace(/\.0$/, ''); }
+function createFloat(x,y,t,c) { const el=document.createElement('div'); el.className='float-num '+(c?'crit':''); el.textContent=t; el.style.left=(x||150)+'px'; el.style.top=(y||300)+'px'; document.body.appendChild(el); setTimeout(()=>el.remove(),800); }
+function showToast(m) { const t=document.getElementById('toast'); t.textContent=m; t.style.opacity=1; setTimeout(()=>t.style.opacity=0,2000); }
+function switchTab(n,b) { document.querySelectorAll('.screen').forEach(s=>s.classList.remove('show')); document.getElementById('screen-'+n).classList.add('show'); document.querySelectorAll('.tab-btn').forEach(x=>x.classList.remove('active')); b.classList.add('active'); if(n==='top') loadRealTop(); }
+function openProfileModal(){document.getElementById('profileModal').style.display='flex'}
+function closeProfileModal(){document.getElementById('profileModal').style.display='none'}
+function saveProfile(){ const v=document.getElementById('profileInput').value.trim(); if(v){ state.profile=normalizeProfile(v); saveLocal(); closeProfileModal(); syncEnergy(); } }
+load();
 </script>
 </body>
 </html>
