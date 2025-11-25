@@ -1,30 +1,30 @@
 {
   "1515127053": {
     "state": {
-      "balance": 356604.8499999998,
-      "stamina": 1099,
+      "balance": 5361.100000000304,
+      "stamina": 1026.5,
       "b_levels": {
-        "b_click": 11,
-        "b_crit": 7,
-        "b_auto": 14,
-        "b_stamina": 12,
-        "b_regen": 4
+        "b_crit": 10,
+        "b_click": 10,
+        "b_auto": 12,
+        "b_regen": 8,
+        "b_stamina": 11
       },
       "p_levels": {
-        "p_thunder": 14,
-        "p_plasma": 5,
-        "p_overload": 5,
-        "p_static": 27,
-        "p_storm": 20,
+        "p_thunder": 25,
+        "p_plasma": 6,
+        "p_static": 17,
+        "p_storm": 9,
+        "p_overload": 19,
         "p_effic": 2
       },
       "claimedDiff": 0,
-      "spentEnergy": 838,
-      "totalEnergy": 1,
-      "name": "Сайтама",
+      "spentEnergy": 837,
+      "totalEnergy": 2,
+      "name": "Player",
       "profile": "https://remanga.org/user/12762/about"
     },
-    "updated_at": "2025-11-25T12:39:30.404282+00:00",
+    "updated_at": "2025-11-25T13:21:29.179551+00:00",
     "name": "Сайтама",
     "username": "saitama01010"
   }
