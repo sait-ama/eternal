@@ -1,17 +1,30 @@
 {
   "1515127053": {
     "state": {
-      "balance": 0,
-      "stamina": 1000,
-      "b_levels": {},
-      "p_levels": {},
+      "balance": 53363.39999999978,
+      "stamina": 871,
+      "b_levels": {
+        "b_click": 9,
+        "b_crit": 6,
+        "b_auto": 13,
+        "b_stamina": 9,
+        "b_regen": 4
+      },
+      "p_levels": {
+        "p_thunder": 14,
+        "p_plasma": 5,
+        "p_overload": 5,
+        "p_static": 27,
+        "p_storm": 20,
+        "p_effic": 2
+      },
       "claimedDiff": 0,
-      "spentEnergy": 0,
-      "totalEnergy": 839,
+      "spentEnergy": 838,
+      "totalEnergy": 1,
       "name": "Сайтама",
       "profile": "https://remanga.org/user/12762/about"
     },
-    "updated_at": "2025-11-25T12:21:41.981942+00:00",
+    "updated_at": "2025-11-25T12:25:02.351622+00:00",
     "name": "Сайтама",
     "username": "saitama01010"
   }
