@@ -1,11 +1,11 @@
 {
   "1515127053": {
     "state": {
-      "balance": 133441.03749997835,
-      "stamina": 7,
+      "balance": 425976.1999999693,
+      "stamina": 35,
       "b_levels": {
-        "b_crit": 11,
-        "b_click": 15,
+        "b_crit": 12,
+        "b_click": 16,
         "b_auto": 17,
         "b_regen": 12,
         "b_stamina": 18
@@ -24,7 +24,7 @@
       "name": "Player",
       "profile": "https://remanga.org/user/12762/about"
     },
-    "updated_at": "2025-11-25T15:03:45.857972+00:00",
+    "updated_at": "2025-11-25T15:12:55.488921+00:00",
     "name": "Сайтама",
     "username": "saitama01010"
   }
