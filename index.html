@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
-  <title>Neon Tap: Hardcore</title>
+  <title>Neon Tap: Cloud Sync</title>
   <script src="https://telegram.org/js/telegram-web-app.js"></script>
   <style>
     :root {
@@ -56,7 +56,7 @@
     .tap-btn:active { transform: scale(0.95); }
     .tap-btn h1 { margin: 0; font-size: 32px; color: var(--accent-2); text-shadow: 0 0 10px var(--accent-2); pointer-events: none; }
 
-    /* --- СПИСКИ --- */
+    /* --- КАРТОЧКИ --- */
     .list-container { width: 100%; max-width: 600px; display: flex; flex-direction: column; gap: 10px; }
     .section-title { width: 100%; max-width: 600px; font-size: 14px; color: var(--text-sec); text-transform: uppercase; margin-bottom: 10px; }
 
@@ -97,9 +97,7 @@
     .tab-btn.active .tab-icon { color: var(--accent-2); transform: scale(1.1); }
     .tab-icon { font-size: 22px; transition: 0.2s; }
 
-    /* --- ПРОЧЕЕ --- */
     .float-num { position: absolute; font-weight: bold; font-size: 24px; pointer-events: none; animation: floatUp 0.8s ease-out forwards; color: #fff; z-index: 50; text-shadow: 0 2px 4px #000; }
-    .float-num.crit { color: var(--energy-color); font-size: 30px; }
     @keyframes floatUp { to { transform: translateY(-120px); opacity: 0; } }
 
     .modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.8); z-index: 200; display: none; justify-content: center; align-items: center; }
@@ -158,7 +156,7 @@
   <div class="screen" id="screen-premium">
     <div class="section-title" style="color:var(--energy-color)">Элитные (Цена +1)</div>
     <div style="font-size:11px; color:#888; margin-bottom:10px; text-align:center">
-      1 Энергия = 100 Молний (из файлов).<br><span id="lightningInfo">Молний: 0</span>
+      1 Энергия = 100 Молний.<br><span id="lightningInfo">Молний: 0</span>
     </div>
     <div class="list-container" id="premiumList"></div>
     <button class="buy-btn" style="margin-top:20px; width:100%; max-width:600px; background:#222; color:#fff; border:1px solid #444;" onclick="syncEnergy()">🔄 Проверить файлы</button>
@@ -189,7 +187,7 @@
 <script>
 const tg = window.Telegram?.WebApp; tg?.expand();
 
-// === БАЛАНС ===
+// --- БАЛАНС ---
 const BASIC_UPGRADES = [
   { id: 'b_click', name: 'Сила Пальца', desc: '+0.5 к клику', icon: '👆', baseCost: 200, mult: 1.8, max: 20, type: 'click', val: 0.5 },
   { id: 'b_auto', name: 'Авто-Кликер', desc: '+0.5 в сек', icon: '🤖', baseCost: 500, mult: 1.6, max: 20, type: 'auto', val: 0.5 },
@@ -210,19 +208,48 @@ const FILES = ['./history_ew.json', './history_ed.json', './history_ea.json'];
 let state = { balance: 0, stamina: 1000, b_levels: {}, p_levels: {}, claimedDiff: 0, spentEnergy: 0, totalEnergy: 0, name: (tg?.initDataUnsafe?.user?.first_name || "Player") };
 let stats = { click: 1, auto: 0, crit: 0, maxStamina: 1000, regen: 1, discount: 0, critMult: 5 };
 
+// --- ЗАГРУЗКА (ТЕПЕРЬ С ОБЛАКОМ) ---
 function load() {
+  // 1. Грузим локально (для скорости)
   const raw = localStorage.getItem("neon_v7_full");
   if (raw) try { state = { ...state, ...JSON.parse(raw) }; } catch(e){}
+  
+  // 2. Грузим из Облака (для кросс-девайса)
+  if (tg && tg.CloudStorage) {
+    tg.CloudStorage.getItem("save_data", (err, val) => {
+      if(!err && val) {
+        try {
+          const cloudState = JSON.parse(val);
+          // Берем из облака, если там баланс больше (или просто берем)
+          if ((cloudState.balance || 0) > state.balance) {
+            state = { ...state, ...cloudState };
+            calcStats(); updateUI();
+          }
+        } catch(e){}
+      }
+    });
+  }
+
   try { const p = new URLSearchParams(location.search).get("profile"); if (p) state.profile = normalizeProfile(p); } catch(e){}
   calcStats(); updateUI(); syncEnergy();
 }
-function saveLocal() { localStorage.setItem("neon_v7_full", JSON.stringify(state)); }
 
-// === ОТПРАВКА БОТУ (SEND DATA) ===
+// --- СОХРАНЕНИЕ (ЛОКАЛЬНО + ОБЛАКО) ---
+function saveLocal() { 
+  // Локально в браузере
+  localStorage.setItem("neon_v7_full", JSON.stringify(state));
+  
+  // В облако Телеграма (фоново)
+  if (tg && tg.CloudStorage) {
+    tg.CloudStorage.setItem("save_data", JSON.stringify(state));
+  }
+}
+
+// === ОТПРАВКА БОТУ (КНОПКА СОХРАНИТЬ) ===
 function sendDataToBot() {
-  saveLocal();
+  saveLocal(); // Сначала сохраняем в облако
+  
   if (tg && tg.sendData) {
-    // Это закрывает игру и передает JSON боту
     tg.sendData(JSON.stringify({ type: "save_manual", state: state }));
   } else {
     alert("Эта кнопка работает только внутри Telegram!");
@@ -237,7 +264,12 @@ function calcStats() {
   stats.click = s.click * s.clickMult; stats.auto = s.auto * s.autoMult; stats.crit = s.crit; stats.maxStamina = s.maxStamina; stats.regen = s.regen; stats.discount = Math.min(0.8, s.discount); stats.critMult = s.critMult;
 }
 
-setInterval(() => { if (stats.auto > 0) state.balance += stats.auto; if (state.stamina < stats.maxStamina) state.stamina = Math.min(stats.maxStamina, state.stamina + stats.regen); updateUI(); saveLocal(); }, 1000);
+setInterval(() => { 
+  if (stats.auto > 0) state.balance += stats.auto; 
+  if (state.stamina < stats.maxStamina) state.stamina = Math.min(stats.maxStamina, state.stamina + stats.regen); 
+  updateUI(); 
+  saveLocal(); // Сохраняем прогресс в облако раз в секунду (не бойся, это быстро)
+}, 1000);
 
 document.getElementById('tapBtn').addEventListener('pointerdown', (e) => {
   if (state.stamina >= 1) {
