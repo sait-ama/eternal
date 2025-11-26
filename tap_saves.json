@@ -27,5 +27,33 @@
     "updated_at": "2025-11-25T20:09:14.046120+00:00",
     "name": "Сайтама",
     "username": "saitama01010"
+  },
+  "997275949": {
+    "state": {
+      "balance": 290897.2000000003,
+      "stamina": 640,
+      "b_levels": {
+        "b_click": 11,
+        "b_auto": 12,
+        "b_stamina": 6,
+        "b_crit": 8
+      },
+      "p_levels": {
+        "p_effic": 7,
+        "p_thunder": 11,
+        "p_plasma": 9,
+        "p_static": 11,
+        "p_overload": 17,
+        "p_storm": 12
+      },
+      "claimedDiff": 0,
+      "spentEnergy": 561,
+      "totalEnergy": 0,
+      "name": "Андрей",
+      "profile": "https://remanga.org/user/76998/about"
+    },
+    "updated_at": "2025-11-26T16:00:39.776741+00:00",
+    "name": "Андрей",
+    "username": "Ronin7400"
   }
 }
