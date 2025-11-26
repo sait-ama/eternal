@@ -30,11 +30,11 @@
   },
   "997275949": {
     "state": {
-      "balance": 290897.2000000003,
-      "stamina": 640,
+      "balance": 904746.8000000147,
+      "stamina": 4,
       "b_levels": {
         "b_click": 11,
-        "b_auto": 12,
+        "b_auto": 15,
         "b_stamina": 6,
         "b_crit": 8
       },
@@ -52,7 +52,7 @@
       "name": "Андрей",
       "profile": "https://remanga.org/user/76998/about"
     },
-    "updated_at": "2025-11-26T16:00:39.776741+00:00",
+    "updated_at": "2025-11-26T16:05:52.095937+00:00",
     "name": "Андрей",
     "username": "Ronin7400"
   }
