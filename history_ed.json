@@ -14,6 +14,20 @@
     "weekly_hint": "История недель:\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 500\nс 10.11 по 17.11: 12 500\nс 03.11 по 10.11: 5 000\nс 27.10 по 03.11: 7 500\nс 20.10 по 27.10: 9 890\nс 13.10 по 20.10: 5 110\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "nix",
+    "display": "-Nix-",
+    "initial": 6950,
+    "current": 53710,
+    "diff": 46760,
+    "avatar": "avatars/nix.jpg",
+    "profile": "https://remanga.org/user/46754/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 4010,
+    "weekly_hint": "История недель:\nс 24.11 по 01.12: 4 010\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 24 000\nс 03.11 по 10.11: 0"
+  },
+  {
     "norm": "ewdgham021",
     "display": "EW.DG_Ham021",
     "initial": 30500,
@@ -26,20 +40,6 @@
     "last_active_human": "19 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0"
-  },
-  {
-    "norm": "nix",
-    "display": "-Nix-",
-    "initial": 6950,
-    "current": 50710,
-    "diff": 43760,
-    "avatar": "avatars/nix.jpg",
-    "profile": "https://remanga.org/user/46754/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 1010,
-    "weekly_hint": "История недель:\nс 24.11 по 01.12: 1 010\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 24 000\nс 03.11 по 10.11: 0"
   },
   {
     "norm": "яшtyг",
