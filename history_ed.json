@@ -1053,15 +1053,15 @@
     "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 9077,
-    "current": 15560,
-    "diff": 6483,
+    "current": 16000,
+    "diff": 6923,
     "avatar": "avatars/akiragame.jpg",
     "profile": "https://remanga.org/user/1714962/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 250,
-    "weekly_hint": "История недель:\nс 24.11 по 01.12: 250\nс 17.11 по 24.11: 1 300\nс 10.11 по 17.11: 400\nс 03.11 по 10.11: 0"
+    "last_active_human": "сегодня",
+    "weekly": 690,
+    "weekly_hint": "История недель:\nс 24.11 по 01.12: 690\nс 17.11 по 24.11: 1 300\nс 10.11 по 17.11: 400\nс 03.11 по 10.11: 0"
   },
   {
     "norm": "pилcyчк@",
