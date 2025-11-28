@@ -87,15 +87,15 @@
     "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 2720,
-    "current": 2970,
-    "diff": 250,
+    "current": 3000,
+    "diff": 280,
     "avatar": "avatars/akiragame.jpg",
     "profile": "https://remanga.org/user/1714962/about",
     "guild": "Eternal Angelic",
     "is_afk": false,
     "last_active_human": "сегодня",
-    "weekly": 250,
-    "weekly_hint": "История недель:\nс 24.11 по 01.12: 250\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 60\nс 27.10 по 03.11: 100\nс 20.10 по 27.10: 0"
+    "weekly": 280,
+    "weekly_hint": "История недель:\nс 24.11 по 01.12: 280\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 60\nс 27.10 по 03.11: 100\nс 20.10 по 27.10: 0"
   },
   {
     "norm": "kodokunayurei",
