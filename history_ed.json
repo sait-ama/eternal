@@ -448,6 +448,20 @@
     "weekly_hint": "История недель:\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 1 000\nс 03.11 по 10.11: 3 000\nс 27.10 по 03.11: 2 000\nс 20.10 по 27.10: 2 200\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "saytoriya",
+    "display": "Saytoriya",
+    "initial": 11000,
+    "current": 26000,
+    "diff": 15000,
+    "avatar": "avatars/saytoriya.jpg",
+    "profile": "https://remanga.org/user/126709/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1000,
+    "weekly_hint": "История недель:\nс 24.11 по 01.12: 1 000\nс 17.11 по 24.11: 500\nс 10.11 по 17.11: 2 500\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 1 000"
+  },
+  {
     "norm": "akihiko",
     "display": "Akihiko",
     "initial": 9000,
@@ -544,20 +558,6 @@
     "last_active_human": "19 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 2 000\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 2 000\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "saytoriya",
-    "display": "Saytoriya",
-    "initial": 11000,
-    "current": 25000,
-    "diff": 14000,
-    "avatar": "avatars/saytoriya.jpg",
-    "profile": "https://remanga.org/user/126709/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "9 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 500\nс 10.11 по 17.11: 2 500\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 1 000"
   },
   {
     "norm": "aмeн",
