@@ -1249,15 +1249,15 @@
     "norm": "suba7u",
     "display": "Suba7u",
     "initial": 1,
-    "current": 1,
-    "diff": 0,
+    "current": 29,
+    "diff": 28,
     "avatar": "avatars/suba7u.jpg",
     "profile": "https://remanga.org/user/1602594/about",
     "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "нет данных",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0"
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 28,
+    "weekly_hint": "История недель:\nс 24.11 по 01.12: 28\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0"
   },
   {
     "norm": "arbogastr",
