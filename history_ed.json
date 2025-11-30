@@ -801,15 +801,15 @@
     "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 9077,
-    "current": 20280,
-    "diff": 11203,
+    "current": 20290,
+    "diff": 11213,
     "avatar": "avatars/akiragame.jpg",
     "profile": "https://remanga.org/user/1714962/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 4970,
-    "weekly_hint": "История недель:\nс 24.11 по 01.12: 4 970\nс 17.11 по 24.11: 1 300\nс 10.11 по 17.11: 400\nс 03.11 по 10.11: 0"
+    "last_active_human": "сегодня",
+    "weekly": 4980,
+    "weekly_hint": "История недель:\nс 24.11 по 01.12: 4 980\nс 17.11 по 24.11: 1 300\nс 10.11 по 17.11: 400\nс 03.11 по 10.11: 0"
   },
   {
     "norm": "hazenberg",
