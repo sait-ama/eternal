@@ -770,6 +770,20 @@
     "weekly_hint": "История недель:\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 1 000\nс 10.11 по 17.11: 1 000\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 2 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "hazenberg",
+    "display": "Hazenberg",
+    "initial": 9000,
+    "current": 21000,
+    "diff": 12000,
+    "avatar": "avatars/hazenberg.jpg",
+    "profile": "https://remanga.org/user/612259/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2000,
+    "weekly_hint": "История недель:\nс 24.11 по 01.12: 2 000\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 1 000\nс 03.11 по 10.11: 2 000\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "aggressive",
     "display": "-AGGRESSIVE-",
     "initial": 7750,
@@ -810,20 +824,6 @@
     "last_active_human": "сегодня",
     "weekly": 4980,
     "weekly_hint": "История недель:\nс 24.11 по 01.12: 4 980\nс 17.11 по 24.11: 1 300\nс 10.11 по 17.11: 400\nс 03.11 по 10.11: 0"
-  },
-  {
-    "norm": "hazenberg",
-    "display": "Hazenberg",
-    "initial": 9000,
-    "current": 20000,
-    "diff": 11000,
-    "avatar": "avatars/hazenberg.jpg",
-    "profile": "https://remanga.org/user/612259/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад",
-    "weekly": 1000,
-    "weekly_hint": "История недель:\nс 24.11 по 01.12: 1 000\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 1 000\nс 03.11 по 10.11: 2 000\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "reyrivman",
