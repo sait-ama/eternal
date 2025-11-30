@@ -1120,6 +1120,20 @@
     "weekly_hint": "История недель:\nс 24.11 по 01.12: 900\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 1 500\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "petr66",
+    "display": "Petr66",
+    "initial": 5400,
+    "current": 10250,
+    "diff": 4850,
+    "avatar": "avatars/petr66.jpg",
+    "profile": "https://remanga.org/user/3210259/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 800,
+    "weekly_hint": "История недель:\nс 24.11 по 01.12: 800\nс 17.11 по 24.11: 1 550\nс 10.11 по 17.11: 750\nс 03.11 по 10.11: 0"
+  },
+  {
     "norm": "дoлинapeкиcetyнь",
     "display": "ДолинаРекиСетунь",
     "initial": 21750,
@@ -1132,20 +1146,6 @@
     "last_active_human": "22 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 1 300\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "petr66",
-    "display": "Petr66",
-    "initial": 5400,
-    "current": 9800,
-    "diff": 4400,
-    "avatar": "avatars/petr66.jpg",
-    "profile": "https://remanga.org/user/3210259/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 350,
-    "weekly_hint": "История недель:\nс 24.11 по 01.12: 350\nс 17.11 по 24.11: 1 550\nс 10.11 по 17.11: 750\nс 03.11 по 10.11: 0"
   },
   {
     "norm": "bepmud",
