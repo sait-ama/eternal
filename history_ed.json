@@ -45,15 +45,15 @@
     "norm": "яшtyг",
     "display": "Яштуг",
     "initial": 0,
-    "current": 42500,
-    "diff": 42500,
+    "current": 43450,
+    "diff": 43450,
     "avatar": "avatars/яшtyг.jpg",
     "profile": "https://remanga.org/user/1317566/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 15 800\nс 17.11 по 24.11: 5 050\nс 10.11 по 17.11: 5 400\nс 03.11 по 10.11: 0"
+    "last_active_human": "сегодня",
+    "weekly": 950,
+    "weekly_hint": "История недель:\nс 01.12 по 08.12: 950\nс 24.11 по 01.12: 15 800\nс 17.11 по 24.11: 5 050\nс 10.11 по 17.11: 5 400\nс 03.11 по 10.11: 0"
   },
   {
     "norm": "sas47",
@@ -364,6 +364,20 @@
     "weekly_hint": "История недель:\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 750\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 3 190\nс 03.11 по 10.11: 1 070\nс 27.10 по 03.11: 1 600\nс 20.10 по 27.10: 1 400\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "leyley",
+    "display": "Ley-Ley",
+    "initial": 10100,
+    "current": 27200,
+    "diff": 17100,
+    "avatar": "avatars/leyley.jpg",
+    "profile": "https://remanga.org/user/24708/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1130,
+    "weekly_hint": "История недель:\nс 01.12 по 08.12: 1 130\nс 24.11 по 01.12: 1 000\nс 17.11 по 24.11: 1 000\nс 10.11 по 17.11: 1 000\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "oblakatt",
     "display": "OblakaT_T",
     "initial": 13000,
@@ -432,20 +446,6 @@
     "last_active_human": "5 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 3 000\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 2 000\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 2 000\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 1 000"
-  },
-  {
-    "norm": "leyley",
-    "display": "Ley-Ley",
-    "initial": 10100,
-    "current": 26070,
-    "diff": 15970,
-    "avatar": "avatars/leyley.jpg",
-    "profile": "https://remanga.org/user/24708/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 1 000\nс 17.11 по 24.11: 1 000\nс 10.11 по 17.11: 1 000\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
     "norm": "haisan",
