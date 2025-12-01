@@ -938,6 +938,20 @@
     "weekly_hint": "История недель:\nс 01.12 по 08.12: 1 000\nс 24.11 по 01.12: 1 000\nс 17.11 по 24.11: 1 000\nс 10.11 по 17.11: 0"
   },
   {
+    "norm": "tiltexist",
+    "display": "TIltExist",
+    "initial": 28330,
+    "current": 37180,
+    "diff": 8850,
+    "avatar": "avatars/tiltexist.jpg",
+    "profile": "https://remanga.org/user/98565/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1000,
+    "weekly_hint": "История недель:\nс 01.12 по 08.12: 1 000\nс 24.11 по 01.12: 1 000\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 1 430\nс 03.11 по 10.11: 710\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 781\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 629"
+  },
+  {
     "norm": "necromant",
     "display": "necromant",
     "initial": 6020,
@@ -978,20 +992,6 @@
     "last_active_human": "5 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 1 000\nс 17.11 по 24.11: 2 000\nс 10.11 по 17.11: 0"
-  },
-  {
-    "norm": "tiltexist",
-    "display": "TIltExist",
-    "initial": 28330,
-    "current": 36180,
-    "diff": 7850,
-    "avatar": "avatars/tiltexist.jpg",
-    "profile": "https://remanga.org/user/98565/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "7 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 1 000\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 1 430\nс 03.11 по 10.11: 710\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 781\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 629"
   },
   {
     "norm": "oporlew",
