@@ -1162,20 +1162,6 @@
     "weekly_hint": "История недель:\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 1 000\nс 17.11 по 24.11: 0"
   },
   {
-    "norm": "лoхoбыкнoвeнный",
-    "display": "ЛохОбыкновенный",
-    "initial": 0,
-    "current": 3200,
-    "diff": 3200,
-    "avatar": "avatars/лoхoбыкнoвeнный.jpg",
-    "profile": "https://remanga.org/user/1496494/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "20 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 2 200\nс 03.11 по 10.11: 0"
-  },
-  {
     "norm": "谢怜",
     "display": ".谢怜.",
     "initial": 12000,
@@ -1258,6 +1244,20 @@
     "last_active_human": "2 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 28\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0"
+  },
+  {
+    "norm": "лoхoбыкнoвeнный",
+    "display": "ЛохОбыкновенный",
+    "initial": 0,
+    "current": 0,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic",
+    "is_afk": true,
+    "last_active_human": "20 дн. назад",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 2 200\nс 03.11 по 10.11: 0"
   },
   {
     "norm": "arbogastr",
