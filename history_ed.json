@@ -532,6 +532,20 @@
     "weekly_hint": "История недель:\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 3 000\nс 27.10 по 03.11: 3 000\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "festashka",
+    "display": "_festashka_",
+    "initial": 8800,
+    "current": 23450,
+    "diff": 14650,
+    "avatar": "avatars/festashka.jpg",
+    "profile": "https://remanga.org/user/199911/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1250,
+    "weekly_hint": "История недель:\nс 01.12 по 08.12: 1 250\nс 24.11 по 01.12: 2 550\nс 17.11 по 24.11: 550\nс 10.11 по 17.11: 4 850\nс 03.11 по 10.11: 0"
+  },
+  {
     "norm": "etoromantic",
     "display": "etoRomantic",
     "initial": 11000,
@@ -670,20 +684,6 @@
     "last_active_human": "7 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 1 000\nс 17.11 по 24.11: 1 000\nс 10.11 по 17.11: 1 000\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "festashka",
-    "display": "_festashka_",
-    "initial": 8800,
-    "current": 22200,
-    "diff": 13400,
-    "avatar": "avatars/festashka.jpg",
-    "profile": "https://remanga.org/user/199911/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 2 550\nс 17.11 по 24.11: 550\nс 10.11 по 17.11: 4 850\nс 03.11 по 10.11: 0"
   },
   {
     "norm": "banshei",
@@ -1251,8 +1251,8 @@
     "initial": 0,
     "current": 0,
     "diff": 0,
-    "avatar": "avatars/placeholder.jpg",
-    "profile": "https://remanga.org",
+    "avatar": "avatars/лoхoбыкнoвeнный.jpg",
+    "profile": "https://remanga.org/user/1496494/about",
     "guild": "Eternal Demonic",
     "is_afk": true,
     "last_active_human": "20 дн. назад",
