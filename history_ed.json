@@ -1300,5 +1300,19 @@
     "last_active_human": "19 дн. назад",
     "weekly": 1000,
     "weekly_hint": "История недель:\nс 01.12 по 08.12: 1 000\nс 24.11 по 01.12: 1 000\nс 17.11 по 24.11: 1 000\nс 10.11 по 17.11: 0"
+  },
+  {
+    "norm": "rokywka",
+    "display": "RokYwka",
+    "initial": 0,
+    "current": 0,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic",
+    "is_afk": true,
+    "last_active_human": "нет данных",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 01.12 по 08.12: 0"
   }
 ]
