@@ -868,6 +868,20 @@
     "weekly_hint": "История недель:\nс 01.12 по 08.12: 750\nс 24.11 по 01.12: 750\nс 17.11 по 24.11: 750\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 750\nс 27.10 по 03.11: 750\nс 20.10 по 27.10: 750\nс 13.10 по 20.10: 750\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "motherofdragons",
+    "display": "Mother_of_dragons",
+    "initial": 20310,
+    "current": 30860,
+    "diff": 10550,
+    "avatar": "avatars/motherofdragons.jpg",
+    "profile": "https://remanga.org/user/3263817/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 3340,
+    "weekly_hint": "История недель:\nс 01.12 по 08.12: 3 340\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 480\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 430"
+  },
+  {
     "norm": "reyrivman",
     "display": "ReyRivman",
     "initial": 0,
@@ -1078,20 +1092,6 @@
     "weekly_hint": "История недель:\nс 01.12 по 08.12: 1 000\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 400\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
-    "norm": "motherofdragons",
-    "display": "Mother_of_dragons",
-    "initial": 20310,
-    "current": 27520,
-    "diff": 7210,
-    "avatar": "avatars/motherofdragons.jpg",
-    "profile": "https://remanga.org/user/3263817/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "33 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 480\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 430"
-  },
-  {
     "norm": "kintownskiy",
     "display": "kintownskiy",
     "initial": 15000,
@@ -1134,6 +1134,20 @@
     "weekly_hint": "История недель:\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 900\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 1 500\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "谢怜",
+    "display": ".谢怜.",
+    "initial": 12000,
+    "current": 17000,
+    "diff": 5000,
+    "avatar": "avatars/谢怜.jpg",
+    "profile": "https://remanga.org/user/164257/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2000,
+    "weekly_hint": "История недель:\nс 01.12 по 08.12: 2 000\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+  },
+  {
     "norm": "bepmud",
     "display": "bepmud",
     "initial": 0,
@@ -1160,6 +1174,20 @@
     "last_active_human": "28 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 1 300\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
+  },
+  {
+    "norm": "un1c0",
+    "display": "un1c0",
+    "initial": 0,
+    "current": 4000,
+    "diff": 4000,
+    "avatar": "avatars/un1c0.jpg",
+    "profile": "https://remanga.org/user/1045543/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2000,
+    "weekly_hint": "История недель:\nс 01.12 по 08.12: 2 000\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 1 000\nс 03.11 по 10.11: 0"
   },
   {
     "norm": "asesinadodios",
@@ -1190,20 +1218,6 @@
     "weekly_hint": "История недель:\nс 01.12 по 08.12: 1 050\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0"
   },
   {
-    "norm": "谢怜",
-    "display": ".谢怜.",
-    "initial": 12000,
-    "current": 15000,
-    "diff": 3000,
-    "avatar": "avatars/谢怜.jpg",
-    "profile": "https://remanga.org/user/164257/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "68 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
-  },
-  {
     "norm": "derwehrwolf",
     "display": "Der_Wehrwolf",
     "initial": 0,
@@ -1230,20 +1244,6 @@
     "last_active_human": "5 дн. назад",
     "weekly": 1500,
     "weekly_hint": "История недель:\nс 01.12 по 08.12: 1 500\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 830\nс 03.11 по 10.11: 0"
-  },
-  {
-    "norm": "un1c0",
-    "display": "un1c0",
-    "initial": 0,
-    "current": 2000,
-    "diff": 2000,
-    "avatar": "avatars/un1c0.jpg",
-    "profile": "https://remanga.org/user/1045543/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "20 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 1 000\nс 03.11 по 10.11: 0"
   },
   {
     "norm": "huahua",
