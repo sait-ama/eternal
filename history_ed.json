@@ -1190,20 +1190,6 @@
     "weekly_hint": "История недель:\nс 01.12 по 08.12: 500\nс 24.11 по 01.12: 500\nс 17.11 по 24.11: 600\nс 10.11 по 17.11: 1 500\nс 03.11 по 10.11: 0"
   },
   {
-    "norm": "inanitas",
-    "display": ".𝕴𝖓𝖆𝖓𝖎𝖙𝖆𝖘.",
-    "initial": 0,
-    "current": 3050,
-    "diff": 3050,
-    "avatar": "avatars/inanitas.jpg",
-    "profile": "https://remanga.org/user/3259037/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 1050,
-    "weekly_hint": "История недель:\nс 01.12 по 08.12: 1 050\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0"
-  },
-  {
     "norm": "derwehrwolf",
     "display": "Der_Wehrwolf",
     "initial": 0,
@@ -1286,6 +1272,20 @@
     "last_active_human": "19 дн. назад",
     "weekly": 1000,
     "weekly_hint": "История недель:\nс 01.12 по 08.12: 1 000\nс 24.11 по 01.12: 1 000\nс 17.11 по 24.11: 1 000\nс 10.11 по 17.11: 0"
+  },
+  {
+    "norm": "inanitas",
+    "display": ".𝕴𝖓𝖆𝖓𝖎𝖙𝖆𝖘.",
+    "initial": 0,
+    "current": 0,
+    "diff": 0,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "вчера",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0"
   },
   {
     "norm": "rokywka",
