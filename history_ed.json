@@ -1274,20 +1274,6 @@
     "weekly_hint": "История недель:\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 28\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0"
   },
   {
-    "norm": "haisan",
-    "display": "HaiSan",
-    "initial": 22500,
-    "current": 22500,
-    "diff": 0,
-    "avatar": "avatars/placeholder.jpg",
-    "profile": "https://remanga.org",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "28 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 300\nс 27.10 по 03.11: 1 300\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 1 300\nс 06.10 по 13.10: 0"
-  },
-  {
     "norm": "arbogastr",
     "display": "Arbogastr",
     "initial": 17000,
@@ -1307,8 +1293,8 @@
     "initial": 0,
     "current": 0,
     "diff": 0,
-    "avatar": "avatars/placeholder.jpg",
-    "profile": "https://remanga.org",
+    "avatar": "avatars/rokywka.jpg",
+    "profile": "https://remanga.org/user/1339341/about",
     "guild": "Eternal Demonic",
     "is_afk": true,
     "last_active_human": "нет данных",
