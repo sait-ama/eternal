@@ -784,6 +784,20 @@
     "weekly_hint": "История недель:\nс 01.12 по 08.12: 1 000\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 300\nс 10.11 по 17.11: 340\nс 03.11 по 10.11: 800\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "akiragame",
+    "display": "AkiraGame",
+    "initial": 9077,
+    "current": 21140,
+    "diff": 12063,
+    "avatar": "avatars/akiragame.jpg",
+    "profile": "https://remanga.org/user/1714962/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 850,
+    "weekly_hint": "История недель:\nс 01.12 по 08.12: 850\nс 24.11 по 01.12: 4 980\nс 17.11 по 24.11: 1 300\nс 10.11 по 17.11: 400\nс 03.11 по 10.11: 0"
+  },
+  {
     "norm": "hazenberg",
     "display": "Hazenberg",
     "initial": 9000,
@@ -824,20 +838,6 @@
     "last_active_human": "вчера",
     "weekly": 5000,
     "weekly_hint": "История недель:\nс 01.12 по 08.12: 5 000\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 6 000\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "akiragame",
-    "display": "AkiraGame",
-    "initial": 9077,
-    "current": 21010,
-    "diff": 11933,
-    "avatar": "avatars/akiragame.jpg",
-    "profile": "https://remanga.org/user/1714962/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня",
-    "weekly": 720,
-    "weekly_hint": "История недель:\nс 01.12 по 08.12: 720\nс 24.11 по 01.12: 4 980\nс 17.11 по 24.11: 1 300\nс 10.11 по 17.11: 400\nс 03.11 по 10.11: 0"
   },
   {
     "norm": "harutsu",
