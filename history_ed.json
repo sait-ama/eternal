@@ -224,6 +224,20 @@
     "weekly_hint": "История недель:\nс 01.12 по 08.12: 2 900\nс 24.11 по 01.12: 1 300\nс 17.11 по 24.11: 800\nс 10.11 по 17.11: 1 800\nс 03.11 по 10.11: 2 000\nс 27.10 по 03.11: 800\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 500"
   },
   {
+    "norm": "jacksaifer",
+    "display": "JackSaifer",
+    "initial": 0,
+    "current": 22130,
+    "diff": 22130,
+    "avatar": "avatars/jacksaifer.jpg",
+    "profile": "https://remanga.org/user/349030/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1880,
+    "weekly_hint": "История недель:\nс 01.12 по 08.12: 1 880\nс 24.11 по 01.12: 10 550\nс 17.11 по 24.11: 720\nс 10.11 по 17.11: 5 380\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 0"
+  },
+  {
     "norm": "alld995",
     "display": "AllD-995",
     "initial": 17000,
@@ -250,20 +264,6 @@
     "last_active_human": "вчера",
     "weekly": 2980,
     "weekly_hint": "История недель:\nс 01.12 по 08.12: 2 980\nс 24.11 по 01.12: 1 330\nс 17.11 по 24.11: 2 340\nс 10.11 по 17.11: 1 490\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 1 400\nс 20.10 по 27.10: 1 370\nс 13.10 по 20.10: 2 000\nс 06.10 по 13.10: 1 000"
-  },
-  {
-    "norm": "jacksaifer",
-    "display": "JackSaifer",
-    "initial": 0,
-    "current": 20850,
-    "diff": 20850,
-    "avatar": "avatars/jacksaifer.jpg",
-    "profile": "https://remanga.org/user/349030/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 600,
-    "weekly_hint": "История недель:\nс 01.12 по 08.12: 600\nс 24.11 по 01.12: 10 550\nс 17.11 по 24.11: 720\nс 10.11 по 17.11: 5 380\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 0"
   },
   {
     "norm": "flammenoire",
