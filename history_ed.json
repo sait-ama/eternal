@@ -1176,6 +1176,20 @@
     "weekly_hint": "История недель:\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 2 000\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 1 000\nс 03.11 по 10.11: 0"
   },
   {
+    "norm": "derwehrwolf",
+    "display": "Der_Wehrwolf",
+    "initial": 0,
+    "current": 4000,
+    "diff": 4000,
+    "avatar": "avatars/derwehrwolf.jpg",
+    "profile": "https://remanga.org/user/2833636/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1000,
+    "weekly_hint": "История недель:\nс 08.12 по 15.12: 1 000\nс 01.12 по 08.12: 0"
+  },
+  {
     "norm": "asesinadodios",
     "display": "asesinadoDios",
     "initial": 2500,
@@ -1188,20 +1202,6 @@
     "last_active_human": "2 дн. назад",
     "weekly": 500,
     "weekly_hint": "История недель:\nс 08.12 по 15.12: 500\nс 01.12 по 08.12: 500\nс 24.11 по 01.12: 500\nс 17.11 по 24.11: 600\nс 10.11 по 17.11: 1 500\nс 03.11 по 10.11: 0"
-  },
-  {
-    "norm": "derwehrwolf",
-    "display": "Der_Wehrwolf",
-    "initial": 0,
-    "current": 3000,
-    "diff": 3000,
-    "avatar": "avatars/derwehrwolf.jpg",
-    "profile": "https://remanga.org/user/2833636/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 0"
   },
   {
     "norm": "ewtaya",
