@@ -798,6 +798,20 @@
     "weekly_hint": "История недель:\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 2 000\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 2 000\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 1 000"
   },
   {
+    "norm": "marlya",
+    "display": "MarLya",
+    "initial": 0,
+    "current": 13000,
+    "diff": 13000,
+    "avatar": "avatars/marlya.jpg",
+    "profile": "https://remanga.org/user/209369/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 3000,
+    "weekly_hint": "История недель:\nс 08.12 по 15.12: 3 000\nс 01.12 по 08.12: 2 000\nс 24.11 по 01.12: 1 000\nс 17.11 по 24.11: 2 000\nс 10.11 по 17.11: 0"
+  },
+  {
     "norm": "kaizaki",
     "display": "Kaizaki",
     "initial": 20470,
@@ -866,20 +880,6 @@
     "last_active_human": "4 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 5 000\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 6 000\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "marlya",
-    "display": "MarLya",
-    "initial": 0,
-    "current": 12000,
-    "diff": 12000,
-    "avatar": "avatars/marlya.jpg",
-    "profile": "https://remanga.org/user/209369/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 2000,
-    "weekly_hint": "История недель:\nс 08.12 по 15.12: 2 000\nс 01.12 по 08.12: 2 000\nс 24.11 по 01.12: 1 000\nс 17.11 по 24.11: 2 000\nс 10.11 по 17.11: 0"
   },
   {
     "norm": "jdhdbx",
