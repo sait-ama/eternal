@@ -672,6 +672,20 @@
     "weekly_hint": "История недель:\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 1 000\nс 01.12 по 08.12: 1 000\nс 24.11 по 01.12: 1 000\nс 17.11 по 24.11: 1 000\nс 10.11 по 17.11: 1 000\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 2 000\nс 20.10 по 27.10: 1 000\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
   },
   {
+    "norm": "marlya",
+    "display": "MarLya",
+    "initial": 0,
+    "current": 15000,
+    "diff": 15000,
+    "avatar": "avatars/marlya.jpg",
+    "profile": "https://remanga.org/user/209369/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1000,
+    "weekly_hint": "История недель:\nс 15.12 по 22.12: 1 000\nс 08.12 по 15.12: 4 000\nс 01.12 по 08.12: 2 000\nс 24.11 по 01.12: 1 000\nс 17.11 по 24.11: 2 000\nс 10.11 по 17.11: 0"
+  },
+  {
     "norm": "silenthill",
     "display": "SilentHill",
     "initial": 24000,
@@ -726,20 +740,6 @@
     "last_active_human": "6 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 1 000\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 1 000\nс 17.11 по 24.11: 1 000\nс 10.11 по 17.11: 1 000\nс 03.11 по 10.11: 1 000\nс 27.10 по 03.11: 1 000\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 1 000\nс 06.10 по 13.10: 0"
-  },
-  {
-    "norm": "marlya",
-    "display": "MarLya",
-    "initial": 0,
-    "current": 14000,
-    "diff": 14000,
-    "avatar": "avatars/marlya.jpg",
-    "profile": "https://remanga.org/user/209369/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "3 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 4 000\nс 01.12 по 08.12: 2 000\nс 24.11 по 01.12: 1 000\nс 17.11 по 24.11: 2 000\nс 10.11 по 17.11: 0"
   },
   {
     "norm": "kodokunayurei",
