@@ -73,15 +73,15 @@
     "norm": "qbz92",
     "display": "Qbz92",
     "initial": 1080,
-    "current": 1720,
-    "diff": 640,
+    "current": 1770,
+    "diff": 690,
     "avatar": "avatars/qbz92.jpg",
     "profile": "https://remanga.org/user/82014/about",
     "guild": "Eternal Angelic",
-    "is_afk": true,
-    "last_active_human": "9 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 290\nс 24.11 по 01.12: 350\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 350\nс 20.10 по 27.10: 0"
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 50,
+    "weekly_hint": "История недель:\nс 15.12 по 22.12: 50\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 290\nс 24.11 по 01.12: 350\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 350\nс 20.10 по 27.10: 0"
   },
   {
     "norm": "akiragame",
