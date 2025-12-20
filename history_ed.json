@@ -1314,5 +1314,19 @@
     "last_active_human": "33 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 1 000\nс 24.11 по 01.12: 1 000\nс 17.11 по 24.11: 1 000\nс 10.11 по 17.11: 0"
+  },
+  {
+    "norm": "justea",
+    "display": "Justea",
+    "initial": 0,
+    "current": 0,
+    "diff": 0,
+    "avatar": "avatars/justea.jpg",
+    "profile": "https://remanga.org/user/911857/about",
+    "guild": "Eternal Demonic",
+    "is_afk": true,
+    "last_active_human": "нет данных",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 15.12 по 22.12: 0"
   }
 ]
