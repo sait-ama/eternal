@@ -1288,6 +1288,20 @@
     "weekly_hint": "История недель:\nс 22.12 по 29.12: 0"
   },
   {
+    "norm": "ksinaur",
+    "display": "KSinAur",
+    "initial": 0,
+    "current": 2000,
+    "diff": 2000,
+    "avatar": "avatars/ksinaur.jpg",
+    "profile": "https://remanga.org/user/3386416/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 22.12 по 29.12: 0"
+  },
+  {
     "norm": "justea",
     "display": "Justea",
     "initial": 0,
@@ -1300,20 +1314,6 @@
     "last_active_human": "4 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
-  },
-  {
-    "norm": "ksinaur",
-    "display": "KSinAur",
-    "initial": 0,
-    "current": 1000,
-    "diff": 1000,
-    "avatar": "avatars/ksinaur.jpg",
-    "profile": "https://remanga.org/user/3386416/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "сегодня",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 22.12 по 29.12: 0"
   },
   {
     "norm": "лoхoбыкнoвeнный",
