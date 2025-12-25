@@ -28,6 +28,20 @@
     "weekly_hint": "История недель:\nс 22.12 по 29.12: 3 000\nс 15.12 по 22.12: 8 650\nс 08.12 по 15.12: 3 700\nс 01.12 по 08.12: 4 150\nс 24.11 по 01.12: 15 800\nс 17.11 по 24.11: 5 050\nс 10.11 по 17.11: 5 400\nс 03.11 по 10.11: 0"
   },
   {
+    "norm": "nix",
+    "display": "-Nix-",
+    "initial": 6950,
+    "current": 57910,
+    "diff": 50960,
+    "avatar": "avatars/nix.jpg",
+    "profile": "https://remanga.org/user/46754/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 3700,
+    "weekly_hint": "История недель:\nс 22.12 по 29.12: 3 700\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 500\nс 24.11 по 01.12: 4 010\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 24 000\nс 03.11 по 10.11: 0"
+  },
+  {
     "norm": "ewdgham021",
     "display": "EW.DG_Ham021",
     "initial": 30500,
@@ -40,20 +54,6 @@
     "last_active_human": "19 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 6 000\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0"
-  },
-  {
-    "norm": "nix",
-    "display": "-Nix-",
-    "initial": 6950,
-    "current": 54210,
-    "diff": 47260,
-    "avatar": "avatars/nix.jpg",
-    "profile": "https://remanga.org/user/46754/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "20 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 500\nс 24.11 по 01.12: 4 010\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 24 000\nс 03.11 по 10.11: 0"
   },
   {
     "norm": "sas47",
@@ -1274,6 +1274,20 @@
     "weekly_hint": "История недель:\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 1 500\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 830\nс 03.11 по 10.11: 0"
   },
   {
+    "norm": "dutif",
+    "display": "Dutif",
+    "initial": 0,
+    "current": 2000,
+    "diff": 2000,
+    "avatar": "avatars/dutif.jpg",
+    "profile": "https://remanga.org/user/1896012/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 22.12 по 29.12: 0"
+  },
+  {
     "norm": "justea",
     "display": "Justea",
     "initial": 0,
@@ -1286,6 +1300,20 @@
     "last_active_human": "4 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
+  },
+  {
+    "norm": "ksinaur",
+    "display": "KSinAur",
+    "initial": 0,
+    "current": 1000,
+    "diff": 1000,
+    "avatar": "avatars/ksinaur.jpg",
+    "profile": "https://remanga.org/user/3386416/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 22.12 по 29.12: 0"
   },
   {
     "norm": "лoхoбыкнoвeнный",
