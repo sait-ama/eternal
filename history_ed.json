@@ -1305,15 +1305,15 @@
     "norm": "justea",
     "display": "Justea",
     "initial": 0,
-    "current": 1000,
-    "diff": 1000,
+    "current": 1500,
+    "diff": 1500,
     "avatar": "avatars/justea.jpg",
     "profile": "https://remanga.org/user/911857/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "5 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
+    "last_active_human": "сегодня",
+    "weekly": 500,
+    "weekly_hint": "История недель:\nс 22.12 по 29.12: 500\nс 15.12 по 22.12: 0"
   },
   {
     "norm": "лoхoбыкнoвeнный",
