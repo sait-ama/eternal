@@ -1678,5 +1678,19 @@
     "last_active_human": "85 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0\nс 13.10 по 20.10: 0"
+  },
+  {
+    "norm": "мaкcимбyбнoв",
+    "display": "МаксимБубнов",
+    "initial": 0,
+    "current": 0,
+    "diff": 0,
+    "avatar": "avatars/мaкcимбyбнoв.jpg",
+    "profile": "https://remanga.org/user/3503844/about",
+    "guild": "Eternal Watchers",
+    "is_afk": true,
+    "last_active_human": "нет данных",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 29.12 по 05.01: 0"
   }
 ]
