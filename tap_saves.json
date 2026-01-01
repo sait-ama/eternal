@@ -58,8 +58,8 @@
   },
   "320921832": {
     "state": {
-      "balance": 123431.29999999967,
-      "stamina": 112,
+      "balance": 1057095.1999999909,
+      "stamina": 1255,
       "b_levels": {
         "b_regen": 6,
         "b_auto": 13,
@@ -78,7 +78,7 @@
       "name": "Player",
       "profile": "https://remanga.org/user/133044/about"
     },
-    "updated_at": "2025-12-31T17:56:56.335555+00:00",
+    "updated_at": "2026-01-01T08:56:48.170453+00:00",
     "name": "Shardex",
     "username": "shardexO"
   }
