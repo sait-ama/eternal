@@ -1274,6 +1274,20 @@
     "weekly_hint": "История недель:\nс 29.12 по 05.01: 1 000\nс 22.12 по 29.12: 0"
   },
   {
+    "norm": "oniyokai",
+    "display": "OniYokai",
+    "initial": 0,
+    "current": 4000,
+    "diff": 4000,
+    "avatar": "avatars/oniyokai.jpg",
+    "profile": "https://remanga.org/user/3137253/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2000,
+    "weekly_hint": "История недель:\nс 29.12 по 05.01: 2 000\nс 22.12 по 29.12: 0"
+  },
+  {
     "norm": "nichts",
     "display": ".𝕹𝖎𝖈𝖍𝖙𝖘.",
     "initial": 0,
@@ -1295,20 +1309,6 @@
     "diff": 3000,
     "avatar": "avatars/blackfoxik.jpg",
     "profile": "https://remanga.org/user/3160150/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "6 дн. назад",
-    "weekly": 1000,
-    "weekly_hint": "История недель:\nс 29.12 по 05.01: 1 000\nс 22.12 по 29.12: 0"
-  },
-  {
-    "norm": "oniyokai",
-    "display": "OniYokai",
-    "initial": 0,
-    "current": 3000,
-    "diff": 3000,
-    "avatar": "avatars/oniyokai.jpg",
-    "profile": "https://remanga.org/user/3137253/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
     "last_active_human": "6 дн. назад",
