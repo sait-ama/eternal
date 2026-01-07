@@ -1302,6 +1302,20 @@
     "weekly_hint": "История недель:\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 2 000\nс 22.12 по 29.12: 0"
   },
   {
+    "norm": "justea",
+    "display": "Justea",
+    "initial": 0,
+    "current": 3500,
+    "diff": 3500,
+    "avatar": "avatars/justea.jpg",
+    "profile": "https://remanga.org/user/911857/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1000,
+    "weekly_hint": "История недель:\nс 05.01 по 12.01: 1 000\nс 29.12 по 05.01: 1 000\nс 22.12 по 29.12: 500\nс 15.12 по 22.12: 0"
+  },
+  {
     "norm": "nichts",
     "display": ".𝕹𝖎𝖈𝖍𝖙𝖘.",
     "initial": 0,
@@ -1314,20 +1328,6 @@
     "last_active_human": "26 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0"
-  },
-  {
-    "norm": "justea",
-    "display": "Justea",
-    "initial": 0,
-    "current": 3000,
-    "diff": 3000,
-    "avatar": "avatars/justea.jpg",
-    "profile": "https://remanga.org/user/911857/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 500,
-    "weekly_hint": "История недель:\nс 05.01 по 12.01: 500\nс 29.12 по 05.01: 1 000\nс 22.12 по 29.12: 500\nс 15.12 по 22.12: 0"
   },
   {
     "norm": "kasatka",
