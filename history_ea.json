@@ -70,6 +70,20 @@
     "weekly_hint": "История недель:\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 3 700\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 3 700\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 0\nс 20.10 по 27.10: 0"
   },
   {
+    "norm": "ፚꮼꮢꭵ૮ꮒꮶꮧ",
+    "display": "ፚᏬᏒᎥ૮ᏂᏦᏗ",
+    "initial": 1500,
+    "current": 2270,
+    "diff": 770,
+    "avatar": "avatars/ፚꮼꮢꭵ૮ꮒꮶꮧ.jpg",
+    "profile": "https://remanga.org/user/189990/about",
+    "guild": "Eternal Angelic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 770,
+    "weekly_hint": "История недель:\nс 05.01 по 12.01: 770\nс 29.12 по 05.01: 0"
+  },
+  {
     "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 2720,
@@ -231,20 +245,6 @@
     "diff": 0,
     "avatar": "avatars/kaizaki.jpg",
     "profile": "https://remanga.org/user/40277/about",
-    "guild": "Eternal Angelic",
-    "is_afk": true,
-    "last_active_human": "нет данных",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0"
-  },
-  {
-    "norm": "ፚꮼꮢꭵ૮ꮒꮶꮧ",
-    "display": "ፚᏬᏒᎥ૮ᏂᏦᏗ",
-    "initial": 1500,
-    "current": 1500,
-    "diff": 0,
-    "avatar": "avatars/ፚꮼꮢꭵ૮ꮒꮶꮧ.jpg",
-    "profile": "https://remanga.org/user/189990/about",
     "guild": "Eternal Angelic",
     "is_afk": true,
     "last_active_human": "нет данных",
