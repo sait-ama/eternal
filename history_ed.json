@@ -1232,6 +1232,20 @@
     "weekly_hint": "История недель:\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 2 000\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 2 000\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 0"
   },
   {
+    "norm": "dutif",
+    "display": "Dutif",
+    "initial": 0,
+    "current": 6000,
+    "diff": 6000,
+    "avatar": "avatars/dutif.jpg",
+    "profile": "https://remanga.org/user/1896012/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1000,
+    "weekly_hint": "История недель:\nс 12.01 по 19.01: 1 000\nс 05.01 по 12.01: 1 000\nс 29.12 по 05.01: 1 000\nс 22.12 по 29.12: 0"
+  },
+  {
     "norm": "asesinadodios",
     "display": "asesinadoDios",
     "initial": 2500,
@@ -1258,20 +1272,6 @@
     "last_active_human": "3 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 4 250\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 2 200\nс 03.11 по 10.11: 0"
-  },
-  {
-    "norm": "dutif",
-    "display": "Dutif",
-    "initial": 0,
-    "current": 5000,
-    "diff": 5000,
-    "avatar": "avatars/dutif.jpg",
-    "profile": "https://remanga.org/user/1896012/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 1 000\nс 29.12 по 05.01: 1 000\nс 22.12 по 29.12: 0"
   },
   {
     "norm": "un1c0",
