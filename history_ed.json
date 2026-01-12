@@ -1204,6 +1204,20 @@
     "weekly_hint": "История недель:\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 1 110\nс 29.12 по 05.01: 1 110\nс 22.12 по 29.12: 1 110\nс 15.12 по 22.12: 0"
   },
   {
+    "norm": "asesinadodios",
+    "display": "asesinadoDios",
+    "initial": 2500,
+    "current": 8780,
+    "diff": 6280,
+    "avatar": "avatars/placeholder.jpg",
+    "profile": "https://remanga.org/user/514882/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 630,
+    "weekly_hint": "История недель:\nс 12.01 по 19.01: 630\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 500\nс 22.12 по 29.12: 750\nс 15.12 по 22.12: 800\nс 08.12 по 15.12: 500\nс 01.12 по 08.12: 500\nс 24.11 по 01.12: 500\nс 17.11 по 24.11: 600\nс 10.11 по 17.11: 1 500\nс 03.11 по 10.11: 0"
+  },
+  {
     "norm": "alanhui",
     "display": "alan-hui",
     "initial": 8660,
@@ -1246,20 +1260,6 @@
     "weekly_hint": "История недель:\nс 12.01 по 19.01: 1 000\nс 05.01 по 12.01: 1 000\nс 29.12 по 05.01: 1 000\nс 22.12 по 29.12: 0"
   },
   {
-    "norm": "asesinadodios",
-    "display": "asesinadoDios",
-    "initial": 2500,
-    "current": 8150,
-    "diff": 5650,
-    "avatar": "avatars/placeholder.jpg",
-    "profile": "https://remanga.org/user/514882/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "8 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 500\nс 22.12 по 29.12: 750\nс 15.12 по 22.12: 800\nс 08.12 по 15.12: 500\nс 01.12 по 08.12: 500\nс 24.11 по 01.12: 500\nс 17.11 по 24.11: 600\nс 10.11 по 17.11: 1 500\nс 03.11 по 10.11: 0"
-  },
-  {
     "norm": "лoхoбыкнoвeнный",
     "display": "ЛохОбыкновенный",
     "initial": 0,
@@ -1272,6 +1272,20 @@
     "last_active_human": "3 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 4 250\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 2 200\nс 03.11 по 10.11: 0"
+  },
+  {
+    "norm": "justea",
+    "display": "Justea",
+    "initial": 0,
+    "current": 4300,
+    "diff": 4300,
+    "avatar": "avatars/justea.jpg",
+    "profile": "https://remanga.org/user/911857/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 500,
+    "weekly_hint": "История недель:\nс 12.01 по 19.01: 500\nс 05.01 по 12.01: 1 300\nс 29.12 по 05.01: 1 000\nс 22.12 по 29.12: 500\nс 15.12 по 22.12: 0"
   },
   {
     "norm": "un1c0",
@@ -1314,20 +1328,6 @@
     "last_active_human": "7 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 2 000\nс 22.12 по 29.12: 0"
-  },
-  {
-    "norm": "justea",
-    "display": "Justea",
-    "initial": 0,
-    "current": 3800,
-    "diff": 3800,
-    "avatar": "avatars/justea.jpg",
-    "profile": "https://remanga.org/user/911857/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 1 300\nс 29.12 по 05.01: 1 000\nс 22.12 по 29.12: 500\nс 15.12 по 22.12: 0"
   },
   {
     "norm": "kasatka",
