@@ -87,15 +87,29 @@
     "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 2720,
-    "current": 3830,
-    "diff": 1110,
+    "current": 4320,
+    "diff": 1600,
     "avatar": "avatars/akiragame.jpg",
     "profile": "https://remanga.org/user/1714962/about",
     "guild": "Eternal Angelic",
     "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 680,
-    "weekly_hint": "История недель:\nс 12.01 по 19.01: 680\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 100\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 50\nс 24.11 по 01.12: 280\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 60\nс 27.10 по 03.11: 100"
+    "last_active_human": "сегодня",
+    "weekly": 1170,
+    "weekly_hint": "История недель:\nс 12.01 по 19.01: 1 170\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 100\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 50\nс 24.11 по 01.12: 280\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 60\nс 27.10 по 03.11: 100"
+  },
+  {
+    "norm": "akiragame",
+    "display": "AkiraGame",
+    "initial": 3080,
+    "current": 4320,
+    "diff": 1240,
+    "avatar": "avatars/akiragame.jpg",
+    "profile": "https://remanga.org/user/1714962/about",
+    "guild": "Eternal Angelic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1170,
+    "weekly_hint": "История недель:\nс 12.01 по 19.01: 1 170\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 100\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 50\nс 24.11 по 01.12: 280\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 60\nс 27.10 по 03.11: 100"
   },
   {
     "norm": "ፚꮼꮢꭵ૮ꮒꮶꮧ",
@@ -110,20 +124,6 @@
     "last_active_human": "7 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 770\nс 29.12 по 05.01: 0"
-  },
-  {
-    "norm": "akiragame",
-    "display": "AkiraGame",
-    "initial": 3080,
-    "current": 3830,
-    "diff": 750,
-    "avatar": "avatars/akiragame.jpg",
-    "profile": "https://remanga.org/user/1714962/about",
-    "guild": "Eternal Angelic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 680,
-    "weekly_hint": "История недель:\nс 12.01 по 19.01: 680\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 100\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 50\nс 24.11 по 01.12: 280\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 60\nс 27.10 по 03.11: 100"
   },
   {
     "norm": "pipimaki",
