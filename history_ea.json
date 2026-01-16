@@ -31,15 +31,15 @@
     "norm": "chitandael",
     "display": "Chitandael",
     "initial": 19750,
-    "current": 29810,
-    "diff": 10060,
+    "current": 31060,
+    "diff": 11310,
     "avatar": "avatars/chitandael.jpg",
     "profile": "https://remanga.org/user/372102/about",
     "guild": "Eternal Angelic",
-    "is_afk": true,
-    "last_active_human": "8 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 5 510\nс 29.12 по 05.01: 0"
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1250,
+    "weekly_hint": "История недель:\nс 12.01 по 19.01: 1 250\nс 05.01 по 12.01: 5 510\nс 29.12 по 05.01: 0"
   },
   {
     "norm": "йopм",
