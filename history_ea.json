@@ -98,6 +98,20 @@
     "weekly_hint": "История недель:\nс 19.01 по 26.01: 200\nс 12.01 по 19.01: 1 170\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 100\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 50\nс 24.11 по 01.12: 280\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 60"
   },
   {
+    "norm": "frostik4",
+    "display": "Frostik4",
+    "initial": 952,
+    "current": 2050,
+    "diff": 1098,
+    "avatar": "avatars/frostik4.jpg",
+    "profile": "https://remanga.org/user/3003544/about",
+    "guild": "Eternal Angelic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 19.01 по 26.01: 0"
+  },
+  {
     "norm": "ፚꮼꮢꭵ૮ꮒꮶꮧ",
     "display": "ፚᏬᏒᎥ૮ᏂᏦᏗ",
     "initial": 1500,
@@ -236,20 +250,6 @@
     "last_active_human": "нет данных",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 19.01 по 26.01: 0\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0"
-  },
-  {
-    "norm": "frostik4",
-    "display": "Frostik4",
-    "initial": 952,
-    "current": 952,
-    "diff": 0,
-    "avatar": "avatars/frostik4.jpg",
-    "profile": "https://remanga.org/user/3003544/about",
-    "guild": "Eternal Angelic",
-    "is_afk": true,
-    "last_active_human": "нет данных",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 19.01 по 26.01: 0"
   },
   {
     "norm": "мaкcимбyбнoв",
