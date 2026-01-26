@@ -112,6 +112,20 @@
     "weekly_hint": "История недель:\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 2 060\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0"
   },
   {
+    "norm": "pandor",
+    "display": "Pandor",
+    "initial": 561,
+    "current": 1870,
+    "diff": 1309,
+    "avatar": "avatars/pandor.jpg",
+    "profile": "https://remanga.org/user/940898/about",
+    "guild": "Eternal Angelic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1309,
+    "weekly_hint": "История недель:\nс 26.01 по 02.02: 1 309\nс 19.01 по 26.01: 0"
+  },
+  {
     "norm": "frostik4",
     "display": "Frostik4",
     "initial": 952,
@@ -315,20 +329,6 @@
     "diff": 0,
     "avatar": "avatars/harutsu.jpg",
     "profile": "https://remanga.org/user/415473/about",
-    "guild": "Eternal Angelic",
-    "is_afk": true,
-    "last_active_human": "нет данных",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0"
-  },
-  {
-    "norm": "pandor",
-    "display": "Pandor",
-    "initial": 561,
-    "current": 561,
-    "diff": 0,
-    "avatar": "avatars/pandor.jpg",
-    "profile": "https://remanga.org/user/940898/about",
     "guild": "Eternal Angelic",
     "is_afk": true,
     "last_active_human": "нет данных",
