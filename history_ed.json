@@ -1134,6 +1134,20 @@
     "weekly_hint": "История недель:\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 2 000\nс 29.12 по 05.01: 2 000\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 1 000\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0"
   },
   {
+    "norm": "toktokareva",
+    "display": "toktokareva",
+    "initial": 0,
+    "current": 10890,
+    "diff": 10890,
+    "avatar": "avatars/toktokareva.jpg",
+    "profile": "https://remanga.org/user/2123995/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1110,
+    "weekly_hint": "История недель:\nс 26.01 по 02.02: 1 110\nс 19.01 по 26.01: 2 220\nс 12.01 по 19.01: 1 120\nс 05.01 по 12.01: 1 110\nс 29.12 по 05.01: 1 110\nс 22.12 по 29.12: 1 110\nс 15.12 по 22.12: 0"
+  },
+  {
     "norm": "reyrivman",
     "display": "ReyRivman",
     "initial": 0,
@@ -1160,20 +1174,6 @@
     "last_active_human": "2 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 2 000\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 1 000\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 4 000\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0"
-  },
-  {
-    "norm": "toktokareva",
-    "display": "toktokareva",
-    "initial": 0,
-    "current": 9780,
-    "diff": 9780,
-    "avatar": "avatars/toktokareva.jpg",
-    "profile": "https://remanga.org/user/2123995/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 2 220\nс 12.01 по 19.01: 1 120\nс 05.01 по 12.01: 1 110\nс 29.12 по 05.01: 1 110\nс 22.12 по 29.12: 1 110\nс 15.12 по 22.12: 0"
   },
   {
     "norm": "rokywka",
