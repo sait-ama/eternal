@@ -98,6 +98,20 @@
     "weekly_hint": "История недель:\nс 26.01 по 02.02: 700\nс 19.01 по 26.01: 2 640\nс 12.01 по 19.01: 1 170\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 100\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 50\nс 24.11 по 01.12: 280\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0"
   },
   {
+    "norm": "harutsu",
+    "display": "Harutsu",
+    "initial": 25000,
+    "current": 28000,
+    "diff": 3000,
+    "avatar": "avatars/harutsu.jpg",
+    "profile": "https://remanga.org/user/415473/about",
+    "guild": "Eternal Angelic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 3000,
+    "weekly_hint": "История недель:\nс 26.01 по 02.02: 3 000\nс 19.01 по 26.01: 0"
+  },
+  {
     "norm": "silenthill",
     "display": "SilentHill",
     "initial": 3500,
@@ -320,19 +334,5 @@
     "last_active_human": "4 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 0\nс 24.11 по 01.12: 0\nс 17.11 по 24.11: 0\nс 10.11 по 17.11: 0\nс 03.11 по 10.11: 0\nс 27.10 по 03.11: 0"
-  },
-  {
-    "norm": "harutsu",
-    "display": "Harutsu",
-    "initial": 25000,
-    "current": 25000,
-    "diff": 0,
-    "avatar": "avatars/harutsu.jpg",
-    "profile": "https://remanga.org/user/415473/about",
-    "guild": "Eternal Angelic",
-    "is_afk": true,
-    "last_active_human": "нет данных",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0"
   }
 ]
