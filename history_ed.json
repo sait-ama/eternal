@@ -1274,6 +1274,20 @@
     "weekly_hint": "История недель:\nс 02.02 по 09.02: 1 000\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 2 130\nс 12.01 по 19.01: 1 000\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 2 000\nс 22.12 по 29.12: 0"
   },
   {
+    "norm": "asesinadodios",
+    "display": "asesinadoDios",
+    "initial": 2500,
+    "current": 10320,
+    "diff": 7820,
+    "avatar": "avatars/asesinadodios.jpg",
+    "profile": "https://remanga.org/user/514882/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 700,
+    "weekly_hint": "История недель:\nс 02.02 по 09.02: 700\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 840\nс 12.01 по 19.01: 630\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 500\nс 22.12 по 29.12: 750\nс 15.12 по 22.12: 800\nс 08.12 по 15.12: 500\nс 01.12 по 08.12: 500\nс 24.11 по 01.12: 500\nс 17.11 по 24.11: 600"
+  },
+  {
     "norm": "ksinaur",
     "display": "KSinAur",
     "initial": 0,
@@ -1286,20 +1300,6 @@
     "last_active_human": "вчера",
     "weekly": 500,
     "weekly_hint": "История недель:\nс 02.02 по 09.02: 500\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 4 000\nс 12.01 по 19.01: 1 000\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0"
-  },
-  {
-    "norm": "asesinadodios",
-    "display": "asesinadoDios",
-    "initial": 2500,
-    "current": 9620,
-    "diff": 7120,
-    "avatar": "avatars/asesinadodios.jpg",
-    "profile": "https://remanga.org/user/514882/about",
-    "guild": "Eternal Demonic",
-    "is_afk": true,
-    "last_active_human": "9 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 840\nс 12.01 по 19.01: 630\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 500\nс 22.12 по 29.12: 750\nс 15.12 по 22.12: 800\nс 08.12 по 15.12: 500\nс 01.12 по 08.12: 500\nс 24.11 по 01.12: 500\nс 17.11 по 24.11: 600"
   },
   {
     "norm": "лoхoбыкнoвeнный",
