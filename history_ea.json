@@ -17,15 +17,15 @@
     "norm": "rezord",
     "display": "rezord",
     "initial": 1280,
-    "current": 30080,
-    "diff": 28800,
+    "current": 30990,
+    "diff": 29710,
     "avatar": "avatars/rezord.jpg",
     "profile": "https://remanga.org/user/210114/about",
     "guild": "Eternal Angelic",
     "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 2080,
-    "weekly_hint": "История недель:\nс 02.02 по 09.02: 2 080\nс 26.01 по 02.02: 2 250\nс 19.01 по 26.01: 1 670\nс 12.01 по 19.01: 2 730\nс 05.01 по 12.01: 0"
+    "last_active_human": "сегодня",
+    "weekly": 2990,
+    "weekly_hint": "История недель:\nс 02.02 по 09.02: 2 990\nс 26.01 по 02.02: 2 250\nс 19.01 по 26.01: 1 670\nс 12.01 по 19.01: 2 730\nс 05.01 по 12.01: 0"
   },
   {
     "norm": "chitandael",
