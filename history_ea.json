@@ -59,15 +59,15 @@
     "norm": "harutsu",
     "display": "Harutsu",
     "initial": 25000,
-    "current": 35000,
-    "diff": 10000,
+    "current": 36000,
+    "diff": 11000,
     "avatar": "avatars/harutsu.jpg",
     "profile": "https://remanga.org/user/415473/about",
     "guild": "Eternal Angelic",
     "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 4000,
-    "weekly_hint": "История недель:\nс 02.02 по 09.02: 4 000\nс 26.01 по 02.02: 6 000\nс 19.01 по 26.01: 0"
+    "last_active_human": "сегодня",
+    "weekly": 5000,
+    "weekly_hint": "История недель:\nс 02.02 по 09.02: 5 000\nс 26.01 по 02.02: 6 000\nс 19.01 по 26.01: 0"
   },
   {
     "norm": "йopм",
