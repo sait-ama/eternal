@@ -112,6 +112,20 @@
     "weekly_hint": "История недель:\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 440\nс 26.01 по 02.02: 2 690\nс 19.01 по 26.01: 2 640\nс 12.01 по 19.01: 1 170\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 100\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 50\nс 24.11 по 01.12: 280"
   },
   {
+    "norm": "мaкcимбyбнoв",
+    "display": "МаксимБубнов",
+    "initial": 4000,
+    "current": 7000,
+    "diff": 3000,
+    "avatar": "avatars/мaкcимбyбнoв.jpg",
+    "profile": "https://remanga.org/user/3503844/about",
+    "guild": "Eternal Angelic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 2000,
+    "weekly_hint": "История недель:\nс 09.02 по 16.02: 2 000\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 1 000\nс 19.01 по 26.01: 0"
+  },
+  {
     "norm": "silenthill",
     "display": "SilentHill",
     "initial": 3500,
@@ -152,20 +166,6 @@
     "last_active_human": "15 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0"
-  },
-  {
-    "norm": "мaкcимбyбнoв",
-    "display": "МаксимБубнов",
-    "initial": 4000,
-    "current": 5000,
-    "diff": 1000,
-    "avatar": "avatars/мaкcимбyбнoв.jpg",
-    "profile": "https://remanga.org/user/3503844/about",
-    "guild": "Eternal Angelic",
-    "is_afk": true,
-    "last_active_human": "14 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 1 000\nс 19.01 по 26.01: 0"
   },
   {
     "norm": "ፚꮼꮢꭵ૮ꮒꮶꮧ",
