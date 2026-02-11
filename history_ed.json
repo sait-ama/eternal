@@ -1330,6 +1330,20 @@
     "weekly_hint": "История недель:\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 500\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 4 000\nс 12.01 по 19.01: 1 000\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0"
   },
   {
+    "norm": "χάος",
+    "display": "χάος",
+    "initial": 0,
+    "current": 7300,
+    "diff": 7300,
+    "avatar": "avatars/χάος.jpg",
+    "profile": "https://remanga.org/user/3259037/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 1300,
+    "weekly_hint": "История недель:\nс 09.02 по 16.02: 1 300\nс 02.02 по 09.02: 0"
+  },
+  {
     "norm": "лoхoбыкнoвeнный",
     "display": "ЛохОбыкновенный",
     "initial": 0,
@@ -1356,20 +1370,6 @@
     "last_active_human": "17 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 3 000\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 2 000\nс 24.11 по 01.12: 0"
-  },
-  {
-    "norm": "χάος",
-    "display": "χάος",
-    "initial": 0,
-    "current": 6000,
-    "diff": 6000,
-    "avatar": "avatars/χάος.jpg",
-    "profile": "https://remanga.org/user/3259037/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "5 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0"
   },
   {
     "norm": "whitewold",
