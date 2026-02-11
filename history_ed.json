@@ -1246,6 +1246,20 @@
     "weekly_hint": "История недель:\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 1 000\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 3 730\nс 12.01 по 19.01: 1 100\nс 05.01 по 12.01: 1 000\nс 29.12 по 05.01: 1 000\nс 22.12 по 29.12: 0"
   },
   {
+    "norm": "justea",
+    "display": "Justea",
+    "initial": 0,
+    "current": 9200,
+    "diff": 9200,
+    "avatar": "avatars/justea.jpg",
+    "profile": "https://remanga.org/user/911857/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 800,
+    "weekly_hint": "История недель:\nс 09.02 по 16.02: 800\nс 02.02 по 09.02: 500\nс 26.01 по 02.02: 600\nс 19.01 по 26.01: 2 500\nс 12.01 по 19.01: 1 000\nс 05.01 по 12.01: 1 300\nс 29.12 по 05.01: 1 000\nс 22.12 по 29.12: 500\nс 15.12 по 22.12: 0"
+  },
+  {
     "norm": "oniyokai",
     "display": "OniYokai",
     "initial": 0,
@@ -1258,20 +1272,6 @@
     "last_active_human": "вчера",
     "weekly": 1000,
     "weekly_hint": "История недель:\nс 09.02 по 16.02: 1 000\nс 02.02 по 09.02: 1 000\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 2 130\nс 12.01 по 19.01: 1 000\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 2 000\nс 22.12 по 29.12: 0"
-  },
-  {
-    "norm": "justea",
-    "display": "Justea",
-    "initial": 0,
-    "current": 8900,
-    "diff": 8900,
-    "avatar": "avatars/justea.jpg",
-    "profile": "https://remanga.org/user/911857/about",
-    "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
-    "weekly": 500,
-    "weekly_hint": "История недель:\nс 09.02 по 16.02: 500\nс 02.02 по 09.02: 500\nс 26.01 по 02.02: 600\nс 19.01 по 26.01: 2 500\nс 12.01 по 19.01: 1 000\nс 05.01 по 12.01: 1 300\nс 29.12 по 05.01: 1 000\nс 22.12 по 29.12: 500\nс 15.12 по 22.12: 0"
   },
   {
     "norm": "asesinadodios",
