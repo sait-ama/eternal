@@ -3,15 +3,15 @@
     "norm": "rezord",
     "display": "rezord",
     "initial": 1280,
-    "current": 34010,
-    "diff": 32730,
+    "current": 34550,
+    "diff": 33270,
     "avatar": "avatars/rezord.jpg",
     "profile": "https://remanga.org/user/210114/about",
     "guild": "Eternal Angelic",
-    "is_afk": true,
-    "last_active_human": "11 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 2 070\nс 09.02 по 16.02: 910\nс 02.02 по 09.02: 3 030\nс 26.01 по 02.02: 2 250\nс 19.01 по 26.01: 1 670\nс 12.01 по 19.01: 2 730\nс 05.01 по 12.01: 0"
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 540,
+    "weekly_hint": "История недель:\nс 23.02 по 02.03: 540\nс 16.02 по 23.02: 2 070\nс 09.02 по 16.02: 910\nс 02.02 по 09.02: 3 030\nс 26.01 по 02.02: 2 250\nс 19.01 по 26.01: 1 670\nс 12.01 по 19.01: 2 730\nс 05.01 по 12.01: 0"
   },
   {
     "norm": "wertyservyt",
