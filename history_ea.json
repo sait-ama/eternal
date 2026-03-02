@@ -196,6 +196,20 @@
     "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 770\nс 29.12 по 05.01: 0"
   },
   {
+    "norm": "忘的世界魔鬼",
+    "display": "忘的世界魔鬼",
+    "initial": 4330,
+    "current": 4740,
+    "diff": 410,
+    "avatar": "avatars/忘的世界魔鬼.jpg",
+    "profile": "https://remanga.org/user/1260985/about",
+    "guild": "Eternal Angelic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 410,
+    "weekly_hint": "История недель:\nс 02.03 по 09.03: 410\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
+  },
+  {
     "norm": "pipimaki",
     "display": "PipiMaki",
     "initial": 35720,
@@ -203,20 +217,6 @@
     "diff": 0,
     "avatar": "avatars/pipimaki.jpg",
     "profile": "https://remanga.org/user/2895554/about",
-    "guild": "Eternal Angelic",
-    "is_afk": true,
-    "last_active_human": "нет данных",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
-  },
-  {
-    "norm": "忘的世界魔鬼",
-    "display": "忘的世界魔鬼",
-    "initial": 4330,
-    "current": 4330,
-    "diff": 0,
-    "avatar": "avatars/忘的世界魔鬼.jpg",
-    "profile": "https://remanga.org/user/1260985/about",
     "guild": "Eternal Angelic",
     "is_afk": true,
     "last_active_human": "нет данных",
