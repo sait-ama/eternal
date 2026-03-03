@@ -1288,18 +1288,18 @@
     "weekly_hint": "История недель:\nс 02.03 по 09.03: 900\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 900\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 3 000\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 1 000\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
   },
   {
-    "norm": "pierrot",
-    "display": "-Pierrot-",
+    "norm": "reyrivman",
+    "display": "-ReyRivman-",
     "initial": 0,
     "current": 10550,
     "diff": 10550,
-    "avatar": "avatars/pierrot.jpg",
+    "avatar": "avatars/reyrivman.jpg",
     "profile": "https://remanga.org/user/1967242/about",
     "guild": "Eternal Demonic",
-    "is_afk": false,
-    "last_active_human": "2 дн. назад",
+    "is_afk": true,
+    "last_active_human": "108 дн. назад",
     "weekly": 0,
-    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0"
+    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
   },
   {
     "norm": "ksinaur",
