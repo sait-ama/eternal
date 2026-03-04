@@ -1,17 +1,17 @@
 [
   {
-    "norm": "fyrujmert",
+    "norm": "rezord",
     "display": "rezord",
     "initial": 1280,
     "current": 35460,
     "diff": 34180,
-    "avatar": "avatars/fyrujmert.jpg",
+    "avatar": "avatars/rezord.jpg",
     "profile": "https://remanga.org/user/210114/about",
     "guild": "Eternal Angelic",
     "is_afk": false,
     "last_active_human": "вчера",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
+    "weekly": 910,
+    "weekly_hint": "История недель:\nс 02.03 по 09.03: 910\nс 23.02 по 02.03: 540\nс 16.02 по 23.02: 2 070\nс 09.02 по 16.02: 910\nс 02.02 по 09.02: 3 030\nс 26.01 по 02.02: 2 250\nс 19.01 по 26.01: 1 670\nс 12.01 по 19.01: 2 730\nс 05.01 по 12.01: 0"
   },
   {
     "norm": "wertyservyt",
@@ -28,18 +28,18 @@
     "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 5 000\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 24 000\nс 15.12 по 22.12: 0"
   },
   {
-    "norm": "geterotrof666",
+    "norm": "harutsu",
     "display": "Harutsu",
     "initial": 25000,
     "current": 55000,
     "diff": 30000,
-    "avatar": "avatars/geterotrof666.jpg",
+    "avatar": "avatars/harutsu.jpg",
     "profile": "https://remanga.org/user/415473/about",
     "guild": "Eternal Angelic",
-    "is_afk": false,
-    "last_active_human": "вчера",
+    "is_afk": true,
+    "last_active_human": "7 дн. назад",
     "weekly": 0,
-    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
+    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 4 000\nс 16.02 по 23.02: 7 000\nс 09.02 по 16.02: 7 000\nс 02.02 по 09.02: 6 000\nс 26.01 по 02.02: 6 000\nс 19.01 по 26.01: 0"
   },
   {
     "norm": "chitandael",
@@ -56,26 +56,26 @@
     "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 3 410\nс 16.02 по 23.02: 1 510\nс 09.02 по 16.02: 2 980\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 690\nс 19.01 по 26.01: 6 480\nс 12.01 по 19.01: 3 440\nс 05.01 по 12.01: 5 510\nс 29.12 по 05.01: 0"
   },
   {
-    "norm": "ktotoddv",
+    "norm": "ewobserver",
     "display": "EW_OBSERVER",
     "initial": 155,
     "current": 21940,
     "diff": 21785,
-    "avatar": "avatars/ktotoddv.jpg",
+    "avatar": "avatars/ewobserver.jpg",
     "profile": "https://remanga.org/user/141395/about",
     "guild": "Eternal Angelic",
-    "is_afk": false,
-    "last_active_human": "вчера",
+    "is_afk": true,
+    "last_active_human": "10 дн. назад",
     "weekly": 0,
-    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
+    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 270\nс 16.02 по 23.02: 2 770\nс 09.02 по 16.02: 3 490\nс 02.02 по 09.02: 2 610\nс 26.01 по 02.02: 4 700\nс 19.01 по 26.01: 3 690\nс 12.01 по 19.01: 2 560\nс 05.01 по 12.01: 1 694\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
   },
   {
-    "norm": "saitama01010",
+    "norm": "saitama",
     "display": "Сайтама",
     "initial": 27580,
     "current": 45820,
     "diff": 18240,
-    "avatar": "avatars/saitama01010.jpg",
+    "avatar": "avatars/saitama.jpg",
     "profile": "https://remanga.org/user/12762/about",
     "guild": "Eternal Angelic",
     "is_afk": false,
@@ -84,12 +84,12 @@
     "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
   },
   {
-    "norm": "haizeenber",
+    "norm": "maksimbybnov",
     "display": "МаксимБубнов",
     "initial": 4000,
     "current": 13000,
     "diff": 9000,
-    "avatar": "avatars/haizeenber.jpg",
+    "avatar": "avatars/maksimbybnov.jpg",
     "profile": "https://remanga.org/user/3503844/about",
     "guild": "Eternal Angelic",
     "is_afk": false,
@@ -98,12 +98,12 @@
     "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
   },
   {
-    "norm": "shalenkovsa",
+    "norm": "iopm",
     "display": "Йорм",
     "initial": 2890,
     "current": 11760,
     "diff": 8870,
-    "avatar": "avatars/shalenkovsa.jpg",
+    "avatar": "avatars/iopm.jpg",
     "profile": "https://remanga.org/user/208257/about",
     "guild": "Eternal Angelic",
     "is_afk": false,
@@ -112,46 +112,46 @@
     "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
   },
   {
-    "norm": "suba7um",
+    "norm": "suba7u",
     "display": "Suba7u",
     "initial": 3800,
     "current": 11980,
     "diff": 8180,
-    "avatar": "avatars/suba7um.jpg",
+    "avatar": "avatars/suba7u.jpg",
     "profile": "https://remanga.org/user/1602594/about",
     "guild": "Eternal Angelic",
-    "is_afk": false,
-    "last_active_human": "вчера",
+    "is_afk": true,
+    "last_active_human": "30 дн. назад",
     "weekly": 0,
-    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
+    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 1 000\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 3 480\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
   },
   {
-    "norm": "akira2195",
+    "norm": "akiragame",
     "display": "AkiraGame",
     "initial": 2720,
     "current": 10860,
     "diff": 8140,
-    "avatar": "avatars/akira2195.jpg",
+    "avatar": "avatars/akiragame.jpg",
     "profile": "https://remanga.org/user/1714962/about",
     "guild": "Eternal Angelic",
-    "is_afk": false,
-    "last_active_human": "вчера",
+    "is_afk": true,
+    "last_active_human": "8 дн. назад",
     "weekly": 0,
-    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
+    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 500\nс 16.02 по 23.02: 60\nс 09.02 по 16.02: 210\nс 02.02 по 09.02: 440\nс 26.01 по 02.02: 2 690\nс 19.01 по 26.01: 2 640\nс 12.01 по 19.01: 1 170\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 100\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
   },
   {
-    "norm": "rewave",
+    "norm": "silenthill",
     "display": "SilentHill",
     "initial": 3500,
     "current": 5560,
     "diff": 2060,
-    "avatar": "avatars/rewave.jpg",
+    "avatar": "avatars/silenthill.jpg",
     "profile": "https://remanga.org/user/54424/about",
     "guild": "Eternal Angelic",
-    "is_afk": false,
-    "last_active_human": "вчера",
+    "is_afk": true,
+    "last_active_human": "39 дн. назад",
     "weekly": 0,
-    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
+    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 2 060\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
   },
   {
     "norm": "pandor",
@@ -168,18 +168,18 @@
     "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 1 369\nс 19.01 по 26.01: 0"
   },
   {
-    "norm": "frosti4k",
+    "norm": "frostik4",
     "display": "Frostik4",
     "initial": 952,
     "current": 2050,
     "diff": 1098,
-    "avatar": "avatars/frosti4k.jpg",
+    "avatar": "avatars/frostik4.jpg",
     "profile": "https://remanga.org/user/3003544/about",
     "guild": "Eternal Angelic",
-    "is_afk": false,
-    "last_active_human": "вчера",
+    "is_afk": true,
+    "last_active_human": "39 дн. назад",
     "weekly": 0,
-    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
+    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0"
   },
   {
     "norm": "ፚꮼꮢꭵ૮ꮒꮶꮧ",
@@ -196,40 +196,40 @@
     "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 770\nс 29.12 по 05.01: 0"
   },
   {
-    "norm": "neitrolit",
+    "norm": "忘的世界魔鬼",
     "display": "忘的世界魔鬼",
     "initial": 4330,
     "current": 4740,
     "diff": 410,
-    "avatar": "avatars/neitrolit.jpg",
+    "avatar": "avatars/忘的世界魔鬼.jpg",
     "profile": "https://remanga.org/user/1260985/about",
     "guild": "Eternal Angelic",
     "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
+    "last_active_human": "3 дн. назад",
+    "weekly": 410,
+    "weekly_hint": "История недель:\nс 02.03 по 09.03: 410\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
   },
   {
-    "norm": "roofik23",
+    "norm": "pipimaki",
     "display": "PipiMaki",
     "initial": 35720,
     "current": 35720,
     "diff": 0,
-    "avatar": "avatars/roofik23.jpg",
+    "avatar": "avatars/pipimaki.jpg",
     "profile": "https://remanga.org/user/2895554/about",
     "guild": "Eternal Angelic",
     "is_afk": true,
     "last_active_human": "нет данных",
     "weekly": 0,
-    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
+    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
   },
   {
-    "norm": "ma15akuraj1ma",
+    "norm": "milыikoxai",
     "display": "МилыйКохай",
     "initial": 0,
     "current": 0,
     "diff": 0,
-    "avatar": "avatars/ma15akuraj1ma.jpg",
+    "avatar": "avatars/milыikoxai.jpg",
     "profile": "https://remanga.org/user/45081/about",
     "guild": "Eternal Angelic",
     "is_afk": true,
@@ -238,60 +238,60 @@
     "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
   },
   {
-    "norm": "doktorovn",
+    "norm": "elduck",
     "display": "El_Duck",
     "initial": 0,
     "current": 0,
     "diff": 0,
-    "avatar": "avatars/doktorovn.jpg",
+    "avatar": "avatars/elduck.jpg",
     "profile": "https://remanga.org/user/1125410/about",
     "guild": "Eternal Angelic",
     "is_afk": true,
     "last_active_human": "нет данных",
     "weekly": 0,
-    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
+    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
   },
   {
-    "norm": "ronin7400",
+    "norm": "ronin74",
     "display": "Ronin74",
     "initial": 0,
     "current": 0,
     "diff": 0,
-    "avatar": "avatars/ronin7400.jpg",
+    "avatar": "avatars/ronin74.jpg",
     "profile": "https://remanga.org/user/76998/about",
     "guild": "Eternal Angelic",
     "is_afk": true,
     "last_active_human": "нет данных",
     "weekly": 0,
-    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
+    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
   },
   {
-    "norm": "theduskborn",
+    "norm": "nix",
     "display": "-Nix-",
     "initial": 0,
     "current": 0,
     "diff": 0,
-    "avatar": "avatars/theduskborn.jpg",
+    "avatar": "avatars/nix.jpg",
     "profile": "https://remanga.org/user/46754/about",
     "guild": "Eternal Angelic",
     "is_afk": true,
     "last_active_human": "нет данных",
     "weekly": 0,
-    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
+    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
   },
   {
-    "norm": "kaizaki6",
+    "norm": "kaizaki",
     "display": "Kaizaki",
     "initial": 685,
     "current": 685,
     "diff": 0,
-    "avatar": "avatars/kaizaki6.jpg",
+    "avatar": "avatars/kaizaki.jpg",
     "profile": "https://remanga.org/user/40277/about",
     "guild": "Eternal Angelic",
     "is_afk": true,
     "last_active_human": "нет данных",
     "weekly": 0,
-    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
+    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0"
   },
   {
     "norm": "tenofmoses",
@@ -308,31 +308,31 @@
     "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0"
   },
   {
-    "norm": "donovg",
+    "norm": "desport",
     "display": "desport",
     "initial": 0,
     "current": 0,
     "diff": 0,
-    "avatar": "avatars/donovg.jpg",
+    "avatar": "avatars/desport.jpg",
     "profile": "https://remanga.org/user/216019/about",
     "guild": "Eternal Angelic",
     "is_afk": true,
     "last_active_human": "нет данных",
     "weekly": 0,
-    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
+    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0"
   },
   {
-    "norm": "nurdaulet69",
+    "norm": "kodokunayurei",
     "display": "KodokunaYurei",
     "initial": 19690,
     "current": 19690,
     "diff": 0,
-    "avatar": "avatars/nurdaulet69.jpg",
+    "avatar": "avatars/kodokunayurei.jpg",
     "profile": "https://remanga.org/user/108546/about",
     "guild": "Eternal Angelic",
     "is_afk": true,
-    "last_active_human": "нет данных",
+    "last_active_human": "41 дн. назад",
     "weekly": 0,
-    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
+    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0\nс 08.12 по 15.12: 0\nс 01.12 по 08.12: 0"
   }
 ]
