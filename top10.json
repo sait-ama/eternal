@@ -28,12 +28,12 @@
     "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
   },
   {
-    "norm": "makcimbybnov",
+    "norm": "maksimbybnov",
     "display": "МаксимБубнов",
     "initial": 0,
     "current": 132700,
     "diff": 132700,
-    "avatar": "avatars/makcimbybnov.jpg",
+    "avatar": "avatars/maksimbybnov.jpg",
     "profile": "https://remanga.org/user/3503844/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
@@ -112,12 +112,12 @@
     "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 2 000\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 630\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 4 050\nс 29.12 по 05.01: 8 800\nс 22.12 по 29.12: 4 150\nс 15.12 по 22.12: 0"
   },
   {
-    "norm": "caitama",
+    "norm": "saitama",
     "display": "Сайтама",
     "initial": 128060,
     "current": 211980,
     "diff": 83920,
-    "avatar": "avatars/caitama.jpg",
+    "avatar": "avatars/saitama.jpg",
     "profile": "https://remanga.org/user/12762/about",
     "guild": "Eternal Watchers",
     "is_afk": false,
