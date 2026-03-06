@@ -2,6 +2,7 @@
   {
     "norm": "wertyservyt",
     "display": "Werty-Servyt",
+    "uid": "364625",
     "initial": 212290,
     "current": 543490,
     "diff": 331200,
@@ -16,6 +17,7 @@
   {
     "norm": "яшtyg",
     "display": "Яштуг",
+    "uid": "1317566",
     "initial": 0,
     "current": 135900,
     "diff": 135900,
@@ -30,6 +32,7 @@
   {
     "norm": "maksimbybnov",
     "display": "МаксимБубнов",
+    "uid": "3503844",
     "initial": 0,
     "current": 132700,
     "diff": 132700,
@@ -44,6 +47,7 @@
   {
     "norm": "tenofmoses",
     "display": "tenofmoses",
+    "uid": "3176212",
     "initial": 0,
     "current": 106000,
     "diff": 106000,
@@ -58,6 +62,7 @@
   {
     "norm": "flammenoire",
     "display": "FlammeNoire",
+    "uid": "2384260",
     "initial": 42130,
     "current": 141450,
     "diff": 99320,
@@ -72,6 +77,7 @@
   {
     "norm": "akiragame",
     "display": "AkiraGame",
+    "uid": "1714962",
     "initial": 61970,
     "current": 153220,
     "diff": 91250,
@@ -86,6 +92,7 @@
   {
     "norm": "ミュージシャン",
     "display": "ミュージシャン",
+    "uid": "938359",
     "initial": 113000,
     "current": 200000,
     "diff": 87000,
@@ -100,6 +107,7 @@
   {
     "norm": "destructiongod𒉭",
     "display": "DestructionGod𒉭",
+    "uid": "1650325",
     "initial": 60000,
     "current": 146680,
     "diff": 86680,
@@ -114,6 +122,7 @@
   {
     "norm": "saitama",
     "display": "Сайтама",
+    "uid": "12762",
     "initial": 128060,
     "current": 211980,
     "diff": 83920,
@@ -128,6 +137,7 @@
   {
     "norm": "belashik",
     "display": "Belashik",
+    "uid": "175047",
     "initial": 149100,
     "current": 232000,
     "diff": 82900,
