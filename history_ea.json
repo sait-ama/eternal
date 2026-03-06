@@ -60,6 +60,21 @@
     "weekly_hint": "История недель:\nс 02.03 по 09.03: 1 180\nс 23.02 по 02.03: 3 410\nс 16.02 по 23.02: 1 510\nс 09.02 по 16.02: 2 980\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 690\nс 19.01 по 26.01: 6 480\nс 12.01 по 19.01: 3 440\nс 05.01 по 12.01: 5 510\nс 29.12 по 05.01: 0"
   },
   {
+    "norm": "saitama",
+    "display": "Сайтама",
+    "uid": "12762",
+    "initial": 27580,
+    "current": 50040,
+    "diff": 22460,
+    "avatar": "avatars/saitama.jpg",
+    "profile": "https://remanga.org/user/12762/about",
+    "guild": "Eternal Angelic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
+  },
+  {
     "norm": "ewobserver",
     "display": "EW_OBSERVER",
     "uid": "141395",
@@ -73,21 +88,6 @@
     "last_active_human": "11 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 270\nс 16.02 по 23.02: 2 770\nс 09.02 по 16.02: 3 490\nс 02.02 по 09.02: 2 610\nс 26.01 по 02.02: 4 700\nс 19.01 по 26.01: 3 690\nс 12.01 по 19.01: 2 560\nс 05.01 по 12.01: 1 694\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
-  },
-  {
-    "norm": "saitama",
-    "display": "Сайтама",
-    "uid": "12762",
-    "initial": 27580,
-    "current": 48100,
-    "diff": 20520,
-    "avatar": "avatars/saitama.jpg",
-    "profile": "https://remanga.org/user/12762/about",
-    "guild": "Eternal Angelic",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
   },
   {
     "norm": "maksimbybnov",
