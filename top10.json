@@ -1,5 +1,20 @@
 [
   {
+    "norm": "suba7u",
+    "display": "Suba7u",
+    "uid": "1602594",
+    "initial": 1,
+    "current": 421126,
+    "diff": 421125,
+    "avatar": "avatars/suba7u.jpg",
+    "profile": "https://remanga.org/user/1602594/about",
+    "guild": "Eternal Demonic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 420705,
+    "weekly_hint": "История недель:\nс 02.03 по 09.03: 420 705\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 392\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
+  },
+  {
     "norm": "wertyservyt",
     "display": "Werty-Servyt",
     "uid": "364625",
@@ -133,20 +148,5 @@
     "last_active_human": "вчера",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
-  },
-  {
-    "norm": "belashik",
-    "display": "Belashik",
-    "uid": "175047",
-    "initial": 149100,
-    "current": 232000,
-    "diff": 82900,
-    "avatar": "avatars/belashik.jpg",
-    "profile": "https://remanga.org/user/175047/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "138 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
   }
 ]
