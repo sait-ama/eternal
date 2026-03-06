@@ -144,8 +144,8 @@
     "avatar": "avatars/saitama.jpg",
     "profile": "https://remanga.org/user/12762/about",
     "guild": "Eternal Watchers",
-    "is_afk": false,
-    "last_active_human": "сегодня",
+    "is_afk": true,
+    "last_active_human": "68 дн. назад",
     "weekly": 2,
     "weekly_hint": "История недель:\nс 02.03 по 09.03: 2"
   }
