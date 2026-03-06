@@ -1590,6 +1590,36 @@
     "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
   },
   {
+    "norm": "maksimbybnov",
+    "display": "МаксимБубнов",
+    "uid": "3503844",
+    "initial": 0,
+    "current": 138,
+    "diff": 138,
+    "avatar": "avatars/maksimbybnov.jpg",
+    "profile": "https://remanga.org/user/3503844/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
+  },
+  {
+    "norm": "mmarti",
+    "display": "mmarti",
+    "uid": "184784",
+    "initial": 0,
+    "current": 129,
+    "diff": 129,
+    "avatar": "avatars/mmarti.jpg",
+    "profile": "https://remanga.org/user/184784/about",
+    "guild": "Eternal Watchers",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 0,
+    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
+  },
+  {
     "norm": "nikita9",
     "display": "𝕹𝖎𝖐𝖎𝖙𝖆⁹",
     "uid": "3040361",
@@ -1725,21 +1755,6 @@
     "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
   },
   {
-    "norm": "mmarti",
-    "display": "mmarti",
-    "uid": "184784",
-    "initial": 0,
-    "current": 0,
-    "diff": 0,
-    "avatar": "avatars/mmarti.jpg",
-    "profile": "https://remanga.org/user/184784/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "144 дн. назад",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
-  },
-  {
     "norm": "petr66",
     "display": "Petr66",
     "uid": "3210259",
@@ -1783,20 +1798,5 @@
     "last_active_human": "150 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 0\nс 16.02 по 23.02: 0\nс 09.02 по 16.02: 0\nс 02.02 по 09.02: 0\nс 26.01 по 02.02: 0\nс 19.01 по 26.01: 0\nс 12.01 по 19.01: 0\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 0\nс 22.12 по 29.12: 0\nс 15.12 по 22.12: 0"
-  },
-  {
-    "norm": "maksimbybnov",
-    "display": "МаксимБубнов",
-    "uid": "3503844",
-    "initial": 0,
-    "current": 0,
-    "diff": 0,
-    "avatar": "avatars/maksimbybnov.jpg",
-    "profile": "https://remanga.org/user/3503844/about",
-    "guild": "Eternal Watchers",
-    "is_afk": true,
-    "last_active_human": "нет данных",
-    "weekly": 0,
-    "weekly_hint": "История недель:\nс 02.03 по 09.03: 0"
   }
 ]
