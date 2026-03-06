@@ -2,6 +2,7 @@
   {
     "norm": "яшtyg",
     "display": "Яштуг",
+    "uid": "1317566",
     "initial": 0,
     "current": 135900,
     "diff": 135900,
@@ -16,6 +17,7 @@
   {
     "norm": "maksimbybnov",
     "display": "МаксимБубнов",
+    "uid": "3503844",
     "initial": 0,
     "current": 132700,
     "diff": 132700,
@@ -30,6 +32,7 @@
   {
     "norm": "flammenoire",
     "display": "FlammeNoire",
+    "uid": "2384260",
     "initial": 42130,
     "current": 141450,
     "diff": 99320,
@@ -44,6 +47,7 @@
   {
     "norm": "destructiongod𒉭",
     "display": "DestructionGod𒉭",
+    "uid": "1650325",
     "initial": 60000,
     "current": 146680,
     "diff": 86680,
@@ -58,6 +62,7 @@
   {
     "norm": "dmitryflow",
     "display": "DmitryFlow",
+    "uid": "742164",
     "initial": 24000,
     "current": 105000,
     "diff": 81000,
@@ -72,6 +77,7 @@
   {
     "norm": "ewdgham021",
     "display": "EW.DG_Ham021",
+    "uid": "27288",
     "initial": 30500,
     "current": 100000,
     "diff": 69500,
@@ -86,6 +92,7 @@
   {
     "norm": "nix",
     "display": "-Nix-",
+    "uid": "46754",
     "initial": 6950,
     "current": 75950,
     "diff": 69000,
@@ -100,6 +107,7 @@
   {
     "norm": "akashi550",
     "display": "Akashi550",
+    "uid": "617426",
     "initial": 12000,
     "current": 74000,
     "diff": 62000,
@@ -114,6 +122,7 @@
   {
     "norm": "trillo",
     "display": "Trillo",
+    "uid": "207200",
     "initial": 9320,
     "current": 69840,
     "diff": 60520,
@@ -128,6 +137,7 @@
   {
     "norm": "sas47",
     "display": "Sas47",
+    "uid": "2044615",
     "initial": 14010,
     "current": 72760,
     "diff": 58750,
@@ -142,6 +152,7 @@
   {
     "norm": "ckckck",
     "display": "CKCKCK",
+    "uid": "172319",
     "initial": 11000,
     "current": 66880,
     "diff": 55880,
@@ -156,6 +167,7 @@
   {
     "norm": "amen",
     "display": "Амен",
+    "uid": "993301",
     "initial": 11000,
     "current": 64670,
     "diff": 53670,
@@ -170,6 +182,7 @@
   {
     "norm": "lucifiel",
     "display": "--Lucifiel--",
+    "uid": "1207689",
     "initial": 12500,
     "current": 64900,
     "diff": 52400,
@@ -184,6 +197,7 @@
   {
     "norm": "wertyservyt",
     "display": "Werty-Servyt",
+    "uid": "364625",
     "initial": 233430,
     "current": 284290,
     "diff": 50860,
@@ -198,6 +212,7 @@
   {
     "norm": "ronin74",
     "display": "Ronin74",
+    "uid": "76998",
     "initial": 54200,
     "current": 102850,
     "diff": 48650,
@@ -212,6 +227,7 @@
   {
     "norm": "mmarti",
     "display": "mmarti",
+    "uid": "184784",
     "initial": 13000,
     "current": 60000,
     "diff": 47000,
@@ -226,6 +242,7 @@
   {
     "norm": "izdatelь",
     "display": "Издатель",
+    "uid": "2439923",
     "initial": 14780,
     "current": 60480,
     "diff": 45700,
@@ -240,6 +257,7 @@
   {
     "norm": "stas211242",
     "display": "stas211242",
+    "uid": "269608",
     "initial": 12780,
     "current": 56150,
     "diff": 43370,
@@ -254,6 +272,7 @@
   {
     "norm": "belashik",
     "display": "Belashik",
+    "uid": "175047",
     "initial": 1200,
     "current": 42100,
     "diff": 40900,
@@ -268,6 +287,7 @@
   {
     "norm": "so1omoon",
     "display": "So1oMooN",
+    "uid": "102035",
     "initial": 9000,
     "current": 48600,
     "diff": 39600,
@@ -282,6 +302,7 @@
   {
     "norm": "cracker7",
     "display": "Cracker_7",
+    "uid": "197380",
     "initial": 12000,
     "current": 51500,
     "diff": 39500,
@@ -296,6 +317,7 @@
   {
     "norm": "festashka",
     "display": "_festashka_",
+    "uid": "199911",
     "initial": 8800,
     "current": 47880,
     "diff": 39080,
@@ -310,6 +332,7 @@
   {
     "norm": "akiragame",
     "display": "AkiraGame",
+    "uid": "1714962",
     "initial": 9077,
     "current": 47900,
     "diff": 38823,
@@ -324,6 +347,7 @@
   {
     "norm": "sunburst",
     "display": "Sunburst",
+    "uid": "34154",
     "initial": 9000,
     "current": 47000,
     "diff": 38000,
@@ -338,6 +362,7 @@
   {
     "norm": "webru",
     "display": "WebRU",
+    "uid": "1727226",
     "initial": 19820,
     "current": 57160,
     "diff": 37340,
@@ -352,6 +377,7 @@
   {
     "norm": "alld995",
     "display": "AllD-995",
+    "uid": "453647",
     "initial": 17000,
     "current": 54000,
     "diff": 37000,
@@ -366,6 +392,7 @@
   {
     "norm": "sckatman",
     "display": "Sckat_Man",
+    "uid": "136935",
     "initial": 7220,
     "current": 43890,
     "diff": 36670,
@@ -380,6 +407,7 @@
   {
     "norm": "samurafs",
     "display": "SamuraFs",
+    "uid": "93225",
     "initial": 11000,
     "current": 47500,
     "diff": 36500,
@@ -394,6 +422,7 @@
   {
     "norm": "beastx",
     "display": "Beast_x",
+    "uid": "1935045",
     "initial": 47130,
     "current": 81840,
     "diff": 34710,
@@ -408,6 +437,7 @@
   {
     "norm": "jdhdbx",
     "display": "Jdhdbx",
+    "uid": "1911610",
     "initial": 12840,
     "current": 45580,
     "diff": 32740,
@@ -422,6 +452,7 @@
   {
     "norm": "vallynor",
     "display": "Vallynor",
+    "uid": "876246",
     "initial": 12000,
     "current": 44000,
     "diff": 32000,
@@ -436,6 +467,7 @@
   {
     "norm": "tenofmoses",
     "display": "tenofmoses",
+    "uid": "3176212",
     "initial": 0,
     "current": 31970,
     "diff": 31970,
@@ -450,6 +482,7 @@
   {
     "norm": "llikojioma",
     "display": "LLIKoJIoma",
+    "uid": "938430",
     "initial": 10500,
     "current": 42010,
     "diff": 31510,
@@ -464,6 +497,7 @@
   {
     "norm": "velialsalivan",
     "display": "Velial_Salivan",
+    "uid": "220375",
     "initial": 10000,
     "current": 41200,
     "diff": 31200,
@@ -478,6 +512,7 @@
   {
     "norm": "marlya",
     "display": "MarLya",
+    "uid": "209369",
     "initial": 0,
     "current": 31000,
     "diff": 31000,
@@ -492,6 +527,7 @@
   {
     "norm": "kost9n",
     "display": "KOST9N",
+    "uid": "48794",
     "initial": 11000,
     "current": 41660,
     "diff": 30660,
@@ -506,6 +542,7 @@
   {
     "norm": "etoromantic",
     "display": "etoRomantic",
+    "uid": "90646",
     "initial": 11000,
     "current": 41440,
     "diff": 30440,
@@ -520,6 +557,7 @@
   {
     "norm": "leyley",
     "display": "Ley-Ley",
+    "uid": "24708",
     "initial": 10100,
     "current": 40500,
     "diff": 30400,
@@ -534,6 +572,7 @@
   {
     "norm": "zatex",
     "display": "Zatex",
+    "uid": "246605",
     "initial": 14390,
     "current": 44500,
     "diff": 30110,
@@ -548,6 +587,7 @@
   {
     "norm": "ewobserver",
     "display": "EW_OBSERVER",
+    "uid": "141395",
     "initial": 70240,
     "current": 100000,
     "diff": 29760,
@@ -562,6 +602,7 @@
   {
     "norm": "hatin",
     "display": "Hatin",
+    "uid": "2797890",
     "initial": 12900,
     "current": 42430,
     "diff": 29530,
@@ -576,6 +617,7 @@
   {
     "norm": "jacksaifer",
     "display": "JackSaifer",
+    "uid": "349030",
     "initial": 0,
     "current": 29130,
     "diff": 29130,
@@ -590,6 +632,7 @@
   {
     "norm": "kim5+",
     "display": "Kim_5+",
+    "uid": "880531",
     "initial": 10000,
     "current": 39000,
     "diff": 29000,
@@ -604,6 +647,7 @@
   {
     "norm": "kodokunayurei",
     "display": "KodokunaYurei",
+    "uid": "108546",
     "initial": 6750,
     "current": 35710,
     "diff": 28960,
@@ -618,6 +662,7 @@
   {
     "norm": "sw1ty",
     "display": "Sw1ty",
+    "uid": "3154400",
     "initial": 11000,
     "current": 39500,
     "diff": 28500,
@@ -632,6 +677,7 @@
   {
     "norm": "derwehrwolf",
     "display": "Der_Wehrwolf",
+    "uid": "2833636",
     "initial": 0,
     "current": 28200,
     "diff": 28200,
@@ -646,6 +692,7 @@
   {
     "norm": "akihiko",
     "display": "Akihiko",
+    "uid": "183282",
     "initial": 9000,
     "current": 37000,
     "diff": 28000,
@@ -660,6 +707,7 @@
   {
     "norm": "huahua",
     "display": "Hua-Hua",
+    "uid": "554143",
     "initial": 0,
     "current": 28000,
     "diff": 28000,
@@ -674,6 +722,7 @@
   {
     "norm": "alafex",
     "display": "Alafex",
+    "uid": "106279",
     "initial": 9000,
     "current": 36150,
     "diff": 27150,
@@ -688,6 +737,7 @@
   {
     "norm": "rubyrose",
     "display": "RUBYROSE",
+    "uid": "740757",
     "initial": 20450,
     "current": 47480,
     "diff": 27030,
@@ -702,6 +752,7 @@
   {
     "norm": "saytoriya",
     "display": "Saytoriya",
+    "uid": "126709",
     "initial": 11000,
     "current": 38000,
     "diff": 27000,
@@ -716,6 +767,7 @@
   {
     "norm": "moonsh1ne",
     "display": "moonsh1ne",
+    "uid": "128587",
     "initial": 14890,
     "current": 41580,
     "diff": 26690,
@@ -730,6 +782,7 @@
   {
     "norm": "oblakatt",
     "display": "OblakaT_T",
+    "uid": "474087",
     "initial": 13000,
     "current": 39000,
     "diff": 26000,
@@ -744,6 +797,7 @@
   {
     "norm": "samurai",
     "display": "S.a.m.u.r.a.i.",
+    "uid": "396925",
     "initial": 11000,
     "current": 37000,
     "diff": 26000,
@@ -758,6 +812,7 @@
   {
     "norm": "fox94",
     "display": "Fox94",
+    "uid": "158404",
     "initial": 10750,
     "current": 36600,
     "diff": 25850,
@@ -772,6 +827,7 @@
   {
     "norm": "nirol",
     "display": "Nirol",
+    "uid": "1450372",
     "initial": 26100,
     "current": 51490,
     "diff": 25390,
@@ -786,6 +842,7 @@
   {
     "norm": "harutsu",
     "display": "Harutsu",
+    "uid": "415473",
     "initial": 800,
     "current": 25850,
     "diff": 25050,
@@ -800,6 +857,7 @@
   {
     "norm": "чitatelь+dpyg",
     "display": "Читатель+друг",
+    "uid": "616372",
     "initial": 10000,
     "current": 35000,
     "diff": 25000,
@@ -814,6 +872,7 @@
   {
     "norm": "heardand",
     "display": "Heardand",
+    "uid": "1575407",
     "initial": 0,
     "current": 25000,
     "diff": 25000,
@@ -828,6 +887,7 @@
   {
     "norm": "taпka66",
     "display": "Тапка66",
+    "uid": "1196239",
     "initial": 0,
     "current": 24800,
     "diff": 24800,
@@ -842,6 +902,7 @@
   {
     "norm": "banshei",
     "display": "BanShei",
+    "uid": "204988",
     "initial": 11000,
     "current": 35000,
     "diff": 24000,
@@ -856,6 +917,7 @@
   {
     "norm": "kintownskiy",
     "display": "kintownskiy",
+    "uid": "3983",
     "initial": 15000,
     "current": 39000,
     "diff": 24000,
@@ -870,6 +932,7 @@
   {
     "norm": "@toxic",
     "display": "@𝑻𝑶𝑿𝑰𝑪",
+    "uid": "3204383",
     "initial": 23200,
     "current": 46950,
     "diff": 23750,
@@ -884,6 +947,7 @@
   {
     "norm": "motherofdragons",
     "display": "Mother_of_dragons",
+    "uid": "3263817",
     "initial": 20310,
     "current": 42860,
     "diff": 22550,
@@ -898,6 +962,7 @@
   {
     "norm": "aggressive",
     "display": "-AGGRESSIVE-",
+    "uid": "1939125",
     "initial": 7750,
     "current": 30250,
     "diff": 22500,
@@ -912,6 +977,7 @@
   {
     "norm": "bigmen07",
     "display": "BigMen07",
+    "uid": "486583",
     "initial": 9000,
     "current": 30500,
     "diff": 21500,
@@ -926,6 +992,7 @@
   {
     "norm": "acediaqq",
     "display": "Acediaqq",
+    "uid": "102335",
     "initial": 9000,
     "current": 29500,
     "diff": 20500,
@@ -940,6 +1007,7 @@
   {
     "norm": "kaizaki",
     "display": "Kaizaki",
+    "uid": "40277",
     "initial": 20470,
     "current": 40010,
     "diff": 19540,
@@ -954,6 +1022,7 @@
   {
     "norm": "riverfreedom",
     "display": "RiverFreedom",
+    "uid": "3215284",
     "initial": 15800,
     "current": 34580,
     "diff": 18780,
@@ -968,6 +1037,7 @@
   {
     "norm": "ミュージシャン",
     "display": "ミュージシャン",
+    "uid": "938359",
     "initial": 0,
     "current": 18700,
     "diff": 18700,
@@ -982,6 +1052,7 @@
   {
     "norm": "dolinapekisetynь",
     "display": "ДолинаРекиСетунь",
+    "uid": "24432",
     "initial": 21750,
     "current": 40030,
     "diff": 18280,
@@ -996,6 +1067,7 @@
   {
     "norm": "pilsyчk@",
     "display": "Рил_сучк@.",
+    "uid": "1245568",
     "initial": 10780,
     "current": 28890,
     "diff": 18110,
@@ -1010,6 +1082,7 @@
   {
     "norm": "hazenberg",
     "display": "Hazenberg",
+    "uid": "612259",
     "initial": 9000,
     "current": 27000,
     "diff": 18000,
@@ -1024,6 +1097,7 @@
   {
     "norm": "takahikoo",
     "display": "Takahikoo",
+    "uid": "3225144",
     "initial": 11000,
     "current": 28000,
     "diff": 17000,
@@ -1038,6 +1112,7 @@
   {
     "norm": "toktokareva",
     "display": "toktokareva",
+    "uid": "2123995",
     "initial": 0,
     "current": 16440,
     "diff": 16440,
@@ -1052,6 +1127,7 @@
   {
     "norm": "petr66",
     "display": "Petr66",
+    "uid": "3210259",
     "initial": 5400,
     "current": 21000,
     "diff": 15600,
@@ -1066,6 +1142,7 @@
   {
     "norm": "necromant",
     "display": "necromant",
+    "uid": "1523481",
     "initial": 6020,
     "current": 21300,
     "diff": 15280,
@@ -1080,6 +1157,7 @@
   {
     "norm": "silenthill",
     "display": "SilentHill",
+    "uid": "54424",
     "initial": 24000,
     "current": 38500,
     "diff": 14500,
@@ -1094,6 +1172,7 @@
   {
     "norm": "meimei",
     "display": "mei_mei",
+    "uid": "52975",
     "initial": 15450,
     "current": 29940,
     "diff": 14490,
@@ -1108,6 +1187,7 @@
   {
     "norm": "rokywka",
     "display": "RokYwka",
+    "uid": "1339341",
     "initial": 0,
     "current": 14360,
     "diff": 14360,
@@ -1122,6 +1202,7 @@
   {
     "norm": "tiltexist",
     "display": "TIltExist",
+    "uid": "98565",
     "initial": 28330,
     "current": 42610,
     "diff": 14280,
@@ -1136,6 +1217,7 @@
   {
     "norm": "justea",
     "display": "Justea",
+    "uid": "911857",
     "initial": 0,
     "current": 13000,
     "diff": 13000,
@@ -1150,6 +1232,7 @@
   {
     "norm": "dutif",
     "display": "Dutif",
+    "uid": "1896012",
     "initial": 0,
     "current": 13000,
     "diff": 13000,
@@ -1164,6 +1247,7 @@
   {
     "norm": "blackfoxik",
     "display": "Black_Foxik",
+    "uid": "3160150",
     "initial": 0,
     "current": 12830,
     "diff": 12830,
@@ -1178,6 +1262,7 @@
   {
     "norm": "oporlew",
     "display": "oporlew",
+    "uid": "2602",
     "initial": 5000,
     "current": 17260,
     "diff": 12260,
@@ -1192,6 +1277,7 @@
   {
     "norm": "oniyokai",
     "display": "OniYokai",
+    "uid": "3137253",
     "initial": 0,
     "current": 12130,
     "diff": 12130,
@@ -1206,6 +1292,7 @@
   {
     "norm": "谢怜",
     "display": ".谢怜.",
+    "uid": "164257",
     "initial": 12000,
     "current": 24000,
     "diff": 12000,
@@ -1220,6 +1307,7 @@
   {
     "norm": "drri",
     "display": "Dr.Rи",
+    "uid": "823934",
     "initial": 11000,
     "current": 23000,
     "diff": 12000,
@@ -1234,6 +1322,7 @@
   {
     "norm": "bepmud",
     "display": "bepmud",
+    "uid": "390500",
     "initial": 0,
     "current": 12000,
     "diff": 12000,
@@ -1248,6 +1337,7 @@
   {
     "norm": "asesinadodios",
     "display": "asesinadoDios",
+    "uid": "514882",
     "initial": 2500,
     "current": 14020,
     "diff": 11520,
@@ -1262,6 +1352,7 @@
   {
     "norm": "kasatka",
     "display": "-Kasatka-",
+    "uid": "2439635",
     "initial": 0,
     "current": 11000,
     "diff": 11000,
@@ -1276,6 +1367,7 @@
   {
     "norm": "alanhui",
     "display": "alan-hui",
+    "uid": "2336976",
     "initial": 8660,
     "current": 19560,
     "diff": 10900,
@@ -1290,6 +1382,7 @@
   {
     "norm": "reyrivman",
     "display": "-ReyRivman-",
+    "uid": "1967242",
     "initial": 0,
     "current": 10550,
     "diff": 10550,
@@ -1304,6 +1397,7 @@
   {
     "norm": "ksinaur",
     "display": "KSinAur",
+    "uid": "3386416",
     "initial": 0,
     "current": 9200,
     "diff": 9200,
@@ -1318,6 +1412,7 @@
   {
     "norm": "별팽귀",
     "display": "별팽귀",
+    "uid": "133044",
     "initial": 3700,
     "current": 11560,
     "diff": 7860,
@@ -1332,6 +1427,7 @@
   {
     "norm": "χάος",
     "display": "χάος",
+    "uid": "3259037",
     "initial": 0,
     "current": 7300,
     "diff": 7300,
@@ -1346,6 +1442,7 @@
   {
     "norm": "loxobыknovennыi",
     "display": "ЛохОбыкновенный",
+    "uid": "1496494",
     "initial": 0,
     "current": 7100,
     "diff": 7100,
@@ -1360,6 +1457,7 @@
   {
     "norm": "un1c0",
     "display": "un1c0",
+    "uid": "1045543",
     "initial": 0,
     "current": 7000,
     "diff": 7000,
@@ -1374,6 +1472,7 @@
   {
     "norm": "whitewold",
     "display": "WhiteWold",
+    "uid": "609928",
     "initial": 0,
     "current": 7000,
     "diff": 7000,
@@ -1388,6 +1487,7 @@
   {
     "norm": "ewtaya",
     "display": "EW_Taya_",
+    "uid": "2325061",
     "initial": 750,
     "current": 6480,
     "diff": 5730,
@@ -1402,6 +1502,7 @@
   {
     "norm": "пaпoina",
     "display": "Папойна",
+    "uid": "1793431",
     "initial": 0,
     "current": 2000,
     "diff": 2000,
@@ -1416,6 +1517,7 @@
   {
     "norm": "lisiibogbebebe",
     "display": "Лисий_Бог_бебебе",
+    "uid": "168253",
     "initial": 0,
     "current": 1500,
     "diff": 1500,
@@ -1430,6 +1532,7 @@
   {
     "norm": "suba7u",
     "display": "Suba7u",
+    "uid": "1602594",
     "initial": 1,
     "current": 421,
     "diff": 420,
@@ -1444,6 +1547,7 @@
   {
     "norm": "arbogastr",
     "display": "Arbogastr",
+    "uid": "993371",
     "initial": 17000,
     "current": 7000,
     "diff": 0,
