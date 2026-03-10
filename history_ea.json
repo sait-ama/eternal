@@ -1,5 +1,20 @@
 [
   {
+    "norm": "harutsu",
+    "display": "Harutsu",
+    "uid": "415473",
+    "initial": 25000,
+    "current": 62000,
+    "diff": 37000,
+    "avatar": "avatars/harutsu.jpg",
+    "profile": "https://remanga.org/user/415473/about",
+    "guild": "Eternal Angelic",
+    "is_afk": false,
+    "last_active_human": "сегодня",
+    "weekly": 7000,
+    "weekly_hint": "История недель:\nс 09.03 по 16.03: 7 000\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 4 000\nс 16.02 по 23.02: 7 000\nс 09.02 по 16.02: 7 000\nс 02.02 по 09.02: 6 000\nс 26.01 по 02.02: 6 000\nс 19.01 по 26.01: 0"
+  },
+  {
     "norm": "rezord",
     "display": "rezord",
     "uid": "210114",
@@ -13,21 +28,6 @@
     "last_active_human": "2 дн. назад",
     "weekly": 0,
     "weekly_hint": "История недель:\nс 09.03 по 16.03: 0\nс 02.03 по 09.03: 3 020\nс 23.02 по 02.03: 540\nс 16.02 по 23.02: 2 070\nс 09.02 по 16.02: 910\nс 02.02 по 09.02: 3 030\nс 26.01 по 02.02: 2 250\nс 19.01 по 26.01: 1 670\nс 12.01 по 19.01: 2 730\nс 05.01 по 12.01: 0\nс 29.12 по 05.01: 4 440\nс 22.12 по 29.12: 1 090"
-  },
-  {
-    "norm": "harutsu",
-    "display": "Harutsu",
-    "uid": "415473",
-    "initial": 25000,
-    "current": 61000,
-    "diff": 36000,
-    "avatar": "avatars/harutsu.jpg",
-    "profile": "https://remanga.org/user/415473/about",
-    "guild": "Eternal Angelic",
-    "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 6000,
-    "weekly_hint": "История недель:\nс 09.03 по 16.03: 6 000\nс 02.03 по 09.03: 0\nс 23.02 по 02.03: 4 000\nс 16.02 по 23.02: 7 000\nс 09.02 по 16.02: 7 000\nс 02.02 по 09.02: 6 000\nс 26.01 по 02.02: 6 000\nс 19.01 по 26.01: 0"
   },
   {
     "norm": "wertyservyt",
