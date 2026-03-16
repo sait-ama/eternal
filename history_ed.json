@@ -1504,15 +1504,15 @@
     "display": "01010",
     "uid": "515041",
     "initial": 0,
-    "current": 3155,
-    "diff": 3155,
+    "current": 3995,
+    "diff": 3995,
     "avatar": "avatars/01010.jpg",
     "profile": "https://remanga.org/user/515041/about",
     "guild": "Eternal Demonic",
     "is_afk": false,
-    "last_active_human": "вчера",
-    "weekly": 155,
-    "weekly_hint": "История недель:\nс 16.03 по 23.03: 155\nс 09.03 по 16.03: 1 000\nс 02.03 по 09.03: 0"
+    "last_active_human": "сегодня",
+    "weekly": 995,
+    "weekly_hint": "История недель:\nс 16.03 по 23.03: 995\nс 09.03 по 16.03: 1 000\nс 02.03 по 09.03: 0"
   },
   {
     "norm": "stitcha",
